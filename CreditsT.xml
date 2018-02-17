@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <MainPageCredit>Colonijos simuliatorius sukurtas Tynan Sylvester</MainPageCredit>
+  
+  <Credits_Developers>Kūrėjai</Credits_Developers>
+  <Credit_DirectionVarious>Vadyba, dizainas, kodas, menas</Credit_DirectionVarious>
+  <Credit_MusicAndSound>Muzika ir garsai</Credit_MusicAndSound>
+  <Credit_Code>Kodasodas</Credit_Code>
+  <Credit_GameArt>Žaidimo menas</Credit_GameArt>
+  <Credit_MenuArt>Meniu menas</Credit_MenuArt>
+  <Credit_AdditionalCode>Papildomas kodas</Credit_AdditionalCode>
+  
+  <Credit_SpecialThanks>Specialus ačiū</Credit_SpecialThanks>
+
+  <Credits_TitleCommunity>Benruomenės savanoriai</Credits_TitleCommunity>
+  <Credit_Tester>Testuotojai</Credit_Tester>
+  <Credit_ModDonation>Modų donorai</Credit_ModDonation>
+  <Credit_WritingDonation>Rašymo donoras</Credit_WritingDonation>
+  <Credit_Moderator>Moderatorius</Credit_Moderator>
+  <Credit_WikiMaster>Wiki meistras</Credit_WikiMaster>
+
+  <Credits_TitleLanguage>{0} kalba</Credits_TitleLanguage>
+  <Credit_Writer>Rašytojas</Credit_Writer>
+  <Credit_Translator>Vertėjas</Credit_Translator>
+  <Credit_OpenSourceLibraries>Atviro šaltinio bibliotekos</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Garso generavimas</Credit_NoiseGeneration>
+
+  <ThanksForPlaying>Ačiū, kad žaidžiate!</ThanksForPlaying>
+
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <StatsReport_BaseValue>Pagrindinė vertė</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Svarbūs bruožai</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Svarbi įranga</StatsReport_RelevantGear>
+  <StatsReport_RelevantHediffs>Svargios sveikatos būklės</StatsReport_RelevantHediffs>
+  <StatsReport_LifeStage>Gyvenimo stadija</StatsReport_LifeStage>
+  <StatsReport_Material>Medžiaga</StatsReport_Material>
+  <StatsReport_CharacterQuality>Veikėjo kokybė</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Įgūdžių faktoriai</StatsReport_Skills>
+  <StatsReport_OtherStats>Kitų statistikų faktoriai</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>Sveikatos faktoriai</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>{0} svarba</HealthFactorPercentImpact>
+	<HealthFactorMaxImpact>{0} maximalus</HealthFactorMaxImpact>
+	<StatsReport_PostProcessed>Po apdorojimo išlenkimas</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Galutinė vertė</StatsReport_FinalValue>
+  <StatsReport_MarketValueFromStuffsAndWork>Pagrindinė rinkos vertė yra nustatoma iš kokios medžiagos yra daiktas ir kiek darbo buvo įdėta.</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_QualityMultiplier>Kokybės daugiklis</StatsReport_QualityMultiplier>
+  <StatsReport_AgeMultiplier>Daugiklis amžiui {0}</StatsReport_AgeMultiplier>
+  <StatsReport_HealthMultiplier>Daugiklis sveikatai{0}</StatsReport_HealthMultiplier>
+  <StatsReport_MoodMultiplier>Daugiklis nuotaikai {0}</StatsReport_MoodMultiplier>
+	<StatsReport_DifficultyMultiplier>Daugiklis sunkumui {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_InBed>Lovoje</StatsReport_InBed>
+  <StatsReport_Facilities>Įrenginiai</StatsReport_Facilities>
+  <StatsReport_BodySize>Daugiklis kūno dydžiui {0}</StatsReport_BodySize>
+  <StatsReport_MeleeDPSExplanation>Statistikos yra parodomos tokia forma:\nŽala per sekundę ( Artima žala / atsikrovimas sekundėmis / Artimo smūgio šansas )\n\nŽala per sekundę = Artima žala * Artimo smūgio šansas/ Atsikrovimas sekundėmis</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDamage>Artima žala</StatsReport_MeleeDamage>
+  <StatsReport_Cooldown>Atsikrovimas</StatsReport_Cooldown>
+  <StatsReport_MeleeHitChance>Artimo smūgio šansas</StatsReport_MeleeHitChance>
+  <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
+  <StatsReport_LifeExpectancy>Gyvenimo tikimybė</StatsReport_LifeExpectancy>
+  <StatsReport_MissingBodyParts>Daugiklis trūkstamoms kūno dalims</StatsReport_MissingBodyParts>
+  <StatsReport_GearAndInventoryMass>Įranga ir inventoriaus svoris</StatsReport_GearAndInventoryMass>
+	<StatsReport_WornByCorpse>Daugiklis už nešiota lavono</StatsReport_WornByCorpse>
+	<AverageOfAllAttacks>vidutinis visų atakų</AverageOfAllAttacks>
+	<StatsReport_ScenarioFactor>Scenarijus</StatsReport_ScenarioFactor>
+
+</LanguageData>

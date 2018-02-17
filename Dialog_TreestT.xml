@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <FactionGreetingHostile>{0} palaido kelis epitetus į mikrofona tada išjungia.</FactionGreetingHostile>
+  <FactionGreetingWary>{0} pasitinka {1} šiltai ir prašo HIS paslaugų.</FactionGreetingWary>
+  <FactionGreetingWarm>{0} pasitinka {1} šiltai ir paklausia kaip kolonija gyvena.</FactionGreetingWarm>
+
+  <Disconnect>Atsijungti</Disconnect>
+
+  <!-- gift offer -->
+  <OfferGift>Pasiūlyti dovaną</OfferGift>
+  <NeedSilverLaunchable>Reikia {0} sidabro netoli prekybos švyturio</NeedSilverLaunchable>
+  <NotEnoughSilver>Nepakankamai sidabro</NotEnoughSilver>
+  <SilverForGoodwill>{0} sidabro už {1} geranoriškumą</SilverForGoodwill>
+  <SilverGiftSent>{0}padėkoja tau.\n\n(Geranoriškumas pagerėja  {1}).</SilverGiftSent>
+
+  <!-- trade caravan request -->
+  <RequestTrader>Paprašyti prekybos karabano (kainuoja: {0} sidabro)</RequestTrader>
+  <ChooseTraderKind>{0} klausio kokio prekybos karavano mes norime.</ChooseTraderKind>
+  <TraderSent>{0} sutinka atsiūsti tau prekybos karabaną. Šis atvyks u- kelių dienų.</TraderSent>
+	<WaitTime>laukti {0}</WaitTime>
+	
+	
+  <!-- military aid request -->
+  <RequestMilitaryAid>Prašo skubios karinės pagalbos (kainuoja: {0} geranoriškumo).</RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy>{0} nepadės tau kovoti su kitomis frakcijomis kurios nėra jų priešai. Įskaitant tos kurios dabar tau grasina, {1}. Ar tu vis dar nori kviesti pagalbą?</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>Taip, kviesti juos.</CallConfirm>
+  <CallCancel>Ne, nesvarbu.</CallCancel>
+  <MilitaryAidSent>{0} sutinka atsiūsti kovotojus padėti tau.</MilitaryAidSent>
+
+</LanguageData>
