@@ -2,7 +2,7 @@
 <LanguageData>
 
   <FactionGreetingHostile>{0} palaido kelis epitetus į mikrofona tada išjungia.</FactionGreetingHostile>
-  <FactionGreetingWary>{0} pasitinka {1} šiltai ir prašo HIS paslaugų.</FactionGreetingWary>
+  <FactionGreetingWary>{0} pasitinka {1} šiltai ir prašo [PAWN_possessive] paslaugų.</FactionGreetingWary>
   <FactionGreetingWarm>{0} pasitinka {1} šiltai ir paklausia kaip kolonija gyvena.</FactionGreetingWarm>
 
   <Disconnect>Atsijungti</Disconnect>

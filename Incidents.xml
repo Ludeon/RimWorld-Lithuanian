@@ -37,13 +37,13 @@
 
   <TraderArrival>Prekiautojų laivas skrenda pro šalį.\n\nJie žinomi kaip {0}. Jie yra {1}.</TraderArrival>
 
-  <SingleTravelerPassing> {0} iš{1} keliauja pro šali. HECAP is named {2}.</SingleTravelerPassing>
+  <SingleTravelerPassing> {0} iš{1} keliauja pro šali. [PAWN_pronoun] is named {2}.</SingleTravelerPassing>
   <GroupTravelersPassing>Grupelė keliautojų {0} keliauja pro šalį</GroupTravelersPassing>
 
   <LetterLabelSingleVisitorArrives>Lankytojas</LetterLabelSingleVisitorArrives>
-  <SingleVisitorArrives> {0} iš {1} lanko koloniją.\n\nHECAP is named {2}.{3}{4}</SingleVisitorArrives>
-  <SingleVisitorArrivesTraderInfo>\n\nHECAP atrodo, kad jis turi kelis daiktus kuriuos nori parduoti.</SingleVisitorArrivesTraderInfo>
-  <SingleVisitorArrivesLeaderInfo>\n\nHECAP yra frakcijoslyderis.</SingleVisitorArrivesLeaderInfo>
+  <SingleVisitorArrives> {0} iš {1} lanko koloniją.\n\n[PAWN_pronoun] is named {2}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] atrodo, kad jis turi kelis daiktus kuriuos nori parduoti.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] yra frakcijoslyderis.</SingleVisitorArrivesLeaderInfo>
   <LetterLabelGroupVisitorsArrive>Lankytojai</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>Grupelė iš {0} lanko koloniją.{1}{2}</GroupVisitorsArrive>
   <GroupVisitorsArriveTraderInfo>\n\nAtrodom kad jie turi kelis daiktus kuriuos nori parduoti.</GroupVisitorsArriveTraderInfo>
@@ -51,7 +51,7 @@
   <VisitorsLeaving>:ankytojai iš {0} išeina.</VisitorsLeaving>
 
   <LetterLabelWandererJoin>Keliautojas prisijungia</LetterLabelWandererJoin>
-  <WandererJoin> {0} pavadinti NAME atvyko ir prisijungia prie tavo kolonijos. HECAP yra {1}.</WandererJoin>
+  <WandererJoin> {0} pavadinti [PAWN_nameDef] atvyko ir prisijungia prie tavo kolonijos. [PAWN_pronoun] yra {1}.</WandererJoin>
 
   <LetterLabelManhunterPackArrived>Žmonių medžiotojų būrys</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>Burys žmones medžiojančiš {0}ų įžengė į teritoriją. Jie klaidžios po regijoną, medžiodami žmones.\n\nJie negali praeiti pro duris, taigi jeigu paliksi kolonistus už durų turėtum būti saugus. Jie nepuls neaktyvių šaudomūjų bokštelių, Taigi išjunk savo šaudomiuosius bokštus jeigu nori išsaugoti juos.\n\nJie paliks teritoriją už kelių dienų.</ManhunterPackArrived>
@@ -85,7 +85,7 @@
   
   <!-- Refugee chased -->
 	<RefugeeChasedTitle>Pabėgelis nusivytas iš {0}</RefugeeChasedTitle>
-  <RefugeeChasedInitial> {1} pavadintas {0} skambina tau netoliese. HECAP jis yra persekiojamas piratų {2} iš {3}!\n\nHECAP maldauja apsaugos ir prisijunks prie tavo kolonijos. Biologiškai, jis yra {4} metų.\n\nBūk ispėtas - jeigu priimsi , turėsi atbaidyti  {2} nuo jo.</RefugeeChasedInitial>
+  <RefugeeChasedInitial> {1} pavadintas {0} skambina tau netoliese. [PAWN_pronoun] jis yra persekiojamas piratų {2} iš {3}!\n\n[PAWN_pronoun] maldauja apsaugos ir prisijunks prie tavo kolonijos. Biologiškai, jis yra {4} metų.\n\nBūk ispėtas - jeigu priimsi , turėsi atbaidyti  {2} nuo jo.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Pasiūlyti apsaugą</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Ignoruoti šią žinutę</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} rėkia iš panikos per mažą garsiakalbį iki tol kol tu išjungi transliaciją.</RefugeeChasedRejected>

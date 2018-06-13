@@ -36,10 +36,10 @@
 
   <LetterLabelNewDisease>Liga</LetterLabelNewDisease>
   <NewDisease>{0} susirgo nuo {1}.\n\nPasirūpink, jog turi medicininę lovą ir daktarą.Pasirūpink, kad {2} gautų geriausią gydymą ir kuo daugiau laiko praleistų lovoje.</NewDisease>
-  <NewPartDisease>{0} susirgo nuo {3}. Infekcija yra HIS {1}.\n\nPasirūpink, kad turi medicininę lovą ir daktarą. Pasirūpink, jog {2} gautų geriausią gydymą ir kuo daugiau laiko praleistų lovoje.</NewPartDisease>
+  <NewPartDisease>{0} susirgo nuo {3}. Infekcija yra [PAWN_possessive] {1}.\n\nPasirūpink, kad turi medicininę lovą ir daktarą. Pasirūpink, jog {2} gautų geriausią gydymą ir kuo daugiau laiko praleistų lovoje.</NewPartDisease>
 
   <LetterLabelAncientShrineWarning>Senovės pavojus</LetterLabelAncientShrineWarning>
-  <AncientShrineWarning>Kaip {0} artinasi prie sienos, nuojautos jausmas įveikia HE. HECAP nėra tikras kodėl, bet HE jaučia, kad apdulkyjusi struktūra slepia didį pavojų.</AncientShrineWarning>
+  <AncientShrineWarning>Kaip {0} artinasi prie sienos, nuojautos jausmas įveikia [PAWN_pronoun]. [PAWN_pronoun] nėra tikras kodėl, bet [PAWN_pronoun] jaučia, kad apdulkyjusi struktūra slepia didį pavojų.</AncientShrineWarning>
 
   <StruckMineable>Mes atradome {0}!</StruckMineable>
 
@@ -76,8 +76,8 @@
   <LetterRelatedPawnsTradingWithOtherCaravan>Karavanas parduoda žmones kurie turi santykių su tavo kolonistais ar kaliniais:</LetterRelatedPawnsTradingWithOtherCaravan>
   
   <RelationshipAppendedLetterSuffix>(santykiai)</RelationshipAppendedLetterSuffix>
-  <RelationshipAppendedLetterTextColonist>NAME turi santykių su kolonistu. HECAP yra {0}'s {1}.</RelationshipAppendedLetterTextColonist>
-  <RelationshipAppendedLetterTextPrisoner>NAME turi santykiu su vienu iš tavo kalinių. HECAP yra {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextColonist>[PAWN_nameDef] turi santykių su kolonistu. [PAWN_pronoun] yra {0}'s {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>[PAWN_nameDef] turi santykiu su vienu iš tavo kalinių. [PAWN_pronoun] yra {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
   
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>Afera</LetterLabelAffair>
@@ -114,7 +114,7 @@
 
   <!-- Newly addicted -->
   <LetterLabelNewlyAddicted>{0} priklausomybė</LetterLabelNewlyAddicted>
-  <LetterNewlyAddicted>{0} išsivystė priklausomybę nuo {1}.\n\nHECAP dabar turi  {1}, matomas  HIS poreikių lentelėje. HECAP automatiškai vartos šį svaigalą HIS poreikiui. Jei HE negali gauti svaigalų {1}, HE pradės eiti per atsitraukimo stadiją .</LetterNewlyAddicted>
+  <LetterNewlyAddicted>{0} išsivystė priklausomybę nuo {1}.\n\n[PAWN_pronoun] dabar turi  {1}, matomas  [PAWN_possessive] poreikių lentelėje. [PAWN_pronoun] automatiškai vartos šį svaigalą [PAWN_possessive] poreikiui. Jei [PAWN_pronoun] negali gauti svaigalų {1}, [PAWN_pronoun] pradės eiti per atsitraukimo stadiją .</LetterNewlyAddicted>
   
   <!-- Drug binge -->
   <LetterLabelDrugBinge>{0} besaikis vartojimas</LetterLabelDrugBinge>
