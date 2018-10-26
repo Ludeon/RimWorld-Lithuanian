@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Tool -->
+  <Tool>Dalis</Tool>
+  <!-- EN: damage -->
+  <DamageLower>žala</DamageLower>
+  <!-- EN: seconds per attack -->
+  <SecondsPerAttackLower>sekundžių puolimui</SecondsPerAttackLower>
+
+  <!-- EN: Base value -->
+  <StatsReport_BaseValue>Bazinės žinios</StatsReport_BaseValue>
+  <!-- EN: Relevant traits -->
+  <StatsReport_RelevantTraits>Įtakojantys bruožai</StatsReport_RelevantTraits>
+  <!-- EN: Relevant gear -->
+  <StatsReport_RelevantGear>Įtakojanti apranga</StatsReport_RelevantGear>
+  <!-- EN: Relevant health conditions -->
+  <StatsReport_RelevantHediffs>Įtakojanti sveikatos būklė</StatsReport_RelevantHediffs>
+  <!-- EN: Life stage -->
+  <StatsReport_LifeStage>Gyvenimo etapas</StatsReport_LifeStage>
+  <!-- EN: Material -->
+  <StatsReport_Material>Medžega</StatsReport_Material>
+  <!-- EN: Character quality -->
+  <StatsReport_CharacterQuality>Charakterio bruožai</StatsReport_CharacterQuality>
+  <!-- EN: Skills -->
+  <StatsReport_Skills>Įgūdžiai</StatsReport_Skills>
+  <!-- EN: Other stats -->
+  <StatsReport_OtherStats>Kiti veiksniai</StatsReport_OtherStats>
+  <!-- EN: Health -->
+  <StatsReport_Health>Sveikata</StatsReport_Health>
+  <!-- EN: {0} importance -->
+  <HealthFactorPercentImpact>reikšmė {0}</HealthFactorPercentImpact>
+  <!-- EN: {0} impact -->
+  <HealthOffsetScale>įtaka {0}</HealthOffsetScale>
+  <!-- EN: {0} max -->
+  <HealthFactorMaxImpact>maksimaliai {0}</HealthFactorMaxImpact>
+  <!-- EN: if below {0} -->
+  <HealthFactorAllowedDefect>jaigu mažiau {0}</HealthFactorAllowedDefect>
+  <!-- EN: Post-process curve -->
+  <StatsReport_PostProcessed>Pranešimų vertinimas</StatsReport_PostProcessed>
+  <!-- EN: Final value -->
+  <StatsReport_FinalValue>Bendras</StatsReport_FinalValue>
+  <!-- EN: Materials and labor -->
+  <StatsReport_MarketValueFromStuffsAndWork>Medžiaga ir darbas</StatsReport_MarketValueFromStuffsAndWork>
+  <!-- EN: Quality multiplier -->
+  <StatsReport_QualityMultiplier>Kokybės daugiklis</StatsReport_QualityMultiplier>
+  <!-- EN: Max gain -->
+  <StatsReport_MaxGain>Maksimaliai</StatsReport_MaxGain>
+  <!-- EN: Multiplier for age {0} -->
+  <StatsReport_AgeMultiplier>Brandos koficientas {0}</StatsReport_AgeMultiplier>
+  <!-- EN: Multiplier for health {0} -->
+  <StatsReport_HealthMultiplier>Tvirtumo koficientas {0}</StatsReport_HealthMultiplier>
+  <!-- EN: Multiplier for mood {0} -->
+  <StatsReport_MoodMultiplier>Nuotaikos koficientas {0}</StatsReport_MoodMultiplier>
+  <!-- EN: Multiplier for light {0} -->
+  <StatsReport_LightMultiplier>Apšvietimo koficientas {0}</StatsReport_LightMultiplier>
+  <!-- EN: Multiplier for difficulty {0} -->
+  <StatsReport_DifficultyMultiplier>Sunkumo koficientas {0}</StatsReport_DifficultyMultiplier>
+  <!-- EN: In bed -->
+  <StatsReport_InBed>Lovoje</StatsReport_InBed>
+  <!-- EN: Facilities -->
+  <StatsReport_Facilities>Statiniai</StatsReport_Facilities>
+  <!-- EN: Multiplier for body size {0} -->
+  <StatsReport_BodySize>Kūno apimties {0}</StatsReport_BodySize>
+  <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
+  <StatsReport_MeleeDPSExplanation>Žala per sekundę = Vienkartinė žala * Galimybė įveikti / laikas tarp smūgiu</StatsReport_MeleeDPSExplanation>
+  <!-- EN: Melee damage -->
+  <StatsReport_MeleeDamage>Artimos kovos žala</StatsReport_MeleeDamage>
+  <!-- EN: Cooldown -->
+  <StatsReport_Cooldown>Laikas tarp smūgiu</StatsReport_Cooldown>
+  <!-- EN: Melee hit chance -->
+  <StatsReport_MeleeHitChance>Pataikymo tikimybė</StatsReport_MeleeHitChance>
+  <!-- EN: {0} s -->
+  <StatsReport_CooldownFormat>{0} sek</StatsReport_CooldownFormat>
+  <!-- EN: Life expectancy -->
+  <StatsReport_LifeExpectancy>Gyvenimo trūkmė</StatsReport_LifeExpectancy>
+  <!-- EN: Multiplier for missing body parts -->
+  <StatsReport_MissingBodyParts>Trūksta kūno dalių</StatsReport_MissingBodyParts>
+  <!-- EN: Gear and inventory -->
+  <StatsReport_GearAndInventoryMass>Pernešamų daiktų svoris</StatsReport_GearAndInventoryMass>
+  <!-- EN: Multiplier for worn by corpse -->
+  <StatsReport_WornByCorpse>Daiktų stovis, nuimtų nuo lavonų</StatsReport_WornByCorpse>
+  <!-- EN: average of all attacks -->
+  <AverageOfAllAttacks>kovos vidurkis</AverageOfAllAttacks>
+  <!-- EN: Scenario -->
+  <StatsReport_ScenarioFactor>Scenarijus</StatsReport_ScenarioFactor>
+  <!-- EN: Ingredients -->
+  <StatsReport_IngredientsMass>Ingredientai</StatsReport_IngredientsMass>
+  <!-- EN: Permanently disabled. -->
+  <StatsReport_PermanentlyDisabled>Šio darbo atlikti negalima.</StatsReport_PermanentlyDisabled>
+  <!-- EN: {0} -->
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  <!-- EN: Added body parts -->
+  <StatsReport_AddedBodyPartsMass>Pridėtos kūno dalys</StatsReport_AddedBodyPartsMass>
+  <!-- EN: Material effect multiplier -->
+  <StatsReport_StuffEffectMultiplier>Medžegos poveikis</StatsReport_StuffEffectMultiplier>
+  <!-- EN: Resting -->
+  <StatsReport_Resting>Ilsintis</StatsReport_Resting>
+  <!-- EN: recreation type -->
+  <StatsReport_JoyKind>Pramogos tipas</StatsReport_JoyKind>
+  <!-- EN: work to uninstall -->
+  <StatsReport_WorkToUninstall>ardymo sudėtingumas</StatsReport_WorkToUninstall>
+  <!-- EN: Multiplier for growth {0} -->
+  <StatsReport_PlantGrowth>Nokimo koficientas {0}</StatsReport_PlantGrowth>
+  <!-- EN: scaled because wild -->
+  <StatsReport_PlantGrowth_Wild>laukiniai</StatsReport_PlantGrowth_Wild>
+  <!-- EN: Not flesh -->
+  <StatsReport_NotFlesh>Ne kūnas</StatsReport_NotFlesh>
+  <!-- EN: Not fresh -->
+  <StatsReport_NotFresh>Supuves</StatsReport_NotFresh>
+  <!-- EN: Wild man -->
+  <StatsReport_WildMan>Laukinis</StatsReport_WildMan>
+  <!-- EN: Attack -->
+  <StatsReport_NonToolAttack>Ataka</StatsReport_NonToolAttack>
+
+</LanguageData>

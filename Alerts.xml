@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <LanguageData>
 
 	<ClickToJumpToProblem>Spustelekite, kad nušoktumėte prie problemos.</ClickToJumpToProblem>
@@ -13,10 +13,10 @@
   
   <ColonistNeedsRescue>Colonistui reikia pagalbos</ColonistNeedsRescue>
   <ColonistsNeedRescue>Colonistams reikia pagalbos</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>  Šie kolonistai yra atsijunę and žemės:\n\n{0}\nNusiūskite kitą kolonistą, kad jį išgelbėtų ir nuneštų jį į lovą.\n\n(Jog išgelbėtumete pasirinkite kitą kolonistą, tada su dešiniu pelės mygtuku ant aukos ir pasirinkite Išgelbėti.</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>Šie kolonistai yra atsijunę and žemės:\n\n{0}\nNusiūskite kitą kolonistą, kad jį išgelbėtų ir nuneštų jį į lovą.\n\n(Jog išgelbėtumete pasirinkite kitą kolonistą, tada su dešiniu pelės mygtuku ant aukos ir pasirinkite Išgelbėti.</ColonistsNeedRescueDesc>
 
   <NeedDefenses>Reikia ginybinių sutvirtinimų</NeedDefenses>
-  <NeedDefensesDesc> Tu jau esi čia kurį laiką. Piratų reidai greitai prasidės.\n\nTu turėtum paruošti savo ginybinius itvirinimus, nesvarbu ar tai spąstai, smėlmaišiai ar šaudantys bokštai.</NeedDefensesDesc>
+  <NeedDefensesDesc>Tu jau esi čia kurį laiką. Piratų reidai greitai prasidės.\n\nTu turėtum paruošti savo ginybinius itvirinimus, nesvarbu ar tai spąstai, smėlmaišiai ar šaudantys bokštai.</NeedDefensesDesc>
 
   <NeedDoctor>Reikia daktaro</NeedDoctor>
   <NeedDoctorDesc>Šiem kolonistams reikia medicininės pagalbos , bet tu neturi nei vieno sveiko kolonisto paskyręs daktaru.\n\n{0}\nPaskirk sveiką kolonistą, jog šis atliktų daktaro darbą. Jeigu žaisdos paliks neišgyditos, jos gali netinkamai sugyti ir pasidaryti ilgalaikėmis žaidomis.</NeedDoctorDesc>
@@ -73,8 +73,8 @@
   <ShieldUserHasRangedWeapon>Skydo naudotojas turi šaunamajį ginklą</ShieldUserHasRangedWeapon>
   <ShieldUserHasRangedWeaponDesc>Vienas iš tavo kolonistų turi skydo diržą ir nešiojasi šaunamajį ginklą . Jie negalės šaudyti pro savo skydą (Išskyrūs taikinius kurie jau liečia kolonistą).</ShieldUserHasRangedWeaponDesc>
 
-  <NeedResearchProject>Need research project</NeedResearchProject>
-  <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project.</NeedResearchProjectDesc>
+  <NeedResearchProject>Reikia mokslinių projekto tyrimui</NeedResearchProject>
+  <NeedResearchProjectDesc>Turite įrangą  bet nepasirinkote projekto tyrimui.\n\nAtidarykite tyrimu meniu ir pasirinkite projektą.</NeedResearchProjectDesc>
   
   <ColonistsIdle>{0} Kolonistas laisvas</ColonistsIdle>
   <ColonistsIdleDesc>Šis kolonistas yra laisvas:\n\n{0}\nTikriausiai tau reikėtu surasti jam darbo .</ColonistsIdleDesc>

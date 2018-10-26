@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: A story generator by Tynan Sylvester -->
+  <MainPageCredit>Colonijos simuliatorius sukurtas Tynan Sylvester</MainPageCredit>
+
+  <!-- EN: Developers -->
+  <Credits_Developers>Kūrėjai</Credits_Developers>
+  <!-- EN: Direction, design, code, art -->
+  <Credit_DirectionVarious>Vadyba, dizainas, kodas, menas</Credit_DirectionVarious>
+  <!-- EN: Audio -->
+  <Credit_MusicAndSound>Muzika ir garsai</Credit_MusicAndSound>
+  <!-- EN: Code -->
+  <Credit_Code>Programuotojas</Credit_Code>
+  <!-- EN: Art -->
+  <Credit_GameArt>Žaidimo dizainieris</Credit_GameArt>
+  <!-- EN: Menu art -->
+  <Credit_MenuArt>Meniu dizainas</Credit_MenuArt>
+  <!-- EN: Additional code -->
+  <Credit_AdditionalCode>Papildomas kodas</Credit_AdditionalCode>
+  
+  <!-- EN: Additional development -->
+  <Credits_AdditionalDevelopment>Papildomi programuotojai</Credits_AdditionalDevelopment>
+
+  <!-- EN: Special thanks -->
+  <Credit_SpecialThanks>Specialus ačiū</Credit_SpecialThanks>
+
+  <!-- EN: Community volunteers -->
+  <Credits_TitleCommunity>Bendruomenės savanoriai</Credits_TitleCommunity>
+  <!-- EN: Tester -->
+  <Credit_Tester>Testuotojai</Credit_Tester>
+  <!-- EN: Mod donor -->
+  <Credit_ModDonation>Modų donorai</Credit_ModDonation>
+  <!-- EN: Writing donor -->
+  <Credit_WritingDonation>Rašymo donoras</Credit_WritingDonation>
+  <!-- EN: Moderator -->
+  <Credit_Moderator>Moderatoriai</Credit_Moderator>
+  <!-- EN: Wiki master -->
+  <Credit_WikiMaster>Wiki specas</Credit_WikiMaster>
+
+  <!-- EN: {0} language -->
+  <Credits_TitleLanguage>{0} kalba</Credits_TitleLanguage>
+  <!-- EN: Writer -->
+  <Credit_Writer>Autorius</Credit_Writer>
+  <!-- EN: Translator -->
+  <Credit_Translator>Vertėjai</Credit_Translator>
+  <!-- EN: Open source libraries -->
+  <Credit_OpenSourceLibraries>Atviro šaltinio bibliotekos</Credit_OpenSourceLibraries>
+  <!-- EN: Noise generation -->
+  <Credit_NoiseGeneration>Garso generavimas</Credit_NoiseGeneration>
+
+  <!-- EN: Thanks for playing! -->
+  <ThanksForPlaying>Ačiū, kad žaidžiate!</ThanksForPlaying>
+
+</LanguageData>

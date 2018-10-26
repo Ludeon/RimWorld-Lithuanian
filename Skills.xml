@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Level -->
+  <Level>Lygis</Level>
+  <!-- EN: Progress to next level -->
+  <ProgressToNextLevel>Iki sekančio lygio</ProgressToNextLevel>
+  <!-- EN: Experience -->
+  <Experience>Patirtis</Experience>
+  <!-- EN: Passion -->
+  <Passion>Aistra</Passion>
+  <!-- EN: None\n   -Learns {0} -->
+  <PassionNone>trūksta\n    -mokymosi greitis — {0}</PassionNone>
+  <!-- EN: Interested\n   -Learns {0} -->
+  <PassionMinor>vidutinis\n    -mokymosi greitis — {0}</PassionMinor>
+  <!-- EN: Burning\n   -Learns {0} -->
+  <PassionMajor>didelis\n    -mokymosi greitis — {0}</PassionMajor>
+  <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
+  <LearnedMaxToday>Pasiekta šendieninė riba ({0}/{1}, tolymesnis mokymosi greitis — {2})</LearnedMaxToday>
+  <!-- EN: Effects at level {0} -->
+  <EffectsAtLevel>Poveikis lygiui {0}</EffectsAtLevel>
+  <!-- EN: MAX -->
+  <SkillMax>Aukščiausias</SkillMax>
+
+  <!-- EN: Barely heard of it -->
+  <Skill0>naujokas</Skill0>
+  <!-- EN: Utter beginner -->
+  <Skill1>be kompetencijos</Skill1>
+  <!-- EN: Beginner -->
+  <Skill2>pradedantysis</Skill2>
+  <!-- EN: Basic familiarity -->
+  <Skill3>bazinis pažinimas</Skill3>
+  <!-- EN: Some familiarity -->
+  <Skill4>gabus</Skill4>
+  <!-- EN: Significant familiarity -->
+  <Skill5>mėgėjas</Skill5>
+  <!-- EN: Capable amateur -->
+  <Skill6>gabus megėjas</Skill6>
+  <!-- EN: Weak professional -->
+  <Skill7>beveik profas</Skill7>
+  <!-- EN: Employable professional -->
+  <Skill8>profesionalas</Skill8>
+  <!-- EN: Solid professional -->
+  <Skill9>paže. profesionalas</Skill9>
+  <!-- EN: Skilled professional -->
+  <Skill10>profu profas</Skill10>
+  <!-- EN: Very skilled professional -->
+  <Skill11>super profas</Skill11>
+  <!-- EN: Expert -->
+  <Skill12>ekspertas</Skill12>
+  <!-- EN: Strong expert -->
+  <Skill13>stiprus ekspertas</Skill13>
+  <!-- EN: Master -->
+  <Skill14>meistras</Skill14>
+  <!-- EN: Strong master -->
+  <Skill15>vyr. meistras</Skill15>
+  <!-- EN: Region-known master -->
+  <Skill16>regioninis specelistas</Skill16>
+  <!-- EN: Region-leading master -->
+  <Skill17>regioninis meistras</Skill17>
+  <!-- EN: Planet-known master -->
+  <Skill18>planetinio-lygio ekspertas</Skill18>
+  <!-- EN: Planet-leading master -->
+  <Skill19>planetinio-lygio meistras</Skill19>
+  <!-- EN: Legendary master -->
+  <Skill20>Legenda</Skill20>
+  
+</LanguageData>

@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Forbid -->
+  <!-- EN: Forbid -->
+  <CommandForbid>Uždrausti</CommandForbid>
+  <!-- EN: Allow -->
+  <CommandAllow>Leisti</CommandAllow>
+  <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
+  <CommandForbiddenDesc>Uždrausta: gyventojai nenaudos šito. Spauskit kad leistumėte.</CommandForbiddenDesc>
+  <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
+  <CommandNotForbiddenDesc>Leidžiama: gyventojai gali naudoti tai. Spauskit kad uždrausti.</CommandNotForbiddenDesc>
+
+  <!-- Power -->
+  <!-- EN: Toggle power -->
+  <CommandTogglePowerLabel>Įj./Išj.</CommandTogglePowerLabel>
+  <!-- EN: Toggle power. -->
+  <CommandTogglePowerDesc>Įjungti, išjungti maitinimą.</CommandTogglePowerDesc>
+  
+  <!-- EN: Designate toggle power -->
+  <CommandDesignateTogglePowerLabel>Įj./Išj.</CommandDesignateTogglePowerLabel>
+  <!-- EN: Designate this thing to have power toggled. A colonist will come soon to flick the switch. -->
+  <CommandDesignateTogglePowerDesc>Duoti komanda įjungti, išjungti maitinimą. Gyventojas prieis ir perjungs jungikli.</CommandDesignateTogglePowerDesc>
+  
+  <!-- EN: Reconnect -->
+  <CommandTryReconnectLabel>Perjungti</CommandTryReconnectLabel>
+  <!-- EN: Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby. -->
+  <CommandTryReconnectDesc>Prijunkite prietaisą prie kito maitinimo šaltinio, veikimo zonoje. Tai patogu atsijungiant nuo tinklo be energijos, jei netoliese yra tinklas su energija.</CommandTryReconnectDesc>
+
+  <!-- EN: Gather spot -->
+  <CommandGatherSpotToggleLabel>Susirinkimo vieta</CommandGatherSpotToggleLabel>
+  <!-- EN: Active - colonists will gather around this object. -->
+  <CommandGatherSpotToggleDescActive>Aktyvuota: gyventojai rinksis netoliese.</CommandGatherSpotToggleDescActive>
+  <!-- EN: Inactive - colonists will not gather around this object. -->
+  <CommandGatherSpotToggleDescInactive>NeAktyvuota: gyventojai nesirinksis netoliese.</CommandGatherSpotToggleDescInactive>
+  
+  <!-- Drafting -->
+  <!-- EN: Draft -->
+  <CommandDraftLabel>Kovai !</CommandDraftLabel>
+  <!-- EN: Undraft -->
+  <CommandUndraftLabel>Laisvai</CommandUndraftLabel>
+  <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
+  <CommandToggleDraftDesc>Pereti į kovos režimą.\n\nŠiame režime gyventojai gauna komandas ir kovoja. Jie nedirbs, nevalgys ir nesiilses.</CommandToggleDraftDesc>
+  <!-- EN: {1_labelShort} cannot walk. -->
+  <IsIncapped>{1_labelShort} ne vaikšto.</IsIncapped>
+
+  <!-- EN: Fire at will -->
+  <CommandFireAtWillLabel>Šaudyti savo nuožiūra</CommandFireAtWillLabel>
+  <!-- EN: Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat. -->
+  <CommandFireAtWillDesc>Leisti, uždrausti šaudyma savo nuožiūra.\n\nJaigu šaudymas uždraustas, gyventojas nešaudys į nutolusius taikinius be komandos. Neįtakoja artimai kovai.</CommandFireAtWillDesc>
+  
+  <!-- EN: Clear prioritized work -->
+  <CommandClearPrioritizedWork>Išvalyti darbų prioritetus</CommandClearPrioritizedWork>
+  <!-- EN: Clear any prioritized work you assigned. The character will go back to their usual self-directed activities. -->
+  <CommandClearPrioritizedWorkDesc>Atšaukia visas jūsų komandas. Gyventojas tes savo darbus pagal nustatymus.</CommandClearPrioritizedWorkDesc>
+  
+  <!-- EN: Cancel -->
+  <CommandCancelConstructionLabel>Atšaukti</CommandCancelConstructionLabel>
+  <!-- EN: Cancel this construction. -->
+  <CommandCancelConstructionDesc>Atšaukti statybą.</CommandCancelConstructionDesc>
+
+  <!-- EN: Get out of bed -->
+  <CommandGetOutOfBedLabel>Lauk iš lovos</CommandGetOutOfBedLabel>
+  <!-- EN: Get out of current bed. -->
+  <CommandGetOutOfBedDesc>Išvaryti iš užimtos lovos.</CommandGetOutOfBedDesc>
+
+  <!-- EN: Set owner -->
+  <CommandBedSetOwnerLabel>Priskirti lova</CommandBedSetOwnerLabel>
+  <!-- EN: Assign this bed to be owned by a specific colonist. -->
+  <CommandBedSetOwnerDesc>Priskirti lovą konkrečiam giventojui.</CommandBedSetOwnerDesc>
+  <!-- EN: Assign colonist -->
+  <CommandGraveAssignColonistLabel>Priskirti gyventoją</CommandGraveAssignColonistLabel>
+  <!-- EN: Assign this grave to be owned by a specific colonist. -->
+  <CommandGraveAssignColonistDesc>Priskirti šia laidojimo vietą konkrečiam gyventojui.</CommandGraveAssignColonistDesc>
+  <!-- EN: Assign -->
+  <BuildingAssign>Priskirti</BuildingAssign>
+  <!-- EN: Reassign -->
+  <BuildingReassign>Perskirstyti</BuildingReassign>
+  <!-- EN: Unassign -->
+  <BuildingUnassign>Nuimti pavadinimą</BuildingUnassign>
+  <!-- EN: For prisoners -->
+  <CommandBedSetForPrisonersLabel>Kaliniams</CommandBedSetForPrisonersLabel>
+  <!-- EN: Whether beds in this room should be used by prisoners. -->
+  <CommandBedSetForPrisonersDesc>Ar gali kaliniai naudotis lovomis semia kambaryje.</CommandBedSetForPrisonersDesc>
+  <!-- EN: Only beds in enclosed spaces can be set for prisoners. -->
+  <CommandBedSetForPrisonersFailOutdoors>Kaliniams lovas žymeti reikia tik uždarose patalpose.</CommandBedSetForPrisonersFailOutdoors>
+  <!-- EN: Medical -->
+  <CommandBedSetAsMedicalLabel>Med. lova</CommandBedSetAsMedicalLabel>
+  <!-- EN: Whether this bed is for medical use. -->
+  <CommandBedSetAsMedicalDesc>Bus lova naudojama medicininiais tikslais ar ne.</CommandBedSetAsMedicalDesc>
+  <!-- EN: Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
+  <TurningOnPrisonerBedWarning>Įjungus kalinių režima pasekmės bus visam kambariui (gyventojai ir kaliniai negali miegoti viename kambaryje).\n\nŠie žmonės neteks nuosavybės į savo lovas:</TurningOnPrisonerBedWarning>
+  <!-- EN: Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
+  <TurningOffPrisonerBedWarning>Išjungus kalinių režima pasekmės bus visam kambariui (gyventojai ir kaliniai negali miegoti viename kambaryje).\n\nSekantys kaliniai neteks nuosavybės į savo lovas:</TurningOffPrisonerBedWarning>
+  <!-- EN: Are you sure you want to do this? -->
+  <AreYouSure>Jūs įsitikines?</AreYouSure>
+
+  <!-- EN: Detonate -->
+  <CommandDetonateLabel>Susprogdinti</CommandDetonateLabel>
+  <!-- EN: Start the countdown to detonation. -->
+  <CommandDetonateDesc>Prademas atbulinis skaičiavimas.</CommandDetonateDesc>
+
+  <!-- EN: Rename -->
+  <CommandRenameZoneLabel>Keisti pavadinimą</CommandRenameZoneLabel>
+  <!-- EN: Rename this zone. -->
+  <CommandRenameZoneDesc>Pervardinti zoną.</CommandRenameZoneDesc>
+
+  <!-- EN: Hide -->
+  <CommandHideZoneLabel>Slėpti</CommandHideZoneLabel>
+  <!-- EN: Unhide -->
+  <CommandUnhideZoneLabel>Rodyti</CommandUnhideZoneLabel>
+  <!-- EN: Hide/unhide this zone. -->
+  <CommandHideZoneDesc>Slėpti/rodyti zoną.</CommandHideZoneDesc>
+
+  <!-- EN: Delete -->
+  <CommandDeleteZoneLabel>Pašalinti</CommandDeleteZoneLabel>
+  <!-- EN: Delete this zone. -->
+  <CommandDeleteZoneDesc>Pašalinti zoną.</CommandDeleteZoneDesc>
+
+  <!-- EN: Copy settings -->
+  <CommandCopyZoneSettingsLabel>Kopijuoti nustatymus</CommandCopyZoneSettingsLabel>
+  <!-- EN: Copy this zone's settings to the clipboard so you can paste them onto another zone. -->
+  <CommandCopyZoneSettingsDesc>Kopijuoti nustatymus kad galėtumėte panaudoti kitoms zonoms.</CommandCopyZoneSettingsDesc>
+
+  <!-- EN: Paste settings -->
+  <CommandPasteZoneSettingsLabel>Įklijuoti nustatymus</CommandPasteZoneSettingsLabel>
+  <!-- EN: Overwrite this zone's settings with those previously copied to the clipboard. -->
+  <CommandPasteZoneSettingsDesc>Pritaikyti anksčiau nukopijuotus nustnustatymus šiai zonai.</CommandPasteZoneSettingsDesc>
+
+  <!-- EN: Allow sowing -->
+  <CommandAllowSow>Leisti sėti</CommandAllowSow>
+  <!-- EN: When disabled, colonists will never sow plants in this zone. They will still harvest. -->
+  <CommandAllowSowDesc>Išjungus tai, jūs drausite gyventojams sėti bet jie galės rinkti derlių.</CommandAllowSowDesc>
+
+  <!-- Artillery -->
+  <!-- EN: Set forced target -->
+  <CommandSetForceAttackTarget>Nurodyti taikinį</CommandSetForceAttackTarget>
+  <!-- EN: Sets a target that this turret must attack continuously as long as it can. -->
+  <CommandSetForceAttackTargetDesc>Nurodyti taikinį į kurį patranka šaudys be sustojimo, tol kol bus tai imanoma.</CommandSetForceAttackTargetDesc>
+  <!-- EN: Stop forced attack -->
+  <CommandStopForceAttack>Atšaukti ugni</CommandStopForceAttack>
+  <!-- EN: Stops force-attacking and allows the turret to fire as it wishes. -->
+  <CommandStopForceAttackDesc>Atšaukti ugni nuo nurodyto taikinio ir pervesti patranką į budėjimo režimą.</CommandStopForceAttackDesc>
+  <!-- EN: Not currently force-attacking. -->
+  <CommandStopAttackFailNotForceAttacking>Dabar neimanoma atšaukti ugnies.</CommandStopAttackFailNotForceAttacking>
+  <!-- EN: Extract shell -->
+  <CommandExtractShell>Ištraukiti šovinius</CommandExtractShell>
+  <!-- EN: Unloads the current shell so it can be replaced with different ammunition. -->
+  <CommandExtractShellDesc>Ištuštini apkabą, kad būtų galimybė pakeisti šovinių tipą.</CommandExtractShellDesc>
+  <!-- EN: Target beyond maximum range. -->
+  <MessageTargetBeyondMaximumRange>PerToli.</MessageTargetBeyondMaximumRange>
+  <!-- EN: Target below minimum range. -->
+  <MessageTargetBelowMinimumRange>PerArti.</MessageTargetBelowMinimumRange>
+  <!-- EN: Warning: The mortar won't fire because it's set to "Hold fire". -->
+  <MessageTurretWontFireBecauseHoldFire>Dėmesio: ugnis draudžiama. Atnaujinimu, atjunkite režima «Nutraukti ugni».</MessageTurretWontFireBecauseHoldFire>
+  
+  <!-- Ship computer core -->
+  <!-- EN: Launch ship -->
+  <CommandShipLaunch>Paleisti laivą</CommandShipLaunch>
+  <!-- EN: Start the ship launch sequence with the current configuration. -->
+  <CommandShipLaunchDesc>Paleisti laiva esančios sudeties.</CommandShipLaunchDesc>
+  <!-- EN: Show launch report -->
+  <CommandShipLaunchReport>Parodyti paleidimo statistika</CommandShipLaunchReport>
+  <!-- EN: Show a readiness report about the ship's launch capability. -->
+  <CommandShipLaunchReportDesc>Parodyti dabartini laivo stovi, pasiruošima paleidimui.</CommandShipLaunchReportDesc>
+  <!-- EN: Start ship -->
+  <CommandShipStartup>Aktivuoti laiva</CommandShipStartup>
+  <!-- EN: Wake up hibernating ship components. -->
+  <CommandShipStartupDesc>Aktivuoti laivo komponentus.</CommandShipStartupDesc>
+
+  <!-- Pod -->
+  <!-- EN: Eject sleeper -->
+  <CommandPodEject>Išmesti miegantį</CommandPodEject>
+  <!-- EN: Wake up the cryptosleeper and eject them. -->
+  <CommandPodEjectDesc>Pabudanti esanti kriptokameroje ir ištraukti jį.</CommandPodEjectDesc>
+  <!-- EN: Contains nobody. -->
+  <CommandPodEjectFailEmpty>Viduje nieko nėra.</CommandPodEjectFailEmpty>
+
+  <!-- Door -->
+  <!-- EN: Passage forbidden -->
+  <CommandToggleDoorForbid>Perjungti blokatorių</CommandToggleDoorForbid>
+  <!-- EN: When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door. -->
+  <CommandToggleDoorForbidDesc>Užblokuoti atblokuoti duris. Giventojai ir sąjungininkai negalės praeiti pro šias duris, bet prišu ir givūnų elgesiu tai neytakos.</CommandToggleDoorForbidDesc>
+  <!-- EN: Hold open -->
+  <CommandToggleDoorHoldOpen>Atidaryti duris</CommandToggleDoorHoldOpen>
+  <!-- EN: When active, your colonists will not close the door after passing through. -->
+  <CommandToggleDoorHoldOpenDesc>Jaigu komanda aktyvuota, giventojai neuždarinės duru paskui save. Kitaip uždarinės.</CommandToggleDoorHoldOpenDesc>
+
+  <!-- Temperature control -->
+  <!-- EN: Reset -->
+  <CommandResetTemp>Perkrauti</CommandResetTemp>
+  <!-- EN: Reset the target temperature to room temperature. -->
+  <CommandResetTempDesc>Perkrauti temperatūra iki kambario temperatūros.</CommandResetTempDesc>
+  <!-- EN: Raise the target temperature. -->
+  <CommandRaiseTempDesc>Pakelti temperatūrą.</CommandRaiseTempDesc>
+  <!-- EN: Lower the target temperature. -->
+  <CommandLowerTempDesc>Sumažinti temperatūra.</CommandLowerTempDesc>
+
+  <!-- Install/reinstall -->
+  <!-- EN: Install -->
+  <CommandInstall>Įdiegti</CommandInstall>
+  <!-- EN: This item is currently packaged up for storage and transport. Use this command to install this item in a final location. -->
+  <CommandInstallDesc>Šis daiktas supakuotas ir paruoštas transportavimui. Naudokite šia komandą kad pastatyti daiktą kad galėtumėte matyti jį ir naudoti.</CommandInstallDesc>
+  <!-- EN: Reinstall at... -->
+  <CommandReinstall>Perstatyti</CommandReinstall>
+  <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
+  <CommandReinstallDesc>Nurodote kad jį išardytu ir paruoštu pastatymui kitoje vietoje.</CommandReinstallDesc>
+  
+  <!-- Trade beacon -->
+  <!-- EN: Create a stockpile around this building exactly matching the shape of the beacon's launch radius. -->
+  <CommandMakeBeaconStockpileDesc>Sukurti sandelį aplink švyturį, atitinkanti jo veikimo teritorijoją.</CommandMakeBeaconStockpileDesc>
+  <!-- EN: Create stockpile -->
+  <CommandMakeBeaconStockpileLabel>Sukurti sandelį</CommandMakeBeaconStockpileLabel>
+
+  <!-- Sun lamp -->
+  <!-- EN: Create a growing zone around this building exactly matching the shape of the lamp's light radius. -->
+  <CommandSunLampMakeGrowingZoneDesc>Sukurti auginimo teritorija aplink saulės lempa, atitinkanti jo veikimo teritorijoją.</CommandSunLampMakeGrowingZoneDesc>
+  <!-- EN: Create growing zone -->
+  <CommandSunLampMakeGrowingZoneLabel>Auginimo teritorija.</CommandSunLampMakeGrowingZoneLabel>
+
+  <!-- Trap -->
+  <!-- EN: Auto Rearm -->
+  <CommandAutoRearm>AutPertaisymas</CommandAutoRearm>
+  <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
+  <CommandAutoRearmDesc>Jaigu aktyvuota, po spastų suveikimo juos užtaisys iš naujo.</CommandAutoRearmDesc>
+  
+  <!-- Animal control -->
+  <!-- EN: Release animals -->
+  <CommandReleaseAnimalsLabel>Paleisti nuo pavadžio</CommandReleaseAnimalsLabel>
+  <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
+  <CommandReleaseAnimalsDesc>Puolimo komanda gyvūnui. Jaigu neijungta givūnas lieka šalia šeimininko ir gina jį.</CommandReleaseAnimalsDesc>
+  <!-- EN: No animals available. -->
+  <CommandReleaseAnimalsFail_NoAnimals>Nera tinkamo givūno.</CommandReleaseAnimalsFail_NoAnimals>
+  
+  <!-- Squad attack -->
+  <!-- EN: Attack -->
+  <CommandSquadAttack>Pulti</CommandSquadAttack>
+  <!-- EN: Order selected colonists to attack designated target. -->
+  <CommandSquadAttackDesc>Įsakimas gyventojams, pulti kartu nurodytą taikinį.</CommandSquadAttackDesc>
+  
+  <!-- Melee attack -->
+  <!-- EN: Melee attack -->
+  <CommandMeleeAttack>Eiti į artimą kovą</CommandMeleeAttack>
+  <!-- EN: Order selected colonists to attack designated target using only fists and melee weapons. -->
+  <CommandMeleeAttackDesc>Įsakymas pažymėtiems giventojams kovoti tik kumščiais ir artimos kovos ginklais.</CommandMeleeAttackDesc>
+
+  <!-- Hold fire -->
+  <!-- EN: Hold fire -->
+  <CommandHoldFire>Nešaudyti</CommandHoldFire>
+  <!-- EN: End any ongoing attacks. -->
+  <CommandHoldFireDesc>Atšaukti visus puolimus.</CommandHoldFireDesc>
+  
+  <!-- Select plant to grow -->
+  <!-- EN: Select plant to grow -->
+  <CommandSelectPlantToGrowMulti>Išrinkite sodinamą augalą</CommandSelectPlantToGrowMulti>
+  <!-- EN: Plant: {0} -->
+  <CommandSelectPlantToGrow>Augalas: {0}</CommandSelectPlantToGrow>
+  <!-- EN: Determine which plant should be sown here. -->
+  <CommandSelectPlantToGrowDesc>Nurodymas, koks augalas auks čia.</CommandSelectPlantToGrowDesc>
+  
+  <!-- Select mineral to scan for (long-range mineral scanner) -->
+  <!-- EN: Tuned to -->
+  <CommandSelectMineralToScanFor>Jieškoma</CommandSelectMineralToScanFor>
+
+  <!-- Build copy -->
+  <!-- EN: Build copy -->
+  <CommandBuildCopy>Pastatyti kopija</CommandBuildCopy>
+  <!-- EN: Build a copy of this building. -->
+  <CommandBuildCopyDesc>Sukurti statinio kopija.</CommandBuildCopyDesc>
+  
+  <!-- Form caravan -->
+  <!-- EN: Form caravan -->
+  <CommandFormCaravan>Sukurti karavaną</CommandFormCaravan>
+  <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
+  <CommandFormCaravanDesc>Išsiūsti giventojų grupe į kelionę. Giventojai pasiruoš kelioniai. Susirinks daiktus ir givūnus, poto išeis iš givenvietės ir lauks nurodymų.</CommandFormCaravanDesc>
+  
+  <!-- Reform caravan -->
+  <!-- EN: Reform caravan -->
+  <CommandReformCaravan>Testi kelione</CommandReformCaravan>
+  <!-- EN: Reform a group of colonists. The colonists will leave their current area and await further orders. -->
+  <CommandReformCaravanDesc>Testi kelione. Susirinks daiktus išeis iš teritorijos ir lauks nurodymų.</CommandReformCaravanDesc>
+  <!-- EN: There are still some enemies in this area. -->
+  <CommandReformCaravanFailHostilePawns>Netoliese yra priešas.</CommandReformCaravanFailHostilePawns>
+  
+  <!-- Split caravan -->
+  <!-- EN: Split -->
+  <CommandSplitCaravan>Išsiskirti</CommandSplitCaravan>
+  <!-- EN: Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other. -->
+  <CommandSplitCaravanDesc>Padalinti grupe. Vėliau juos galima bus sujungti jaigu jie bus šalia vienas kito.</CommandSplitCaravanDesc>
+  
+  <!-- Merge caravan -->
+  <!-- EN: Merge -->
+  <CommandMergeCaravans>Suvieniti</CommandMergeCaravans>
+  <!-- EN: Merge selected caravans. -->
+  <CommandMergeCaravansDesc>Sujungti parinktu burius.</CommandMergeCaravansDesc>
+  <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
+  <CommandMergeCaravansFailCaravansNotSelected>Pasirinkite burius kuriuos norite sujungti. Jie turi būti netoliese vienas kito.</CommandMergeCaravansFailCaravansNotSelected>
+  
+  <!-- Settle -->
+  <!-- EN: Settle -->
+  <CommandSettle>Sukurti gyvenviete</CommandSettle>
+  <!-- EN: Settle in this area. Your colonists will enter this area and you will be able to start building a new home. -->
+  <CommandSettleDesc>Sukurti gyvenviete šioje vietoje. Jūsų gyventojai galės pradėti naujų namų statybą.</CommandSettleDesc>
+  <!-- EN: Your faction can only have one base. -->
+  <CommandSettleFailAlreadyHaveBase>Jūsų frakcija gai tureti tik vieną gyvenvietę.</CommandSettleFailAlreadyHaveBase>
+  <!-- EN: Reached maximum number of colonies. -->
+  <CommandSettleFailReachedMaximumNumberOfBases>Pasiekėte maksimalų gyvenviečių kiekį. Nustatimus galite pakeisti žaidimo nustatymuose.</CommandSettleFailReachedMaximumNumberOfBases>
+  <!-- EN: There isn't anybody there to claim the area. -->
+  <CommandSettleFailNoColonists>Čia nieko nėra, kas galėtu įkurti gyvenvietę.</CommandSettleFailNoColonists>
+  <!-- EN: There are enemies in this area. -->
+  <CommandSettleFailEnemies>Priešas netoliese.</CommandSettleFailEnemies>
+  
+  <!-- Abandon home -->
+  <!-- EN: Abandon -->
+  <CommandAbandonHome>Palikti gyvenvietę</CommandAbandonHome>
+  <!-- EN: Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area. -->
+  <CommandAbandonHomeDesc>Palikti šia vietą. Jūs paliksite šia gyvenvietę ir daugiau niekada negalėsite sugrįžti. Kuomet jūs paliksite savo namus , jūs galėsite įkurti naują gyvenvietę.</CommandAbandonHomeDesc>
+  <!-- EN: All of your colonists are there. -->
+  <CommandAbandonHomeFailAllColonistsThere>Neimanoma palikti šios vietos, kol gyventojai yra viduje.</CommandAbandonHomeFailAllColonistsThere>
+  
+  <!-- Cancel forming caravan -->
+  <!-- EN: Cancel forming caravan -->
+  <CommandCancelFormingCaravan>Atšaukti būrio išsiuntimą</CommandCancelFormingCaravan>
+  <!-- EN: Terminate the caravan formation process. -->
+  <CommandCancelFormingCaravanDesc>Atšaukti būrio pasiruošimą kelioniai.</CommandCancelFormingCaravanDesc>
+
+  <!-- Remove from caravan -->
+  <!-- EN: Remove from caravan -->
+  <CommandRemoveFromCaravan>Išvaryti iš būrio</CommandRemoveFromCaravan>
+  <!-- EN: Remove this person or animal from the caravan. -->
+  <CommandRemoveFromCaravanDesc>Išvaryti šį gyventoją arba gyvūną iš būrio.</CommandRemoveFromCaravanDesc>
+  
+  <!-- Add to caravan -->
+  <!-- EN: Add to caravan -->
+  <CommandAddToCaravan>Prijungti prie būrio</CommandAddToCaravan>
+  <!-- EN: Add this person or animal to the forming caravan. -->
+  <CommandAddToCaravanDesc>Prijungti šį gyventoją arba gyvūną prie būrio.</CommandAddToCaravanDesc>
+  
+  <!-- Show map -->
+  <!-- EN: Zoom in -->
+  <CommandShowMap>Priartinti</CommandShowMap>
+  <!-- EN: Zoom in on this area. -->
+  <CommandShowMapDesc>Priartinti šį žemėlapio kvadratą.</CommandShowMapDesc>
+  
+  <!-- Trade -->
+  <!-- EN: Trade -->
+  <CommandTrade>Prekiauti</CommandTrade>
+  <!-- EN: Trade with this faction. -->
+  <CommandTradeDesc>Prekiauti su šia frakcija.</CommandTradeDesc>
+  <!-- EN: There isn't any conscious and capable negotiator. -->
+  <CommandTradeFailNoNegotiator>Nėra nė vieno gyventojo gebančio vesti derybas ir prekybą.</CommandTradeFailNoNegotiator>
+
+  <!-- Offer gifts -->
+  <!-- EN: Offer gifts -->
+  <CommandOfferGifts>Pasiūlyti dovaną</CommandOfferGifts>
+  <!-- EN: Offer gifts to this faction. -->
+  <CommandOfferGiftsDesc>Pasiūlyti dovaną frakcijai.</CommandOfferGiftsDesc>
+
+  <!-- Fulfill request -->
+  <!-- EN: Fulfill trade offer -->
+  <CommandFulfillTradeOffer>Prekybos pasiūlymas</CommandFulfillTradeOffer>
+  <!-- EN: Fulfill the settlement's request for goods and claim your reward. -->
+  <CommandFulfillTradeOfferDesc>Perduoti sutartas prekes gyvenvietei ir atsiimti mokestį.</CommandFulfillTradeOfferDesc>
+  <!-- EN: Your caravan must have {0} to fulfill this trade offer. -->
+  <CommandFulfillTradeOfferFailInsufficient>Kad pasirašyti sutarti , turite tureti {0} būrį.</CommandFulfillTradeOfferFailInsufficient>
+  <!-- EN: Offer {0} for {1}? -->
+  <CommandFulfillTradeOfferConfirm>Siūliti {0} už {1}?</CommandFulfillTradeOfferConfirm>
+  
+  <!-- Take off -->
+  <!-- EN: Take off -->
+  <CommandTakeOff>Pakilti</CommandTakeOff>
+  <!-- EN: Get on board the ship and escape the planet. -->
+  <CommandTakeOffDesc>Lipti į laivą ir išskristi iš planetos.</CommandTakeOffDesc>
+  <!-- EN: Are you sure you want to launch the ship?\n\nEveryone in this area will escape the planet. Everyone else will be left behind. -->
+  <CommandTakeOffConfirmation>Jūs įsitikines , jog norite išskristi?\n\nVisi kas yra čia išskris o like liks planetoje.</CommandTakeOffConfirmation>
+  
+  <!-- Set target fuel level -->
+  <!-- EN: Set target fuel level -->
+  <CommandSetTargetFuelLevel>Nurodyti kuro lygi</CommandSetTargetFuelLevel>
+  <!-- EN: Set the target fuel level. Colonists will attempt to fill this up to the target fuel level. -->
+  <CommandSetTargetFuelLevelDesc>Agregatas bus užpildomas iki nurodyto lygio.</CommandSetTargetFuelLevelDesc>
+  
+  <!-- Cancel load -->
+  <!-- EN: Cancel load -->
+  <CommandCancelLoad>Atšaukti krovą</CommandCancelLoad>
+  <!-- EN: Cancel loading this with people or items and eject everything already loaded. -->
+  <CommandCancelLoadDesc>Atšaukti pakrovima ir iškrauti viską kas jau pakrauta.</CommandCancelLoadDesc>
+  
+  <!-- Launch group -->
+  <!-- EN: Launch group -->
+  <CommandLaunchGroup>Išsiūsti grupę</CommandLaunchGroup>
+  <!-- EN: Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together. -->
+  <CommandLaunchGroupDesc>Nurodyti pageidaujama nusileidimo vieta ir paleisti kapsules. Kapsulės bus paleistos vienu metu ir nusileis viena šalia kitos.</CommandLaunchGroupDesc>
+  <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>Kaip minimum viena kapsulė neprijungta prie kuro stoties.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <!-- EN: Some pod launchers in this group have no fuel. -->
+  <CommandLaunchGroupFailNoFuel>Minimum viena kapsulė stovi be kuro.</CommandLaunchGroupFailNoFuel>
+  <!-- EN: Some pod launchers are under a roof. -->
+  <CommandLaunchGroupFailUnderRoof>Minimum viena kapsulė yra po stogu.</CommandLaunchGroupFailUnderRoof>
+  
+  <!-- Load transporter -->
+  <!-- EN: Load launch group of {0} -->
+  <CommandLoadTransporter>Pradėti pakrovimą į grupę iš {0}</CommandLoadTransporter>
+  <!-- EN: Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside. -->
+  <CommandLoadTransporterDesc>Sujungti pasirinktas kapsules į paleidimo grupę , priskirti keleivius ir nurodyti ką pakrauti į denį.</CommandLoadTransporterDesc>
+  <!-- EN: The transport pod is not connected to a fueling port. -->
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>Krovininė kapsulė nepajungta prie kolonelės.</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <!-- EN: The pod launcher has no fuel. -->
+  <CommandLoadTransporterFailNoFuel>Krovininė kapsulė neužpildyta kuru.</CommandLoadTransporterFailNoFuel>
+  
+  <!-- Select previous transporter -->
+  <!-- EN: Select previous in launch group -->
+  <CommandSelectPreviousTransporter>Sekanti kapsulė</CommandSelectPreviousTransporter>
+  <!-- EN: Select previous transport pod in this launch group. -->
+  <CommandSelectPreviousTransporterDesc>Pažymėti sekančia kapsule šioje grupėje.</CommandSelectPreviousTransporterDesc>
+  
+  <!-- Select all transporters -->
+  <!-- EN: Select launch group -->
+  <CommandSelectAllTransporters>Visa grupė</CommandSelectAllTransporters>
+  <!-- EN: Select all transport pods in this launch group. -->
+  <CommandSelectAllTransportersDesc>Pažymėti visas paleidimo grupės kapsules.</CommandSelectAllTransportersDesc>
+  
+  <!-- Select next transporter -->
+  <!-- EN: Select next in launch group -->
+  <CommandSelectNextTransporter>Sekanti kapsulė</CommandSelectNextTransporter>
+  <!-- EN: Select next transport pod in this launch group. -->
+  <CommandSelectNextTransporterDesc>Pažimėti sekančią kapsulę paleidimo grupėje.</CommandSelectNextTransporterDesc>
+  
+  <!-- Vent -->
+  <!-- EN: Designate open/close -->
+  <CommandDesignateOpenCloseVentLabel>Ati./užd.</CommandDesignateOpenCloseVentLabel>
+  <!-- EN: Designate this vent to be opened or closed. A colonist will come soon to perform the task. -->
+  <CommandDesignateOpenCloseVentDesc>Komanda, atidaryti uždaryti ventilecija. Gyventojas prieis ir perjungs jungiklį.</CommandDesignateOpenCloseVentDesc>
+  
+  <!-- Remove waypoint -->
+  <!-- EN: Remove -->
+  <CommandRemoveWaypointLabel>Trinti</CommandRemoveWaypointLabel>
+  <!-- EN: Remove this waypoint. -->
+  <CommandRemoveWaypointDesc>Trinti kelionės tikslą.</CommandRemoveWaypointDesc>
+
+  <!-- Pause caravan -->
+  <!-- EN: Rest -->
+  <CommandPauseCaravan>Poilsis</CommandPauseCaravan>
+  <!-- EN: Start resting. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1} -->
+  <CommandToggleCaravanPauseDesc>Sustabdyti burio judėjimą. Tai duos sekančia nauda:\n\n  - žmonės galės bendrauti vienas su kitu\n  - maisto gavyba pagreitės {0} kartu\n  - būsit matomesni {1} kartu nei įprastai</CommandToggleCaravanPauseDesc>
+  
+  <!-- Show sellable items -->
+  <!-- EN: Show what will buy -->
+  <CommandShowSellableItems>Parodyti prekes pardavimui</CommandShowSellableItems>
+  <!-- EN: Show everything this trader wants to buy. -->
+  <CommandShowSellableItemsDesc>Parodyti prekes, dominantį prekeivį.</CommandShowSellableItemsDesc>
+
+  <!-- Attack settlement -->
+  <!-- EN: Attack -->
+  <CommandAttackSettlement>Užpulti</CommandAttackSettlement>
+  <!-- EN: Attack this settlement. -->
+  <CommandAttackSettlementDesc>Užpulti gyvenvietę.</CommandAttackSettlementDesc>
+
+</LanguageData>

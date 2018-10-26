@@ -23,12 +23,12 @@
   <CaravanColonists>Kolonistai</CaravanColonists>
   <CaravanPrisonersAndAnimals>Kaliniai ir gyvūnai</CaravanPrisonersAndAnimals>
   <CaravanItems>Inventorius</CaravanItems>
-  <OpenSpecificTabButtonTip>Spusteleitė, jog atidarytumėte lentele su daugiau informacijos.</OpenSpecificTabButtonTip>
+  <OpenSpecificTabButtonTip>Spusteleitė, kad atidarytumėte lentele su daugiau informacijos.</OpenSpecificTabButtonTip>
   <CaravanPrisoners>Kaliniai</CaravanPrisoners>
   <CaravanWeaponsAndApparel>Inventorius</CaravanWeaponsAndApparel>
   
   <!-- Caravan gear -->
-  <DragToRearrange>Tempkite, jog pertvarkytumėte.</DragToRearrange>
+  <DragToRearrange>Tempkite, kad pertvarkytumėte.</DragToRearrange>
   
   <!-- Planet -->
   <PlanetSeed>Pradžia</PlanetSeed>

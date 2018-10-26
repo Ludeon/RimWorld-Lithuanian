@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: d -->
+  <LetterDay>d</LetterDay>
+  <!-- EN: h -->
+  <LetterHour>v</LetterHour>
+  <!-- EN: m -->
+  <LetterMinute>m</LetterMinute>
+  <!-- EN: s -->
+  <LetterSecond>s</LetterSecond>
+  
+  <!-- EN: days -->
+  <DaysLower>dienu</DaysLower>
+  <!-- EN: seconds -->
+  <SecondsLower>sekundžių</SecondsLower>
+
+  <!-- EN: spring -->
+  <SeasonSpring>pavasaris</SeasonSpring>
+  <!-- EN: summer -->
+  <SeasonSummer>vasara</SeasonSummer>
+  <!-- EN: fall -->
+  <SeasonFall>ruduo</SeasonFall>
+  <!-- EN: winter -->
+  <SeasonWinter>žiema</SeasonWinter>
+  <!-- EN: permanent summer -->
+  <SeasonPermanentSummer>amžina vasara</SeasonPermanentSummer>
+  <!-- EN: permanent winter -->
+  <SeasonPermanentWinter>amžina žiema</SeasonPermanentWinter>
+
+  <!-- EN: Aprimay -->
+  <QuadrumAprimay>Martomėjus</QuadrumAprimay>
+  <!-- EN: Jugust -->
+  <QuadrumJugust>Liepomėjus</QuadrumJugust>
+  <!-- EN: Septober -->
+  <QuadrumSeptober>Rugsėkritis</QuadrumSeptober>
+  <!-- EN: Decembary -->
+  <QuadrumDecembary>Gruodžejus</QuadrumDecembary>
+  
+  <!-- EN: Born: {0} -->
+  <Born>Gimimo diena: {0}</Born>
+  <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
+  <AgeChronological>$XItems1$Chronologinis amžius: {0} metų, {1} ketvirčių, {2} dienų</AgeChronological>
+  <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
+  <AgeBiological>$XItems1$Biologinis amžius: {0} metų, {1} ketvirtčių, {2} dienų</AgeBiological>
+
+  <!-- Date periods -->
+  <!-- EN: 1 year -->
+  <Period1Year>1 metai</Period1Year>
+  <!-- EN: {0} years -->
+  <PeriodYears>$XItems1${0} metų</PeriodYears>
+  <!-- EN: 1 quadrum -->
+  <Period1Quadrum>1 ketvirtis</Period1Quadrum>
+  <!-- EN: {0} quadrums -->
+  <PeriodQuadrums>$XItems1${0} ketvirčių</PeriodQuadrums>
+  <!-- EN: 1 day -->
+  <Period1Day>1 diena</Period1Day>
+  <!-- EN: {0} days -->
+  <PeriodDays>$XItems1${0} dienų</PeriodDays>
+  <!-- EN: 1 hour -->
+  <Period1Hour>1 h</Period1Hour>
+  <!-- EN: {0} hours -->
+  <PeriodHours>{0} h</PeriodHours>
+  <!-- EN: 1 second -->
+  <Period1Second>1 s</Period1Second>
+  <!-- EN: {0} seconds -->
+  <PeriodSeconds>{0} s</PeriodSeconds>
+
+  <!-- Misc -->
+  <!-- EN: Started -->
+  <Started>Prasidėjo</Started>
+  <!-- EN: Lasted -->
+  <Lasted>Tesesi</Lasted>
+  <!-- EN: occurred {0} ago -->
+  <OccurredTimeAgo>įvyko prieš {0} atgal</OccurredTimeAgo>
+  
+</LanguageData>

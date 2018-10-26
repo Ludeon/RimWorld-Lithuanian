@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- ITab titles -->
-  <TabBills>Saskaitos</TabBills>
+  <TabBills>Užduotis</TabBills>
   <TabGrowing>Auginimas</TabGrowing>
   <TabCharacter>Veikėjas</TabCharacter>
   <TabTraining>Teiniravimas</TabTraining>
@@ -21,7 +21,7 @@
 
   
   <!-- Bills tab  -->
-  <AddBill>Pridėti saskaitą</AddBill>
+  <AddBill>Pridėti užduotį</AddBill>
   <RecipeRequiresSkills>Receptas {0} reikalauja įgudžio žemiau. Nei vienas iš tavo kolonistų neturi šio įgudžio, taigi niekas neatliks šios saskaitos.</RecipeRequiresSkills>
   <MinimumSkill>Minimalus įgudis</MinimumSkill>
   <SuspendedCaps>ATIDĖTAS</SuspendedCaps>

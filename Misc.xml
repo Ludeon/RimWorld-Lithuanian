@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Autosaving -->
+  <Autosaving>Išsaugojama</Autosaving>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
+  <GameStartDialog>Tryse prabudot savo kriptono sarkofaguose , kaukiant sirenom ir girgždant metalui. Jūs vos spėjote įšokti į savo gelbėjimsi kapsules, kol laivas nesubyrėjo į gabalus.\n\nNeužilgo jūs nusileidote šioje nežinomoje planetoje.\n\nKrentant nuolaužų lietui jūs pradete kurti išgyvenimo planus.</GameStartDialog>
+  <!-- EN: Colony -->
+  <Colony>gyvenvietė</Colony>
+  <!-- EN: You can only change language from the options screen on the main menu. -->
+  <ChangeLanguageFromMainMenu>Kalba galima pakeisti tik pagrindineme meniu.</ChangeLanguageFromMainMenu>
+  <!-- EN: and -->
+  <AndLower>ir</AndLower>
+  <!-- EN: disabled -->
+  <DisabledLower>neleidžama</DisabledLower>
+
+  <!-- EN: Version {0} -->
+  <VersionIndicator>Versija {0}</VersionIndicator>
+  <!-- EN: development build -->
+  <DevelopmentBuildLower>tik testeriams</DevelopmentBuildLower>
+  <!-- EN: Compiled {0} -->
+  <CompiledOn>surinkimas {0}</CompiledOn>
+  <!-- EN: Logged into Steam as {0} -->
+  <LoggedIntoSteamAs>Jūs prisijungėte kaip {0}</LoggedIntoSteamAs>
+
+  <!-- General-use words -->
+  <!-- EN: Yes -->
+  <Yes>Taip</Yes>
+  <!-- EN: No -->
+  <No>Ne</No>
+  <!-- EN: min -->
+  <min>min</min>
+  <!-- EN: max -->
+  <max>maks</max>
+  <!-- EN: chance -->
+  <chance>tikimybė</chance>
+  <!-- EN: context -->
+  <context>veikia</context>
+  <!-- EN: multiplier -->
+  <multiplier>daugiklis</multiplier>
+  <!-- EN: damage -->
+  <damage>žala</damage>
+  <!-- EN: radius -->
+  <radius>radiusas</radius>
+  <!-- EN: duration (days) -->
+  <durationDays>trukmė (dienų)</durationDays>
+  <!-- EN: interval (days) -->
+  <intervalDays>intervalas (dienų)</intervalDays>
+  <!-- EN: repeat -->
+  <repeat>pakartoti</repeat>
+  <!-- EN: default -->
+  <default>pagal nutylėjimą</default>
+  <!-- EN: distance -->
+  <distance>atstumas</distance>
+  <!-- EN: YES -->
+  <YesUppercase>TAIP</YesUppercase>
+  <!-- EN: NO -->
+  <NoUppercase>NE</NoUppercase>
+  <!-- EN: kg -->
+  <kg>kg</kg>
+  <!-- EN: Day -->
+  <Day>Diena</Day>
+  <!-- EN: day -->
+  <day>diena</day>
+  <!-- EN: Default -->
+  <Default>Pagal nutylėjimą</Default>
+  <!-- EN: Average -->
+  <Average>Vidutiniškai</Average>
+
+  <!-- Content generation-->
+  
+  <!-- EN: {0} meat -->
+  <MeatLabel>{0} mėsa</MeatLabel>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
+  <MeatDesc>Žalia mėsa. Gali būti iškepta arba suvalgyta žalia.</MeatDesc>
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <MeatInsectDesc>Vabzdžio žalia mėsa. Esant būtinybei gali būti iškepta arba net suvalgyta žalia. Baisiai neskanu.</MeatInsectDesc>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <MeatHumanDesc>Žmogiena. Esant būtinybei gali būti iškepta arba suvalgyta žalia, daugumai visai tai nepatiks.</MeatHumanDesc>
+
+  <!-- EN: {0} corpse -->
+  <CorpseLabel>lavonas {0}</CorpseLabel>
+  <!-- EN: Dead body of a {0}. -->
+  <CorpseDesc>Negyvas kūnas {0}.</CorpseDesc>
+  <!-- EN: {1_label} (dead) -->
+  <DeadLabel>{1_label} ({1_gender ? mires : mirusi})</DeadLabel>
+
+  <!-- EN: rough {0} -->
+  <RoughStoneTerrainLabel>nervuotas {0}</RoughStoneTerrainLabel>
+  <!-- EN: Rough, natural {0} ground. -->
+  <RoughStoneTerrainDesc>Neišlygintos {0} grindys.</RoughStoneTerrainDesc>
+  <!-- EN: rough-hewn {0} -->
+  <RoughHewnStoneTerrainLabel>netašytas {0}</RoughHewnStoneTerrainLabel>
+  <!-- EN: Roughly cut natural {0} floor. -->
+  <RoughHewnStoneTerrainDesc>Netašytos {0} grindys.</RoughHewnStoneTerrainDesc>
+  <!-- EN: smooth {0} -->
+  <SmoothStoneTerrainLabel>lygus {0}</SmoothStoneTerrainLabel>
+  <!-- EN: Smoothed natural {0} floor. -->
+  <SmoothStoneTerrainDesc>Išlygintos {0} grindys.</SmoothStoneTerrainDesc>
+
+  <!-- EN:  (blueprint) -->
+  <BlueprintLabelExtra> (projektas)</BlueprintLabelExtra>
+  <!-- EN:  (building) -->
+  <FrameLabelExtra> (statinys)</FrameLabelExtra>
+
+  <!-- EN: Unaffiliated -->
+  <FactionUnaffiliated>Nepaslėpta</FactionUnaffiliated>
+
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <!-- EN: {0} {1} -->
+  <ThingMadeOfStuffLabel>{1} iš {0}</ThingMadeOfStuffLabel>
+
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <SomeonesRoom>{1} {PAWN_labelShort}</SomeonesRoom>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
+  <CouplesRoom>{2} {PAWN1_labelShort} и {PAWN2_labelShort}</CouplesRoom>
+  
+  <!-- EN: (various) -->
+  <VariousLabel>(skiriasi)</VariousLabel>
+
+  <!-- History events -->
+  <!-- EN: Colonist died -->
+  <ColonistDied>Gyventojas žuvo</ColonistDied>
+  
+  <!-- Rotation -->
+  <!-- EN: North -->
+  <North>Šiaurė</North>
+  <!-- EN: South -->
+  <South>Pietus</South>
+  <!-- EN: West -->
+  <West>Vakarai</West>
+  <!-- EN: East -->
+  <East>Rytai</East>
+  
+</LanguageData>
