@@ -6,107 +6,139 @@
   <BreakRiskMinor>Nedidelė palūžimo rizika</BreakRiskMinor>
   <BreakRiskMajor>Didelė palūžimo rizika</BreakRiskMajor>
   <BreakRiskExtreme>Extremali palūžimo rizika</BreakRiskExtreme>
-  <BreakRiskMinorDesc>Šie kolonistai yra prastoje nuotaikoje ir gali bet kada palūžti:\n\n{0}</BreakRiskMinorDesc>
-  <BreakRiskMajorDesc>Šie kolonistai yra labai prastoje nuotaikoje ir gali bet kada smarkiai palūžti:\n\n{0}</BreakRiskMajorDesc>
-  <BreakRiskExtremeDesc>Šie kolonistai yra kritiškai nestabilūs ir gali betkada (galimai smurtiškai) pschihiškai palūžti:\n\n{0}</BreakRiskExtremeDesc>
-  <BreakRiskDescEnding>Patikrinkite šių kolonistų poreikių lentelė ir patikrinki\n\nKad kolonistai jaustūsi geriau galite padaryt šiuos dalykus: Pagaminti jiems įmantrų maistą, Skirti jiems daugiau linksmybių valandų per dieną ir pagaminti geresnius linksmybių obijektus ir juos pastatyti gražioje aplinkoje, Duoti jiems išgerti ir parukyti, Ir daug daugiau.</BreakRiskDescEnding>
+  <BreakRiskMinorDesc>Šie kolonistai yra prastoje nuotaikoje ir gali bet kuriuo momentu psichiškai palūžti:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>Šie kolonistai yra labai prastoje nuotaikoje ir gali bet kuriuo momentu stipriai psichiškai palūžti:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>Šie kolonistai yra kritiškai nestabilūs ir gali bet kuriuo momentu kritiškai psichiškai palūžti:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Patikrinkite šių kolonistų poreikių lentelę ir pažiūrėkite kas juos nervina.\n\nKad kolonistai jaustųsi geriau galite padaryt šiuos dalykus: Pagaminti jiems įmantrų maistą, skirti jiems daugiau laisvų valandų per dieną ir pagaminti geresnius rekreacinius objektus, nuvesti juos į gražią aplinką, duoti jiems išgerti ir parūkyti, Ir daug daugiau.</BreakRiskDescEnding>
   
-  <ColonistNeedsRescue>Colonistui reikia pagalbos</ColonistNeedsRescue>
-  <ColonistsNeedRescue>Colonistams reikia pagalbos</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>  Šie kolonistai yra atsijunę and žemės:\n\n{0}\nNusiūskite kitą kolonistą, kad jį išgelbėtų ir nuneštų jį į lovą.\n\n(Jog išgelbėtumete pasirinkite kitą kolonistą, tada su dešiniu pelės mygtuku ant aukos ir pasirinkite Išgelbėti.</ColonistsNeedRescueDesc>
+  <ColonistNeedsRescue>Kolonistui reikia pagalbos</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Kolonistams reikia pagalbos</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>Šie kolonistai yra atsijungę and žemės:\n\n{0}\nNusiūskite kitą kolonistą, kad jį išgelbėtų ir nuneštų jį į lovą.\n\n(Norint išgelbėti pasirinkite kitą kolonistą, tada su dešiniu pelės mygtuku ant aukos ir pasirinkite Išgelbėti.</ColonistsNeedRescueDesc>
 
-  <NeedDefenses>Reikia ginybinių sutvirtinimų</NeedDefenses>
-  <NeedDefensesDesc> Tu jau esi čia kurį laiką. Piratų reidai greitai prasidės.\n\nTu turėtum paruošti savo ginybinius itvirinimus, nesvarbu ar tai spąstai, smėlmaišiai ar šaudantys bokštai.</NeedDefensesDesc>
+  <NeedDefenses>Reikia gynybinių sutvirtinimų</NeedDefenses>
+  <NeedDefensesDesc> Jūs jau esate čia kurį laiką. Piratų reidai greitai prasidės.\n\nTu turėtum paruošti savo gynybinius įtvirinimus, nesvarbu, ar tai spąstai, ar smėlmaišiai.</NeedDefensesDesc>
 
   <NeedDoctor>Reikia daktaro</NeedDoctor>
-  <NeedDoctorDesc>Šiem kolonistams reikia medicininės pagalbos , bet tu neturi nei vieno sveiko kolonisto paskyręs daktaru.\n\n{0}\nPaskirk sveiką kolonistą, jog šis atliktų daktaro darbą. Jeigu žaisdos paliks neišgyditos, jos gali netinkamai sugyti ir pasidaryti ilgalaikėmis žaidomis.</NeedDoctorDesc>
+  <NeedDoctorDesc>Šiem kolonistams reikia medicininės pagalbos , bet jūs neturite nei vieno sveiko kolonisto, kurį esate paskyrę daktaru.\n\n{0}\nPaskirk sveiką kolonistą, jog šis atliktų daktaro darbą. Jeigu žaisdos paliks neišgydytos, jos gali netinkamai sugyti ir pasidaryti ilgalaikėmis žaidomis.</NeedDoctorDesc>
 
   <NeedMiner>Reikia kalnąkasio</NeedMiner>
-  <NeedMinerDesc>Tu paskyrei iškasti kelis akmenų blokus, bet joks kolonistas nėra paskirtas būti kalnąkasiu.\n\nPaskirk kolonistą dirbti kalnąkasio darbą.</NeedMinerDesc>
+  <NeedMinerDesc>Jūs paskyrėte iškasti kelis akmenų blokus, bet joks kolonistas nėra paskirtas būti kalnąkasiu.\n\nPaskirkite kolonistą dirbti kalnąkasio darbą.</NeedMinerDesc>
 
   <NeedWarden>Reikia sargo</NeedWarden>
-  <NeedWardenDesc>Tu turi kalinį, bet joks kolonistas nėra paskirtas būti sargu.\n\nPaskirk kolonistą būti sargu.</NeedWardenDesc>
+  <NeedWardenDesc>Jūs turite kalinį, bet joks kolonistas nėra paskirtas būti sargu.\n\nPaskirkite kolonistą būti sargu.</NeedWardenDesc>
 
   <LowFood>Mažai maisto</LowFood>
-  <LowFoodDesc>Tu turi pavojingai mažai maisto.\n\n    Pilnos lentelės vertė maisto: {0}\n    Colonistai ir kaliniai gauna maisto: {1}\n    Dienų vertų maisto atsargose: {2}\n\nUžaugink, nusipirk, surask arba nužudyk truputį maisto.</LowFoodDesc>
+  <LowFoodDesc>Jūs turite pavojingai mažai maisto.\n\n    Pilnos lentelės vertė maisto: {0}\n    Kolonistai ir kaliniai gauna maisto: {1}\n    Dienų vertų maisto atsargose: {2}\n\nUžauginkite, nusipirkite, suraskite arba nužudykite dėl trupučio maisto.</LowFoodDesc>
 
   <LowMedicine>Mažai medikamentų</LowMedicine>
-  <LowMedicineDesc>Tu turi {0} medikamentu likusių tavo atsargose.\n\nNusipirk daugiau medikamentų iš prekiautojo.</LowMedicineDesc>
-  <NoMedicineDesc>Tu nebeturi medikamentų atsargoje.\n\nNusipirk daugiau medikamentų iš prekiautojų.</NoMedicineDesc>
+  <LowMedicineDesc>Jūs turite {0} medikamentu likusių tavo atsargose.\n\nNusipirkite daugiau medikamentų iš prekiautojų.</LowMedicineDesc>
+  <NoMedicineDesc>Jūs nebeturite medikamentų atsargoje.\n\nNusipirkite daugiau medikamentų iš prekiautojų.</NoMedicineDesc>
   
   <NeedColonistBeds>Kolonistams reikia lovų	</NeedColonistBeds>
-  <NeedColonistBedsDesc>Tu turi daugiau kolonistų negu lovų. Kažkam trūks lovos miegui.\n\nArba pagamink daugiau lovų arba pakeisk kalinio lovą į paprastą lovą.\n\nJeigu nebeturi resursu, miegui skirtos vietos yra nemokamos ir pagaminamos iš karto.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>Jūs turite daugiau kolonistų negu lovų. Kažkam trūks vietos miegoti.\n\nArba pagaminkite daugiau lovų, arba pakeiskite kalinio lovą į paprastą lovą.\n\nJeigu nebeturite resursų, miegui skirtos vietos yra nemokamos ir pagaminamos tučtuojau.</NeedColonistBedsDesc>
 
-  <HunterLacksWeapon>Medžiotojas neturi šaudomojo ginklo</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>Kolonistas yra priskirtas medžiotoju, bet neturi šaudomojo ginklo.\n\nJie nemedžios kol neturės šaunamojo ginklo.</HunterLacksWeaponDesc>
+  <AlertColonistLeftUnburied>Kolonistas liko neužkastas</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburiedDesc>Vienas iš kolonistų liko neužkastas.\n\nTai gali neigiamai paveikti kitų kolonistų nuotaiką.</AlertColonistLeftUnburiedDesc>
+
+  <HunterLacksWeapon>Medžiotojas neturi šaunamojo ginklo</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>Kolonistas yra priskirtas medžiotoju, bet neturi šaunamojo ginklo.\n\nJie nemedžios, kol neturės šaunamojo ginklo.</HunterLacksWeaponDesc>
 
   <AlertTatteredApparel>Suplyšę apdarai</AlertTatteredApparel>
-  <AlertTatteredApparelDesc>Šie kolonistai dėvi suplyšusius apdarus, tai juos priverčia jaustis liūdnai:\n\n{0}\nGauk jiem geresnių rūbų kurie nėra taip sugadinti.\n\nTu gali pasiūti rūbus siuvimo stalu arba nusipirkti juos iš prekiautojų.</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>Šie kolonistai dėvi suplyšusius apdarus, tai juos priverčia jaustis liūdnai:\n\n{0}\nGaukite jiem geresnių rūbų kurie nėra taip sugadinti.\n\nJūs galite pasiūti rūbus ant siuvimo stalo arba nusipirkti juos iš prekiautojų.</AlertTatteredApparelDesc>
 
 	<AlertUnhappyNudity>Nemalonus nuogumas</AlertUnhappyNudity>
-	<AlertUnhappyNudityDesc>Šie kolonistai neturi rūbų ir yra nuogi:\n\n{0}\nGauk jiems rūbų.\n\nTu gali pasiūti rūbus siuvimo stalu arba nusipirkti juos iš prekiautojų.</AlertUnhappyNudityDesc>
+	<AlertUnhappyNudityDesc>Šie kolonistai neturi rūbų ir yra nuogi:\n\n{0}\nGaukite jiems rūbų.\n\nJūs galite pasiūti rūbus ant siuvimo stalo arba nusipirkti juos iš prekiautojų.</AlertUnhappyNudityDesc>
 
-	<Starvation>Badavimas</Starvation>
-  <StarvationDesc>Šie kolonistai badauja:\n\n{0}\nGauk jiems turputį maisto.</StarvationDesc>
+	<Starvation>Badas</Starvation>
+  <StarvationDesc>Šie kolonistai badauja:\n\n{0}\nGaukite jiems turputį maisto.</StarvationDesc>
 
   <StarvationAnimals>Gyvūnų badas</StarvationAnimals>
-  <StarvationAnimalsDesc>Šie kolonijos gyvūnai badauja:\n\n{0}\Gauk jiems truputį maisto.</StarvationAnimalsDesc>
+  <StarvationAnimalsDesc>Šie kolonijos gyvūnai badauja:\n\n{0}\Gaukite jiems truputį maisto.</StarvationAnimalsDesc>
 
   <Exhaustion>Išsekimas</Exhaustion>
-  <ExhaustionDesc>Šie kolonistai išsekę ir jiems reikia pailsėti:\n\n{0}\nGauk jiems truputį poilsio. Jiems reikės lovos skirtos kolonistams . Ir pasirūpinkite, kad jie nebūtu valdomi tavęs.</ExhaustionDesc>
+  <ExhaustionDesc>Šie kolonistai yra išsekę ir jiems reikia pailsėti:\n\n{0}\nDuokite jiems truputį poilsio. Jiems reikės lovos skirtos kolonistams. Ir pasirūpinkite, kad jie nebūtu paimti į kovą.</ExhaustionDesc>
 
-  <NeedFoodHopper>Reikia maistso piltuvo</NeedFoodHopper>
-  <NeedFoodHopperDesc>Tu turi maisto medžiagų dozątorių, bet šalia jo nepastatytas piltuvas.\n\nJog dozatorius veiktų,pastos dozatorius turi traukti maistą iš šalia esančio piltuvo pripildytu žaliu maistu.\n\nPastatyk piltuvą šalia dozątoriaus.</NeedFoodHopperDesc>
+  <NeedFoodHopper>Reikia maisto piltuvo</NeedFoodHopper>
+  <NeedFoodHopperDesc>Jūs turite maisto medžiagų dalytuvą, bet šalia jo nepastatytas piltuvas.\n\nJog dozatorius veiktų, pastos dalytuvas turi traukti maistą iš šalia esančio piltuvo pripildytu žaliu maistu.\n\nPastatykite piltuvą šalia dalytuvo.</NeedFoodHopperDesc>
 
   <NeedMealSource>Reikia maisto šaltinio</NeedMealSource>
-  <NeedMealSourceDesc>Tu neturiu jokio būdo paruošti maistą iš žalio maisto.\n\nPastatyk keptuvę, laužavietę, ar maisto medžiagų dozatorių.\n\n(Šis negali būti kalinio vienutėje, kitaip kolonistai negalės šiuo naudotis.)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>Jūs neturite jokio būdo paruošti maistą iš žalio maisto.\n\nPastatykite keptuvę, laužavietę, ar maisto medžiagų dalytuvą.\n\n(Šis negali būti kalinio vienutėje, kitaip kolonistai negalės šiuo naudotis.)</NeedMealSourceDesc>
 
-  <NeedJoySource>Reikia linksmybių šaltinio</NeedJoySource>
-  <NeedJoySourceDesc>Tavo kolonistams reikia patenkinti savo norus pramogauti, bet tu nepastatęs jokių linksmybių šaltinio.\n\nPadėk jiems pastatydamas Pasagų smeigę, šachmatų stalą, ar kitą linksmybių šaltinį.</NeedJoySourceDesc>
+  <NeedJoySource>Trūsta rekreacinės įvairovės</NeedJoySource>
+  <NeedJoySourceDesc>Tėra tik {0} skirtingi rekreacijos tipai {1}, bet šiuo lūkesčių lygiu ({2}), kolonistams reikia {3} skirtingų rekreacinių šaltinių, kad būtų patenkinti. Aprūpinkite rekreacine įvairove, patiekdami naują rekreacijos tipą.\n\n{4}\n\n{5}\n\nNote: Jūs galite patikrinti kiekvieno daikto rekreacijos tipą jo statistikos puslapyje, paspausdę 'i' mygtuką.</NeedJoySourceDesc>
+  <AvailableRecreationTypes>Galimi rekreacijos tipai</AvailableRecreationTypes>
+  <MissingRecreationTypes>Trūksta rekreacijos tipai</MissingRecreationTypes>
+  <CurrentExpectationsAndRecreation>Dabartiniais lūkesčiai ({0}), kiekviena tolerancija krenta {1} kiekvieną dieną nemiegant. {2} rekreacinių tipų turėjimas yra rekomenduotinas.</CurrentExpectationsAndRecreation>
+  <bored>Nuobodžiauja</bored>
 
-  <NeedBatteries>Reikia baterijiu</NeedBatteries>
-  <NeedBatteriesDesc>Tu turi saulės ar vėjo generatorių, bet jokių baterijų. Tai reiškia, jog tu praraši elektrą bet kada kai saulė nusileis arba nustos pūsti vėjas.\n\nPastatyk bateriją, jog užtikrintum pastovų elektros tiekimą.</NeedBatteriesDesc>
+  <NeedJoySource>Nuoboduylys</NeedJoySource>
+  <NeedJoySourceDesc>Jūsų kolonistams reikia patenkinti savo norus pailsėti, bet jūs nepastatėte jokių linksmybių šaltinio.\n\nPadėkite jiems pastatydamami pasagų smeigę, šachmatų stalą, ar kitą linksmybių šaltinį.</NeedJoySourceDesc>
 
-  <BrawlerHasRangedWeapon>Brawleris turi šaunamajį ginklą</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>Vienas iš tavo kolonistų turi Brawlerio asmenybės bruožą, bet jis nešiojasi šaunamajį ginklą. Tai padarys juos labai nelaimingus.</BrawlerHasRangedWeaponDesc>
+  <NeedBatteries>Trūksta baterijų</NeedBatteries>
+  <NeedBatteriesDesc>Jūs turite saulės ar vėjo generatorių, tačiau jokių baterijų. Tai reiškia, jog prarasite elektros visada, kai saulė nusileis arba nustos pūsti vėjas.\n\nPastatykite bateriją, jog užtikrintumėte pastovų elektros tiekimą.</NeedBatteriesDesc>
+
+  <BrawlerHasRangedWeapon>Mušeika turi šaunamajį ginklą</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Vienas iš jūsų kolonistų turi mušeikos asmenybės bruožą, bet jis nešiojasi šaunamajį ginklą. Tai padarys jį labai nelaimingu.</BrawlerHasRangedWeaponDesc>
 
   <ShieldUserHasRangedWeapon>Skydo naudotojas turi šaunamajį ginklą</ShieldUserHasRangedWeapon>
-  <ShieldUserHasRangedWeaponDesc>Vienas iš tavo kolonistų turi skydo diržą ir nešiojasi šaunamajį ginklą . Jie negalės šaudyti pro savo skydą (Išskyrūs taikinius kurie jau liečia kolonistą).</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>Vienas iš jūsų kolonistų turi skydo diržą ir nešiojasi šaunamajį ginklą. Jie negalės šaudyti pro savo skydą (Išskyrūs taikinius, kurie jau liečia kolonistą).</ShieldUserHasRangedWeaponDesc>
 
-  <NeedResearchProject>Need research project</NeedResearchProject>
-  <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project.</NeedResearchProjectDesc>
+  <NeedResearchProject>Reikia tiriamojo objekto</NeedResearchProject>
+  <NeedResearchProjectDesc>Jūs turite įrangą skirtą tyrinėjimui, bet nepasirinkote projekto.\n\nAtidarykite tyrimo meniu ir pasirinkite objektą.</NeedResearchProjectDesc>
   
   <ColonistsIdle>{0} Kolonistas laisvas</ColonistsIdle>
-  <ColonistsIdleDesc>Šis kolonistas yra laisvas:\n\n{0}\nTikriausiai tau reikėtu surasti jam darbo .</ColonistsIdleDesc>
+  <ColonistsIdleDesc>Šis kolonistas lasivai klaidžioja:\n\n{0}\nReikėtų surasti jam darbo .</ColonistsIdleDesc>
 
-  <ColonistNeedsTreatment>Colonistui reikia gydimo</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>Šiems kolonistams reikia medicininės pagalbos. Be jos, jie gali mirti arba jų žaizdos gali likti ilgam laikui.\n\n{0}\nIšgydik juos nusiūsdamas į medicininę lovą.\n\n(Iš pradžių, paskirk medicininę lovą pasirenkant ją ir paskiriant ją į medicininę lovą. Tada, pasirink sužeistus kolonistus ir dešiniuoju pelės klavišu paspaudus padarykite juos pacientu.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatment>Kolonistui reikia gydymo</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>Šiems kolonistams reikia medicininės pagalbos. Be jos, jie gali mirti arba jų žaizdos gali likti ilgam laikui.\n\n{0}\nGydykite juos nusiūsdamas į medicininę lovą.\n\n(Iš pradžių, paskirkite medicininę lovą pasirenkant ją ir paskiriant ją į medicininę lovą. Tada, pasirink sužeistus kolonistus ir dešiniuoju pelės klavišu paspaudus paskirkite juos pacientu.)</ColonistNeedsTreatmentDesc>
 
-  <AlertHypothermia>Hypotermia</AlertHypothermia>
+  <AlertHypothermia>Hipotermija</AlertHypothermia>
   <AlertHypothermiaDesc>Šie kolonistai kenčia nuo Hipotermijos.\n\n{0}\nPasirūpinkite, jog jų apranga yra tinkama šiam sezonui ir ar vidinės patalpos yra pakankamai šildomos.</AlertHypothermiaDesc>
   
   <PatientsAwaitingMedicalOperation>{0} Pacientai laukia operacijos</PatientsAwaitingMedicalOperation>
-  <PatientsAwaitingMedicalOperationDesc>Šie pacientai laukia operacijos:\n\n{0}\nPasirūpink, jog turi visus reikiamus įrankius ir laisvą daktarą.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperationDesc>Šie pacientai laukia operacijos:\n\n{0}\nPasirūpinkite, jog turite visus reikiamus įrankius ir laisvą daktarą.</PatientsAwaitingMedicalOperationDesc>
 
   <FireInHomeArea>Ugnis!</FireInHomeArea>
   <FireInHomeAreaDesc>Užsiliepsnojo ugnis namų zonoje!.</FireInHomeAreaDesc>
 
   <PawnsWithLifeThreateningDisease>Sunki liga</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>Žmonės yra rizikoje mirti dėl sunkios ligos:\n\n{0}\nPasirūpink, jog jie gauna patį geriausią medicininį gydimą.</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>Žmonės yra rizikoje mirti dėl sunkios ligos :\n\n{0}\nJei galima, pasvarstykite apie ifenkuotų galūnių amputavimą arba galūnių pakeitimą, jog išlaikytumėte kolonistus gyvus.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>Žmonės yra rizikoje mirti dėl sunkios ligos:\n\n{0}\nPasirūpinkite, jog jie gauna patį geriausią medicininį gydymą.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Žmonės yra rizikoje mirti dėl sunkios ligos :\n\n{0}\nJei galima, pasvarstykite apie infektuotų galūnių amputavimą arba galūnių pakeitimą, jog išlaikytumėte kolonistus gyvus.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <BilliardsNeedsSpace>Billiardui reikia vietos</BilliardsNeedsSpace>
-  <BilliardsNeedsSpaceDesc>Vienas tavo bilijardo stalų yra šalia kliūties kuri neleis tavo kolonistams naudotis stalu.\n\nAplink bilijardo stalą turi būti tuščia, kad galėtum juo naudotis.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpaceDesc>Vienas jūsų biliardo stalų yra šalia kliūties, kuri neleis tavo kolonistams naudotis stalu.\n\nAplink biliaardo stalą turi būti tuščia, kad galėtumėte juo naudotis.</BilliardsNeedsSpaceDesc>
 
   <HunterHasShieldAndRangedWeapon>Medžiotojas turi skydą ir šaunamajį ginklą </HunterHasShieldAndRangedWeapon>
-  <HunterHasShieldAndRangedWeaponDesc>Vienas tavo medžiotojų nešiojasi šaunamajį ginklą ir skydo diržą kuris neleidžia jam šaudyti.\n\nJie negalės medžioti nebent skydo diržas bus pašalintas.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeaponDesc>Vienas jūsų medžiotojų nešiojasi šaunamajį ginklą ir skydo diržą, kuris neleidžia jam šaudyti.\n\nJie negalės medžioti, nebent skydo diržas bus pašalintas.</HunterHasShieldAndRangedWeaponDesc>
 
   <NeedWarmClothes>Reikia šiltų drabužių</NeedWarmClothes>
-  <NeedWarmClothesDesc1>Bent jau {0} tavo kolonistų neturės šiltų drabužių kai ateis šaltasis sezonas.</NeedWarmClothesDesc1>
-  <NeedWarmClothesDesc1All>Visiems tavo kolonistams trūks šiltų drabužių kai ateis šaltasis sezonas.</NeedWarmClothesDesc1All>
-  <NeedWarmClothesDesc2>Lauko temperatura pasieks {0}.\n\nTu gali arba pasiūti šiltus drabužius arba nusipirkti juos iš prekiautojų.</NeedWarmClothesDesc2>
+  <NeedWarmClothesDesc1>Bent {0} iš jūsų kolonistų neturės šiltų drabužių, kai ateis šaltasis sezonas.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>Visiems jūsų kolonistams trūks šiltų drabužių, kai ateis šaltasis sezonas.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>Lauko temperatūra pasieks {0}.\n\nJūs galite arba pasiūti šiltus drabužius, arba nusipirkti juos iš prekiautojų.</NeedWarmClothesDesc2>
   
   <ImmobileCaravan>Nejudantis karavanas</ImmobileCaravan>
-  <ImmobileCaravanDesc>Vienas tavo karavanų negali pajudėti, nes nešasi per daug daiktų.\n\nTu vėl gali karavaną priversti judėti išmesdamas kelis daiktus daiktų lentelėje .</ImmobileCaravanDesc>
+  <ImmobileCaravanDesc>Vienas jūsų karavanų negali pajudėti, nes nešasi per daug daiktų.\n\nJūs vėl galite karavaną priversti judėti išmesdami kelis daiktus DAIKTŲ lentelėje .</ImmobileCaravanDesc>
+
+  <BuildingCantBeUsedRoofed>Pastatas nenaudojamas dėl stogo</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofedDesc>Vienas ar daugiau jūsų pastatų gali būti naudojami tik, jei jie yra be stogo, tačiau jie jį turi. Šis pastatas(-ai) nebus naudojami, kol nenuimsite stogo.</BuildingCantBeUsedRoofedDesc>
+
+  <AlertHeatstroke>Šilumos smūgis</AlertHeatstroke>
+  <AlertHeatstrokeDesc>Šie kolonistai kenčia nuo per didelio karščio:\n\n{0}\nNuveskite juos į vėsesnę vietą. Jūs galite atvėsinti kambarius su pasyviais arba elektriniais šaldikliais. Gilios požeminės vietos taip pat yra natūraliai vėsios, jei yra atskirtos durimis.</AlertHeatstrokeDesc>
+
+  <QuestPartMoodBelowThreshold>Nelaimingi svečiai</QuestPartMoodBelowThreshold>
+  <QuestPartMoodBelowThresholdDesc>Ši užduotis {0} reikalauja laikyti ši asmenį geroje nuotaikoje. Deja, jų nuotaika yra prasta. Pasirūpinkite, kad jie jaustųsi geriau:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   
+  <QuestPartShuttleLeaveDelay>Kosminis laivas iškeliaujia po {0}</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelayDesc>Kosminis laivas iškeliaus po {1}. Ši užduotis {0} reikalauja nugabenti šiuos asmenis arba daiktus į kosminį laivą, kol jis neišskrido:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+
+  <DisallowedBuildingInsideMonument>Monumentas bus sugriautas</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonumentDesc>Jūs pastatėte neleidžiamą pastatą viename jūsų monumentų. Monumentas bus laikomas sugriautu po {0}.</DisallowedBuildingInsideMonumentDesc>
+
+  <ActivatorCountdown>Atgalinio skaičiavimo aktivatorius {0}</ActivatorCountdown>
+  <ActivatorCountdownDesc>Yra atgalinio skaičiavimo aktivatorius, kuris ruošiasi pažadinti artimus mekanoidus.</ActivatorCountdownDesc>
+  <ActivatorCountdownMultiple>{0} atgalinio skaičiavimo aktivatoriai</ActivatorCountdownMultiple>
+  <ActivatorCountdownDescMultiple>Yra {0} atgalinio skaičiavimo aktivatoriai, kurie ruošiasi pažadinti artimus mekanoidus.</ActivatorCountdownDescMultiple>
+
+  <QuestExpiresSoon>Užduotis pasibaigs po {0}</QuestExpiresSoon>
+  <QuestExpiresSoonDesc>Ši užduotis '{0}' pasibaigs po {1}.</QuestExpiresSoonDesc>
 </LanguageData>
