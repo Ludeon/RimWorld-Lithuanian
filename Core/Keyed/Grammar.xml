@@ -1,0 +1,30 @@
+﻿<?xml version="1.1" encoding="utf-8" ?>
+<LanguageData>
+
+  <IndefiniteArticle></IndefiniteArticle>
+  <DefiniteArticle>šis</DefiniteArticle>
+  <IndefiniteForm>{0}</IndefiniteForm>
+  <DefiniteForm>šis{0}</DefiniteForm>
+
+  <Proits>tai</Proits>
+  <Prohis>jo</Prohis>
+  <Proher>jos</Proher>
+  <ProitsCap>Tai</ProitsCap>
+  <ProhisCap>Jo</ProhisCap>
+  <ProherCap>Jos</ProherCap>
+
+  <ProitObj>tai</ProitObj>
+  <ProhimObj>jį</ProhimObj>
+  <ProherObj>ją</ProherObj>
+  <ProitObjCap>Tai</ProitObjCap>
+  <ProhimObjCap>Jį</ProhimObjCap>
+  <ProherObjCap>Ją</ProherObjCap>
+
+  <Prohe>jis</Prohe>
+  <Proshe>ji</Proshe>
+  <Proit>tai</Proit>
+  <ProheCap>Jis</ProheCap>
+  <ProsheCap>Ji</ProsheCap>
+  <ProitCap>Tai</ProitCap>
+
+</LanguageData>

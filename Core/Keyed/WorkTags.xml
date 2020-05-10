@@ -1,0 +1,21 @@
+﻿<?xml version="1.1" encoding="utf-8" ?>
+<LanguageData>
+
+  <WorkTagNone>Jokio</WorkTagNone>
+  <WorkTagIntellectual>Intelektualinio</WorkTagIntellectual>
+  <WorkTagManualDumb>Kvailo</WorkTagManualDumb>
+  <WorkTagManualSkilled>Kvalifikuoto</WorkTagManualSkilled>
+  <WorkTagViolent>Smurtinio</WorkTagViolent>
+  <WorkTagCaring>Rūpestingo</WorkTagCaring>
+  <WorkTagSocial>Socialaus</WorkTagSocial>
+  <WorkTagAnimals>Darbo su gyvunais</WorkTagAnimals>
+  <WorkTagArtistic>Meninio</WorkTagArtistic>
+  <WorkTagCrafting>Rankdarbinio</WorkTagCrafting>
+  <WorkTagCooking>Maisto gaminimo</WorkTagCooking>
+  <WorkTagFirefighting>Ugnies gesinimo</WorkTagFirefighting>
+  <WorkTagCleaning>Tvarkymo</WorkTagCleaning>
+  <WorkTagHauling>Nešiojimo</WorkTagHauling>
+  <WorkTagPlantWork>Darbo su augalais</WorkTagPlantWork>
+  <WorkTagMining>Kalnakasybos</WorkTagMining>
+
+</LanguageData>

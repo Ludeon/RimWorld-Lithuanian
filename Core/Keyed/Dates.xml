@@ -1,0 +1,14 @@
+﻿<?xml version="1.1" encoding="utf-8" ?>
+<LanguageData>
+
+  <ClockTime>Laikas</ClockTime>
+  <ClockDate>Data</ClockDate>
+  <ClockYear>Metai</ClockYear>
+  <DateReadoutTip>Dienos, praėjusios nuo jūsų atvykimo: {0}\nDabartinis ketvirtis: {4}\nVietinis sezonas: {2}\n\nMetai yra padalinti į keturis ketvirčius po {3} dienas kiekviename. Ketvirčiai visur yra vienodi, o sezonai skirtingose vietose skirtingi.\n\nVietiniai sezonai kiekvienam ketvirčiui:\n{5}</DateReadoutTip>
+
+  <FullDate>{0} {1}, {2}</FullDate>
+	<DateReadout>{0} {1}, {2}</DateReadout>
+  <SeasonFullDate>{0} {1}</SeasonFullDate>
+  <WholeYear>Visi metai</WholeYear>
+  
+</LanguageData>

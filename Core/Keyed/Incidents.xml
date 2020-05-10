@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <LetterLabelAnimalInsanitySingle>Pakvaišės gyvūnas</LetterLabelAnimalInsanitySingle>
+  <AnimalInsanitySingle>Vietinis {0} pakvaišo. Jis puls visus kuriuos mato.</AnimalInsanitySingle>
+  <LetterLabelAnimalInsanityMultiple>Pakvaišę gyvūnai!</LetterLabelAnimalInsanityMultiple>
+  <AnimalInsanityMultiple>Kažkokia psichinė banga prabėgo pro kraštovaizdį. Tavo kolonistams viskas gerai, bet...\n\nIt Atrodo, jog daug {0}ų šioje teritorijoje išprotėjo.</AnimalInsanityMultiple>
+
+  <LetterLabelCropBlight>Amaras</LetterLabelCropBlight>
+  <CropBlight>Keistas amaras sunaikino visus tavo augalus.</CropBlight>
+
+  <LetterLabelMiracleHeal>Miracle</LetterLabelMiracleHeal>
+  <MiracleHeal>{0} patyrė stebuklingą atsigavimą!</MiracleHeal>
+
+  <!-- Enemy raids -->
+  <EnemyRaidWalkIn>Grupelė {0} iš {1} atvyko netoliese.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>Grupelė{0} iš {1} atvyko krentančiais kokonais.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>Grupelė {0} iš {1} nukrito tiesiai ant jūsų!</EnemyRaidCenterDrop>
+  <EnemyRaidLeaderPresent>Vienas iš {0} - {1}, Yra šios frakcijos lyderis.</EnemyRaidLeaderPresent>
+
+  <!-- Friendly raids -->
+  <FriendlyRaidWalkIn>Grupelė draugiškų {0} iš {1} atvyko netoliese.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>Grupelė draugiškų {0} iš {1} nuskrito iš orbitos netoliese.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>Grupelė draugiškų {0} iš {1} nukrito iš orbitos tiesiai ant jūsų!</FriendlyRaidCenterDrop>
+  <FriendlyRaidLeaderPresent>Vienas iš {0} - {1}, Yra šios frakcijos lyderis.</FriendlyRaidLeaderPresent>
+
+  <LetterLabelRefugeePodCrash>Išsigelbėjimo kokonas</LetterLabelRefugeePodCrash>
+  <RefugeePodCrash>Tu aptikai išsigelbejimo kokoną nukritusį netoliese.\n\nJei kažkas išgyveno smūgį bus sunkiai sužeisti.\n\nTu gali juos išgelbėti ir paleisti arba sugauti juos ir verbuoti arba pasilikti vegovės tikslais.</RefugeePodCrash>
+
+  <LetterLabelCargoPodCrash>Krovinių kokonai</LetterLabelCargoPodCrash>
+  <CargoPodCrash>Tu aptikai spiečių krovinių kokonų sudužusių šalia.\n\nGal rasi kažką naudingo nuolaužose.</CargoPodCrash>
+
+  <AnElectricalConduit>Elektrinis kanalas</AnElectricalConduit>
+  <ShortCircuit>Klaida viduje {0} sukėlė trupmą jungimą.\n\nVisi {1} Wd energijos sujungtose baterijose išsikrovė per didelį sprogimą.</ShortCircuit>
+  <ShortCircuitWasLarge>Didelis kiekis elektros sukelė galingą sprogimą.</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge> Tai labai didelis sprogimas. Wow.</ShortCircuitWasHuge>
+
+  <TraderArrival>Prekiautojų laivas skrenda pro šalį.\n\nJie žinomi kaip {0}. Jie yra {1}.</TraderArrival>
+
+  <SingleTravelerPassing> {0} iš{1} keliauja pro šali. [PAWN_pronoun] is named {2}.</SingleTravelerPassing>
+  <GroupTravelersPassing>Grupelė keliautojų {0} keliauja pro šalį</GroupTravelersPassing>
+
+  <LetterLabelSingleVisitorArrives>Lankytojas</LetterLabelSingleVisitorArrives>
+  <SingleVisitorArrives> {0} iš {1} lanko koloniją.\n\n[PAWN_pronoun] is named {2}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] atrodo, kad jis turi kelis daiktus kuriuos nori parduoti.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] yra frakcijoslyderis.</SingleVisitorArrivesLeaderInfo>
+  <LetterLabelGroupVisitorsArrive>Lankytojai</LetterLabelGroupVisitorsArrive>
+  <GroupVisitorsArrive>Grupelė iš {0} lanko koloniją.{1}{2}</GroupVisitorsArrive>
+  <GroupVisitorsArriveTraderInfo>\n\nAtrodom kad jie turi kelis daiktus kuriuos nori parduoti.</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveLeaderInfo>\n\nei vienas iš lankytojų - {0}, yra frakcijos lyderis.</GroupVisitorsArriveLeaderInfo>
+  <VisitorsLeaving>:ankytojai iš {0} išeina.</VisitorsLeaving>
+
+  <LetterLabelWandererJoin>Keliautojas prisijungia</LetterLabelWandererJoin>
+  <WandererJoin> {0} pavadinti [PAWN_nameDef] atvyko ir prisijungia prie tavo kolonijos. [PAWN_pronoun] yra {1}.</WandererJoin>
+
+  <LetterLabelManhunterPackArrived>Žmonių medžiotojų būrys</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>Burys žmones medžiojančiš {0}ų įžengė į teritoriją. Jie klaidžios po regijoną, medžiodami žmones.\n\nJie negali praeiti pro duris, taigi jeigu paliksi kolonistus už durų turėtum būti saugus. Jie nepuls neaktyvių šaudomūjų bokštelių, Taigi išjunk savo šaudomiuosius bokštus jeigu nori išsaugoti juos.\n\nJie paliks teritoriją už kelių dienų.</ManhunterPackArrived>
+  
+  <!-- Crashed ship part-->
+  <MessageAnimalInsanityPulse>Senovinė struktūra sudužo netoliese ir išmetė psichinį pulsą kuris vietinius gyvunus išvedė iš proto.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>Sudužęs laivas išmetė fokusuotą fizinį kuris išvedė kolonistą {0} iš proto.</LetterShipPartDroveColonistInsane>
+  <AwokeDaysAgo>Pabudęs prieš {0} dienų</AwokeDaysAgo>
+  <PsychicDroneLevel>Psichinio zvimbimo lygis: {0}</PsychicDroneLevel>
+  <PsychicDroneLevelLow>Žemas</PsychicDroneLevelLow>
+  <PsychicDroneLevelMedium>Vidutinis</PsychicDroneLevelMedium>
+  <PsychicDroneLevelHigh>Aukštas</PsychicDroneLevelHigh>
+  <PsychicDroneLevelExtreme>Extremalus</PsychicDroneLevelExtreme>
+  <LetterLabelPsychicDroneLevelIncreased>Žyzimas sustiprėja</LetterLabelPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Sudužusi laivo dalis dabar siunčia dar stipresnį psichinį zvimbimą.Kiekvienas žmogus teritorijoje jaučiasi labiau sutrikęs, išsigandęs ir paranojiškas.</LetterPsychicDroneLevelIncreased>
+  
+  <!-- Agent revealed -->
+  <LetterLabelAgentRevealed>Agentas</LetterLabelAgentRevealed>
+  <LetterAgentRevealed>{0} atsiskleidė kaip tavo priešų agentas {1}.\n\nJie dabar bandys pabėgti.</LetterAgentRevealed>
+
+  <!-- Distant psychic drone -->
+  <LetterLabelPsychicDrone>Psichinis zvimbimas</LetterLabelPsychicDrone>
+  <LetterIncidentPsychicDrone>Kiekvienas kolonistas {0} lyties kenčia iš skausmo!\n\nKažkoks tolimas neapykantos variklis suaktyvėjo. Jis siunčia stiprų psichologinį zvimbimą per šį regioną, tokiu dažnius kuris paveikia tik {0} lytį. Kelias dienas, kai kurių žmonių nuotaika bus kur kas blogesnė.</LetterIncidentPsychicDrone>
+
+  <LetterLabelPsychicSoothe>Psichinis raminimas</LetterLabelPsychicSoothe>
+  <LetterIncidentPsychicSoothe>Kiekvienas kolonistas {0} lyties šypsosi iš ramesio!\n\nKažkoks tolimas laimės variklis suaktyvėjo. Jis daro stiprų psichinį poveikį tokiu dažniu kuris paveikia tik  {0} lytį.Kelias dienas kai kurių žmonių nuotaika bus kur kas geresnė.</LetterIncidentPsychicSoothe>
+
+  <!-- Beavers -->
+  <LetterLabelBeaversArrived>Bebrai!</LetterLabelBeaversArrived>
+  <BeaversArrived>Grupelė išalkusių alfa bebrų atkeliavo į šia teritoriją.\n\nPabandyk juos pašalinti kol jie nesuvalgė visų medžių.</BeaversArrived>
+  
+  <!-- Refugee chased -->
+	<RefugeeChasedTitle>Pabėgelis nusivytas iš {0}</RefugeeChasedTitle>
+  <RefugeeChasedInitial> {1} pavadintas {0} skambina tau netoliese. [PAWN_pronoun] jis yra persekiojamas piratų {2} iš {3}!\n\n[PAWN_pronoun] maldauja apsaugos ir prisijunks prie tavo kolonijos. Biologiškai, jis yra {4} metų.\n\nBūk ispėtas - jeigu priimsi , turėsi atbaidyti  {2} nuo jo.</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>Pasiūlyti apsaugą</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>Ignoruoti šią žinutę</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>{0} rėkia iš panikos per mažą garsiakalbį iki tol kol tu išjungi transliaciją.</RefugeeChasedRejected>
+
+  <!-- Self-tame -->
+  <LetterLabelAnimalSelfTame>{0} pats-prisijaukino</LetterLabelAnimalSelfTame>
+  <LetterAnimalSelfTame>{0} tapo prijaukintas.</LetterAnimalSelfTame>
+  <LetterAnimalSelfTameAndNameNumerical>{0} tapo prijaukintas. jis dabar pavadintas  {1}.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>{0} Tapo prijaukintas. Kolonistai nusprendė jį pavadinti {1}.</LetterAnimalSelfTameAndName>
+
+  <!-- Farm animals wander in -->
+  <LetterLabelFarmAnimalsWanderIn>{0}i prisijungia</LetterLabelFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>Grupelė{0}s, palikti arba pamesti , atklydo į šią teritoriją.\n\nJie atrodo pripratę prie žmonių ir prisijungia.</LetterFarmAnimalsWanderIn>
+  
+  <!-- Thrumbo passes -->
+  <LetterLabelThrumboPasses>Reti dinozaurai</LetterLabelThrumboPasses>
+  <LetterThrumboPasses>Maža grupelė retų dinozaurų atklydo į šia teritoriją .\n\nPNatūraliai taikūs, šie reti gyvūnai yra labai pavojingi kai jaučia pavojų. Kai kurie prekiautojai pasiryžę sumokėti didelius pinigus už odą ir ragus.\n\nDinozaurai išvyks po kelių dienų.</LetterThrumboPasses>
+  
+  <!-- Trader caravan -->
+  <LetterLabelTraderCaravanArrival>{1} iš {0}</LetterLabelTraderCaravanArrival>
+  <LetterTraderCaravanArrival>Karavanas iš {0} artinasi. jie yra {1}.\n\nJie pabūs kolonijoje kelias dienas prieš išvykstant. Tu gali juos užpulti, tačiau tai supygdis jų frakciją!</LetterTraderCaravanArrival>
+  
+  <!-- Building breaks down -->
+  <LetterLabelBuildingBrokenDown>Avarija: {0}</LetterLabelBuildingBrokenDown>
+  <LetterBuildingBrokenDown>Viena iš tavo mašinų ({0}) sulūžo. Ji neveiks kol kolonistas su pataisymo įsakymų jos nesutvarkys.</LetterBuildingBrokenDown>
+  
+  <!-- Ransom demand -->
+	<RansomDemandTitle>Išpirkos prašymas ties {0}</RansomDemandTitle>
+	<RansomDemand>{1} kontaktuoja su tavim per radiją. Jie laiko buvusį kolonistą {0} už išpirką.\n\nJie jį pales atgal mainais į {2} sidabro.</RansomDemand>
+  <RansomDemand_Accept>Sutikti</RansomDemand_Accept>
+  <RansomDemand_Reject>Atsisakyti</RansomDemand_Reject>
+  
+  <!-- Journey -->
+  <JourneyOffer>Draugiškas AI iš tavo praeities tau atsiuntė žinutę!\n\nJis atskleidžia erdvėlaivį paslėptą šioje planetoje ir siunčia tau jo koordinates.\n\nJei keliausi iki laivo, Charlonas perkels tave iš šio Rim pasaulio, į žvaigždes.</JourneyOffer>
+
+  <!-- Caravan meeting -->
+	<CaravanMeetingTitle>Karavanų susitikimas ties {0}</CaravanMeetingTitle>
+	<CaravanMeeting>Tavo karavanas susitiko taikiai su karavanu iš  {0}. Kitas karavanas sudarytas iš:\n\n{1}</CaravanMeeting>
+  <CaravanMeeting_Trade>Mainytis</CaravanMeeting_Trade>
+  <CaravanMeeting_Attack>Pulti</CaravanMeeting_Attack>
+  <CaravanMeeting_MoveOn>Keliauti toliau</CaravanMeeting_MoveOn>
+  
+  <!-- Caravan request -->
+  <LetterLabelCaravanRequest>Karavano prašymas</LetterLabelCaravanRequest>
+  <LetterCaravanRequest>Netoliese esanti gyvenvietė, {0}, kontaktuoja su tavim dėl ypatingo prašymo. Jie norėtų nusipirkti:\n\n  {1}\n\nAtsilyginimui jie siūlo:\n\n  {2}\n\nŠis prašymas baigsis galioti po: {3}\n\nJeigu nori atlikti mainus, nusiūsk karavaną su minėtais reikmenimis. Gali peržiūrėti pasiulymą paspaudės {0} ant pasaulio žemėlapio.</LetterCaravanRequest>
+  <CaravanRequestInfo>Requesting: {0}, Reward: {1} ({2} left)</CaravanRequestInfo>
+
+  <!-- Caravan demand -->
+  <CaravanDemandTitle>Karavanas prašytas ties {0}</CaravanDemandTitle>
+  <CaravanDemand>Tavo karavanas buvo užpultas iš pasalų  {1} {3} iš {0}. Jie puls nebent jiems duosi:\n\n{2}</CaravanDemand>
+  <CaravanDemand_Give>Duoti ir praeiti</CaravanDemand_Give>
+  <CaravanDemand_Fight>Atsisakyti ir kovoti</CaravanDemand_Fight>
+
+  <!-- Temporary item stash -->
+  <ItemStashQuestTitle>Daiktų slėptuvės galimybė</ItemStashQuestTitle>
+  <ItemStashQuest_Accept>Sutikti</ItemStashQuest_Accept>
+  <ItemStashQuest_Reject>Atmesti</ItemStashQuest_Reject>
+  <ItemStashQuestFeeDemand>{0} vilisi mums pasakyti kur yra daiktų slėptuvė už {1} sidabro.</ItemStashQuestFeeDemand>
+  <ItemStashSitePart_Unknown>Dėja, {0} neturi supratimo kažkas gali saugoti sleptuvę.</ItemStashSitePart_Unknown>
+  <ItemStashSitePart_Nothing>{0} sako, jog sleptuvę nesaugoma.</ItemStashSitePart_Nothing>
+  <ItemStashSitePart_Outpost>{0} sako, jog ten yra priešų stovyklavietė netoliese.</ItemStashSitePart_Outpost>
+  <ItemStashSitePart_Turrets>{0} sako, jog sleptuvę yra apsupta priešų šaudomaisiais bokštais.</ItemStashSitePart_Turrets>
+  <ItemStashSitePart_Manhunters>{0} sako, jog ten yra grupelė klajojančių žmogžudžių gyvunų.</ItemStashSitePart_Manhunters>
+
+</LanguageData>

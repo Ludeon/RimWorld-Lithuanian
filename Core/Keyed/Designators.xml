@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <DesignatorCancel>Atšaukti</DesignatorCancel>
+  <DesignatorCancelDesc>Atšaukti paskirtą pastatą, kasimą, nešimą, derliaus nurinkimą, ir visas kitas paskirtis.</DesignatorCancelDesc>
+
+  <DesignatorCutPlants>Nupjauti augalus</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>Pažymi augalus, kurie bus nupjauti ir sunaikinti. Augalas bus visiškai pašalintas ir maisto ar išteklių derlius bus nuimtas. </DesignatorCutPlantsDesc>
+
+  <DesignatorDeconstruct>Dekonstruoti</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Dekonstruoti tai ir atgauti dalį objekto išteklių.</DesignatorDeconstructDesc>
+
+  <DesignatorUninstall>Pašalinti</DesignatorUninstall>
+  <DesignatorUninstallDesc>Iškonstruoti tai, kad objektas galėtų būti perkeltas, parduotas ar perkonstruotas kažkur kitur.</DesignatorUninstallDesc>
+
+  <DesignatorHarvest>Nuimti derlių</DesignatorHarvest>
+  <DesignatorHarvestDesc>Pažymi augalus, kad jų derlius būtų nurinktas.</DesignatorHarvestDesc>
+
+  <DesignatorHarvestWood>Kirsti medieną</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Pažymi medžius, kad jie būtų nukirsti dėl jų medienos.</DesignatorHarvestWoodDesc>
+
+  <DesignatorHaulThings>Nešti daiktus</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Pažymi akmens gabalus ar kitus daiktus, kad jie būtų nunešti į dempingo plotus. Nereikalinga maistui ar lavonams, kurie visada yra nunešami.</DesignatorHaulThingsDesc>
+  <MustHaulHaulables>Galima pažymėti tik objektus, kuriuos galima nunešti, tačiau kurie nėra nunešami automatiškai (kaip akmens gabalus).</MustHaulHaulables>
+
+  <DesignatorHunt>Medžioti</DesignatorHunt>
+  <DesignatorHuntDesc>Pažymi gyvūnus, kad jie būtų sumedžioti tavo medžiotojų.</DesignatorHuntDesc>
+
+  <DesignatorMine>Kasti</DesignatorMine>
+  <DesignatorMineDesc>Pažymi akmens plotą, kad jis būtų iškastas.</DesignatorMineDesc>
+
+  <DesignatorSmoothFloor>Išlyginti grindis</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Pažymėti grubų akmeninį reljefą, kad jis būtų išlygintas</DesignatorSmoothFloorDesc>
+
+  <DesignatorPlan>Planas</DesignatorPlan>
+  <DesignatorPlanDesc>Padėti planavimo žymėjimus. Jie nieko nedaro, tik padeda suplanuoti ateities plėtrą.</DesignatorPlanDesc>
+
+  <DesignatorPlanRemove>Pašalinti planus</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Pašalinti planavimo žymėjimus.</DesignatorPlanRemoveDesc>
+
+  <DesignatorAreaHomeExpand>Išplėsti namų teritoriją</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpandDesc>Kolonistai taisys pastatus, valys grindis ir gesins gaisrus tik namų teritorijoje.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeClear>Pašalinti namų teritoriją</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClearDesc>Pašalina namų teritoriją. Kolonistai daugiau nebevalys, nebetaisys bei nebegesins čia gaisrų.</DesignatorAreaHomeClearDesc>
+
+  <DesignatorAreaBuildRoofExpand>Praplėsti stogo statymo teritoriją</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>Kolonistai statys stogus šioje teritorijoje.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofClear>Pašalinti stogo statymo teritoriją</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofClearDesc>Pašalinta stogo statymo teritoriją. Esantys stogai liks, bet kolonistai nestatys naujų stogų.</DesignatorAreaBuildRoofClearDesc>
+
+  <DesignatorAreaNoRoofExpand>Praplėsti jokio stogo teritoriją</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>Kolonistai pašalins stogus šioje teritorijoje (išskyrus kalnus esančius virš galvos, kurie negali būti pašalinti).</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofClear>Pašalinti jokio stogo teritoriją</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClearDesc>Pašalins jokio stogo teritoriją, kad kolonistai daugiau nešalintų stogų.</DesignatorAreaNoRoofClearDesc>
+
+  <DesignatorAreaSnowClearExpand>Praplėsti sniego valymo teritoriją</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpandDesc>Create a area which colonists will try to keep clear of snow.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearClear>Valyti sniego valymo teritoriją</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow.</DesignatorAreaSnowClearClearDesc>
+
+  <DesignatorExpandAreaAllowed>Praplėsti leistiną teritoriją</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>Valyti leistiną teritoriją</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorClearAreaAllowedDesc>
+  <ManageAreas>Tvarkyti teritorijas...</ManageAreas>
+
+  <DesignatorGrowingZoneDesc>Create a zone where your colonists will try to grow a certain kind of plant.</DesignatorGrowingZoneDesc>
+
+  <DesignatorZoneCreateStorageResourcesDesc>Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <DesignatorZoneCreateStorageDumpingDesc>Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageDumpingDesc>
+
+  <DesignatorZoneDelete>Naikinti zonas</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Remove zones, like stockpile zones or growing zones.</DesignatorZoneDeleteDesc>
+  
+  <DesignatorClaim>Užimti</DesignatorClaim>
+  <DesignatorClaimDesc>Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists.</DesignatorClaimDesc>
+
+  <DesignatorRemoveFloor>Pašalinti grindis</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>Remove floors to reveal the terrain underneath.</DesignatorRemoveFloorDesc>
+
+  <DesignatorStrip>Nurengti</DesignatorStrip>
+  <DesignatorStripDesc>Strip apparel from corpses and the wounded.</DesignatorStripDesc>
+
+  <DesignatorRearmTrap>Atstatyti spąstą</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>Rearm a sprung trap so it can be triggered again.</DesignatorRearmTrapDesc>
+
+  <DesignatorOpen>Atidaryti</DesignatorOpen>
+  <DesignatorOpenDesc>Atverti užpildytus kapus ar konteinerius.</DesignatorOpenDesc>
+  
+  <DesignatorSlaughter>Paskersti</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>Paskersti prijaukintą gyvūną.</DesignatorSlaughterDesc>
+
+  <DesignatorTame>Prisijaukinti</DesignatorTame>
+  <DesignatorTameDesc>Prisijaukinti laukinį gyvūną.</DesignatorTameDesc>
+
+
+  <!-- Failure messages -->
+  <UnchosenStuff>Nepasirinkta medžiaga</UnchosenStuff>
+  <TooCloseToMapEdge>Per arti prie žemėlapio krašto.</TooCloseToMapEdge>
+  <OutOfBounds>Už ribų.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Negalima padėti neatrastose vietose.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Interakcijos vieto yra blokuojama {0}.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Interakcijos vieta yra už ribų.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Interakcijos vieta bus blokuojama {0}.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} blokuotu {1}'s interakcijos vietą.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>Reljefas čia jau yra {0}.</TerrainIsAlready>
+  <TerrainBeingSmoothed>Reljefas jau yra pažymėtas lyginimui.</TerrainBeingSmoothed>
+  <IdenticalThingExists>Identiškas daiktas jau egzistuoja čia.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Identiškas planas jau egzistuoja čia</IdenticalBlueprintExists>
+  <TerrainCannotSupport>Reljefas čia negali palaikyti šito.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Vieta jau užimta.</SpaceAlreadyOccupied>
+  <SpaceBeingSmoothed>Vieta yra lyginama.</SpaceBeingSmoothed>
+  <TerrainMustBeRemovable>Turi pažymėti pašalinamas grindis.</TerrainMustBeRemovable>
+  
+  
+  <!-- Mouse attachments -->
+  <ExpandOrCreateZone>Išplėsti {0} arba\nSukurti naują {1}</ExpandOrCreateZone>
+  <CreateNewZone>Sukurti naują {0}</CreateNewZone>
+  
+  
+  <!-- Desc helpers -->
+  <TransmitsPower>Perduoda elektrą</TransmitsPower>
+
+
+</LanguageData>
