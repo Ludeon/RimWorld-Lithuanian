@@ -1,4 +1,4 @@
-﻿<?xml version="1.1" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
 	<ClickToJumpToProblem>Spustelėkite, kad nušoktumėte prie problemos.</ClickToJumpToProblem>
@@ -71,8 +71,8 @@
   <CurrentExpectationsAndRecreation>Dabartiniais lūkesčiai ({0}), kiekviena tolerancija krenta {1} kiekvieną dieną nemiegant. {2} rekreacinių tipų turėjimas yra rekomenduotinas.</CurrentExpectationsAndRecreation>
   <bored>Nuobodžiauja</bored>
 
-  <NeedJoySource>Nuoboduylys</NeedJoySource>
-  <NeedJoySourceDesc>Jūsų kolonistams reikia patenkinti savo norus pailsėti, bet jūs nepastatėte jokių linksmybių šaltinio.\n\nPadėkite jiems pastatydamami pasagų smeigę, šachmatų stalą, ar kitą linksmybių šaltinį.</NeedJoySourceDesc>
+  <Boredom>Nuoboduylys</Boredom>
+  <BoredomDesc>Šiems kolonistams arba trūksta rekreacijos, arba yra priskirti prie reakreacijos, bet jiems ji yra atsibodusi::\n\n{0}\n\nPateikite jiems įvaresnės rekreacinės veiklos.\n\nDabar esantys rekreacijos tipai kolonistams {PAWN_labelShort}:\n\n{2}</BoredomDesc>
 
   <NeedBatteries>Trūksta baterijų</NeedBatteries>
   <NeedBatteriesDesc>Jūs turite saulės ar vėjo generatorių, tačiau jokių baterijų. Tai reiškia, jog prarasite elektros visada, kai saulė nusileis arba nustos pūsti vėjas.\n\nPastatykite bateriją, jog užtikrintumėte pastovų elektros tiekimą.</NeedBatteriesDesc>
@@ -88,6 +88,9 @@
   
   <ColonistsIdle>{0} Kolonistas laisvas</ColonistsIdle>
   <ColonistsIdleDesc>Šis kolonistas lasivai klaidžioja:\n\n{0}\nReikėtų surasti jam darbo .</ColonistsIdleDesc>
+
+  <CaravanIdle>Karavanas be tikslo</CaravanIdle>
+  <CaravanIdleDesc>Šie karavanai laukia, kol paskirsite jiems kelionės tikslą:\n\n{0}</CaravanIdleDesc>
 
   <ColonistNeedsTreatment>Kolonistui reikia gydymo</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>Šiems kolonistams reikia medicininės pagalbos. Be jos, jie gali mirti arba jų žaizdos gali likti ilgam laikui.\n\n{0}\nGydykite juos nusiūsdamas į medicininę lovą.\n\n(Iš pradžių, paskirkite medicininę lovą pasirenkant ją ir paskiriant ją į medicininę lovą. Tada, pasirink sužeistus kolonistus ir dešiniuoju pelės klavišu paspaudus paskirkite juos pacientu.)</ColonistNeedsTreatmentDesc>
