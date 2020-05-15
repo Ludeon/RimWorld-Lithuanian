@@ -1,15 +1,15 @@
-﻿<?xml version="1.1" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <IndefiniteArticle></IndefiniteArticle>
-  <DefiniteArticle>šis</DefiniteArticle>
+  <DefiniteArticle></DefiniteArticle>
   <IndefiniteForm>{0}</IndefiniteForm>
-  <DefiniteForm>šis{0}</DefiniteForm>
+  <DefiniteForm>{0}</DefiniteForm>
 
-  <Proits>tai</Proits>
+  <Proits>jo</Proits>
   <Prohis>jo</Prohis>
   <Proher>jos</Proher>
-  <ProitsCap>Tai</ProitsCap>
+  <ProitsCap>Jo</ProitsCap>
   <ProhisCap>Jo</ProhisCap>
   <ProherCap>Jos</ProherCap>
 
@@ -26,5 +26,15 @@
   <ProheCap>Jis</ProheCap>
   <ProsheCap>Ji</ProsheCap>
   <ProitCap>Tai</ProitCap>
+
+  <ClauseSequence2>{0} ir {1}.</ClauseSequence2>
+  <ClauseSequence3>{0}. Taip pat, {1} ir {2}.</ClauseSequence3>
+  <ClauseSequence4>{0} ir {1}. Papildomai {2} ir {3}.</ClauseSequence4>
+  <ClauseSequence5>{0} ir {1}. Papildomai, {2} ir {3}. Galiausiai, {4}.</ClauseSequence5>
+  <ClauseSequence6>{0}. {1} ir {2}. Taip pat, {3} ir {4}. Galiausiai, {5}.</ClauseSequence6>
+  <ClauseSequence7>{0} ir {1}. {2} ir {3}. Taip pat, {4} ir {5}. Galiausiai, {6}.</ClauseSequence7>
+  <ClauseSequence8>{0} ir {1}. Taip pat, {2} ir {3}. {4} ir {5}. Galiausiai, {6} ir {7}.</ClauseSequence8>
+
+  <XorY>{0} arba {1}</XorY>
 
 </LanguageData>
