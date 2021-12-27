@@ -4,6 +4,6 @@
   <friendlyNameEnglish>Lithuanian</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
   <languageWorkerClass>LanguageWorker_Lithuanian</languageWorkerClass>
-  <credits>
-  </credits>
+  <credits>Kreditai<credits>
+  </credits>/Kreditai</credits>
 </LanguageInfo>
