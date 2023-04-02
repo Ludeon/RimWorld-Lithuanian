@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <LetterDay>d</LetterDay>
+  <LetterHour>h</LetterHour>
+  <LetterMinute>m</LetterMinute>
+  <LetterSecond>s</LetterSecond>
+  <LetterYear>y</LetterYear>
+
+  <DaysLower>dienos</DaysLower>
+  <HoursLower>valandos</HoursLower>
+  <SecondsLower>sekundės</SecondsLower>
+
+  <SeasonSpring>pavasaris</SeasonSpring>
+  <SeasonSummer>vasara</SeasonSummer>
+  <SeasonFall>ruduo</SeasonFall>
+  <SeasonWinter>žiema</SeasonWinter>
+  <SeasonPermanentSummer>amžina vasara</SeasonPermanentSummer>
+  <SeasonPermanentWinter>amžina žiema</SeasonPermanentWinter>
+
+  <QuadrumAprimay>Aprimay</QuadrumAprimay>
+  <QuadrumJugust>Jugust</QuadrumJugust>
+  <QuadrumSeptober>Septober</QuadrumSeptober>
+  <QuadrumDecembary>Decembary</QuadrumDecembary>
+
+  <QuadrumAprimay_Short>Apr</QuadrumAprimay_Short>
+  <QuadrumJugust_Short>Jug</QuadrumJugust_Short>
+  <QuadrumSeptober_Short>Sep</QuadrumSeptober_Short>
+  <QuadrumDecembary_Short>Dec</QuadrumDecembary_Short>
+  
+  <Born>Gimė: {0}</Born>
+  <AgeChronological>Chronologinis amžius: {0} metai, {1} pusmėnesiai, {2} dienos</AgeChronological>
+  <AgeBiological>Biologinis amžius: {0} metai, {1} pusmėnesiai, {2} dienos</AgeBiological>
+
+  <!-- Date periods -->
+  <Period1Year>1 metas</Period1Year>
+  <PeriodYears>{0} metai</PeriodYears>
+  <Period1Quadrum>1 pusmėnesis</Period1Quadrum>
+  <PeriodQuadrums>{0} pusmėnesiai</PeriodQuadrums>
+  <Period1Day>1 diena</Period1Day>
+  <PeriodDays>{0} dienos</PeriodDays>
+  <Period1Hour>1 valanda</Period1Hour>
+  <PeriodHours>{0} valandos</PeriodHours>
+  <Period1Second>1 sekundė</Period1Second>
+  <PeriodSeconds>{0} sekundės</PeriodSeconds>
+
+  <!-- Misc -->
+  <Started>Pradėta</Started>
+  <Lasted>Truko</Lasted>
+  <OccurredTimeAgo>atsitiko prieš {0}</OccurredTimeAgo>
+  <TimeAgo>prieš {0}</TimeAgo>
+  
+</LanguageData>
