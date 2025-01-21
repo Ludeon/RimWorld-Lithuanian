@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burned stump -->
+  <BurnedTree.label>apdegęs kelmas</BurnedTree.label>
+  <!-- EN: A burned tree stump. It's ugly and yields very little usable wood. -->
+  <BurnedTree.description>Apdegęs medžio kelmas. Jis yra negražus ir iš jo gaunama labai mažai tinkamos naudoti medienos.</BurnedTree.description>
+  
+  <!-- EN: chopped stump -->
+  <ChoppedStump.label>nukirstas kelmas</ChoppedStump.label>
+  <!-- EN: A stump left behind after a tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <ChoppedStump.description>Nuvertus medį likęs kelmas. Kelmą galima iškasti, bet iš jo gaunama labai mažai tinkamos naudoti medienos. Paliktas lauke, kelmas laikui bėgant supus.</ChoppedStump.description>
+  
+  <!-- EN: dye -->
+  <Dye.label>dažai</Dye.label>
+  <!-- EN: Dye extracted from a tinctoria plant. It can be used to change the color of walls, buildings, and more. -->
+  <Dye.description>Dažai išgauti iš indigažolės augalo. Jais galima pakeisti sienų, pastatų ir kitų dalykų spalvą.</Dye.description>
+  
+  <!-- EN: ambrosia bush -->
+  <Plant_Ambrosia.label>ambrozijos krūmas</Plant_Ambrosia.label>
+  <!-- EN: A rare wild bush which yields the ambrosia fruit. Ambrosia fruit is delicious and produces a drug-like mood boost. Ambrosia cannot be farmed, which makes wild ambrosia groves very valuable.\n\nIts rarity, beauty, and desirability are why ambrosia was named after the food of the ancient Greek gods. -->
+  <Plant_Ambrosia.description>Retas laukinis krūmas, brandina ambrozijos vaisius. Ambrozijos vaisiai yra skanūs ir sukelia į narkotikų poveikį primenančią pakeltą nuotaiką. Ambrozija negali būti auginama, todėl laukinės ambrozijos giraitės yra labai vertingos.\n\nDėl jos retumo, grožio ir geidžiamumo ambrozija buvo pavadinta senovės graikų dievų maisto vardu.</Plant_Ambrosia.description>
+  
+  <!-- EN: tinctoria -->
+  <Plant_Tinctoria.label>indigažolė</Plant_Tinctoria.label>
+  <!-- EN: A genetically-engineered flower-like crop which secretes a self-altering dye. Tinctoria dye can be coaxed into different colors and used to change the color of walls, buildings, and more. -->
+  <Plant_Tinctoria.description>Genetiškai modifikuotas į gėlę panašus kultūrinis augalas, išskiriantis savaime besikeičiančius dažus. Indigažolės dažai gali būti perdaryti į įvairias spalvas ir naudojami sienų, pastatų ir kitų dalykų spalvoms pakeisti.</Plant_Tinctoria.description>
+  
+  <!-- EN: smashed stump -->
+  <SmashedStump.label>sudaužytas kelmas</SmashedStump.label>
+  <!-- EN: The remnants of a tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <SmashedStump.description>Kas liko iš medžio, kuris buvo sunaikintas dėl žalos. Negražus. Kelmą galima iškasti, bet iš jo gaunama labai mažai tinkamos naudoti medienos. Paliktas lauke, kelmas laikui bėgant supus.</SmashedStump.description>
+  
+</LanguageData>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: collapsed rocks -->
+  <CollapsedRocks.label>nugriuvę akmenys</CollapsedRocks.label>
+  <!-- EN: Collapsed rocks, packed tightly enough to hold up a roof. -->
+  <CollapsedRocks.description>Nugriuvę akmenys, susispaudę pakankamai tvirtai kad išlaikytų stogą.</CollapsedRocks.description>
+  
+  <!-- EN: glow pod -->
+  <GlowPod.label>švytinti kapsulė</GlowPod.label>
+  <!-- EN: A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies. -->
+  <GlowPod.description>Bioliuminescencinė kapsulė kurią pagamino didieji vabzdžiai. Ilgai šviečia, tada miršta.</GlowPod.description>
+  
+  <!-- EN: hive -->
+  <Hive.label>avilys</Hive.label>
+  <!-- EN: A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. -->
+  <Hive.description>Didžiųjų vabzdžių avilys. Jei bus aktyvuotas, per laiką jis išperės daugiau vabzdžių ir avilių, nors taip pat ir vertingo vabzdžiu želė.</Hive.description>
+  
+  <!-- EN: compacted machinery -->
+  <MineableComponentsIndustrial.label>suspausta technika</MineableComponentsIndustrial.label>
+  <!-- EN: Ancient machinery, compacted over time. Can be mined for useful components. -->
+  <MineableComponentsIndustrial.description>Per laiką suspausta senovinė technika. Galima iškasti naudingų komponentų.</MineableComponentsIndustrial.description>
+  
+  <!-- EN: gold ore -->
+  <MineableGold.label>aukso rūda</MineableGold.label>
+  <!-- EN: Rock containing bits of gold. -->
+  <MineableGold.description>Uola kurioje yra aukso gabaliukų.</MineableGold.description>
+  
+  <!-- EN: jade -->
+  <MineableJade.label>nefritas</MineableJade.label>
+  <!-- EN: Rock containing bits of jade. -->
+  <MineableJade.description>Uola kurioje yra nefrito gabaliukų.</MineableJade.description>
+  
+  <!-- EN: compacted plasteel -->
+  <MineablePlasteel.label>suspaustas plastmetalis</MineablePlasteel.label>
+  <!-- EN: Ancient compacted rubble rich in plasteel. -->
+  <MineablePlasteel.description>Suspaustos senovinės nuolaužos turtingos plastmetaliu.</MineablePlasteel.description>
+  
+  <!-- EN: silver ore -->
+  <MineableSilver.label>sidabro rūda</MineableSilver.label>
+  <!-- EN: Rock containing bits of silver. -->
+  <MineableSilver.description>Uola kurioje yra sidabro gabaliukų.</MineableSilver.description>
+  
+  <!-- EN: compacted steel -->
+  <MineableSteel.label>suspaustas plienas</MineableSteel.label>
+  <!-- EN: The remains of some ancient, collapsed structure. Rich in steel. -->
+  <MineableSteel.description>Kažkokio senovinio, sugriuvusio statinio liekanos. Turtingos plienu.</MineableSteel.description>
+  
+  <!-- EN: uranium ore -->
+  <MineableUranium.label>urano rūda</MineableUranium.label>
+  <!-- EN: Rock containing bits of uranium. -->
+  <MineableUranium.description>Uola kurioje yra urano gabaliukų.</MineableUranium.description>
+  
+  <!-- EN: raised rocks -->
+  <RaisedRocks.label>pastatyti akmenys</RaisedRocks.label>
+  <!-- EN: A fragile wall made of rubble. It will collapse in time. -->
+  <RaisedRocks.description>Trapi siena padaryta iš nuolaužų. Per laiką sugrius.</RaisedRocks.description>
+  
+  <!-- EN: steam geyser -->
+  <SteamGeyser.label>geizeris</SteamGeyser.label>
+  <!-- EN: A natural source of high-pressure steam. Geothermal generators can harness the steam power. Rooms built over this will rapidly cook. -->
+  <SteamGeyser.description>Natūralus akušto spaudimo garų šaltinis. Geoterminiai generatoriai gali pažaboti garų energiją. Kambariai pastatyti ant geizerio greit iškeps.</SteamGeyser.description>
+  
+</LanguageData>

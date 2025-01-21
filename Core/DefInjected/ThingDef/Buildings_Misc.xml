@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient cryptosleep casket -->
+  <AncientCryptosleepCasket.label>senovinis kriptomiego karstas</AncientCryptosleepCasket.label>
+  <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
+  <AncientCryptosleepCasket.description>Atrodo, kad šis kriptomiego karstas čia buvo jau labai seniai. Kas žino, kas jame gali būti?</AncientCryptosleepCasket.description>
+  
+  <!-- EN: caravan hitching spot -->
+  <CaravanPackingSpot.label>karavano sukinkymo vieta</CaravanPackingSpot.label>
+  <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
+  <CaravanPackingSpot.description>Pažymi vietą gyvūnams sukinkyti ir karavanams formuoti. Kolonistai čia kinkys gyvūnus kol pakraus karavaną. Taip pat gali juos naudoti netikėtų susitikimų metu toli nuo namų, kad gyvūnai neklaidžiotų.</CaravanPackingSpot.description>
+  
+  <!-- EN: comms console -->
+  <CommsConsole.label>radijo stotelė</CommsConsole.label>
+  <!-- EN: Allows radio contact with other factions and orbital traders. -->
+  <CommsConsole.description>Leidžia radijo ryšį su kitomis frakcijomis ir orbitiniais prekeiviais.</CommsConsole.description>
+  
+  <!-- EN: cryptosleep casket -->
+  <CryptosleepCasket.label>kriptomiego karstas</CryptosleepCasket.label>
+  <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
+  <CryptosleepCasket.description>Sarkofagas su savo energijos šaltiniu, sukurtas daug metų išlaikyti žmogų sustabdytų gyvybinių funkcijų būsenoje.</CryptosleepCasket.description>
+  
+  <!-- EN: egg box -->
+  <EggBox.label>kiaušinių dėžė</EggBox.label>
+  <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
+  <EggBox.description>Dėžė padengta minkšta medžiaga, skirta kiaušiniams laikyti. Kiaušinius dedantys gyvūnai, jei galės, dės kiaušinius į kiaušinių dėžes. Tavo gabentojai visus kiaušinius išneš tik tada, kai dėžė bus pilna, kad sutaupytų laiko. Dėžė taip pat apsaugo kiaušinius nuo gedimo lauke, tačiau neapsaugo nuo temperatūros pažeidimų.</EggBox.description>
+  
+  <!-- EN: firefoam popper -->
+  <FirefoamPopper.label>priešgaisrinis purkštuvas</FirefoamPopper.label>
+  <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
+  <FirefoamPopper.description>Aptikęs gaisrą, šis priešgaisrinis įrenginys iššoka ir aplink save apvaliame lauke išpurškia ugniai atsparias putas. Taip pat gali būti aktyvuotas rankiniu būdu.</FirefoamPopper.description>
+  <!-- EN: Trigger {0_label} -->
+  <FirefoamPopper.comps.CompUsable.useLabel>Aktyvuoti {0_label}</FirefoamPopper.comps.CompUsable.useLabel>
+  
+  <!-- EN: grave -->
+  <Grave.label>kapas</Grave.label>
+  <!-- EN: A decent final resting place. Colonists will visit full graves to gain meditative joy. -->
+  <Grave.description>Padori galutinio poilsio vieta. Kolonistai aplankys netuščius kapus, kad įgytų meditacinio džiaugsmo.</Grave.description>
+  
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>grunto radaras</GroundPenetratingScanner.label>
+  <!-- EN: A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof. -->
+  <GroundPenetratingScanner.description>Jutiklių blokas, naudojamas tyrėjų išteklių po žeme paieškai. Tikimybė rasti išteklių priklauso nuo operatoriaus sugebėjimų atlikti tyrimus. Sunaudoja daug elektros energijos. Jei rasi palaidotą šaltinį, turėsi naudoti giluminius grąžtus, kad juos iškastum. Tai neveikia po stogu.</GroundPenetratingScanner.description>
+  
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>ilgojo nuotolio mineralų radaras</LongRangeMineralScanner.label>
+  <!-- EN: A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it. -->
+  <LongRangeMineralScanner.description>Į šonus nukreiptas jutiklis, kurį tyrėjai naudoja konkrečios rūšies mineralams aptikti visoje planetoje. Tikimybė rasti išteklių priklauso nuo operatoriaus sugebėjimų atlikti tyrimus. Šį jutiklį galima sureguliuoti rasti konkrečią išteklių rūšį. Sunaudoja daug elektros energijos. Jei rasi išteklių, reikės keliauti, kad juos surinktum.</LongRangeMineralScanner.description>
+  
+  <!-- EN: marriage spot -->
+  <MarriageSpot.label>santuokos vieta</MarriageSpot.label>
+  <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
+  <MarriageSpot.description>Pažymi vietą, kur vyks santuokos ceremonijos. Žiūrovai gali stebėti iš abiejų pusių.</MarriageSpot.description>
+  
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>drėgmės surinkėjas</MoisturePump.label>
+  <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
+  <MoisturePump.description>Labai lėtai ištraukia drėgmę iš šalia esančios vietos, pelkes ar seklų vandenį paversdamas sausa žeme, o minkštą smėlį – įprastu smėliu. Nepaveikia gilaus vandens.</MoisturePump.description>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>daugiafunkcinis analizatorius</MultiAnalyzer.label>
+  <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
+  <MultiAnalyzer.description>Padidina tyrimų greitį, kai padėtas šalia aukštųjų technologijų tyrimų stalo, ir atrakina naujus tyrimų projektus. Kiekvienas tyrimų stalas galima naudoti tik vieną daugiafunkcinį analizatorių.</MultiAnalyzer.description>
+  
+  <!-- EN: orbital trade beacon -->
+  <OrbitalTradeBeacon.label>orbitinis prekybos švyturys</OrbitalTradeBeacon.label>
+  <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
+  <OrbitalTradeBeacon.description>Reikalingas orbitinei prekybai. Orbitiniams prekeiviams prekes gali parduoti tik jei jos yra šalia orbitinio prekybos švyturio. Galima padėti patalpoje.</OrbitalTradeBeacon.description>
+  
+  <!-- EN: party spot -->
+  <PartySpot.label>vakarėlio vieta</PartySpot.label>
+  <!-- EN: Designates a spot for throwing parties. -->
+  <PartySpot.description>Pažymi vietą vakarėliams rengti.</PartySpot.description>
+  
+  <!-- EN: pen marker -->
+  <PenMarker.label>aptvaro žymeklis</PenMarker.label>
+  <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
+  <PenMarker.description>Stulpelis su ženklu, žyminčiu gyvūnų aptvarą. Jis turi būti pastatytas tvoromis, barikadomis, sienomis ir durimis aptvertoje teritorijoje. Kiekvienam aptvaro žymekliui gali priskirti kokie gyvūnai yra priimami, o gyvūnų prižiūrėtojai atves juos į atitinkamą aptvarą.</PenMarker.description>
+  
+  <!-- EN: pod launcher -->
+  <PodLauncher.label>kapsulių paleidimo sistema</PodLauncher.label>
+  <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
+  <PodLauncher.description>Degalų papildymo anga, skirta vienai transportavimo kapsulei paleisti. Kapsulių paleidimo sistemos gali paleisti kelių kapsulių grupę, tačiau jos turi būti išdėstytos greta viena kitos.</PodLauncher.description>
+  
+  <!-- EN: sarcophagus -->
+  <Sarcophagus.label>sarkofagas</Sarcophagus.label>
+  <!-- EN: An ornamented burial receptacle for the honored dead. -->
+  <Sarcophagus.description>Ornamentuota laidojimo talpykla pagerbtiems mirusiems.</Sarcophagus.description>
+  
+  <!-- EN: grand stele -->
+  <SteleGrand.label>milžiniška stela</SteleGrand.label>
+  <!-- EN: A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
+  <SteleGrand.description>Aukštai iškilusi plokštė abiejose pusėse padengta išraižomis. Stelos nuo seniausių laikų buvo naudojamos asmenims, mūšiams ir kitiems svarbiems įvykiams įamžinti.</SteleGrand.description>
+  
+  <!-- EN: large stele -->
+  <SteleLarge.label>didelė stela</SteleLarge.label>
+  <!-- EN: A tall, thick slab with engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
+  <SteleLarge.description>Aukšta stora plokštė su išraižomis iš abiejų pusių. Stelos nuo seniausių laikų buvo naudojamos asmenims, mūšiams ir kitiems svarbiems įvykiams įamžinti.</SteleLarge.description>
+  
+  <!-- EN: tool cabinet -->
+  <ToolCabinet.label>įrankių spinta</ToolCabinet.label>
+  <!-- EN: Increases work speed when placed near a workbench. One workbench can use up to two tool cabinets. -->
+  <ToolCabinet.description>Padidina darbo greitį, kai pastatoma šalia darbastalio. Vienas darbastalis gali naudoti iki dviejų įrankių spintų.</ToolCabinet.description>
+  
+  <!-- EN: transport pod -->
+  <TransportPod.label>transportavimo kapsulė</TransportPod.label>
+  <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
+  <TransportPod.description>Paleidžiama suborbitinė krovininė kapsulė, galinti gabenti žmones, daiktus ar gyvūnus. Gali būti naudojama siunčiant dovanas, gabenant žmones ar atsargas, netikėtiems užpuolimams ar atsiųsti pastiprinimą į mūšius.</TransportPod.description>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>gyvybinių funkcijų stebėjimo įranga</VitalsMonitor.label>
+  <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
+  <VitalsMonitor.description>Padidina medicininės priežiūros kokybę, padidina pavykusios operacijos tikimybę ir padidina imuniteto gavimo greitį, kai jis yra padėtas šalia ligoninės lovos. Veikia tik ligoninės lovoms – paprastos lovos naudos negaus. Daugiau nei vienos gyvybinių funkcijų stebėjimo įrangos padėjimas prie tos pačios lovos poveikio neturės.</VitalsMonitor.description>
+  
+</LanguageData>

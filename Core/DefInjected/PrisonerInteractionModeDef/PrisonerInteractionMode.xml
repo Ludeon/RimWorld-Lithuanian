@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: recruit -->
+  <AttemptRecruit.label>įkalbėti prisijungti</AttemptRecruit.label>
+  <!-- EN: Wardens will attempt to recruit the prisoner. If the prisoner still has resistance, wardens will speak to them to reduce it. -->
+  <AttemptRecruit.description>Kalėjimo prižiūrėtojai bandys įkalbėti prisijungti kalinį. Jei kalinys vis dar priešinasi, prižiūrėtojai pasikalbės su jais, kad pasipriešinimą sumažintų.</AttemptRecruit.description>
+  
+  <!-- EN: execute -->
+  <Execution.label>įvykdyti egzekuciją</Execution.label>
+  <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->
+  <Execution.description>Kalėjimo prižiūrėtojas iš karto įvykdys kaliniui egzekuciją. Tai gali paveikti kitų kalinių ir kolonistų nuotaiką.</Execution.description>
+  
+  <!-- EN: no interaction -->
+  <NoInteraction.label>jokios sąveikos</NoInteraction.label>
+  <!-- EN: Wardens will not interact with the prisoner. -->
+  <NoInteraction.description>Kalėjimo prižiūrėtojai su kaliniu nesąveikaus.</NoInteraction.description>
+  
+  <!-- EN: reduce resistance -->
+  <ReduceResistance.label>mažinti pasipriešinimą</ReduceResistance.label>
+  <!-- EN: If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made. -->
+  <ReduceResistance.description>Jei kalinys vis dar priešinasi, kalėjimo prižiūrėtojai pasikalbės su jais, kad pasipriešinimą sumažintų. Nebus bandoma įkalbėti prisijungti.</ReduceResistance.description>
+  
+  <!-- EN: release -->
+  <Release.label>paleisti</Release.label>
+  <!-- EN: A warden will release the prisoner. -->
+  <Release.description>Kalėjimo prižiūrėtojas paleis kalinį.</Release.description>
+  
+</LanguageData>

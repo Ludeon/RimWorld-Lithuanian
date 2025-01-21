@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: high on go-juice -->
+  <GoJuiceHigh.stages.high_on_gojuice.label>apkvaišęs nuo raketos</GoJuiceHigh.stages.high_on_gojuice.label>
+  <!-- EN: I feel pumped but steady. I am the bullet in flight, ready to cut through you. -->
+  <GoJuiceHigh.stages.high_on_gojuice.description>Aš esu užsipumpavęs, bet jaučiuosi tvirtai. Aš esu skrendanti kulka, pasiruošusi skrosti kiaurai per tave.</GoJuiceHigh.stages.high_on_gojuice.description>
+  
+  <!-- EN: go-juice withdrawal -->
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.label>raketos abstinencija</GoJuiceWithdrawal.stages.gojuice_withdrawal.label>
+  <!-- EN: I'm all fuzzy and can't think straight. My limbs feel heavy, I'm tired and hungry, everything hurts. And why won't my eyes focus properly? -->
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.description>Aš jaučiuosi apsiblausęs ir negaliu blaiviai mastyti. Mano galūnės sunkios, aš esu pavargęs ir alkanas, viską skauda. Ir kodėl mano akys tinkamai nefokusuoja?</GoJuiceWithdrawal.stages.gojuice_withdrawal.description>
+  
+</LanguageData>

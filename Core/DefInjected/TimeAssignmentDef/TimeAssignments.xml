@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anything -->
+  <Anything.label>bet kas</Anything.label>
+  
+  <!-- EN: recreation -->
+  <Joy.label>pramogos</Joy.label>
+  
+  <!-- EN: sleep -->
+  <Sleep.label>miegas</Sleep.label>
+  
+  <!-- EN: work -->
+  <Work.label>darbas</Work.label>
+  
+</LanguageData>

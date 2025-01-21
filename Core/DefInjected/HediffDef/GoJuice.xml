@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: go-juice addiction -->
+  <GoJuiceAddiction.label>priklausomybė nuo raketos</GoJuiceAddiction.label>
+  <!-- EN: A chemical addiction to go-juice. Long-term presence of go-juice has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of go-juice, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <GoJuiceAddiction.description>Cheminė priklausomybė nuo raketos. Dėl ilgalaikio buvimo organizme atsirado neurologinis raketos poveikis ląstelių lygyje, todėl smegenys nebegali tinkamai funkcionuoti be narkotiko.\n\nNegaunant reguliarių raketos dozių prasidės abstinencijos simptomai. Tačiau ilga abstinencija privers smegenis vėl prisitaikyti prie savo įprastos būsenos, taip išsprendžiant priklausomybę.</GoJuiceAddiction.description>
+  <!-- EN: withdrawal -->
+  <GoJuiceAddiction.stages.withdrawal.label>abstinencija</GoJuiceAddiction.stages.withdrawal.label>
+  
+  <!-- EN: high on go-juice -->
+  <GoJuiceHigh.label>apkvaišęs nuo raketos</GoJuiceHigh.label>
+  <!-- EN: Go-juice in the bloodstream. It supercharges combat-related abilities, and instantly increases psyfocus when first injected. -->
+  <GoJuiceHigh.description>Raketa kraujyje. Ji labai sustiprina kovose svarbius fizinius sugebėjimus, ir iškart padidina psifokusą kai sušvirkščiamas pirmą kartą.</GoJuiceHigh.description>
+  <!-- EN: a go-juice high -->
+  <GoJuiceHigh.labelNoun>apkvaišimas nuo raketos</GoJuiceHigh.labelNoun>
+  
+  <!-- EN: go-juice tolerance -->
+  <GoJuiceTolerance.label>tolerancija raketai</GoJuiceTolerance.label>
+  <!-- EN: A built-up tolerance to go-juice. The more severe this tolerance is, the more go-juice it takes to get the same effect. -->
+  <GoJuiceTolerance.description>Išsivysčiusi tolerancija raketai. Kuo stipresnė tolerancija, tuo daugiau raketos reikia, kad gautų tą patį poveikį.</GoJuiceTolerance.description>
+  <!-- EN: small -->
+  <GoJuiceTolerance.stages.small.label>silpna</GoJuiceTolerance.stages.small.label>
+  <!-- EN: large -->
+  <GoJuiceTolerance.stages.large.label>stipri</GoJuiceTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <GoJuiceTolerance.stages.massive.label>labai stipri</GoJuiceTolerance.stages.massive.label>
+  
+</LanguageData>

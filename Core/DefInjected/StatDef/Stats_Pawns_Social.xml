@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Arrest success chance -->
+  <ArrestSuccessChance.label>Pavykusio suėmimo tikimybė</ArrestSuccessChance.label>
+  <!-- EN: How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance. -->
+  <ArrestSuccessChance.description>Kaip veiksmingai šis asmuo suima žmones. Tai turi įtakos tikimybei, kad šis asmuo galės ką nors suimti be pasipriešinimo.</ArrestSuccessChance.description>
+  
+  <!-- EN: bond chance factor -->
+  <BondAnimalChanceFactor.label>emocinio ryšio tikimybės koeficientas</BondAnimalChanceFactor.label>
+  <!-- EN: A multiplier on the chance to bond with an animal when interacting with it. -->
+  <BondAnimalChanceFactor.description>Daugiklis tikimybei užmegzti emocinį ryšį su gyvūnu bendraujant su juo.</BondAnimalChanceFactor.description>
+  
+  <!-- EN: drug sell price improvement -->
+  <DrugSellPriceImprovement.label>narkotikų pardavimo kainų padidinimas</DrugSellPriceImprovement.label>
+  <!-- EN: When this person sells non-medical drugs, prices are improved by this percentage. -->
+  <DrugSellPriceImprovement.description>Kai šis asmuo parduoda ne medicininius medikamentus, kainos yra padidinamos šiuo procentu.</DrugSellPriceImprovement.description>
+  
+  <!-- EN: negotiation ability -->
+  <NegotiationAbility.label>sugebėjimas derėtis</NegotiationAbility.label>
+  <!-- EN: How effective this person is as a negotiator.\n\nThis affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->
+  <NegotiationAbility.description>Kiek veiksmingas šis asmuo yra kaip derybininkas.\n\nTai turi įtakos kalinių įkalbėjimo prisijungti greičiui, frakcijų santykių poveikiui dovanojant ir taikos derybų rezultatams.</NegotiationAbility.description>
+  
+  <!-- EN: beauty -->
+  <PawnBeauty.label>grožis</PawnBeauty.label>
+  <!-- EN: How physically attractive this person is. This affects social interactions. -->
+  <PawnBeauty.description>Koks fiziškai patrauklus yra šis žmogus. Tai turi įtakos socialinėms sąveikoms.</PawnBeauty.description>
+  
+  <!-- EN: social impact -->
+  <SocialImpact.label>socialinė įtaka</SocialImpact.label>
+  <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->
+  <SocialImpact.description>Daugiklis įtakai, kurią kitiems žmonėms daro šio asmens socialinės sąveikos.</SocialImpact.description>
+  
+  <!-- EN: tame animal chance -->
+  <TameAnimalChance.label>gyvūno prijaukinimo tikimybė</TameAnimalChance.label>
+  <!-- EN: The base chance this person will successfully tame an animal on any given attempt.\n\nThe actual chance is also affected by the animal's wildness.\nFailed tame attempt can induce animal attacks, especially for more vicious animals. -->
+  <TameAnimalChance.description>Bazinė tikimybė, kad šiam asmeniui pavyks prijaukinti gyvūną bet kuriuo duotu bandymu.\n\nTikraji tikimybė taip pat priklauso nuo gyvūno laukiniškumo.\nNesėkmingas bandymas jaukinti gali sukelti gyvūnų puolimus, ypač bandant jaukint nuožmius gyvūnus.</TameAnimalChance.description>
+  
+  <!-- EN: trade price improvement -->
+  <TradePriceImprovement.label>prekybos kainų padidinimas</TradePriceImprovement.label>
+  <!-- EN: When this person acts as a trade negotiator, buy and sell prices are improved by this percentage. -->
+  <TradePriceImprovement.description>Kai šis asmuo būna prekybos derybininkas, pirkimo ir pardavimo kainos yra padidinamos šiuo procentu.</TradePriceImprovement.description>
+  
+  <!-- EN: train animal chance -->
+  <TrainAnimalChance.label>gyvūno išdresavimo tikimybė</TrainAnimalChance.label>
+  <!-- EN: The base chance this person will make progress training an animal on a given attempt.\n\nThe actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on. -->
+  <TrainAnimalChance.description>Bazinė tikimybė, kad šis asmuo padarys pažangą dresuodamas gyvūną bet kuriuo duotu bandymu.\n\nTikroji konkretaus bandymo tikimybė taip pat priklausys nuo gyvūno laukiniškumo, nuo to, ar jis turi su dresuotoju emocinį ryšį ir taip toliau.</TrainAnimalChance.description>
+  
+</LanguageData>

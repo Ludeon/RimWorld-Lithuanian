@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: time as a colonist -->
+  <TimeAsColonistOrColonyAnimal.label>laikas būnant kolonistu</TimeAsColonistOrColonyAnimal.label>
+  <!-- EN: Total time spent loyal to your community. -->
+  <TimeAsColonistOrColonyAnimal.description>Visas laikas, praleistas būnant ištikimu savo bendruomenei.</TimeAsColonistOrColonyAnimal.description>
+  
+  <!-- EN: time as a prisoner -->
+  <TimeAsPrisoner.label>laikas būnant kaliniu</TimeAsPrisoner.label>
+  <!-- EN: Total time spent as a prisoner. -->
+  <TimeAsPrisoner.description>Visas laikas, praleistas būnant kaliniu.</TimeAsPrisoner.description>
+  
+  <!-- EN: time hosted -->
+  <TimeAsQuestLodger.label>laikas svečiuojantis</TimeAsQuestLodger.label>
+  <!-- EN: Total time spent hosted by your community through a quest. -->
+  <TimeAsQuestLodger.description>Visas laikas, praleistas svečiuojantis jūsų bendruomenėje vykdant užduotį.</TimeAsQuestLodger.description>
+  
+  <!-- EN: time cleaning -->
+  <TimeCleaning.label>laiko valant</TimeCleaning.label>
+  <!-- EN: Total time spent cleaning. -->
+  <TimeCleaning.description>Visas laikas, praleistas valant.</TimeCleaning.description>
+  
+  <!-- EN: time constructing -->
+  <TimeConstructing.label>laiko statant</TimeConstructing.label>
+  <!-- EN: Total time spent constructing and deconstructing buildings. -->
+  <TimeConstructing.description>Visas laikas, praleistas statant ir išardant statinius.</TimeConstructing.description>
+  
+  <!-- EN: time downed -->
+  <TimeDowned.label>laikas būnant numuštu</TimeDowned.label>
+  <!-- EN: Total time spent downed. -->
+  <TimeDowned.description>Visas laikas praleistas būnant numuštu.</TimeDowned.description>
+  
+  <!-- EN: time drafted -->
+  <TimeDrafted.label>laikas būnant mobilizuotu</TimeDrafted.label>
+  <!-- EN: Total time spent drafted. -->
+  <TimeDrafted.description>Visas laikas praleistas būnant mobilizuotu.</TimeDrafted.description>
+  
+  <!-- EN: time firefighting -->
+  <TimeFirefighting.label>laikas gesinant gaisrus</TimeFirefighting.label>
+  <!-- EN: Total time spent firefighting. -->
+  <TimeFirefighting.description>Visas laikas praleistas gesinant gaisrus.</TimeFirefighting.description>
+  
+  <!-- EN: time finding food and eating -->
+  <TimeGettingFood.label>laikas ieškant maisto ir valgant</TimeGettingFood.label>
+  <!-- EN: Total time spent on finding food and eating. -->
+  <TimeGettingFood.description>Visas laikas praleistas ieškant maisto ir valgant.</TimeGettingFood.description>
+  
+  <!-- EN: time spent on entertainment -->
+  <TimeGettingJoy.label>laikas praleistas pramogoms</TimeGettingJoy.label>
+  <!-- EN: Total time spent on entertainment. -->
+  <TimeGettingJoy.description>Visas laikas praleistas pramogoms.</TimeGettingJoy.description>
+  
+  <!-- EN: time handling animals -->
+  <TimeHandlingAnimals.label>laikas dirbant su gyvūnais</TimeHandlingAnimals.label>
+  <!-- EN: Total time spent handling animals. -->
+  <TimeHandlingAnimals.description>Visas laikas praleistas dirbant su gyvūnais.</TimeHandlingAnimals.description>
+  
+  <!-- EN: time hauling -->
+  <TimeHauling.label>laikas gabenant</TimeHauling.label>
+  <!-- EN: Total time spent hauling things. -->
+  <TimeHauling.description>Visas laikas praleistas gabenant daiktus.</TimeHauling.description>
+  
+  <!-- EN: time hunting -->
+  <TimeHunting.label>laikas medžiojant</TimeHunting.label>
+  <!-- EN: Total time spent hunting. -->
+  <TimeHunting.description>Visas laikas praleistas medžiojant.</TimeHunting.description>
+  
+  <!-- EN: time in a bed -->
+  <TimeInBed.label>laikas lovoje</TimeInBed.label>
+  <!-- EN: Total time spent in bed. -->
+  <TimeInBed.description>Visas laikas praleistas lovoje.</TimeInBed.description>
+  
+  <!-- EN: time in a bed for medical reasons -->
+  <TimeInBedForMedicalReasons.label>laikas lovoje dėl medicininių priežasčių</TimeInBedForMedicalReasons.label>
+  <!-- EN: Total time spent in bed for medical reasons: awaiting treatment, recovering from injuries or being operated on. -->
+  <TimeInBedForMedicalReasons.description>Visas laikas praleistas lovoje dėl medicininių priežasčių: priežiūros laukimas, atsigavimas po traumų arba buvimas operuojamu.</TimeInBedForMedicalReasons.description>
+  
+  <!-- EN: time in mental state -->
+  <TimeInMentalState.label>laikas psichinėje būsenoje</TimeInMentalState.label>
+  <!-- EN: Total time spent in an abnormal mental state. -->
+  <TimeInMentalState.description>Visas laikas praleistas nenormalioje psichinėje būsenoje.</TimeInMentalState.description>
+  
+  <!-- EN: time mining -->
+  <TimeMining.label>laikas kasant</TimeMining.label>
+  <!-- EN: Total time spent mining. -->
+  <TimeMining.description>Visas laikas praleistas kasant.</TimeMining.description>
+  
+  <!-- EN: time on fire -->
+  <TimeOnFire.label>laikas degant</TimeOnFire.label>
+  <!-- EN: Total time spent on fire. -->
+  <TimeOnFire.description>Visas laikas praleistas degant.</TimeOnFire.description>
+  
+  <!-- EN: time repairing -->
+  <TimeRepairing.label>laikas taisant</TimeRepairing.label>
+  <!-- EN: Total time spent repairing. -->
+  <TimeRepairing.description>Visas laikas praleistas taisant.</TimeRepairing.description>
+  
+  <!-- EN: time researching -->
+  <TimeResearching.label>laikas atliekant tyrimus</TimeResearching.label>
+  <!-- EN: Total time spent researching. -->
+  <TimeResearching.description>Visas laikas praleistas atliekant tyrimus.</TimeResearching.description>
+  
+  <!-- EN: time sowing and harvesting -->
+  <TimeSowingAndHarvesting.label>laikas sėjant ir imant derlių</TimeSowingAndHarvesting.label>
+  <!-- EN: Total time spent sowing, harvesting and cutting plants. -->
+  <TimeSowingAndHarvesting.description>Visas laikas praleistas sėjant, imant derlių ir kertant augalus.</TimeSowingAndHarvesting.description>
+  
+  <!-- EN: time treating and feeding -->
+  <TimeTreatingAndFeeding.label>laikas gydant ir maitinant</TimeTreatingAndFeeding.label>
+  <!-- EN: Total time spent treating and feeding patients. -->
+  <TimeTreatingAndFeeding.description>Visas laikas praleistas gydant ir maitinant pacientus.</TimeTreatingAndFeeding.description>
+  
+  <!-- EN: time under a roof -->
+  <TimeUnderRoof.label>laikas po stogu</TimeUnderRoof.label>
+  <!-- EN: Total time spent under a roof. -->
+  <TimeUnderRoof.description>Visas laikas praleistas po stogu.</TimeUnderRoof.description>
+  
+  <!-- EN: time wardening -->
+  <TimeWardening.label>laikas dirbant kalėjimo prižiūrėtoju</TimeWardening.label>
+  <!-- EN: Total time spent wardening. -->
+  <TimeWardening.description>Visas laikas praleistas dirbant kalėjimo prižiūrėtoju.</TimeWardening.description>
+  
+</LanguageData>

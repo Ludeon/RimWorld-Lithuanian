@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: civil outlander union -->
+  <OutlanderCivil.label>civilizuotų svetimšalių sąjunga</OutlanderCivil.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
+  <OutlanderCivil.description>Šie žmonės gyvena čia jau kelis dešimtmečius ar net šimtmečius ir prarado didžiąją dalį technologijų kurios juos atnešė į šį pasaulį. Jie dažniausiai dirba naudodamiesi paprasta technika ir ginasi pažangiais šaunamaisiais ginklais.\n\nJiems rūpi praktiniai prekybos klausimai, pasitikėjimas ir išgyvenimas.\n\nŠi konkreti grupuotė ypatingai vertina civilizuotą elgesį.</OutlanderCivil.description>
+  <!-- EN: prime councilor -->
+  <OutlanderCivil.leaderTitle>tarybos pirmininkas</OutlanderCivil.leaderTitle>
+  <!-- EN: outlander -->
+  <OutlanderCivil.pawnSingular>svetimšalis</OutlanderCivil.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderCivil.pawnsPlural>svetimšaliai</OutlanderCivil.pawnsPlural>
+  
+  <!-- EN: rough outlander union -->
+  <OutlanderRough.label>šiurkščių svetimšalių sąjunga</OutlanderRough.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group has a streak of barbarity in them. -->
+  <OutlanderRough.description>Šie žmonės gyvena čia jau kelis dešimtmečius ar net šimtmečius ir prarado didžiąją dalį technologijų kurios juos atnešė į šį pasaulį. Jie dažniausiai dirba naudodamiesi paprasta technika ir ginasi pažangiais šaunamaisiais ginklais.\n\nJiems rūpi praktiniai prekybos klausimai, pasitikėjimas ir išgyvenimas.\n\nŠi konkreti grupuotė savyje turi barbariškumo bruožų.</OutlanderRough.description>
+  <!-- EN: prime councilor -->
+  <OutlanderRough.leaderTitle>tarybos pirmininkas</OutlanderRough.leaderTitle>
+  <!-- EN: outlander -->
+  <OutlanderRough.pawnSingular>svetimšalis</OutlanderRough.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderRough.pawnsPlural>svetimšaliai</OutlanderRough.pawnsPlural>
+  
+  <!-- EN: pirate gang -->
+  <Pirate.label>piratų gauja</Pirate.label>
+  <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
+  <Pirate.description>Padrikas susivienijimas sudarytas iš įvairių piratų gaujų, kurios susitarė pagrinde kovoti su pašaliniais, o ne vienos su kitom.\n\nPiratai nieko neaugina, nestato ir retai kada prekiauja. Vedami kraujo ir garbės kultūros, vertinančios individualią jėgą ir negailestingumą, jie kraunasi sau turtus puldinėdami ir plėšdami jų produktyvesnius kaimynus.\n\nJų technologijų lygis priklauso daugiausia nuo tų, kuriuos jiems paskutiniu metu pavyko apvogti. Daugiausia nešiojasi šaunamuosius ginklus, nors kai kas labiau mėgsta savo aukas badyti iš arti.</Pirate.description>
+  <!-- EN: boss -->
+  <Pirate.leaderTitle>bosas</Pirate.leaderTitle>
+  <!-- EN: pirate -->
+  <Pirate.pawnSingular>piratas</Pirate.pawnSingular>
+  <!-- EN: pirates -->
+  <Pirate.pawnsPlural>piratai</Pirate.pawnsPlural>
+  
+  <!-- EN: gentle tribe -->
+  <TribeCivil.label>rami gentis</TribeCivil.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe pursues a gentle way of life where they can. They are quite open to trade and alliances, even with strange peoples. -->
+  <TribeCivil.description>Šie žmonės čia yra jau labai ilgai. Galbūt jų protėviai sudužo šioje planetoje prieš tūkstantį metų. Galbūt jie išgyveno kažkokią katastrofą kuri sunaikino jų technologinę civilizaciją. Bet kuriuo atveju, tai yra daugiausia klajoklių gentys gyvenančios iš gamtos išteklių, naudojasi primityviais įrankiais ir ginklais.\n\nNepaisant jų akivaizdaus technologinio atsilikimo, gentys gali būti pavojingi priešai ir vertingi draugai dėl savo įgūdžių kariaujant primityviais ginklais, savo skaičiaus ir tvirtumo.\n\nŠi konkreti gentis kai gali, siekia ramaus gyvenimo. Jie yra ganėtinai atviri prekybai ir sąjungoms, net ir su keistais žmonėmis.</TribeCivil.description>
+  <!-- EN: chief -->
+  <TribeCivil.leaderTitle>vadas</TribeCivil.leaderTitle>
+  <!-- EN: tribesman -->
+  <TribeCivil.pawnSingular>genties narys</TribeCivil.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeCivil.pawnsPlural>genties nariai</TribeCivil.pawnsPlural>
+  
+  <!-- EN: fierce tribe -->
+  <TribeRough.label>arši gentis</TribeRough.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
+  <TribeRough.description>Šie žmonės čia yra jau labai ilgai. Galbūt jų protėviai sudužo šioje planetoje prieš tūkstantį metų. Galbūt jie išgyveno kažkokią katastrofą kuri sunaikino jų technologinę civilizaciją. Bet kuriuo atveju, tai yra daugiausia klajoklių gentys gyvenančios iš gamtos išteklių, naudojasi primityviais įrankiais ir ginklais.\n\nNepaisant jų akivaizdaus technologinio atsilikimo, gentys gali būti pavojingi priešai ir vertingi draugai dėl savo įgūdžių kariaujant primityviais ginklais, savo skaičiaus ir tvirtumo.\n\nŠi konkreti gentis vertina karinį dominavimą; su jais sudaryti sąjungą gali būti sunku.</TribeRough.description>
+  <!-- EN: chief -->
+  <TribeRough.leaderTitle>vadas</TribeRough.leaderTitle>
+  <!-- EN: tribesman -->
+  <TribeRough.pawnSingular>genties narys</TribeRough.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeRough.pawnsPlural>genties nariai</TribeRough.pawnsPlural>
+  
+  <!-- EN: savage tribe -->
+  <TribeSavage.label>laukinių gentis</TribeSavage.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe is driven by a blood-and-honor culture; you will not be able to ally with them! -->
+  <TribeSavage.description>Šie žmonės čia yra jau labai ilgai. Galbūt jų protėviai sudužo šioje planetoje prieš tūkstantį metų. Galbūt jie išgyveno kažkokią katastrofą kuri sunaikino jų technologinę civilizaciją. Bet kuriuo atveju, tai yra daugiausia klajoklių gentys gyvenančios iš gamtos išteklių, naudojasi primityviais įrankiais ir ginklais.\n\nNepaisant jų akivaizdaus technologinio atsilikimo, gentys gali būti pavojingi priešai dėl savo įgūdžių kariaujant primityviais ginklais, savo skaičiaus ir tvirtumo.\n\nŠi konkreti gentis yra vedama kraujo ir garbės kultūros; tau nepavyks su jais sudaryti sąjungos!</TribeSavage.description>
+  <!-- EN: chief -->
+  <TribeSavage.leaderTitle>vadas</TribeSavage.leaderTitle>
+  <!-- EN: tribesman -->
+  <TribeSavage.pawnSingular>genties narys</TribeSavage.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeSavage.pawnsPlural>genties nariai</TribeSavage.pawnsPlural>
+  
+</LanguageData>

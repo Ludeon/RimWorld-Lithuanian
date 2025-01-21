@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bearskin -->
+  <Leather_Bear.label>meškos oda</Leather_Bear.label>
+  <!-- EN: The strong furry leather of a bear. Compared to most leather, it is quite a bit tougher and a bit better at all kinds of temperature regulation. -->
+  <Leather_Bear.description>Stipri pūkuota meškos oda. Palyginus su dauguma odų, ji yra gerokai tvirtesnė ir truputį geriau reguliuoja visokią temperatūrą.</Leather_Bear.description>
+  
+  <!-- EN: birdskin -->
+  <Leather_Bird.label>paukščio oda</Leather_Bird.label>
+  <!-- EN: Tanned, dried, scraped bird skin. It is quite delicate. Without its feathers, it provides little protection from heat or cold. -->
+  <Leather_Bird.description>Rauginta, išdžiovinta, šiaušta paukščio oda. Gana gležna. Be savo plunksnų ji mažai apsaugo nuo karščio ar šalčio.</Leather_Bird.description>
+  
+  <!-- EN: bluefur -->
+  <Leather_Bluefur.label>mėlynasis kailis</Leather_Bluefur.label>
+  <!-- EN: The furry pelt of muffalo. Recognizable by its distinctive blue tint. Good at temperature regulation in cold climates. -->
+  <Leather_Bluefur.description>Pūkuota muivolo oda su kailiu. Atpažįstamas dėl išskirtinio mėlyno atspalvio. Gerai reguliuoja temperatūrą šaltame klimate.</Leather_Bluefur.description>
+  
+  <!-- EN: camelhide -->
+  <Leather_Camel.label>kupranugario oda</Leather_Camel.label>
+  <!-- EN: Tanned, dried, scraped camel skin. Good at temperature regulation in hot climates. -->
+  <Leather_Camel.description>Rauginta, išdžiovinta, šiaušta kupranugario oda. Gerai reguliuoja temperatūrą karštame klimate.</Leather_Camel.description>
+  
+  <!-- EN: chinchilla fur -->
+  <Leather_Chinchilla.label>šinšilos kailis</Leather_Chinchilla.label>
+  <!-- EN: Tanned, dried, scraped chinchilla skin. Known as an extremely luxurious and insulating fur, it is exceptionally valuable. -->
+  <Leather_Chinchilla.description>Rauginta, išdžiovinta, šiaušta šinšilos oda. Žinomas kaip itin prabangus ir šilumą izoliuojantis kailis, jis yra išskirtinai vertingas.</Leather_Chinchilla.description>
+  
+  <!-- EN: dog leather -->
+  <Leather_Dog.label>šuns oda</Leather_Dog.label>
+  <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
+  <Leather_Dog.description>Rauginta, džiovinta, šiaušta oda. Gera tradicinė medžiaga drabužiams ir maišams gaminti.</Leather_Dog.description>
+  
+  <!-- EN: elephant leather -->
+  <Leather_Elephant.label>dramblio oda</Leather_Elephant.label>
+  <!-- EN: Tanned, dried, scraped elephant skin. While quite tough, it is a poor insulator. -->
+  <Leather_Elephant.description>Rauginta, džiovinta, šiaušta dramblio oda. Nors ir gana tvirta, šilumą izoliuoja prastai.</Leather_Elephant.description>
+  
+  <!-- EN: foxfur -->
+  <Leather_Fox.label>lapės kailis</Leather_Fox.label>
+  <!-- EN: The pelt of a fox. It protects well from the cold and is quite luxurious, fetching a high price. -->
+  <Leather_Fox.description>Lapės oda su kailiu. Gerai apsaugo nuo šalčio ir yra labai prabangi, dėl ko daug kainuoja.</Leather_Fox.description>
+  
+  <!-- EN: guinea pig fur -->
+  <Leather_GuineaPig.label>jūrų kiaulytės kailis</Leather_GuineaPig.label>
+  <!-- EN: Sheets of guinea pig fur. It is delicate, but luxurious. -->
+  <Leather_GuineaPig.description>Lakštai iš jūrų kiaulytės kailio. Jis yra gležnas, bet prabangus.</Leather_GuineaPig.description>
+  
+  <!-- EN: heavy fur -->
+  <Leather_Heavy.label>sunkus kailis</Leather_Heavy.label>
+  <!-- EN: Thick leather covered in a long, rugged mat of fur. Harvested from a large, hardy animal. This thick skin insulates and protects very well. -->
+  <Leather_Heavy.description>Stora oda, padengta ilgu, tvirtu kailio kilimėliu. Surinkta iš didelio, patvaraus gyvūno. Ši stora oda labai gerai ir izoliuoja šilumą ir apsaugo.</Leather_Heavy.description>
+  
+  <!-- EN: human leather -->
+  <Leather_Human.label>žmogaus oda</Leather_Human.label>
+  <!-- EN: Tanned, dried, scraped human skin. Most people find this material horrifying. Some find it fascinating. While a decent leather, it neither protects nor insulates particularly well. -->
+  <Leather_Human.description>Rauginta, džiovinta, šiaušta žmogaus oda. Daugeliui žmonių ši medžiaga kelia siaubą. Kitiems ji atrodo žavinga. Nors oda ir nebloga, bet nei ji gerai apsaugo, nei izoliuoja šilumą.</Leather_Human.description>
+  
+  <!-- EN: lightleather -->
+  <Leather_Light.label>lengva oda</Leather_Light.label>
+  <!-- EN: Lightweight, thin leather. Probably harvested from a small animal. Not as protective as thicker leathers. -->
+  <Leather_Light.description>Lengva, plona oda. Tikriausiai surinkta iš mažo gyvūno. Ne taip gerai apsaugo kaip storesnės odos.</Leather_Light.description>
+  
+  <!-- EN: lizardskin -->
+  <Leather_Lizard.label>driežo oda</Leather_Lizard.label>
+  <!-- EN: The tanned skin of a cold-blooded reptile. Lizardskin is reasonably tough, but does not insulate well at all. -->
+  <Leather_Lizard.description>Rauginta šaltakraujo roplio oda. Driežo oda yra pakankamai tvirta, bet labai prastai izoliuoja šilumą.</Leather_Lizard.description>
+  
+  <!-- EN: panthera fur -->
+  <Leather_Panthera.label>panteros kailis</Leather_Panthera.label>
+  <!-- EN: A soft furry pelt harvested from a big cat. It is difficult to pierce and insulates well against heat. -->
+  <Leather_Panthera.description>Minkštas pūkuotas kailis, nuimtas iš didelės katės. Sunkiai praduriamas ir gerai izoliuoja nuo karščio.</Leather_Panthera.description>
+  
+  <!-- EN: patchleather -->
+  <Leather_Patch.label>oda iš lopinėlių</Leather_Patch.label>
+  <!-- EN: A weak textile created by cutting up and sewing together various types of leathers. Regardless of what kind of leather is used to create it, patchleather's irregular seams make it less tough and less insulating than any intact leather. -->
+  <Leather_Patch.description>Silpna tekstilė, padaryta perpjaunant ir susiuvant įvairių rūšių odas. Nepriklausomai nuo to, kokia oda buvo naudojama jai sukurti, dėl netaisyklingų siūlių oda iš lopinėlių tampa ne tokia tvirta ir mažiau izoliuojanti šilumą nei bet kuri kita nepažeista oda.</Leather_Patch.description>
+  
+  <!-- EN: pigskin -->
+  <Leather_Pig.label>kiaulės oda</Leather_Pig.label>
+  <!-- EN: Tanned, dried, scraped pig skin. While a decent leather, it neither protects nor insulates particularly well. -->
+  <Leather_Pig.description>Rauginta, džiovinta, šiaušta kiaulės oda. Nors oda ir nebloga, bet nei ji gerai apsaugo, nei izoliuoja šilumą.</Leather_Pig.description>
+  
+  <!-- EN: plainleather -->
+  <Leather_Plain.label>paprasta oda</Leather_Plain.label>
+  <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
+  <Leather_Plain.description>Rauginta, džiovinta, šiaušta oda. Gera tradicinė medžiaga drabužiams ir maišams gaminti.</Leather_Plain.description>
+  
+  <!-- EN: rhinoceros leather -->
+  <Leather_Rhinoceros.label>raganosio oda</Leather_Rhinoceros.label>
+  <!-- EN: Tanned, dried, scraped rhinocerous skin. It is exceptionally durable in combat, but provides little protection from weather. -->
+  <Leather_Rhinoceros.description>Rauginta, džiovinta, šiaušta raganosio oda. Ji yra ypač patvari kovoje, tačiau mažai apsaugo nuo oro sąlygų.</Leather_Rhinoceros.description>
+  
+  <!-- EN: thrumbofur -->
+  <Leather_Thrumbo.label>trumbo kailis</Leather_Thrumbo.label>
+  <!-- EN: Furry pelt of a thrumbo. Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength. -->
+  <Leather_Thrumbo.description>Pūkuotas trumbo kailis. Prabangus ir nepaprastai patvarus. Naudojamas aukščiausios kokybės dirbiniams dėl savo šilumos izoliacijos ir stiprumo.</Leather_Thrumbo.description>
+  
+  <!-- EN: wolfskin -->
+  <Leather_Wolf.label>vilko kailis</Leather_Wolf.label>
+  <!-- EN: A soft furry pelt harvested from a wolf-like creature. It is difficult to pierce and insulates well against cold. -->
+  <Leather_Wolf.description>Minkštas pūkuotas kailis, surinktas iš į vilką panašios būtybės. Sunku pradurti ir gerai izoliuoja nuo šalčio.</Leather_Wolf.description>
+  
+</LanguageData>

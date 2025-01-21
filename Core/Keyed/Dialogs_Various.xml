@@ -1,0 +1,1325 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Confirm -->
+  <Confirm>Patvirtinti</Confirm>
+  <!-- EN: Go back -->
+  <GoBack>Grįžti atgal</GoBack>
+  <!-- EN: Do you want to continue? -->
+  <WantToContinue>Ar nori tęsti?</WantToContinue>
+  <!-- EN: OK -->
+  <OK>Gerai</OK>
+  <!-- EN: Close -->
+  <Close>Uždaryti</Close>
+  <!-- EN: Accept -->
+  <Accept>Priimti</Accept>
+  <!-- EN: Cancel -->
+  <Cancel>Atšaukti</Cancel>
+  <!-- EN: Reset -->
+  <Reset>Atstatyti</Reset>
+  <!-- EN: Reset all -->
+  <ResetAll>Atstatyti viską</ResetAll>
+  <!-- EN: Disable -->
+  <Disable>Išjungti</Disable>
+  <!-- EN: Modify -->
+  <Modify>Pakeisti</Modify>
+  <!-- EN: Settle here anyways? -->
+  <ConfirmSettle>Vis tiek įsikurti čia?</ConfirmSettle>
+  <!-- EN: add -->
+  <Add>pridėti</Add>
+  <!-- EN: Cannot shoot -->
+  <CannotShoot>Negali šauti</CannotShoot>
+  
+  <!-- Game updated to new version -->
+  <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
+  <GameUpdatedToNewVersionInitial>RimWorld buvo atnaujintas iš versijos {0} į versiją {1}.</GameUpdatedToNewVersionInitial>
+  <!-- EN: This may cause saved games and mods from the old version to stop working. -->
+  <GameUpdatedToNewVersionSavesIncompatible>Dėl to išsaugoti žaidimai ir žaidimo modifikacijos iš senos versijos gali nebeveikti.</GameUpdatedToNewVersionSavesIncompatible>
+  <!-- EN: Saved games from the old version should be compatible, however some mods may stop working. -->
+  <GameUpdatedToNewVersionSavesCompatible>Išsaugoti žaidimai iš senos versijos turėtų būti suderinami, tačiau kai kurios žaidimo modifikacijos gali nebeveikti.</GameUpdatedToNewVersionSavesCompatible>
+  <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
+  <GameUpdatedToNewVersionNonSteam>Kadangi ši kopija yra be DRM, gali įsirašyti žaidimą du kartus dviejuose skirtinguose kataloguose, kad galėtum žaisti ir su sena, ir su nauja versija.</GameUpdatedToNewVersionNonSteam>
+  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu. -->
+  <GameUpdatedToNewVersionSteam>Jei nori tęsti su sena versija, gali tai padaryti naudodamas Steam "Betas" funkcija.\n\n  1. Steam bibliotekoje, paspausk su dešiniu ant RimWorld.\n  2. Paspausk Properties.\n  3. Paspausk Betas langą.\n  4. Pasirink versiją kurią nori iš išskleidžiamojo meniu.</GameUpdatedToNewVersionSteam>
+  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature. -->
+  <GameUpdatedToNewVersionSteamController>Jei nori tęsti naudodamas seną versiją, gali pasinaudoti Steam "Betas" funkcija.</GameUpdatedToNewVersionSteamController>
+  
+  <!-- Recovered from errors caused by mods -->
+  <!-- EN: Recovered from incompatible or corrupted mods errors -->
+  <RecoveredFromErrorsDialogTitle>Atsistatyta iš nesuderinamų arba sugadintų žaidimo modifikacijų klaidų</RecoveredFromErrorsDialogTitle>
+  <!-- EN: It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog. -->
+  <RecoveredFromErrorsText>Atrodo, kad kai kurie iš aktyvių žaidimo modifikacijų kėlė klaidas.\n\nJie buvo nesuderinami tarpusavyje, padaryti kitai RimWorld versijai arba sugadinti.\n\nVisos žaidimo modifikacijos buvo išjungtos ir gali būti aktyvuotos vėl žaidimo modifikacijų dialoge.</RecoveredFromErrorsText>
+  
+  <!-- Errors during loading -->
+  <!-- EN: Error while loading assets -->
+  <ErrorWhileLoadingAssetsTitle>Klaida įkeliant turinį</ErrorWhileLoadingAssetsTitle>
+  <!-- EN: An error occurred while loading game assets. See error log for more information. -->
+  <ErrorWhileLoadingAssets>Įvyko klaida įkeliant žaidimo turinį. Patikrink klaidų įrašus.</ErrorWhileLoadingAssets>
+  <!-- EN: The game is currently running with custom mods - they may or may not cause these problems. -->
+  <ErrorWhileLoadingAssets_ModsInfo>Žaidimas šiuo metu veikia su pritaikytomis žaidimo modifikacijomis - jos galimai gali sukelti problemų.</ErrorWhileLoadingAssets_ModsInfo>
+  <!-- EN: Error while generating a map -->
+  <ErrorWhileGeneratingMapTitle>Klaida generuojant žemėlapį</ErrorWhileGeneratingMapTitle>
+  <!-- EN: An error occurred while generating a new map. See error log for more information. -->
+  <ErrorWhileGeneratingMap>Įvyko klaida generuojant naują žemėlapį. Patikrink klaidų įrašus.</ErrorWhileGeneratingMap>
+  <!-- EN: Error while loading a map -->
+  <ErrorWhileLoadingMapTitle>Klaida įkeliant žemėlapį</ErrorWhileLoadingMapTitle>
+  <!-- EN: An error occurred while loading a map. See error log for more information. -->
+  <ErrorWhileLoadingMap>Įvyko klaida įkeliant žemėlapį. Patikrink klaidų įrašus.</ErrorWhileLoadingMap>
+  
+  <!-- Unloaded mod with an assembly -->
+  <!-- EN: The mod list has changed. The game will now restart automatically. -->
+  <ModsChanged>žaidimo modifikacijų sąrašas pasikeitė. Žaidimas įsijungs iš naujo automatiškai.</ModsChanged>
+  <!-- EN: Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly. -->
+  <FailedToRestart>Kažkas nepavyko jungiant žaidimą iš naujo. Žaidimas negalėjo pilnai išimti pakeisto kodo iš išjungtų žaidimo modifikacijų, todėl kodas iš išjungtų žaidimo modifikacijų vis dar gali veikti.\n\nRekomenduojama išeiti ir perkrauti žaidimą dabar, kad visos žaidimo modifikacijos būtų įkeltos švariai.</FailedToRestart>
+  <!-- EN: Restarting -->
+  <Restarting>Paleidžiama iš naujo</Restarting>
+  
+  <!-- Missing Steam -->
+  <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
+  <SteamClientMissing>Nebuvo galima inicializuoti Steam API. Galimos priežastys:\n\n-Steam nėra paleistas.\n-Paleista iš už Steam neturint steam_appid.txt savo vietoje.\n-PAleista su skirtingomis privilegijomis negu Steam klientas (pvz. "as administrator").\n\nDažniausiai, kompiuterio perkrovimas pataisys šią problemą.\n\nGali žaisti vis tiek, bet Steam statistika nebus išsaugota ir Steam funkcijos nebus prieinamos.</SteamClientMissing>
+  
+  <!-- Long events -->
+  <!-- EN: Initializing interface -->
+  <InitializingInterface>Inicializuojama sąsaja</InitializingInterface>
+  <!-- EN: Unloading unused assets -->
+  <UnloadingUnusedAssets>Iškraunamas nenaudojamas turinys</UnloadingUnusedAssets>
+  <!-- EN: Loading all active mods -->
+  <LoadingAllActiveMods>Įkeliamos visos aktyvios žaidimo modifikacijos</LoadingAllActiveMods>
+  <!-- EN: Loading defs -->
+  <LoadingDefs>Įkeliami duomenys</LoadingDefs>
+  <!-- EN: Loading assets -->
+  <LoadingAssets>Įkeliamas turinys</LoadingAssets>
+  <!-- EN: Initializing -->
+  <Initializing>Pradedama</Initializing>
+  <!-- EN: Loading world -->
+  <LoadingWorld>Įkeliamas pasaulis</LoadingWorld>
+  <!-- EN: Loading map -->
+  <LoadingMap>Įkeliamas žemėlapis</LoadingMap>
+  <!-- EN: Initializing game -->
+  <InitializingGame>Pradedamas žaidimas</InitializingGame>
+  <!-- EN: Spawning things -->
+  <SpawningAllThings>Sukuriami daiktai</SpawningAllThings>
+  <!-- EN: Spawning colonists -->
+  <SpawningColonists>Sukuriami kolonistai</SpawningColonists>
+  
+  <!-- Save/load -->
+  <!-- EN: Save -->
+  <SaveGameButton>Išsaugoti</SaveGameButton>
+  <!-- EN: Load -->
+  <LoadGameButton>Įkelti</LoadGameButton>
+  <!-- EN: Overwrite -->
+  <OverwriteButton>Perrašyti</OverwriteButton>
+  <!-- EN: Really delete {0}? -->
+  <ConfirmDelete>Tikrai ištrinti {0}?</ConfirmDelete>
+  <!-- EN: Delete this savegame. -->
+  <DeleteThisSavegame>Ištrinti šį išsaugotą žaidimą.</DeleteThisSavegame>
+  <!-- EN: Saved as {0}. -->
+  <SavedAs>Išsaugota kaip {0}.</SavedAs>
+  <!-- EN: Please enter a name. -->
+  <NeedAName>Prašome įvesti vardą.</NeedAName>
+  <!-- EN: Loading -->
+  <LoadingLongEvent>Įkeliama</LoadingLongEvent>
+  <!-- EN: Saving -->
+  <SavingLongEvent>Išsaugoma</SavingLongEvent>
+  <!-- EN: (Permadeath) -->
+  <PermadeathModeSaveSuffix>(Negrįžtama mirtis)</PermadeathModeSaveSuffix>
+  <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
+  <SaveIsFromDifferentGameVersion>Mes leidžiame versiją {0} bet išsaugoti duomenys yra iš {1}, kas yra visiškai skirtinga versija.\n\nĮkelti šių duomenų turbūt nepavyks.</SaveIsFromDifferentGameVersion>
+  <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
+  <SaveIsFromDifferentGameBuild>Mes leidžiame versiją {0} bet išsaugoti duomenys yra iš {1}, kas yra skirtingas sukompiliavimas.\n\nTurėtų vis dar pavykti įkelti šiuos duomenis.</SaveIsFromDifferentGameBuild>
+  <!-- EN: Save data was saved with our game version and should work without issue. -->
+  <SaveIsFromThisGameBuild>Išsaugoti duomenys buvo išsaugoti su mūsų žaidimo versija ir turėtų veikti be nesklandumų.</SaveIsFromThisGameBuild>
+  <!-- EN: Save data is in an unknown format and almost certainly will not load properly. -->
+  <SaveIsUnknownFormat>Išsaugoti duomenys yra nežinomo formato ir beveik garantuotai tinkamai neįsikels.</SaveIsUnknownFormat>
+  <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
+  <ProblemSavingFile>Įvyko problema išsaugant bylą {0}:\n\n{1}\n\nPatikrink klaidų įrašus.</ProblemSavingFile>
+  <!-- EN: Load anyway -->
+  <LoadAnyway>Vis tiek įkelti</LoadAnyway>
+  <!-- EN: Load mod list from save -->
+  <ChangeLoadedMods>Įkelti žaidimo modifikacijas iš sąrašo</ChangeLoadedMods>
+  <!-- EN: Some mods are unavailable, and need to be installed -->
+  <MissingMods>Kai kurių žaidimo modifikacijų nėra ir jas reikia įrašyti</MissingMods>
+  <!-- EN: Official content -->
+  <OfficialContent>Oficialus turinys</OfficialContent>
+  <!-- EN: Active -->
+  <ContentActive>Aktyvus</ContentActive>
+  <!-- EN: Installed, but not active -->
+  <ContentInstalledButNotActive>Įrašytas, bet neaktyvus</ContentInstalledButNotActive>
+  <!-- EN: Not installed -->
+  <ContentNotInstalled>Neįrašytas</ContentNotInstalled>
+  
+  <!-- Player faction naming -->
+  <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
+  <NamePlayerFactionMessage>Kadangi atrodo, kad būsi čia dar kurį laiką, {0} mano, kad tau reikėtų duoti savo frakcijai pavadinimą. Kaip tavo frakcija turėtų būti vadinama?</NamePlayerFactionMessage>
+  <!-- EN: Your faction is now known as {0}. -->
+  <PlayerFactionGainsName>Tavo frakcija dabar žinoma kaip {0}.</PlayerFactionGainsName>
+  <!-- EN: That name isn't valid. -->
+  <PlayerFactionNameIsInvalid>Toks pavadinimas negalimas.</PlayerFactionNameIsInvalid>
+
+  <!-- Player faction base naming -->
+  <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
+  <NamePlayerFactionBaseMessage>{0} mano, kad turėtum šiai gyvenvietei suteikti pavadinimą. Kaip ši gyvenvietė bus vadinama?</NamePlayerFactionBaseMessage>
+  <!-- EN: This community is now known as {0}. -->
+  <PlayerFactionBaseGainsName>Ši bendruomenė dabar žinoma kaip {0}.</PlayerFactionBaseGainsName>
+  <!-- EN: That name isn't valid. -->
+  <PlayerFactionBaseNameIsInvalid>Toks pavadinimas negalimas.</PlayerFactionBaseNameIsInvalid>
+  
+  <!-- Player faction and faction base naming -->
+  <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>{0} taip pat mano, kad turėtum šiai gyvenvietei suteikti pavadinimą. Kaip ši gyvenvietė bus vadinama?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <!-- EN: Your faction is now known as {0}, and this community is now known as {1}. -->
+  <PlayerFactionAndBaseGainsName>Tavo frakcija dabar žinoma kaip {0}, ir ši bendruomenė dabar žinoma kaip {1}.</PlayerFactionAndBaseGainsName>
+  
+  <!-- Renaming -->
+  <!-- EN: Please enter a valid name. -->
+  <NameIsInvalid>Prašome įvesti galiojantį pavadinimą.</NameIsInvalid>
+  <!-- EN: Name is already in use. -->
+  <NameIsInUse>Pavadinimas jau naudojamas.</NameIsInUse>
+  <!-- EN: The zone is now called {0}. -->
+  <ZoneGainsName>Zona dabar vadinasi {0}.</ZoneGainsName>
+  
+  <!-- Pawn naming -->
+  <!-- EN: Chosen name is invalid. -->
+  <NameInvalid>Pasirinktas negalimas vardas.</NameInvalid>
+  <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
+  <PawnGainsName>Šio asmens pravardė dabar yra {0}. {PAWN_possessive} titulas yra {PAWN_title}.</PawnGainsName>
+  <!-- EN: The animal's name is now {0}. -->
+  <AnimalGainsName>Gyvūno vardas dabar yra {0}.</AnimalGainsName>
+  <!-- EN: rename person -->
+  <RenamePerson>pervadinti asmenį</RenamePerson>
+  <!-- EN: mother -->
+  <Mother>motina</Mother>
+  <!-- EN: father -->
+  <Father>tėvas</Father>
+  <!-- EN: unknown -->
+  <Unknown>nežinoma</Unknown>
+  <!-- EN: first name -->
+  <FirstName>vardas</FirstName>
+  <!-- EN: nickname -->
+  <NickName>pravardė</NickName>
+  <!-- EN: last name -->
+  <LastName>pavardė</LastName>
+  <!-- EN: suggested -->
+  <Suggested>siūlomas</Suggested>
+
+  <!-- Save game incompatible warning -->
+  <!-- EN: Version mismatch -->
+  <VersionMismatch>Versijos neatitikimas</VersionMismatch>
+  <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
+  <SaveGameIncompatibleWarningText>Šis žaidimas buvo išsaugotas su {0} versija\nMes esame paleidę {1} versiją\n\nŠio žaidimo užkrovimas gali sukelti klaidas ir nulūžimus.</SaveGameIncompatibleWarningText>
+  <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
+  <WorldFileVersionMismatch>Pasaulio byla buvo sugeneruota su {0} versija\nMes esame paleidę {1} versiją\n\nŠio pasaulio užkrovimas gali sukelti klaidas ir nulūžimus. Tau turbūt reikėtų sukurti naują pasaulį.</WorldFileVersionMismatch>
+  <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
+  <FileIncompatibleWarning>Ši byla buvo išsaugota su {0} versija\nMes esame paleidę {1} versiją\n\nBylos užkrovimas gali sukelti klaidas ir nulūžimus.</FileIncompatibleWarning>
+  <!-- EN: Mods mismatch -->
+  <ModsMismatchWarningTitle>Žaidimo modifikacijų neatitikimas</ModsMismatchWarningTitle>
+  <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do. -->
+  <ModsMismatchWarningText>Ši byla buvo išsaugota su skirtingomis aktyviomis žaidimo modifikacijomis negu kurios dabar yra veikiančios. Tai gali sukelti problemas, priklausomai nuo to ką tiksliai tos žaidimo modifikacijos daro.</ModsMismatchWarningText>
+  <!-- EN: No mods have been added or removed, but the order of your mod list has changed. -->
+  <ModsMismatchOrderChanged>Jokių žaidimo modifikacijų nebuvo pridėta ar pašalinta, bet pasikeitė žaidimo modifikacijų sąrašo eiliškumas.</ModsMismatchOrderChanged>
+  <!-- EN: Are you sure you want to load the mod list from this save file? -->
+  <ConfirmLoadSaveList>Ar tikrai nori įkelti žaidimo modifikacijų sąrašą iš šios išsaugotos bylos?</ConfirmLoadSaveList>
+
+  <!-- Resolution change dialog -->
+  <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
+  <ConfirmResolutionChange>Tu pakeitei ekrano nustatymus. Ar nauji nustatymai gerai veikia?\n\nAutomatinis atstatymas už {0}...</ConfirmResolutionChange>
+  <!-- EN: Keep -->
+  <ResolutionKeep>Palikti</ResolutionKeep>
+  <!-- EN: Revert -->
+  <ResolutionRevert>Atstatyti</ResolutionRevert>
+
+  <!-- Confirm permanently disable dev mode -->
+  <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
+  <ConfirmPermanentlyDisableDevMode>Ar tikrai nori visam išjungti programuotojo režimą ant šio kompiuterio?\n\nŠis pasirinkimas skirtas žmonėms kurie nori švaraus žaidimo be pagundos įsijungti programos plėtojimo įrankius gauti pranašumui įprastai žaidžiant.\n\nProgramos plėtojimo režimas gali būti įjungtas vėl, bet tam reikia pačiam paredaguoti konfigūracijos bylas. Reikės paieškoti internete kad rastum kaip.</ConfirmPermanentlyDisableDevMode>
+
+  <!-- Confirm reset learning helper -->
+  <!-- EN: Are you sure you want to reset the learning helper?\n\nAll records of which concepts have been learned will be erased and the system will teach everything from scratch. -->
+  <ConfirmResetLearningHelper>Ar tikrai nori atstatyti mokymosi padėjėją?\n\nVisi įrašai apie išmoktas koncepcijas bus ištrinti ir sistema visko mokins nuo pradžių.</ConfirmResetLearningHelper>
+
+  <!-- Backstory translation restart dialog -->
+  <!-- EN: Backstories are now implemented as a def and all legacy backstory translations have been imported into def translations. The file {0} has been imported and moved to {1}. It can now be deleted.\n\nRestart the game for changes to take effect. -->
+  <RestartAfterImportingLegacyBackstoryTanslations>TODO</RestartAfterImportingLegacyBackstoryTanslations>
+
+  <!-- Game start -->
+  <!-- EN: Must include exactly {SUMMARY} -->
+  <SelectedCharactersMustInclude>Turi turėti būtent {SUMMARY}</SelectedCharactersMustInclude>
+
+  <!-- Advanced game start options -->
+  <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
+  <MapTemperatureDangerWarning>Įspėjimas: Tu nusileisi sušalusioje aplinkoje. Gali būti sunku ar beveik neįmanoma išgyventi. Jei neketini sau išsikelti aukščiausio laipsnio iššūkio, pasirink kitą vietą arba metų laiką.</MapTemperatureDangerWarning>
+  <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
+  <MapSizePerformanceWarning>Žaidimas yra sukurtas žaisti vidutinio dydžio žemėlapiuose. Juose yra pilna vietos!\n\nDideli žemėlapiai ne tik kad pablogina veikimo našumą - jie iš tikro sulaužo žaidimo dizainą. DI darys kvailus sprendimus ir žaidimo balansas bus pablogintas įvairiais būdais. Šitie dydžiai yra pridėti tik dėl tradicijos ir testavimo, prašome nenaudoti jų be konkrečios priežasties.</MapSizePerformanceWarning>
+  <!-- EN: Map size -->
+  <MapSize>Žemėlapio dydis</MapSize>
+  <!-- EN: {0}x{0} ({1} cells) -->
+  <MapSizeDesc>{0}x{0} ({1} langeliai)</MapSizeDesc>
+  <!-- EN: Small -->
+  <MapSizeSmall>Mažas</MapSizeSmall>
+  <!-- EN: Medium -->
+  <MapSizeMedium>Vidutinis</MapSizeMedium>
+  <!-- EN: Large -->
+  <MapSizeLarge>Didelis</MapSizeLarge>
+  <!-- EN: Extreme (test) -->
+  <MapSizeExtreme>Itin didelis (testinis)</MapSizeExtreme>
+  <!-- EN: Starting season -->
+  <MapStartSeason>Pradinis metų laikas</MapStartSeason>
+  <!-- EN: Auto -->
+  <MapStartSeasonDefault>Automatiškai</MapStartSeasonDefault>
+  <!-- EN: Notice -->
+  <Notice>Pranešimas</Notice>
+
+  <!-- Bill config -->
+  <!-- EN: Suspended -->
+  <Suspended>Suspenduotas</Suspended>
+  <!-- EN: Not suspended -->
+  <NotSuspended>Nesuspenduotas</NotSuspended>
+  <!-- EN: SUSPENDED -->
+  <SuspendedAllCaps>SUSPENDUOTAS</SuspendedAllCaps>
+  <!-- EN: Repeat: -->
+  <RepeatCount>Kartoti:</RepeatCount>
+  <!-- EN: Forever -->
+  <Forever>Amžinai</Forever>
+  <!-- EN: Details -->
+  <Details>Detalės</Details>
+  <!-- EN: Ingredient radius -->
+  <IngredientSearchRadius>Ingredientų spindulys</IngredientSearchRadius>
+  <!-- EN: Currently have -->
+  <CurrentlyHave>Dabar turima</CurrentlyHave>
+  <!-- EN: Counting -->
+  <CountingProducts>Skaičiuojama</CountingProducts>
+  <!-- EN: Infinite -->
+  <Infinite>Begalybė</Infinite>
+  <!-- EN: Allowed {0} skill: -->
+  <AllowedSkillRange>Leidžiami {0} įgūdžiai:</AllowedSkillRange>
+  <!-- EN: incompatible -->
+  <IncompatibleLower>nesuderinama</IncompatibleLower>
+  <!-- EN: Any worker -->
+  <AnyWorker>Bet kuris darbininkas</AnyWorker>
+  <!-- EN: Unlimited -->
+  <Unlimited>Neribota</Unlimited>
+  
+  <!-- EN: (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
+  <RecipeCannotHaveTargetCount>(Šis receptas negali turėti kiekio tikslo nes jis turi keletą arba neprognozuojamą kiekį produktų.)</RecipeCannotHaveTargetCount>
+  <!-- EN: Work amount -->
+  <WorkAmount>Darbo kiekis</WorkAmount>
+  <!-- EN: Minimum skills: -->
+  <MinimumSkills>Minimalūs įgūdžiai:</MinimumSkills>
+  <!-- EN: Requires -->
+  <BillRequires>Reikia </BillRequires>
+  <!-- EN: nutrition -->
+  <BillNutrition>maisto medžiagų kiekis</BillNutrition>
+  <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
+  <BillRequiresMayVary>Pastaba: Mažos apimties ingredientų kaip auksas reikia {0}x daugiau.</BillRequiresMayVary>
+  <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
+  <ThisIsSmallVolume>Tai yra mažos apimties ingredientas. Tai reiškia kad kiekvienas 'vienetas' yra tik 1/{0} dalis įprastinio tūrio ingrediento. Taigi, kad išpildytum ingrediento reikalavimą, reikės {0}x daugiau negu įprastai.</ThisIsSmallVolume>
+  <!-- EN: ingredients -->
+  <UsableIngredients>ingredientas</UsableIngredients>
+  <!-- EN: To {0} -->
+  <BillRepeatTargetCountShort>Iki {0}</BillRepeatTargetCountShort>
+
+  <!-- EN: Pause when satisfied -->
+  <PauseWhenSatisfied>Sustabdyti kai išpildyta</PauseWhenSatisfied>
+  <!-- EN: Unpause at -->
+  <UnpauseWhenYouHave>Tęsti kai</UnpauseWhenYouHave>
+  <!-- EN: Paused -->
+  <Paused>Sustabdyta</Paused>
+  <!-- EN: Unpause -->
+  <Unpause>Tęsti</Unpause>
+
+  <!-- EN: Count equipped -->
+  <IncludeEquipped>Skaičiuoti ekipuotus</IncludeEquipped>
+  <!-- EN: Count tainted -->
+  <IncludeTainted>Skaičiuoti suterštus</IncludeTainted>
+  <!-- EN: Only allowed ingredients -->
+  <LimitToAllowedStuff>Tik leidžiami ingredientai</LimitToAllowedStuff>
+  <!-- EN: Look everywhere -->
+  <IncludeFromAll>Ieškoti visur</IncludeFromAll>
+  <!-- EN: Look in {0} -->
+  <IncludeSpecific>Ieškoti {0}</IncludeSpecific>
+  
+  <!-- Info card -->
+  <!-- EN: Damage -->
+  <Damage>Žala</Damage>
+  <!-- EN: Armor penetration -->
+  <ArmorPenetration>Šarvų pramušimas</ArmorPenetration>
+  <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
+  <ArmorPenetrationExplanation>Šarvų pramušimas parodo kiek šarvų šis ginklas ignoruos kaskart kai pataikys į taikinį.\n\nJei šarvų pramušimas yra didesnis negu taikinio šarvai, tai lyg taikinys būtų be šarvų. Kitu atveju šarvų pramušimas yra atimamas iš taikinio šarvų.</ArmorPenetrationExplanation>
+  <!-- EN: Building damage factor -->
+  <BuildingDamageFactor>Žalos statiniams koeficientas</BuildingDamageFactor>
+  <!-- EN: Damage to all buildings is multiplied by this value. -->
+  <BuildingDamageFactorExplanation>Žala visiems statiniams yra dauginama iš šio skaičiaus.</BuildingDamageFactorExplanation>
+  <!-- EN: Building damage factor (impassable) -->
+  <BuildingDamageFactorImpassable>Žalos statiniams koeficientas (nepraeinami)</BuildingDamageFactorImpassable>
+  <!-- EN: Damage to all impassable buildings is multiplied by this value. -->
+  <BuildingDamageFactorImpassableExplanation>Žala visiems nepraeinamiems statiniams yra dauginama iš šio skaičiaus.</BuildingDamageFactorImpassableExplanation>
+  <!-- EN: Building damage factor (passable) -->
+  <BuildingDamageFactorPassable>Žalos statiniams koeficientas (praeinami)</BuildingDamageFactorPassable>
+  <!-- EN: Damage to all passable buildings is multiplied by this value. -->
+  <BuildingDamageFactorPassableExplanation>Žala visiems praeinamiems statiniams yra dauginama iš šio skaičiaus.</BuildingDamageFactorPassableExplanation>
+  <!-- EN: Accuracy -->
+  <Accuracy>Taiklumas</Accuracy>
+  <!-- EN: Burst shot count -->
+  <BurstShotCount>Papliūpos šūvių skaičius</BurstShotCount>
+  <!-- EN: Warmup -->
+  <WarmupTime>Pasiruošimas</WarmupTime>
+  <!-- EN: Melee warmup -->
+  <MeleeWarmupTime>Pasiruošimo laikas artimai kovai</MeleeWarmupTime>
+  <!-- EN: Aiming time -->
+  <RangedWarmupTime>Nusitaikymo laikas</RangedWarmupTime>
+  <!-- EN: Cooldown -->
+  <CooldownTime>Pertrauka</CooldownTime>
+  <!-- EN: Disarmed -->
+  <DisarmedTime>Nuginkluotas</DisarmedTime>
+  <!-- EN: Charging -->
+  <ChargingTime>Įkraunama</ChargingTime>
+  <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
+  <ChargingNext>Sekantis ({1}) įkrovimas už: {0}\nĮkrovimo ciklas: {2}</ChargingNext>
+  <!-- EN: Shut down -->
+  <ShutDown>Išjungti</ShutDown>
+  <!-- EN: Fire rate -->
+  <BurstShotFireRate>Šaudymo sparta</BurstShotFireRate>
+  <!-- EN: Range -->
+  <Range>Nuotolis</Range>
+  <!-- EN: Stopping power -->
+  <StoppingPower>Stabdymo galia</StoppingPower>
+  <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds.\n\nTargets with a body size larger than the stopping power will be unaffected. -->
+  <StoppingPowerExplanation>Pataikymai su šiuo ginklu pritrenks taikinius, sulėtindami juos kelioms sekundėms.\n\nTaikiniai kurių kūnas didesnis negu stabdymo galia bus nepaveikti.</StoppingPowerExplanation>
+  <!-- EN: Direct hit chance -->
+  <DirectHitChance>Pataikymo tikimybė</DirectHitChance>
+  <!-- EN: Miss radius -->
+  <MissRadius>Prašovimo spindulys</MissRadius>
+  <!-- EN: Grows wild -->
+  <GrowsWild>Auga natūraliai</GrowsWild>
+  <!-- EN: Harvestable -->
+  <Harvestable>Galimas derliaus nuėmimas</Harvestable>
+  <!-- EN: Limited lifespan -->
+  <LimitedLifespan>Ribota gyvenimo trukmė</LimitedLifespan>
+  <!-- EN: Growing time -->
+  <GrowingTime>Augimo laikas</GrowingTime>
+  <!-- EN: Harvest yield -->
+  <HarvestYield>Derliaus kiekis</HarvestYield>
+  <!-- EN: Min growth temperature -->
+  <MinGrowthTemperature>Minimali augimo temperatūra</MinGrowthTemperature>
+  <!-- EN: Max growth temperature -->
+  <MaxGrowthTemperature>Maksimali augimo temperatūra</MaxGrowthTemperature>
+  <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
+  <GrowingTimeDesc>Augalai auga tik dalį dienos ir tik kai yra apšviesti.\n\nŠis statistinis rodiklis rodo kiek laiko augalas turės praleisti augant kol pasieks savo tikrą dydį.\nTikrasis augimo laikas būna maždaug dvigubai ilgiau.\nŽema temperatūra taip pat sulėtins augimą.</GrowingTimeDesc>
+  <!-- EN: days -->
+  <Days>dienos</Days>
+  <!-- EN: Minimum growing skill to sow -->
+  <MinGrowingSkillToSow>Minimalūs auginimo įgūdžiai reikalingi norint pasėti</MinGrowingSkillToSow>
+  <!-- EN: Fertility requirement -->
+  <FertilityRequirement>Reikalavimas derlingumui</FertilityRequirement>
+  <!-- EN: Fertility sensitivity -->
+  <FertilitySensitivity>Jautrumas derlingumui</FertilitySensitivity>
+  <!-- EN: Light requirement -->
+  <LightRequirement>Reikalavimas šviesai</LightRequirement>
+  <!-- EN: Attributes -->
+  <Attributes>Atributai</Attributes>
+  <!-- EN: Lifespan -->
+  <LifeSpan>Gyvenimo trukmė</LifeSpan>
+  <!-- EN: Nutrition -->
+  <Nutrition>Maisto medžiagų kiekis</Nutrition>
+  <!-- EN: Recreation -->
+  <Joy>Pramogos</Joy>
+  <!-- EN: Food quality -->
+  <FoodQuality>Maisto kokybė</FoodQuality>
+  <!-- EN: Walk speed -->
+  <WalkSpeedProperty>Vaikščiojimo greitis</WalkSpeedProperty>
+  <!-- EN: Min. food quality -->
+  <MinFoodQuality>Minimali maisto kokybė</MinFoodQuality>
+  <!-- EN: Diet -->
+  <Diet>Dieta</Diet>
+  <!-- EN: Nutrition need per day -->
+  <NutritationEatenPerDay>Maisto medžiagų poreikis per dieną</NutritationEatenPerDay>
+  <!-- EN: Leather type -->
+  <LeatherType>Odos rūšis</LeatherType>
+  <!-- EN: Body size -->
+  <BodySize>Kūno dydis</BodySize>
+  <!-- EN: Growth -->
+  <Growth>Augimas</Growth>
+  <!-- EN: Recruit difficulty -->
+  <RecruitDifficulty>Įkalbėjimo prisijungti sudėtingumas</RecruitDifficulty>
+  <!-- EN: Base price -->
+  <MarketValue>Bazinė kaina</MarketValue>
+  <!-- EN: Covers -->
+  <Covers>Pridengia</Covers>
+  <!-- EN: Created at -->
+  <CreatedAt>Padaryta</CreatedAt>
+  <!-- EN: Layer -->
+  <Layer>Sluoksnis</Layer>
+  <!-- EN: Cover effectiveness -->
+  <CoverEffectiveness>Priedangos veiksmingumas</CoverEffectiveness>
+  <!-- EN: How effective this is when used as cover in a gunfight.\n\nHigher percentages will block more shots. -->
+  <CoverEffectivenessExplanation>Kiek tai veiksminga naudojant kaip priedangą susišaudyme.\n\nDidesnis procentas užblokuos daugiau šūvių.</CoverEffectivenessExplanation>
+  <!-- EN: Experience gain factor -->
+  <MedicineXpGainFactor>Patirties gavimo koeficientas</MedicineXpGainFactor>
+  <!-- EN: Mood change -->
+  <MoodChange>Nuotaikos pokytis</MoodChange>
+  <!-- EN: Wildness -->
+  <Wildness>Laukiniškumas</Wildness>
+  <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
+  <WildnessExplanation>Kuo būtybė labiau laukinė, tuo sunkiau ją prijaukinti, dresuoti ir dirbti su ja.</WildnessExplanation>
+  <!-- EN: Training decay interval -->
+  <TrainingDecayInterval>Dresavimo mažėjimo intervalas</TrainingDecayInterval>
+  <!-- EN: Tameness will never decay for animals of very low wildness. -->
+  <TamenessWillNotDecay>Labai mažai laukiniams gyvūnams prijaukinimas niekada nemažės.</TamenessWillNotDecay>
+  <!-- EN: Tameness will never decay for animals that can be kept behind fences. -->
+  <TamenessWillNotDecayFenceBlocked>Aptvertiems gyvūnams prijaukinimas niekada nemažės.</TamenessWillNotDecayFenceBlocked>
+  <!-- EN: Time -->
+  <TimeRecordsCategory>Laikas</TimeRecordsCategory>
+  <!-- EN: Misc -->
+  <MiscRecordsCategory>Įvairūs</MiscRecordsCategory>
+  <!-- EN: Chemical -->
+  <Chemical>Chemikalai</Chemical>
+  <!-- EN: High gain per dose -->
+  <HighGain>Apkvaišimo gavimas dozės vienetui</HighGain>
+  <!-- EN: High fall rate -->
+  <HighFallRate>Apkvaišimo mažėjimo greitis</HighFallRate>
+  <!-- EN: High duration per dose -->
+  <HighDuration>Apkvaišimo trukmė dozės vienetui</HighDuration>
+  <!-- EN: Tolerance gain per dose -->
+  <ToleranceGain>Tolerancijos augimas dozės vienetui</ToleranceGain>
+  <!-- EN: Tolerance fall rate -->
+  <ToleranceFallRate>Tolerancijos mažėjimo greitis</ToleranceFallRate>
+  <!-- EN: New addiction min tolerance -->
+  <MinimumToleranceForAddiction>Naujos priklausomybės minimali tolerancija</MinimumToleranceForAddiction>
+  <!-- EN: Safe dose interval for adults -->
+  <SafeDoseInterval>Saugus dozės intervalas suaugusiam</SafeDoseInterval>
+  <!-- EN: age {0}-{1} -->
+  <AgeXToY>amžius {0}-{1}</AgeXToY>
+  <!-- EN: age {0}+ -->
+  <AgePlus>amžius {0}+</AgePlus>
+  <!-- EN: New addiction chance -->
+  <Addictiveness>Naujos priklausomybės tikimybė</Addictiveness>
+  <!-- EN: Addiction initial severity -->
+  <AddictionSeverityInitial>Pradinis priklausomybės sunkumas</AddictionSeverityInitial>
+  <!-- EN: Addiction severity per dose -->
+  <AddictionSeverityPerDose>Priklausomybės sunkumas dozės vienetui</AddictionSeverityPerDose>
+  <!-- EN: Addiction need fill per dose -->
+  <AddictionNeedOffset>Priklausomybės poreikis dozės vienetui</AddictionNeedOffset>
+  <!-- EN: Addiction need fall rate -->
+  <AddictionNeedFallRate>Priklausomybės poreikio mažėjimo greitis</AddictionNeedFallRate>
+  <!-- EN: Addiction need dose interval -->
+  <AddictionNeedDoseInterval>Priklausomybės poreikio dozės intervalas</AddictionNeedDoseInterval>
+  <!-- EN: Addiction recovery time -->
+  <AddictionRecoveryTime>Priklausomybės išgijimo trukmė</AddictionRecoveryTime>
+  <!-- EN: Addiction cost -->
+  <AddictionCost>Priklausomybės kaina</AddictionCost>
+  <!-- EN: Random overdose chance -->
+  <RandomODChance>Atsitiktinio perdozavimo tikimybė</RandomODChance>
+  <!-- EN: Always safe -->
+  <AlwaysSafe>Visada saugu</AlwaysSafe>
+  <!-- EN: Never safe -->
+  <NeverSafe>Niekada nesaugu</NeverSafe>
+  <!-- EN: {0} / day -->
+  <PerDay>{0} / dieną</PerDay>
+  <!-- EN: {0} / hour -->
+  <PerHour>{0} / valandą</PerHour>
+  <!-- EN: Pack animal -->
+  <PackAnimal>Nešulinis gyvūnas</PackAnimal>
+  <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
+  <PackAnimalExplanation>Ar šis gyvūnas tinkamas naudoti karavane nešti daiktus ilgus atstumus.</PackAnimalExplanation>
+  <!-- EN: Skill -->
+  <Skill>Įgūdžiai</Skill>
+  <!-- EN: Success rate multiplier -->
+  <SurgerySuccessChanceFactor>Pavykimo tikimybės daugiklis</SurgerySuccessChanceFactor>
+  <!-- EN: Death chance on fail -->
+  <SurgeryDeathOnFailChance>Mirties tikimybė nepavykus</SurgeryDeathOnFailChance>
+  <!-- EN: Work speed governed by -->
+  <WorkSpeedStat>Darbo greitis reguliuojamas</WorkSpeedStat>
+  <!-- EN: Output quantity governed by -->
+  <EfficiencyStat>Produkcijos kiekis reguliuojamas</EfficiencyStat>
+  <!-- EN: {0} skill required -->
+  <SkillRequiredToBuild>Reikia {0} įgūdžių</SkillRequiredToBuild>
+  <!-- EN: Requires this level of {0} in order to build. -->
+  <SkillRequiredToBuildExplanation>Statybai reikia šio {0} lygio.</SkillRequiredToBuildExplanation>
+  <!-- EN: Nuzzle interval -->
+  <NuzzleInterval>Pasitrynimo intervalas</NuzzleInterval>
+  <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection.\nMost humans find this cute and it will leave them in a good mood for a period of time. -->
+  <NuzzleIntervalExplanation>Kaip dažnai vidutiniškai gyvūnas pasitrins į kolonistus.\n\nPasitrynimas yra daugelio gyvūnų rūšių elgesys, kai gyvūnas prispaudžia savo nosį ar snukį prie draugo kaip meilumo ženklą.\nDaugumai žmonių tai atrodo miela ir kuriam laikui pakels jų nuotaiką.</NuzzleIntervalExplanation>
+  <!-- EN: Revenge chance on harm -->
+  <HarmedRevengeChance>Keršto tikimybė sužeidus</HarmedRevengeChance>
+  <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
+  <HarmedRevengeChanceExplanation>Tikimybė, kad ši būtybė puls kai yra sužeidžiama.\n\nŠi tikimybė yra iki trijų kartų didesnė jei užpuolikas yra arčiau.\nŠi tikimybė skaičiuojama kiekvieną kartą kai gyvūnui padaroma žala. Tai reiškia kad lėtai šaudantys, daugiau žalos darantys ginklai sumažina tikimybę kad būtybė atakuos.</HarmedRevengeChanceExplanation>
+  <!-- EN: Revenge chance on tame fail -->
+  <TameFailedRevengeChance>Keršto tikimybė nepavykus prisijaukinti</TameFailedRevengeChance>
+  <!-- EN: Terrain requirement -->
+  <TerrainRequirement>Reikalingas gruntas</TerrainRequirement>
+  <!-- EN: Supports -->
+  <Supports>Išlaiko</Supports>
+  <!-- EN: Trap armor penetration -->
+  <TrapArmorPenetration>Spąstų šarvų pramušimas</TrapArmorPenetration>
+  <!-- EN: Rearm cost -->
+  <RearmCost>Užtaisymo kaina</RearmCost>
+  <!-- EN: Resources needed to rearm this turret -->
+  <RearmCostExplanation>Kiek išteklių reikia užtaisyti šį bokštą.</RearmCostExplanation>
+  <!-- EN: affected by difficulty -->
+  <RearmCostExplanationDifficulty>priklauso nuo sudėtingumo</RearmCostExplanationDifficulty>
+  <!-- EN: Shots before rearm -->
+  <ShotsBeforeRearm>Iššovimai iki užtaisymo</ShotsBeforeRearm>
+  <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
+  <ShotsBeforeRearmExplanation>Kiek kartų šis šarvuotasis bokštas gali iššauti kol reikės užtaisyti.</ShotsBeforeRearmExplanation>
+  <!-- EN: Power consumption -->
+  <PowerConsumption>Elektros energijos suvartojimas</PowerConsumption>
+  <!-- EN: Target -->
+  <Target>Taikinys</Target>
+  <!-- EN: The types of targets on which this ability can be used. -->
+  <AbilityTargetDesc>Taikinių rūšys ant kurių šis sugebėjimas gali būti panaudotas.</AbilityTargetDesc>
+  <!-- EN: human -->
+  <TargetHuman>žmogus</TargetHuman>
+  <!-- EN: animal -->
+  <TargetAnimal>gyvūnas</TargetAnimal>
+  <!-- EN: self -->
+  <TargetSelf>pats</TargetSelf>
+  <!-- EN: ground -->
+  <TargetGround>žemė</TargetGround>
+  <!-- EN: Click to learn more. -->
+  <ClickToLearnMore>Paspausk kad sužinotum daugiau.</ClickToLearnMore>
+  <!-- EN: Click to view factions. -->
+  <ClickToViewFactions>Paspausk kad peržiūrėtum frakcijas.</ClickToViewFactions>
+  <!-- EN: meditation focus types -->
+  <MeditationFocuses>meditacijos fokusavimosi rūšys</MeditationFocuses>
+  <!-- EN: Unlocks meditation focus types -->
+  <MeditationFocusesUnlocked>Atrakina meditacijos fokusavimosi rūšis</MeditationFocusesUnlocked>
+  <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an object to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
+  <MeditationFocusesPawnDesc>Meditacijos fokusavimosi rūšys kuriuos šitas žmogus gali naudoti. Medituojant žmogus gali fokusuotis į objektą kad padidintų psifokuso gavimą - bet tik jei tas objektas suteikia fokusavimosi rūšį kurią tas žmogus gali naudoti. Kiekvieno žmogaus meditacijos rūšis yra nulemta jo gyvenimo aplinkos, bruožų, socialinio statuso ir taip toliau.</MeditationFocusesPawnDesc>
+  <!-- EN: The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on. -->
+  <MeditationFocusesDesc>Meditacijos fokusavimosi rūšys kuriuos suteikia šis objektas. Medituojantis žmogus gali susifokusuot į šį objektą kad padidintų psifokuso gavimą, bet tik jei jie gali naudoti šią meditacijos rūšį. Kiekvienas gali naudoti skirtingas meditacijos rūšis nulemtas jų gyvenimo aplinkos, bruožų, socialinio statuso ir taip toliau.</MeditationFocusesDesc>
+  <!-- EN: Can use {0} focus type because -->
+  <MeditationFocusCanUse>Gali naudoti {0} fokusavimosi rūšį, nes</MeditationFocusCanUse>
+  <!-- EN: {0} focus objects -->
+  <MeditationFocusObjects>{0} fokusavimosi objektai</MeditationFocusObjects>
+  <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
+  <MeditationFocusEnabledByTitle>turi titulą: {TITLE} ({FACTION_name}).</MeditationFocusEnabledByTitle>
+  <!-- EN: has childhood -->
+  <MeditationFocusEnabledByChildhood>vaikystėje buvo</MeditationFocusEnabledByChildhood>
+  <!-- EN: has adulthood -->
+  <MeditationFocusEnabledByAdulthood>suaugęs buvo</MeditationFocusEnabledByAdulthood>
+  <!-- EN: has trait -->
+  <MeditationFocusEnabledByTrait>turi bruožą</MeditationFocusEnabledByTrait>
+  <!-- EN: does not have trait -->
+  <MeditationFocusDisabledByTrait>neturi bruožo</MeditationFocusDisabledByTrait>
+  <!-- EN: Enables meditation focus types -->
+  <EnablesMeditationFocusType>Įjungia meditacijos fokusavimosi rūšis</EnablesMeditationFocusType>
+  
+  <!-- Trade -->
+  <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
+  <PositiveBuysNegativeSells>Teigiami skaičiai perka.\nNeigiami skaičiai parduoda.</PositiveBuysNegativeSells>
+  <!-- EN: Price you pay to buy this. -->
+  <BuyPriceDesc>Kaina už kurią tai perki</BuyPriceDesc>
+  <!-- EN: Price you receive for selling this. -->
+  <SellPriceDesc>Kaina už kurią tai parduodi.</SellPriceDesc>
+  <!-- EN: For this item, this price is {0}. -->
+  <PriceTypeDesc>Šiam daiktui ši kaina yra {0}.</PriceTypeDesc>
+  <!-- EN: How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon. -->
+  <ColonyCount>Kiek šių daiktų kolonija gali parduoti.\n\nGali parduoti daiktus orbitiniams pirkliams tik jei tie daiktai yra padėti prie orbitinės prekybos švyturio.</ColonyCount>
+  <!-- EN: How many of this item the trader has to trade. -->
+  <TraderCount>Kiek šių daiktų prekeivis turi pardavimui.</TraderCount>
+  <!-- EN: Accept -->
+  <AcceptButton>Priimti</AcceptButton>
+  <!-- EN: Load selected -->
+  <LoadSelected>Sukrauti pasirinktus</LoadSelected>
+  <!-- EN: Reset -->
+  <ResetButton>Atstatyti</ResetButton>
+  <!-- EN: Cancel -->
+  <CancelButton>Atšaukti</CancelButton>
+  <!-- EN: Close -->
+  <CloseButton>Uždaryti</CloseButton>
+  <!-- EN: Your tradeable silver: {0} -->
+  <YourTradeableSilver>Tavo sidabras kuriuo gali prekiauti: {0}</YourTradeableSilver>
+  <!-- EN: You can only trade with silver that is near an orbital trade beacon and not under a roof. -->
+  <YourTradeableSilverTip>Gali prekiaut tik tuo sidabru kuris yra padėtas šalia orbitinės prekybos švyturio ir nėra po stogu.</YourTradeableSilverTip>
+  <!-- EN: Trader has no more. -->
+  <TraderHasNoMore>Prekeivis daugiau nebeturi.</TraderHasNoMore>
+  <!-- EN: No more to sell. -->
+  <ColonyHasNoMore>Nebėra ko parduoti.</ColonyHasNoMore>
+  <!-- EN: Trader is not willing to buy this. -->
+  <TraderWillNotTrade>Prekeivis tai pirkti nenori.</TraderWillNotTrade>
+  <!-- EN: Negotiator -->
+  <Negotiator>Derybininkas</Negotiator>
+  <!-- EN: Negotiator: {0} (+{1}) -->
+  <NegotiatorTradeDialogInfo>Derybininkas: {0} (+{1})</NegotiatorTradeDialogInfo>
+  <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
+  <NegotiatorTalkingImpaired>Tavo derybininkas {1_labelShort} dėl prastos sveikatos negali deramai kalbėti.</NegotiatorTalkingImpaired>
+  <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
+  <NegotiatorHearingImpaired>Tavo derybininkas {1_labelShort} dėl prastos sveikatos negali deramai girdėti.</NegotiatorHearingImpaired>
+  <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
+  <NegotiatorCapacityImpaired>Tai paveiks prekybos kainas.\n\nPasvarstyk dėl sveikesnio derybininko naudojimo.</NegotiatorCapacityImpaired>
+  <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
+  <ConfirmTraderShortFunds>Prekeivis neturi pakankamai sidabro kad pilnai sumokėtų už šį sandorį. Vis tiek tęsti?</ConfirmTraderShortFunds>
+  <!-- EN: Sort by -->
+  <SortBy>Rūšiuoti pagal</SortBy>
+  <!-- EN: trader type -->
+  <TraderTypePrice>prekeivio rūšis</TraderTypePrice>
+  <!-- EN: selling -->
+  <Selling>parduoda</Selling>
+  <!-- EN: buying -->
+  <Buying>perka</Buying>
+  <!-- EN: item sell price multiplier -->
+  <ItemSellPriceFactor>daikto pardavimo kainos daugiklis</ItemSellPriceFactor>
+  <!-- EN: difficulty level -->
+  <DifficultyLevel>sudėtingumo lygis</DifficultyLevel>
+  <!-- EN: global post-process curve -->
+  <PostCurve>bendra kreivė pritaikoma po skaičiavimų</PostCurve>
+  <!-- EN: Your negotiator bonus -->
+  <YourNegotiatorBonus>Tavo derybininko priedas</YourNegotiatorBonus>
+  <!-- EN: Trading with faction base bonus -->
+  <TradeWithFactionBaseBonus>Prekiavimo su frakcijos baze priedas</TradeWithFactionBaseBonus>
+  <!-- EN: Joins as slave -->
+  <JoinsAsSlave>Prisijungia kaip vergas</JoinsAsSlave>
+  <!-- EN: Joins as colonist -->
+  <JoinsAsColonist>Prisijungia kaip kolonistas</JoinsAsColonist>
+  <!-- EN: If purchased, this person will join your colony as a slave. -->
+  <JoinsAsSlaveDesc>Nupirktas šis asmuo prisijungs prie tavo kolonijos kaip vergas.</JoinsAsSlaveDesc> <!--  -->
+  <!-- EN: If purchased, this person will join your colony as a colonist. -->
+  <JoinsAsColonistDesc>Nupirktas šis asmuo prisijungs prie tavo kolonijos kaip kolonistas.</JoinsAsColonistDesc>
+  <!-- EN: Trading drugs bonus -->
+  <TradingDrugsBonus>Prekiavimo medikamentais priedas</TradingDrugsBonus>
+  <!-- EN: minimum -->
+  <minimum>minimalus</minimum>
+  <!-- EN: Final price -->
+  <FinalPrice>Galutinė kaina</FinalPrice>
+  <!-- EN: Gift mode - offer gifts to {0}. -->
+  <GiftModeTip>Dovanų režimas - siūlyk {0} dovanas.</GiftModeTip>
+  <!-- EN: Return to trade mode. -->
+  <TradeModeTip>Grįžti į prekybos režimą.</TradeModeTip>
+  <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
+  <TradeCaravanRequestDeniedDueTitle>{FACTION_name} nenori siųsti karavano, nes {NEGOTIATOR_nameDef} trūksta reikiamo {TITLE} titulo.</TradeCaravanRequestDeniedDueTitle>
+
+  <!-- Sellable items -->
+  <!-- EN: Things this trader will buy -->
+  <SellableItemsTitle>Dalykai kuriuos šis prekybininkas pirks</SellableItemsTitle>
+  <!-- EN: Never visited - stock unknown -->
+  <TraderNotVisitedYet>Niekada neaplankyta - atsargos nežinomos</TraderNotVisitedYet>
+  <!-- EN: Restocked since your last visit -->
+  <TraderRestockedSinceLastVisit>Nuo paskutinio tavo aplankymo atsargos atnaujintos</TraderRestockedSinceLastVisit>
+  <!-- EN: Next restock: {0} days -->
+  <NextTraderRestock>Sekantis atsargų atnaujinimas: už {0} dienų</NextTraderRestock>
+  <!-- EN: Creatures -->
+  <PawnsTabShort>Būtybės</PawnsTabShort>
+  
+  <!-- Form caravan -->
+  <!-- EN: Form caravan -->
+  <FormCaravan>Suformuoti karavaną</FormCaravan>
+  <!-- EN: Send -->
+  <Send>Išsiųsti</Send>
+  <!-- EN: Number available to send with the caravan. -->
+  <FormCaravanColonyThingCountTip>Skaičius galimų išsiųsti su karavanu.</FormCaravanColonyThingCountTip>
+  <!-- EN: People and animals -->
+  <PawnsTab>Žmonės ir gyvūnai</PawnsTab>
+  <!-- EN: Items -->
+  <ItemsTab>Daiktai</ItemsTab>
+  <!-- EN: Travel supplies -->
+  <TravelSupplies>Kelionės atsargos</TravelSupplies>
+  <!-- EN: You must assign at least one non-downed colonist. -->
+  <CaravanMustHaveAtLeastOneColonist>Privalai paskirti bent vieną nenumuštą kolonistą.</CaravanMustHaveAtLeastOneColonist>
+  <!-- EN: The chosen exit location ({0}) is inaccessible. -->
+  <CaravanCouldNotFindExitSpot>Pasirinkta išėjimo vieta ({0}) nepasiekiama.</CaravanCouldNotFindExitSpot>
+  <!-- EN: Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
+  <CaravanCouldNotFindPackingSpot>Nerasta jokios tinkamos kinkymo vietos. Patikrink kad pasirinktas išėjimas ({0}) yra pasiekiamas.</CaravanCouldNotFindPackingSpot>
+  <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
+  <CaravanCouldNotFindReachableExitSpot>Įspėjimas: Kai kurie iš paskirtų kolonistų negali pasiekti išėjimo ({0}).</CaravanCouldNotFindReachableExitSpot>
+  <!-- EN: {1_labelShort} is unable to reach the packing spot or the exit location when led by any of the assigned colonists. -->
+  <CaravanRoamerCannotReachSpots>{1_labelShort} negali pasiekti kinkymo vietos ar išėjimo kai vedamas bet kurio iš paskirtų kolonistų.</CaravanRoamerCannotReachSpots>
+  <!-- EN: None of the assigned colonists are able to reach the {0}. -->
+  <CaravanItemIsUnreachableSingle>Nei vienas iš paskirtų kolonistų negali pasiekti {0}.</CaravanItemIsUnreachableSingle>
+  <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
+  <CaravanItemIsUnreachableMulti>Nei vienas iš paskirtų kolonistų negali pasiekti {0}x {1}.</CaravanItemIsUnreachableMulti>
+  <!-- EN: The caravan can't carry that much. -->
+  <TooBigCaravanMassUsage>Karavanas tiek daug panešti negali.</TooBigCaravanMassUsage>
+  <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
+  <CaravanMassUsageTooltip>Įskaito nešiojamus ir ekipuotus daiktus. Mažiau nei maksimalaus svorio nešimas duoda papildomo greičio.</CaravanMassUsageTooltip>
+  <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
+  <CaravanVisibilityTip>Matomumas tai kaip lengvai tavo karavanas pastebimas.\n\nPadidina tikimybę kad tavo karavanui kelią užkirs priešai.\n\nMatomumas nepaveikia gebėjimo rasti norimus dalykus.\n\nMatomumas priklauso nuo visų karavane esančių žmonių ir gyvūnų kūno dydžių sumos.</CaravanVisibilityTip>
+  <!-- EN: Days of food -->
+  <DaysWorthOfFood>Dienoms maisto</DaysWorthOfFood>
+  <!-- EN: rot in {0} -->
+  <DaysWorthOfFoodInfoRot>supus už {0}</DaysWorthOfFoodInfoRot>
+  <!-- EN: Unlimited -->
+  <InfiniteDaysWorthOfFoodInfo>Neribotai</InfiniteDaysWorthOfFoodInfo>
+  <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
+  <DaysWorthOfFoodTooltip>Apytikslis skaičius dienų iki kol bent vienam asmeniui ar gyvūnui pritrūks maisto. Skirtingos rūšys turi skirtingas mitybas, tai kai kurios gali nebeturėti maisto greičiau nei kitos. Ši vertė apskaičiuojama tiksliau kai pasirenkamas maršrutas.\n\nPriklauso nuo:\n  - Žmogaus inventoriaus\n  - Nešamo maisto rūšies ir kiekio\n  - Karavano narių ir jų mitybos\n  - Maisto surinkimo gamtoje greitis\n  - Ar gyvūnai gali ganytis\n  - Laiko iki kol maistas supus\n  - Karštame ore maistas pūva greičiau</DaysWorthOfFoodTooltip>
+  <!-- EN: (only the first waypoint is taken into account) -->
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(apskaičiuota tik iki pirmo kelionės taško)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
+  <DaysWorthOfFoodWarningDialog>TAvo karavanas turi maisto tik {0} dienoms ir labai greitai bus alkanas.</DaysWorthOfFoodWarningDialog>
+  <!-- EN: Some peoples' diets don't allow most of the food in your caravan. If they're forced to eat it due to hunger, they will become unhappy. -->
+  <DaysWorthOfFoodDietWarningDialog>Kai kurių žmonių dieta neatitinka didžiosios dalies maisto šiame karavane. Jei jie bus priversti jį valgyti iš bado, taps nelaimingi.</DaysWorthOfFoodDietWarningDialog>
+  <!-- EN: Your caravan has no food and will become hungry very quickly. -->
+  <DaysWorthOfFoodWarningDialog_NoFood>Tavo karavanas neturi maisto ir labai greitai bus alkanas.</DaysWorthOfFoodWarningDialog_NoFood>
+  <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
+  <ForagedFoodPerDayTip>Vidutinis kiekis maisto, kurį tavo žmonės surinks gamtoje per dieną. Ši vertė keisis keliaujant per biomus turinčius skirtingus maisto surinkimo gamtoje greičius.</ForagedFoodPerDayTip>
+  <!-- EN: Forage per day -->
+  <ForagedFoodPerDay>Gamtoje surenkamas maistas per dieną</ForagedFoodPerDay>
+  <!-- EN: A large part of the caravan's food will rot soon. -->
+  <CaravanFoodWillRotSoonWarningDialog>Didelė dalis karavano maisto greit supus.</CaravanFoodWillRotSoonWarningDialog>
+  <!-- EN: You have no caravan members capable of diplomacy or trading. -->
+  <CaravanIncapableOfSocial>Neturi karavano narių galinčių užsiimti diplomatija ar prekiauti.</CaravanIncapableOfSocial>
+  <!-- EN: Are you sure you want to form this caravan? -->
+  <CaravanAreYouSure>Ar tikrai nori suformuoti šį karavaną?</CaravanAreYouSure>
+  <!-- EN: You must choose a route for the caravan first. -->
+  <MessageMustChooseRouteFirst>Pirmiausia reikia pasirinkti maršrutą karavanui.</MessageMustChooseRouteFirst>
+  <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
+  <MessageNoValidExitTile>Tavo karavanas negali išvykti iš šios vietovės. Įsitikink kad bent viena pusė yra pasiekiama.</MessageNoValidExitTile>
+  <!-- EN: Weight of this item. -->
+  <ItemWeightTip>Šio daikto svoris.</ItemWeightTip>
+  <!-- EN: Market value -->
+  <MarketValueTip>Rinkos vertė</MarketValueTip>
+  <!-- EN: The number of days until this item starts to rot based on the average temperature in this area. -->
+  <DaysUntilRotTip>Dienų skaičius kol šis daiktas pradės pūti remiantis vidutine temperatūra šioje vietoje.</DaysUntilRotTip>
+  <!-- EN: How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day. -->
+  <ItemNutritionTip>Kiek maisto medžiagų šis maistas suteikia.\n\nOrientavimuisi: suaugusiam žmogui reikia {0} maisto medžiagų per dieną.</ItemNutritionTip>
+  <!-- EN: This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
+  <AnimalCanGrazeTip>Šitas gyvūnas gali ganytis, todėl nereikia šerti nešamo maisto. Ganymasis įmanomas tik kai kuriuose biomuose ir temperatūros diapazonuose.</AnimalCanGrazeTip>
+  <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
+  <NutritionForagedPerDayTip>Maisto medžiagų kiekis iš maisto surenkamo gamtoje per dieną. Tikrasis surinkto maisto kiekis taip pat priklauso nuo biome įmanomo gamtoje surinkti maisto kiekio.\n\n{0}</NutritionForagedPerDayTip>
+  <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition. -->
+  <NutritionEatenPerDayTip>Maisto medžiagų kiekis suvalgomas per dieną. Orientacijai, paprastas patiekalas turi {0} maisto medžiagų.</NutritionEatenPerDayTip>
+  <!-- EN: Can eat -->
+  <CanEat>Gali valgyti</CanEat>
+  <!-- EN: Legend -->
+  <Legend>Legenda</Legend>
+  <!-- EN: Mass carried -->
+  <MassCarriedSimple>Nešamas svoris</MassCarriedSimple>
+  <!-- EN: Mass capacity -->
+  <MassCapacity>Svorio pajėgumas</MassCapacity>
+  <!-- EN: Mass -->
+  <Mass>Svoris</Mass>
+  <!-- EN: Caravan mass -->
+  <CaravanMass>Karavano svoris</CaravanMass>
+  <!-- EN: Equipment and apparel mass -->
+  <EquipmentAndApparelMass>Ekipuotės ir aprangos svoris</EquipmentAndApparelMass>
+  <!-- EN: Inventory mass -->
+  <InventoryMass>Inventoriaus svoris</InventoryMass>
+  <!-- EN: Your colonists will now gather the items and leave the area. -->
+  <CaravanFormationProcessStarted>Tavo kolonistai dabar surinks daiktus ir išvyks iš vietovę.</CaravanFormationProcessStarted>
+  <!-- EN: Reform caravan -->
+  <ReformCaravan>Performuoti karavaną</ReformCaravan>
+  <!-- EN: Colonists -->
+  <ColonistsSection>Kolonistai</ColonistsSection>
+  <!-- EN: Prisoners -->
+  <PrisonersSection>Kaliniai</PrisonersSection>
+  <!-- EN: Capture -->
+  <CaptureSection>Paimti į nelaisvę</CaptureSection>
+  <!-- EN: Animals -->
+  <AnimalsSection>Gyvūnai</AnimalsSection>
+  <!-- EN: Choose route -->
+  <ChooseRouteButton>Pasirinkti maršrutą</ChooseRouteButton>
+  <!-- EN: Change route -->
+  <ChangeRouteButton>Pakeisti maršrutą</ChangeRouteButton>
+  <!-- EN: Abandon -->
+  <AbandonButton>Apleisti</AbandonButton>
+  <!-- EN: Movement speed -->
+  <CaravanMovementSpeed>Judėjimo greitis</CaravanMovementSpeed>
+  <!-- EN: tiles/day -->
+  <TilesPerDay>langeliai/diena</TilesPerDay>
+  <!-- EN: None - too heavy -->
+  <TilesPerDayImmobile>Nulis - per sunku</TilesPerDayImmobile>
+  <!-- EN: None -->
+  <TilesPerDayImmobileShort>Nulis</TilesPerDayImmobileShort>
+  <!-- EN: Movement speed depends on carried mass, ridden animals, and terrain movement difficulty. -->
+  <CaravanMovementSpeedTip>Judėjimo greitis priklauso nuo vidutinio visų žmonių ir gyvūnų greičio, nešamo svorio ir vietovės judėjimo sudėtingumo.</CaravanMovementSpeedTip>
+  <!-- EN: Animals will be able to graze -->
+  <AnimalsWillBeAbleToGraze>Gyvūnai galės ganytis</AnimalsWillBeAbleToGraze>
+  <!-- EN: Animals can graze -->
+  <AnimalsCanGraze>Gyvūnai gali ganytis</AnimalsCanGraze>
+  <!-- EN: (for {0} more days) -->
+  <PossibleToGrazeFor>(dar {0} dienas)</PossibleToGrazeFor>
+  <!-- EN: (forever) -->
+  <PossibleToGrazeForever>(visada)</PossibleToGrazeForever>
+  <!-- EN: ({0}) -->
+  <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
+  <!-- EN: (too cold for {0} more days) -->
+  <CantGrazeBecauseOfTemp>(per šalta dar {0} dienas)</CantGrazeBecauseOfTemp>
+  <!-- EN: Total nutrition -->
+  <TotalNutrition>Visas maisto medžiagų kiekis</TotalNutrition>
+  <!-- EN: Not moving -->
+  <CaravanNotMoving>Nejuda</CaravanNotMoving>
+  <!-- EN: Foraged nutrition per day -->
+  <ForagedNutritionPerDay>Maisto medžiagų kiekis iš gamtoje surenkamo maisto per dieną</ForagedNutritionPerDay>
+  <!-- EN: Faction type -->
+  <FactionType>Frakcijos rūšis</FactionType>
+  <!-- EN: Total body size -->
+  <TotalBodySize>Bendras kūnų dydis</TotalBodySize>
+  <!-- EN: Automatically select travel supplies -->
+  <AutomaticallySelectTravelSupplies>Parinkti kelionės atsargas automatiškai</AutomaticallySelectTravelSupplies>
+  <!-- EN: This animal is sick. It is suffering from the following illnesses -->
+  <CaravanAnimalSick>Šis gyvūnas serga. Jis kenčia nuo sekančių ligų</CaravanAnimalSick>
+
+  <!-- Split caravan -->
+  <!-- EN: Split caravan -->
+  <SplitCaravan>Išskirti karavaną</SplitCaravan>
+  <!-- EN: You must leave at least one non-downed colonist. -->
+  <SourceCaravanMustHaveAtLeastOneColonist>Turi palikti bent vieną nenumuštą kolonistą.</SourceCaravanMustHaveAtLeastOneColonist>
+  <!-- EN: How many of this item the caravan has ready to give to the new caravan. -->
+  <SplitCaravanThingCountTip>Kiek šių daiktų karavanas pasiruošęs duoti naujam karavanui.</SplitCaravanThingCountTip>
+  
+  <!-- Caravan misc -->
+  <!-- EN: Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony! -->
+  <ConfirmAttackFriendlyFaction>Ar esi įsitikinęs kad nori užpulti {0}?\n\nTai {1} pavers agresyviais tavo atžvilgiu ir jie galiausiai pradės puldinėti tavo koloniją!</ConfirmAttackFriendlyFaction>
+  
+  <!-- Load transporters -->
+  <!-- EN: Load {0} -->
+  <LoadTransporters>Pakrauti {0}</LoadTransporters>
+  <!-- EN: The assigned people and items are too heavy for the transport pods. -->
+  <TooBigTransportersMassUsage>Paskirti žmonės ir daiktai yra per sunkūs transportavimo kapsulei.</TooBigTransportersMassUsage>
+  <!-- EN: The assigned people and items are too heavy for the shuttle. -->
+  <TooBigTransporterSingleMassUsage>Paskirti žmonės ir daiktai yra per sunkūs kosminiam laivui.</TooBigTransporterSingleMassUsage>
+  <!-- EN: You can't send empty transport pods. -->
+  <CantSendEmptyTransportPods>Negali išsiųsti tuščių transportavimo kapsulių.</CantSendEmptyTransportPods>
+  <!-- EN: You can't send empty shuttle. -->
+  <CantSendEmptyTransporterSingle>Negali išsiųsti tuščio kosminio laivo.</CantSendEmptyTransporterSingle>
+  <!-- EN: {1_labelShort} can't reach the transport pods. -->
+  <PawnCantReachTransporters>{1_labelShort} negali pasiekti transportavimo kapsulės.</PawnCantReachTransporters>
+  <!-- EN: {1_labelShort} can't reach the shuttle. -->
+  <PawnCantReachTransporterSingle>{1_labelShort} negali pasiekti kosminio laivo.</PawnCantReachTransporterSingle>
+  <!-- EN: There is no path between the transport pods and the {0}. -->
+  <TransporterItemIsUnreachableSingle>Nėra kelio tarp transportavimo kapsulės ir {0}.</TransporterItemIsUnreachableSingle>
+  <!-- EN: There is no path between the shuttle and the {0}. -->
+  <TransporterSingleItemIsUnreachableSingle>Nėra kelio tarp kosminio laivo ir {0}.</TransporterSingleItemIsUnreachableSingle>
+  <!-- EN: There is no path between the transport pods and {0}x {1}. -->
+  <TransporterItemIsUnreachableMulti>Nėra kelio tarp transportavimo kapsulės ir {0}x {1}.</TransporterItemIsUnreachableMulti>
+  <!-- EN: There is no path between the shuttle and {0}x {1}. -->
+  <TransporterSingleItemIsUnreachableMulti>Nėra kelio tarp kosminio laivo ir {0}x {1}.</TransporterSingleItemIsUnreachableMulti>
+  <!-- EN: Only {0} colonists maximum allowed. -->
+  <TransporterSingleTooManyColonists>Leidžiama daugiausia {0} kolonistai.</TransporterSingleTooManyColonists>
+  
+  <!-- Comms -->
+  <!-- EN: Social skill: {0} -->
+  <SocialSkillIs>Socialiniai įgūdžiai: {0}</SocialSkillIs>
+  
+  <!--Research-->
+  <!-- EN: Research finished: {0} -->
+  <ResearchFinished>Tyrimas baigtas: {0}</ResearchFinished>
+  <!-- EN: Research Screen -->
+  <ResearchScreen>Tyrimų Langas</ResearchScreen>
+  
+  <!--HistoryUpload-->
+  <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
+  <HistoryUploadMessage>Ar nori išsiųsti savo žaidimų duomenų įrašus į RimWorld serverį kad padėtum programuotojams subalansuoti žaidimą? Jei sutinki, tavo duomenys bus išsiųsti kas {0} dienas (ir kai kuriais kitais retais atvejais, kaip žaidimo pabaigimas). Privatumo pasirinkimai gali būti pakeisti vėliau nustatymų meniu lange.</HistoryUploadMessage>
+  <!-- EN: Even though history is sent anonymously, you can attach your name. -->
+  <HistoryUploadMessagePlayerName>Nors istorija išsiunčiama anonimiškai, gali savo vardą pridėti.</HistoryUploadMessagePlayerName>
+  <!-- EN: Allow uploading gameplay data -->
+  <HistoryUploadYes>Leisti išsiųsti žaidimų duomenis</HistoryUploadYes>
+  <!-- EN: Do not allow uploading gameplay data -->
+  <HistoryUploadNo>Neleisti išsiųsti žaidimų duomenų</HistoryUploadNo>
+  <!-- EN: Upload only this time -->
+  <HistoryUploadYesOnce>Išsiųsti tik šį kartą</HistoryUploadYesOnce>
+  <!-- EN: Do not upload this time, ask me later -->
+  <HistoryUploadNoOnce>Šį kartą neišsiųsti, paklausti vėliau</HistoryUploadNoOnce>
+  
+  <!-- Outfit management -->
+  <!-- EN: Outfit -->
+  <Outfit>Aprangos komplektas</Outfit>
+  <!-- EN: Select outfit... -->
+  <SelectOutfit>Pasirinkti apr. kompl...</SelectOutfit>
+  <!-- EN: New outfit -->
+  <NewOutfit>Naujas apr. kompl.</NewOutfit>
+  <!-- EN: Delete outfit... -->
+  <DeleteOutfit>Ištrinti apr. kompl...</DeleteOutfit>
+  <!-- EN: Outfit is in use by {0}. -->
+  <OutfitInUse>Aprangos komplektą naudoja {0}.</OutfitInUse>
+  <!-- EN: No outfit selected -->
+  <NoOutfitSelected>Nėra pasirinktas aprangos komplektas</NoOutfitSelected>
+  
+  <!-- Drug policy management -->
+  <!-- EN: Drug policy -->
+  <DrugPolicy>Medikamentų vartojimo tvarka</DrugPolicy>
+  <!-- EN: Select policy... -->
+  <SelectDrugPolicy>Pasirinkti tvarką...</SelectDrugPolicy>
+  <!-- EN: New policy -->
+  <NewDrugPolicy>Nauja tvarka</NewDrugPolicy>
+  <!-- EN: Delete policy... -->
+  <DeleteDrugPolicy>Ištrinti tvarką...</DeleteDrugPolicy>
+  <!-- EN: Drugs policy is in use by {0}. -->
+  <DrugPolicyInUse>Medikamentų vartojimo tvarką naudoja {0}.</DrugPolicyInUse>
+  <!-- EN: Food restriction is in use by {0}. -->
+  <FoodRestrictionInUse>Maisto ribojimą naudoja {0}.</FoodRestrictionInUse>
+  <!-- EN: No drug policy selected -->
+  <NoDrugPolicySelected>Nėra pasirinktos medikamentų vartojimo tvarkos</NoDrugPolicySelected>
+  <!-- EN: Add drug... -->
+  <AddDrug>Pridėti medikamentą...</AddDrug>
+  <!-- EN: Drug -->
+  <DrugColumnLabel>Medikamentas</DrugColumnLabel>
+  <!-- EN: Usage -->
+  <DrugUsageColumnLabel>Vartojimas</DrugUsageColumnLabel>
+  <!-- EN: Frequency -->
+  <FrequencyColumnLabel>Dažnumas</FrequencyColumnLabel>
+  <!-- EN: Only if mood below -->
+  <MoodThresholdColumnLabel>Tik jei nuotaika žemiau</MoodThresholdColumnLabel>
+  <!-- EN: Only if recreation below -->
+  <JoyThresholdColumnLabel>Tik jei pramogos žemiau</JoyThresholdColumnLabel>
+  <!-- EN: Keep in inventory -->
+  <TakeToInventoryColumnLabel>Laikyti inventoriuje</TakeToInventoryColumnLabel>
+  <!-- EN: (no drugs) -->
+  <NoDrugsBrackets>(jokių medikamentų)</NoDrugsBrackets>
+  <!-- EN: Every day -->
+  <EveryDay>Kiekvieną dieną</EveryDay>
+  <!-- EN: {0} times per day -->
+  <TimesPerDay>{0} kartų per dieną</TimesPerDay>
+  <!-- EN: Every {0} days -->
+  <EveryDays>Kas {0} dienas</EveryDays>
+  <!-- EN: Any -->
+  <NoDrugUseRequirement>Bet koks</NoDrugUseRequirement>
+  <!-- EN: Delete this drug. -->
+  <DeleteDrugTooltip>Ištrinti šį medikamentą.</DeleteDrugTooltip>
+  <!-- EN: The name of a drug. -->
+  <DrugNameColumnDesc>Medikamento pavadinimas.</DrugNameColumnDesc>
+  <!-- EN: How the drug is allowed to be used. -->
+  <DrugUsageColumnDesc>Kaip leidžiama medikamentą vartoti.</DrugUsageColumnDesc>
+  <!-- EN: How often the colonists should try to take this drug. -->
+  <FrequencyColumnDesc>Kaip dažnai kolonistai turėtų pabandyti vartoti šį medikamentą.</FrequencyColumnDesc>
+  <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
+  <MoodThresholdColumnDesc>Kolonistai vartos šį medikamentą tik jei jų nuotaikos lygis yra žemiau šios ribos.</MoodThresholdColumnDesc>
+  <!-- EN: The colonists will take this drug only if their recreation level is below this threshold. -->
+  <JoyThresholdColumnDesc>Kolonistai vartos šį medikamentą tik jei jų pramogų lygis yra žemiau šios ribos.</JoyThresholdColumnDesc>
+  <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
+  <TakeToInventoryColumnDesc>Papildomas medikamentų kiekis kurį turėtų pasiimti į inventorių kai imama vartojimui, kad nereiktų kiekvieną kartą eiti į medikamentų sandėliavimo vietą.</TakeToInventoryColumnDesc>
+  <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
+  <DrugUsageTipForAddiction>Priklausomybėms\n\nNaudoti šį medikamentą tik jau išsivysčiusios priklausomybės poreikio tenkinimui.\n\nNet ir išjungus, kai kurie veikėjai su specifiniais bruožais ar kai pakrinka nervai vis tiek gali tą medikamentą suvartoti.</DrugUsageTipForAddiction>
+  <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
+  <DrugUsageTipForJoy>Pramogoms\n\nVartoti šį medikamentą pramogų ir socialiniais tikslais.\n\nNet ir išjungus, kai kurie veikėjai su specifiniais bruožais ar kai pakrinka nervai vis tiek gali tą medikamentą suvartoti.</DrugUsageTipForJoy>
+  <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
+  <DrugUsageTipScheduled>Tvarkaraštis\n\nVartoti šiuos medikamentus pagal tvarkaraštį, kai išpildytos specifinės sąlygos.</DrugUsageTipScheduled>
+
+  <!-- Food restriction management -->
+  <!-- EN: Food restriction -->
+  <FoodRestriction>Maisto ribojimas</FoodRestriction>
+  <!-- EN: Food -->
+  <FoodRestrictionShort>Maistas</FoodRestrictionShort>
+  <!-- EN: Lavish -->
+  <FoodRestrictionLavish>Prabangus</FoodRestrictionLavish>
+  <!-- EN: Fine -->
+  <FoodRestrictionFine>Geras</FoodRestrictionFine>
+  <!-- EN: Simple -->
+  <FoodRestrictionSimple>Paprastas</FoodRestrictionSimple>
+  <!-- EN: Paste -->
+  <FoodRestrictionPaste>Maistinė pasta</FoodRestrictionPaste>
+  <!-- EN: Raw -->
+  <FoodRestrictionRaw>Žalias</FoodRestrictionRaw>
+  <!-- EN: Nothing -->
+  <FoodRestrictionNothing>Nieko</FoodRestrictionNothing>
+  <!-- EN: Select food restriction -->
+  <SelectFoodRestriction>Pasirinkti maisto rib.</SelectFoodRestriction>
+  <!-- EN: New food restriction -->
+  <NewFoodRestriction>Naujas maisto rib.</NewFoodRestriction>
+  <!-- EN: Delete food restriction -->
+  <DeleteFoodRestriction>Ištrinti maisto rib.</DeleteFoodRestriction>
+  <!-- EN: No food restriction selected -->
+  <NoFoodRestrictionSelected>Nėra pasirinkta maisto ribojimo</NoFoodRestrictionSelected>
+
+  <!-- Medical settings -->
+  <!-- EN: Default medicine settings -->
+  <DefaultMedicineSettings>Numatytieji vaistų nustatymai</DefaultMedicineSettings>
+  <!-- EN: Defaults -->
+  <MedGroupDefaults>Numatytieji</MedGroupDefaults>
+  <!-- EN: Colonist -->
+  <MedGroupColonist>Kolonistai</MedGroupColonist>
+  <!-- EN: Imprisoned colonist -->
+  <MedGroupImprisonedColonist>Įkalinti kolonistai</MedGroupImprisonedColonist>
+  <!-- EN: Colony animal -->
+  <MedGroupColonyAnimal>Kolonijos gyvūnas</MedGroupColonyAnimal>
+  <!-- EN: Neutral animal -->
+  <MedGroupNeutralAnimal>Neutralus gyvūnas</MedGroupNeutralAnimal>
+  <!-- EN: Neutral faction -->
+  <MedGroupNeutralFaction>Neutrali frakcija</MedGroupNeutralFaction>
+  <!-- EN: Hostile faction -->
+  <MedGroupHostileFaction>Agresyvi frakcija</MedGroupHostileFaction>
+  
+  <!-- Growing -->
+  <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
+  <NoGrowerCanPlant>{0} sėjimui reikia {1} Auginimo įgūdžių.\n\nNei vienas iš nenumuštų kolonistų turi tiek įgūdžių, todėl šis augalas nebus pasėtas.</NoGrowerCanPlant>
+
+  <!-- Abandon home -->
+  <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
+  <ConfirmAbandonHomeWithColonyPawns>Kai kurie iš tavo kolonistų arba gyvūnų yra šioje vietovėje. Ar esi įsitikinęs kad nori ją apleisti?\n\nSekantys žmonės ir gyvūnai bus palikti:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <!-- EN: Abandoning {0} will cause the following people to get the following thoughts: -->
+  <ConfirmAbandonHomeNegativeThoughts>{0} palikimas bus sekančių žmonių šių minčių priežastis:</ConfirmAbandonHomeNegativeThoughts>
+  <!-- EN: Everyone: -->
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>Visi:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  
+  <!-- Move caravan and leave prisoners and animals behind -->
+  <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
+  <ConfirmMoveAutoJoinableCaravan>Keli gyvūnai ar kaliniai bando prisijungti prie šio karavano. Jei pajudėsi, jie to padaryti nebegalės.\n\nGyvūnai, kaliniai ir numušti kolonistai palikti žemėlapyje be nenumušto kolonisto yra laikomi paliktais ir gali būti priešų paimti į nelaisvę.\n\nAr esi įsitikinęs kad nori judėti su savo karavanu?</ConfirmMoveAutoJoinableCaravan>
+  
+  <!-- Abandon pawn -->
+  <!-- EN: Do you really want to banish {1_label}? -->
+  <ConfirmBanishPawnDialog>Ar tikrai nori ištremti {1_label}?</ConfirmBanishPawnDialog>
+  <!-- EN: {1_labelShort} will most likely die. -->
+  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort} tikriausiai mirs.</ConfirmBanishPawnDialog_LeftToDie>
+  <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
+  <ConfirmBanishPawnDialog_Items>{1_labelShort} pasiims sekančius daiktus su {1_objective}:</ConfirmBanishPawnDialog_Items>
+  <!-- EN: All colonists will get the following thoughts: -->
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>Visi kolonistai turės sekančias mintis:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
+  <ConfirmBanishPawnDialog_IndividualThoughts>{1_labelShort} ištrėmimas šiems žmonėms sukels šias mintis:</ConfirmBanishPawnDialog_IndividualThoughts>
+
+  <!-- Send transport pods which are not completely loaded -->
+  <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
+  <ConfirmSendNotCompletelyLoadedPods>Kapsulių grupė nėra visiškai pakrauta. Trūksta {1_labelShort}. Vis tiek paleisti?</ConfirmSendNotCompletelyLoadedPods>
+
+  <!-- Settle near a faction base -->
+  <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days. -->
+  <ConfirmSettleNearFactionBase>Kadangi ši vietovė yra per {0} langelius nuo kitos frakcijos bazės, jie jausis kad tu kėsiniesi į jų žemes ir santykiai su ta frakcija blogės kas {1} dienų.</ConfirmSettleNearFactionBase>
+  
+  <!-- Cleanup translation files -->
+  <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
+  <ConfirmCleanupTranslationFiles>Ar esi įsitikinęs kad nori išvalyti visas vertimo bylas {0} kalbai?\n\nTai:\n  - Įdės rezervavimo simbolius trūkstamiems raktiniams vertimams, def-įterptiems vertimams ir trumpoms biografijoms\n  - Įdės arba atnaujins komentarus su originaliu, neišverstu tekstu\n  - Iškels visus raktinius ir def-įterptus vertimus į atitinkamas XML bylas\n  - Pritaikys automatinį formatavimą visoms XML byloms\n  - Atnaujins atgaline data suderinamus def pavadinimus\n  - Pašalins visus egzistuojančius XML komentarus (išskyrus pilnų sąrašų įterpimuose)\n\nNe XML bylos nebus pašalintos ar pakeistos.\n\nPakeitęs kalbos bylas, prieš paleisdamas šį įrankį nepamiršk perkrauti žaidimo, kad perkrautum visus duomenis.\n\nĮsitikink kad turi vertimo failų atsarginę kopiją prieš naudodamas šį įrankį.</ConfirmCleanupTranslationFiles>
+  <!-- EN: Yes, I have a backup -->
+  <ConfirmCleanupTranslationFiles_Confirm>Taip, aš turiu atsarginę kopiją</ConfirmCleanupTranslationFiles_Confirm>
+
+  <!-- Load transporters -->
+  <!-- EN: The caravan will be immobile if you launch to an empty tile. Continue anyway? -->
+  <TransportersCaravanWillBeImmobile>Karavanas bus nejudantis jei paleisi į tuščia langelį. Vis tiek tęsti?</TransportersCaravanWillBeImmobile>
+
+  <!-- Confirm cancel monument marker -->
+  <!-- EN: Do you really want to remove this monument marker? -->
+  <ConfirmCancelMonumentMarker>Ar tikrai nori pašalinti šį paminklo ženklinimą?</ConfirmCancelMonumentMarker>
+
+  <!-- Abilities -->
+  <!-- EN: Cannot use {0} -->
+  <CannotUseAbility>Negali naudoti {0}</CannotUseAbility>
+  <!-- EN: Line of sight required -->
+  <AbilityRequiresLOS>Reikia regėjimo linijos</AbilityRequiresLOS>
+  <!-- EN: Neural heat gain -->
+  <AbilityEntropyGain>Neuroninio karščio gavimas</AbilityEntropyGain>
+  <!-- EN: Psyfocus cost -->
+  <AbilityPsyfocusCost>Psifokuso kaina</AbilityPsyfocusCost>
+  <!-- EN: Effect duration -->
+  <AbilityDuration>Poveikio trukmė</AbilityDuration>
+  <!-- EN: Effect radius -->
+  <AbilityEffectRadius>Poveikio spindulys</AbilityEffectRadius>
+  <!-- EN: Casting time -->
+  <AbilityCastingTime>Atlikimo laikas</AbilityCastingTime>
+  <!-- EN: No line of sight to target. -->
+  <AbilityCannotHitTarget>Nėra regėjimo linijos iki taikinio.</AbilityCannotHitTarget>
+  <!-- EN: Target is out of range. -->
+  <AbilityOutOfRange>Taikinys per toli</AbilityOutOfRange>
+  <!-- EN: Can't reach the target. -->
+  <AbilityCannotReachTarget>Neina pasiekti taikinio.</AbilityCannotReachTarget>
+  <!-- EN: Not enough free space. -->
+  <AbilityNotEnoughFreeSpace>Neužtenka laisvos vietos.</AbilityNotEnoughFreeSpace>
+  <!-- EN: Must target an empty area. -->
+  <AbilityOccupiedCells>Turi taikyti į tuščią vietą.</AbilityOccupiedCells>
+  <!-- EN: Must target a walkable area. -->
+  <AbilityUnwalkable>Turi taikyti į praeinamą vietą.</AbilityUnwalkable>
+  <!-- EN: Must target an unroofed area. -->
+  <AbilityRoofed>Turi taikyti į vietą be stogo.</AbilityRoofed>
+  <!-- EN: {0_labelShort} is mentally broken. -->
+  <AbilityCantApplyToMentallyBroken>{0_labelShort} nervai yra pakrikę.</AbilityCantApplyToMentallyBroken>
+  <!-- EN: {0_labelShort} is not mentally broken. -->
+  <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort} nėra pakrikusių nervų.</AbilityCanOnlyApplyToMentallyBroken>
+  <!-- EN: {0_labelShort} is not maddened. -->
+  <AbilityCanOnlyApplyToManhunter>{0_labelShort} nėra įsiutintas.</AbilityCanOnlyApplyToManhunter>
+  <!-- EN: {0_labelShort} has scaria, which can only be treated medically. -->
+  <AbilityCantApplyToScaria>{0_labelShort} serga pasiutlige, kuri gali būti gydoma tik mediciniškai.</AbilityCantApplyToScaria>
+  <!-- EN: {0} doesn't work on the '{1}' mental state. -->
+  <AbilityDoesntWorkOnMentalState>{0} neveikia su '{1}' psichine būsena.</AbilityDoesntWorkOnMentalState>
+  <!-- EN: {0_labelShort} has zero resistance. -->
+  <AbilityCantApplyNoResistance>{0_labelShort} neturi atsparumo.</AbilityCantApplyNoResistance>
+  <!-- EN: {0_labelShort} is downed. -->
+  <AbilityCantApplyDowned>{0_labelShort} yra numuštas.</AbilityCantApplyDowned>
+  <!-- EN: Cannot use: {0} is asexual. -->
+  <AbilityCantApplyOnAsexual>Neina naudoti: {0} yra aseksualus.</AbilityCantApplyOnAsexual>
+  <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
+  <AbilityCantApplyWrongAttractionGender>{1_labelShort} yra neteisingos lyties {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
+  <!-- EN: {0_labelShort} is too young. -->
+  <AbilityCantApplyTooYoung>{0_labelShort} yra per jaunas.</AbilityCantApplyTooYoung>
+  <!-- EN: Cannot target a baby. -->
+  <AbilityCantApplyOnBaby>Negalima taikyti kūdikio.</AbilityCantApplyOnBaby>
+  <!-- EN: Psyfocus cost per mental break intensity -->
+  <PsyfocusCostPerMentalBreakIntensity>Psifokuso kaina už nervų pakrikimo intensyvumą</PsyfocusCostPerMentalBreakIntensity>
+  <!-- EN: {0_labelShort} is already inspired. -->
+  <AbilityAlreadyInspired>{0_labelShort} jau yra įkvėptas.</AbilityAlreadyInspired>
+  <!-- EN: {0_labelShort} can't get an inspiration right now. -->
+  <AbilityCantGetInspiredNow>{0_labelShort} dabar negali gauti įkvėpimo.</AbilityCantGetInspiredNow>
+  <!-- EN: {0_labelShort} must be of a different ideoligion than {1_labelShort}. -->
+  <AbilityMustBeNotSameIdeo>TODO</AbilityMustBeNotSameIdeo>
+  <!-- EN: {0_labelShort} must be of same ideoligion as {1_labelShort}. -->
+  <AbilityMustBeSameIdeo>TODO</AbilityMustBeSameIdeo>
+  <!-- EN: {0_labelShort} must be sick or injured. -->
+  <AbilityMustBeSickOrInjured>{0_labelShort} turi būti sergantis arba sužeistas.</AbilityMustBeSickOrInjured>
+  <!-- EN: {0} can only counsel {1}s. -->
+  <AbilityMustBeSameIdeoCounsel>TODO</AbilityMustBeSameIdeoCounsel>
+  <!-- EN: {0_labelShort} is already considered guilty. -->
+  <AbilityMustBeNotGuilty>TODO</AbilityMustBeNotGuilty>
+  <!-- EN: Must target a human. -->
+  <AbilityMustBeHuman>TODO</AbilityMustBeHuman>
+  <!-- EN: Must target a non-wild human. -->
+  <AbilityMustBeHumanNonWild>TODO</AbilityMustBeHumanNonWild>
+  <!-- EN: Must target an animal. -->
+  <AbilityMustBeAnimal>TODO</AbilityMustBeAnimal>
+  <!-- EN: {0_labelShort} is unconscious. -->
+  <AbilityCantApplyUnconscious>{0_labelShort} yra be sąmonės.</AbilityCantApplyUnconscious>
+  <!-- EN: {0_labelShort} is asleep. -->
+  <AbilityCantApplyAsleep>{0_labelShort} miega.</AbilityCantApplyAsleep>
+  <!-- EN: This tile is impassable. -->
+  <AbilityWorldTileImpassable>Šis langelis yra nepraeinamas.</AbilityWorldTileImpassable>
+  <!-- EN: Skip to random ally -->
+  <AbilitySkipToRandomAlly>Perkelti prie atsitiktinio sąjungininko</AbilitySkipToRandomAlly>
+  <!-- EN: Skip to join caravan -->
+  <AbilitySkipToJoinCaravan>Perkelti ir prisijungti prie karavano</AbilitySkipToJoinCaravan>
+  <!-- EN: Need ally at target for navigation -->
+  <AbilityNeedAllyToSkip>Taikinyje reikia sąjungininko navigacijai</AbilityNeedAllyToSkip>
+  <!-- EN: No chunks to skip. -->
+  <AbilityNoChunkToSkip>Nėra gabalų perkėlimui.</AbilityNoChunkToSkip>
+  <!-- EN: Induce psychic love in -->
+  <PsychicLoveInduceIn>Sukelti psichinė meilė už</PsychicLoveInduceIn>
+  <!-- EN: Psychic love for -->
+  <PsychicLoveFor>Psichinė meilė</PsychicLoveFor>
+  <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? -->
+  <FarskipConfirmTeleportingLodger>Jei perkelsi {PAWN_labelShort} į kitą žemėlapį ar karavaną, susieta užduotis nepavyks ir {PAWN_pronoun} iškart išvyks.\n\nAr tikrai nori toli perkelti {PAWN_labelShort}?</FarskipConfirmTeleportingLodger>
+  
+  <!-- EN: minor -->
+  <MentalBreakIntensityMinor>lengvas</MentalBreakIntensityMinor>
+  <!-- EN: major -->
+  <MentalBreakIntensityMajor>sunkus</MentalBreakIntensityMajor>
+  <!-- EN: extreme -->
+  <MentalBreakIntensityExtreme>aukščiausio laipsnio</MentalBreakIntensityExtreme>
+
+  <!-- Auto slaughter -->
+  <!-- EN: Animal -->
+  <AutoSlaugtherHeaderColLabel>Gyvūnas</AutoSlaugtherHeaderColLabel>
+  <!-- EN: Current -->
+  <AutoSlaugtherHeaderColCurrent>Dabar</AutoSlaugtherHeaderColCurrent>
+  <!-- EN: Max -->
+  <AutoSlaugtherHeaderColMax>Maks.</AutoSlaugtherHeaderColMax>
+  <!-- EN: Total -->
+  <AutoSlaugtherHeaderColTotal>Iš viso</AutoSlaugtherHeaderColTotal>
+  <!-- EN: Other -->
+  <AutoSlaugtherHeaderColOther>Kiti</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
+  <!-- EN: Colonists first slaughter non-pregnant animals in order from oldest to youngest, then pregnant animals from most recent to least recent pregnancy. -->
+  <AutoSlaugtherTip>Kolonistai papjauna nesilaukiančius gyvūnus nuo seniausio iki jauniausio, tada besilaukiančius gyvūnus nuo ankstyviausio iki vėlyviausio nėštumo.</AutoSlaugtherTip>
+  <!-- EN: Male adult -->
+  <AnimalMaleAdult>Suaugęs patinas</AnimalMaleAdult>
+  <!-- EN: Male young -->
+  <AnimalMaleYoung>Jauniklis patinas</AnimalMaleYoung>
+  <!-- EN: Female adult -->
+  <AnimalFemaleAdult>Suaugusi patelė</AnimalFemaleAdult>
+  <!-- EN: Female young -->
+  <AnimalFemaleYoung>Jauniklė patelė</AnimalFemaleYoung>
+  <!-- EN: Pregnant -->
+  <AnimalPregnant>Nėščia</AnimalPregnant>
+  <!-- EN: Bonded -->
+  <AnimalBonded>Turi emocinį ryšį</AnimalBonded>
+  <!-- EN: Slaughter -->
+  <AllowSlaughter>Papjauti</AllowSlaughter>
+
+  <!-- EN: The animal to be automatically slaughtered. -->
+  <AutoSlaugtherHeaderTooltipLabel>Gyvūnas bus automatiškai papjautas.</AutoSlaugtherHeaderTooltipLabel>
+  <!-- EN: The current number of animals in the colony, both male and female. -->
+  <AutoSlaugtherHeaderTooltipCurrentTotal>Dabartinis gyvūnų skaičius kolonijoje, ir patinai ir patelės.</AutoSlaugtherHeaderTooltipCurrentTotal>
+  <!-- EN: The maximum number of animals in the colony, both male and female.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaugtherHeaderTooltipMaxTotal>Maksimalus gyvūnų skaičius kolonijoje, ir patinų ir patelių.\n\nPrižiūrėtojai automatiškai papjaus perteklinius.</AutoSlaugtherHeaderTooltipMaxTotal>
+  <!-- EN: The current number of males of breeding age in the colony. -->
+  <AutoSlaugtherHeaderTooltipCurrentMales>Dabartinis vaisingo amžiaus patinų skaičius kolonijoje.</AutoSlaugtherHeaderTooltipCurrentMales>
+  <!-- EN: The current number of baby and juvenile males in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentMalesYoung>Dabartinis jauniklių ir jaunų patinų skaičius kolonijoje.</AutoSlaughterHeaderTooltipCurrentMalesYoung>
+  <!-- EN: The maximum number of males of breeding age in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaugtherHeaderTooltipMaxMales>Maksimalus vaisingo amžiaus patinų skaičius kolonijoje.\n\nPrižiūrėtojai automatiškai papjaus perteklinius.</AutoSlaugtherHeaderTooltipMaxMales>
+  <!-- EN: The maximum number of baby and juvenile males in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaughterHeaderTooltipMaxMalesYoung>Maksimalus jauniklių ir jaunų patinų skaičius kolonijoje.\n\nPrižiūrėtojai automatiškai papjaus perteklinius.</AutoSlaughterHeaderTooltipMaxMalesYoung>
+  <!-- EN: The current number of females of breeding age in the colony. -->
+  <AutoSlaugtherHeaderTooltipCurrentFemales>Dabartinis vaisingo amžiaus patelių skaičius kolonijoje.</AutoSlaugtherHeaderTooltipCurrentFemales>
+  <!-- EN: The current number of baby and juvenile females in the colony. -->
+  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>Dabartinis jauniklių jaunų patelių skaičius kolonijoje.</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
+  <!-- EN: The maximum number of females in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaugtherHeaderTooltipMaxFemales>Maksimalus vaisingo amžiaus patelių skaičius kolonijoje.\n\nPrižiūrėtojai automatiškai papjaus perteklines.</AutoSlaugtherHeaderTooltipMaxFemales>
+  <!-- EN: The maximum number of baby and juvenile females in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaughterHeaderTooltipMaxFemalesYoung>Maksimalus jauniklių ir jaunų patelių skaičius kolonijoje.\n\nPrižiūrėtojai automatiškai papjaus perteklines.</AutoSlaughterHeaderTooltipMaxFemalesYoung>
+  <!-- EN: The current number of pregnant animals in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentPregnant>Dabartinis besilaukiančių patelių skaičius kolonijoje.</AutoSlaughterHeaderTooltipCurrentPregnant>
+  <!-- EN: Allow pregnant animals to be slaughtered along with other females of the same species. -->
+  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>Leisti papjauti besilaukiančias pateles kartu su kitomis tos pačios rūšies patelėmis.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <!-- EN: The current number of bonded animals in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentBonded>Dabartinis augintinių skaičius kolonijoje.</AutoSlaughterHeaderTooltipCurrentBonded>
+  <!-- EN: Allow bonded animals to be slaughtered. -->
+  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>Leisti papjauti augintinius.</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
+
+  <!-- EN: Click to set an animal count limit. -->
+  <AutoSlaughterTooltipSetLimit>Paspausk nustatyti gyvūnų kiekio ribą.</AutoSlaughterTooltipSetLimit>
+
+  <!-- Room requirements -->
+  <!-- EN: no beds allowed -->
+  <RoomRequirementNoBeds>lovos neleidžiama</RoomRequirementNoBeds>
+  <!-- EN: room area: {0} tiles -->
+  <RoomRequirementArea>kambario zona: {0} langeliai</RoomRequirementArea>
+  <!-- EN: room impressiveness -->
+  <RoomRequirementImpressiveness>kambario įspūdingumas</RoomRequirementImpressiveness>
+  <!-- EN: all floored -->
+  <RoomRequirementAllFloored>viskas išgrįsta</RoomRequirementAllFloored>
+  <!-- EN: all braziers must be lit -->
+  <RoomRequirementAllBraziersMustBeLit>visi deglai turi būti uždegti</RoomRequirementAllBraziersMustBeLit>
+  <!-- EN: all fine floored -->
+  <RoomRequirementAllFineFloored>TODO</RoomRequirementAllFineFloored>
+  <!-- EN: no work facilities allowed -->
+  <RoomRequirementNoProductionFacilities>TODO</RoomRequirementNoProductionFacilities>
+  <!-- EN: no altars allowed -->
+  <RoomRequirementNoAltars>TODO</RoomRequirementNoAltars>
+
+  <!-- EN: Lifestage max food factor -->
+  <LifeStageMaxFood>Gyvenimo etapo maksimalus maisto koeficientas</LifeStageMaxFood>
+
+  <!-- EN: Expand all -->
+  <ExpandAllCategories>Išskleisti visas</ExpandAllCategories>
+  <!-- EN: Collapse all -->
+  <CollapseAllCategories>Sutraukti visas</CollapseAllCategories>
+
+  <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
+  <TooltipDyeExplanation>Dažai gali būti išgauti auginant indigažolę ar nupirkti iš prekeivių.</TooltipDyeExplanation>
+
+  <!-- EN: Zoom range {0} -->
+  <ZoomRange>Priartinimo nuotolis {0}</ZoomRange>
+
+  <!-- Color picker -->
+  <!-- EN: color temperature -->
+  <ColorTemperature>spalvos temperatūra</ColorTemperature>
+  <!-- EN: choose a color -->
+  <ChooseAColor>pasirink spalvą</ChooseAColor>
+  <!-- EN: red -->
+  <Red>raudona</Red>
+  <!-- EN: green -->
+  <Green>žalia</Green>
+  <!-- EN: blue -->
+  <Blue>mėlyna</Blue>
+  <!-- EN: hue -->
+  <Hue>atspalvis</Hue>
+  <!-- EN: sat -->
+  <Saturation>prisotinimas</Saturation>
+  <!-- EN: value -->
+  <ColorValue>vertė</ColorValue>
+  <!-- EN: darklight -->
+  <Darklight>tamsi šviesa</Darklight>
+  <!-- EN: not darklight -->
+  <NotDarklight>ne tamsi šviesa</NotDarklight>
+  <!-- EN: current color -->
+  <CurrentColor>dabartinė spalva</CurrentColor>
+  <!-- EN: old color -->
+  <OldColor>sena spalva</OldColor>
+  <!-- EN: Copy color -->
+  <CommandCopyColorLabel>Kopijuoti spalvą</CommandCopyColorLabel>
+  <!-- EN: Copy the current color to the clipboard. -->
+  <CommandCopyColorDesc>Nukopijuoti dabartinę spalvą</CommandCopyColorDesc>
+  <!-- EN: Paste color -->
+  <CommandPasteColorLabel>Įklijuoti spalvą</CommandPasteColorLabel>
+  <!-- EN: Overwrite the color with the color in the clipboard. -->
+  <CommandPasteColorDesc>Perrašyti šią spalvą su nukopijuota spalva.</CommandPasteColorDesc>
+  <!-- EN: The clipboard does not contain a valid color. -->
+  <ClipboardInvalidColor>Nėra nukopijuota tinkama spalva.</ClipboardInvalidColor>
+  <!-- EN: Color copied to clipboard. -->
+  <ColorCopiedSuccessfully>Spalva nukopijuota.</ColorCopiedSuccessfully>
+  <!-- EN: Updated color from the clipboard. -->
+  <ColorPastedSuccessfully>Atnaujinta su nukopijuota spalva.</ColorPastedSuccessfully>
+  <!-- EN: Change to normal light -->
+  <ToggleDarklightOff>Pakeisti į įprastą šviesą.</ToggleDarklightOff>
+  <!-- EN: Change the light color to its normal color. -->
+  <ToggleDarklightOffDesc>Pakeisti šviesos spalvą į įprastą.</ToggleDarklightOffDesc>
+  <!-- EN: Change to darklight -->
+  <ToggleDarklightOn>Pakeisti į tamsią šviesą.</ToggleDarklightOn>
+  <!-- EN: Change the light color to darklight. -->
+  <ToggleDarklightOnDesc>Pakeisti šviesos spalvą į tamsią šviesą.</ToggleDarklightOnDesc>
+  <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
+  <ColorTemperatureTooltip>Pakeisti spalvą nustatant spalvos temperatūrą. Pastaba: Tai paveikia tik matomą spalvą, ne kiek šildo.</ColorTemperatureTooltip>
+
+</LanguageData>

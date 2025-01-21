@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: clear -->
+  <Clear.label>giedra</Clear.label>
+  <!-- EN: A clear day. No penalties or modifiers. -->
+  <Clear.description>Giedra diena. Jokių pabloginimų ar pakeitimų.</Clear.description>
+  
+  <!-- EN: dry thunderstorm -->
+  <DryThunderstorm.label>sausa perkūnija</DryThunderstorm.label>
+  <!-- EN: Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out. -->
+  <DryThunderstorm.description>Sausos perkūnijos yra pavojingos, nes žaibai gali sugelti gaisrus ir nebus lietaus kuris juos užgesintų.</DryThunderstorm.description>
+  
+  <!-- EN: fog -->
+  <Fog.label>migla</Fog.label>
+  <!-- EN: Fog reduces the accuracy of ranged weapons. -->
+  <Fog.description>Migla sumažina nuotolinių ginklų taiklumą.</Fog.description>
+  
+  <!-- EN: foggy rain -->
+  <FoggyRain.label>miglotas lietus</FoggyRain.label>
+  <!-- EN: Reduces accuracy and movement speed. -->
+  <FoggyRain.description>Sumažina taiklumą ir judėjimo greitį.</FoggyRain.description>
+  
+  <!-- EN: rain -->
+  <Rain.label>lietus</Rain.label>
+  <!-- EN: Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <Rain.description>Lietus sumažina nuotolinių ginklų taiklumą, užgesina gaisrus ir sulėtina žmones.</Rain.description>
+  
+  <!-- EN: rainy thunderstorm -->
+  <RainyThunderstorm.label>audra su perkūnija</RainyThunderstorm.label>
+  <!-- EN: The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
+  <RainyThunderstorm.description>Žaibai sukels gaisrus, bet lietus juos užgesins. Lietus taip pat sumažina judėjimo greitį ir šaudymo taiklumą.</RainyThunderstorm.description>
+  
+  <!-- EN: gentle snow -->
+  <SnowGentle.label>lengvai sninga</SnowGentle.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowGentle.description>Sniegas sumažina nuotolinių ginklų taiklumą, užgesina gaisrą ir sulėtina žmones.</SnowGentle.description>
+  
+  <!-- EN: hard snow -->
+  <SnowHard.label>stipriai sninga</SnowHard.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowHard.description>Sniegas sumažina nuotolinių ginklų taiklumą, užgesina gaisrą ir sulėtina žmones.</SnowHard.description>
+  
+</LanguageData>

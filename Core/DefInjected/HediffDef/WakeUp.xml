@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wake-up addiction -->
+  <WakeUpAddiction.label>priklausomybė nuo spydo</WakeUpAddiction.label>
+  <!-- EN: A chemical addiction to wake-up. Long-term presence of wake-up has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of wake-up, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <WakeUpAddiction.description>Cheminė priklausomybė nuo spydo. Ilgalaikis spydo buvimas organizme sukėlė neurologines adaptacijas ląstelių lygmenyje, todėl smegenys nebegali tinkamai funkcionuoti be šios narkotinės medžiagos.\n\nBe reguliarių spydo dozių, prasidės abstinencijos simptomai. Tačiau ilgas nevartojimas privers smegenis vėl prisitaikyti prie savo įprastos būsenos ir atsikratyti priklausomybės.</WakeUpAddiction.description>
+  <!-- EN: withdrawal -->
+  <WakeUpAddiction.stages.withdrawal.label>abstinencija</WakeUpAddiction.stages.withdrawal.label>
+  
+  <!-- EN: high on wake-up -->
+  <WakeUpHigh.label>apkvaišęs nuo spydo</WakeUpHigh.label>
+  <!-- EN: Wake-up in the bloodstream. It fills the need for rest by stimulating the brain, and increases focus, allowing faster work. It also increases the psyfocus gains from meditation. -->
+  <WakeUpHigh.description>Spydas kraujyje. Jis užpildo poilsio poreikį stimuliuodamas smegenis ir padidina susikaupimą, leisdamas greičiau dirbti. Tai taip pat padidina psifokuso gavimą iš meditacijos.</WakeUpHigh.description>
+  <!-- EN: a wake-up high -->
+  <WakeUpHigh.labelNoun>apkvaišimas nuo spydo</WakeUpHigh.labelNoun>
+  
+  <!-- EN: wake-up tolerance -->
+  <WakeUpTolerance.label>tolerancija spydui</WakeUpTolerance.label>
+  <!-- EN: A built-up tolerance to wake-up. The more severe this tolerance is, the more wake-up it takes to get the same effect. -->
+  <WakeUpTolerance.description>Išsivysčiusi tolerancija spydui. Kuo ši tolerancija stipresnė, tuo daugiau spydo reikia, kad būtų pasiektas toks pat poveikis.</WakeUpTolerance.description>
+  <!-- EN: small -->
+  <WakeUpTolerance.stages.small.label>silpna</WakeUpTolerance.stages.small.label>
+  <!-- EN: large -->
+  <WakeUpTolerance.stages.large.label>stipri</WakeUpTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <WakeUpTolerance.stages.massive.label>labai stipri</WakeUpTolerance.stages.massive.label>
+  
+</LanguageData>

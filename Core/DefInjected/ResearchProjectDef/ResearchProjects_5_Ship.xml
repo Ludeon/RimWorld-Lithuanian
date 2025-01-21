@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: starflight basics -->
+  <ShipBasics.label>tarpžvaigždinių skrydžių pagrindai</ShipBasics.label>
+  <!-- EN: Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system. -->
+  <ShipBasics.description>Statyk struktūrinius ir pagalbinius žvaigždėlaivio elementus. Tai yra pirmasis žingsnis statant erdvėlaivį, kuris paliks šią saulės sistemą.</ShipBasics.description>
+  <!-- EN: Escaping from this planet - it would be freedom at last, and maybe a return home.\n\nBut also incredibly dangerous.\n\nA new Ship category is available in the Architect menu from which you may build ship parts once the appropriate technology is researched. Ships require several different parts in order to launch, including a ship reactor.\n\nShip reactors take 15 days to charge up and many desperate souls want off this planet. Once you begin that process, the ship reactor will emit an energy signature detectable from thousands of kilometers away. Raiders will flock to attack you in waves, with an intensity you've never seen. Mechanoids are also known to be attracted to such energy signatures.\n\nIt won't start until you activate your ship's reactor, but when it does, it'll be ferocious. You'll need to stockpile resources, weapons, and defenses for the onslaught if you hope to escape alive. -->
+  <ShipBasics.discoveredLetterText>Pabėgimas iš šios planetos – tai būtų laisvė, o gal ir grįžimas namo.\n\nBet tai taip pat yra ir neįtikėtinai pavojinga.\n\nArchitekto meniu yra nauja Erdvėlaivio kategorija, iš kurios galėsi statyti laivo dalis, kai tik bus atliktas tyrimas atitinkamai technologijai. Norint paleisti erdvėlaivį reikia keleto skirtingų dalių, įskaitant erdvėlaivio reaktorių.\n\nReaktoriams įkrauti reikia 15 dienų, o daug beviltiškų sielų nori ištrūkti iš šios planetos. Kai tik pradėsi šį procesą, erdvėlaivio reaktorius išskirs energijos signalą, aptinkamą iš tūkstančių kilometrų. Užpuolikai užplūs pulti tave bangomis, tokiu intensyvumu, kokio dar niekada nematei. Taip pat yra žinoma, kad tokie energijos signalai traukia mechanoidus.\n\nTai neprasidės, kol neaktyvuosi savo erdvėlaivio reaktoriaus, bet kai tai padarysi, bus žiauru. Turėsi sukaupti išteklių, ginklų ir gynybos priemonių, jei nori tikėtis pabėgti gyvas.</ShipBasics.discoveredLetterText>
+  <!-- EN: About: Launching the ship -->
+  <ShipBasics.discoveredLetterTitle>Apie: Erdvėlaivio paleidimas</ShipBasics.discoveredLetterTitle>
+  
+  <!-- EN: machine persuasion -->
+  <ShipComputerCore.label>kompiuterio įtikinėjimas</ShipComputerCore.label>
+  <!-- EN: Build a reward-signal system to persuade an existing persona core into serving as a ship's machine captain. Since people sleep during interstellar travel, a persona core is necessary to handle the complex decisions of a years-long starflight. -->
+  <ShipComputerCore.description>Sukurk atlygio signalų sistemą, kad įtikintum esamą personos šerdį eiti erdvėlaivio kompiuterinio kapitono pareigas. Kadangi žmonės tarpžvaigždinių kelionių metu miega, personos šerdis reikalinga priimti sudėtingus sprendimus šio daug metų trunkančio skrydžio metu.</ShipComputerCore.description>
+  
+  <!-- EN: vacuum cryptosleep casket -->
+  <ShipCryptosleep.label>vakuuminis kriptomiego karstas</ShipCryptosleep.label>
+  <!-- EN: Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars. -->
+  <ShipCryptosleep.description>Konstruok sutvirtintus kriptomiego karstus, kurie būtų pakankamai tvirti, kad veiktų beorėje erdvėje, skirtus gabenti žmones ilgoje, daug metų trunkančioje kelionėje tarp žvaigždžių.</ShipCryptosleep.description>
+  
+  <!-- EN: Johnson-Tanaka drive -->
+  <ShipEngine.label>Johnson-Tanaka variklis</ShipEngine.label>
+  <!-- EN: Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
+  <ShipEngine.description>Statyk Johnson-Tanaka variklį erdvėlaiviui. JT variklis gali nugabenti iki kitų žvaigždžių panaudodamas kvantinius efektus, kurių dėka perima pagreitį iš tolimų žvaigždžių. Aišku, kaip ir su visais žvaigždėlaiviais, kažkur nukeliauti vis tiek trunka daug metų.</ShipEngine.description>
+  
+  <!-- EN: starship reactor -->
+  <ShipReactor.label>žvaigždėlaivio reaktorius</ShipReactor.label>
+  <!-- EN: Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders. -->
+  <ShipReactor.description>Statyk ilgo veikimo branduolinį reaktorių kuris tieks energiją žvaigždėlaiviui. Atkreipk dėmesį, kad reaktoriai turi ilgą paleidimo procesą, kuris pritrauks užpuolikus.</ShipReactor.description>
+  
+  <!-- EN: starflight sensors -->
+  <ShipSensorCluster.label>tarpžvaigždinių skrydžių jutikliai</ShipSensorCluster.label>
+  <!-- EN: Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance. -->
+  <ShipSensorCluster.description>Statyk tolimo nuotolio jutiklius žvaigždėlaiviui. Šie jutikliai yra būtini navigacijai, ryšio palaikymui ir grėsmių išvengimui.</ShipSensorCluster.description>
+  
+</LanguageData>

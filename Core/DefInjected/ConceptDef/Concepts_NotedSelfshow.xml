@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Alerts -->
+  <Alerts.label>Įspėjimai</Alerts.label>
+  <!-- EN: The alerts at the right edge of the screen tell you about issues that need your attention.\n\nKeep an eye on the alerts. -->
+  <Alerts.helpText>Įspėjimai ekrano pakraštyje praneš apie problemas kurioms reikia tavo dėmesio.\n\nStebėk juos.</Alerts.helpText>
+  
+  <!-- EN: Allowed areas -->
+  <AllowedAreas.label>Leidžiamos sritys</AllowedAreas.label>
+  <!-- EN: Colonists and colony animals can be assigned to ALLOWED AREAS. This forbids them from taking destinations outside their allowed area.\n\nThis can be used to, for example, forbid colonists from going outside.\n\nYou can create multiple allowed areas and assign them to different colonists and animals.\n\nCreate, delete, and assign allowed areas in the RESTRICT tab.\n\nPaint allowed areas onto the map using the EXPAND ALLOWED AREA and CLEAR ALLOWED AREA designators in the Architect tab. -->
+  <AllowedAreas.helpText>Kolonistams ir kolonijos gyvūnams galima priskirti LEIDŽIAMĄ SRITĮ. Tai uždraus jiems išeiti už leidžiamos srities ribų.\n\nTai gali būti panaudota, pavyzdžiui, uždrausti kolonistams išeiti į lauką.\n\nGali susikurti kelias leidžiamas sritis ir priskirti jas skirtingiems kolonistams ir gyvūnams.\n\nSukurk, ištrink ir priskirk leidžiamas sritis RIBOTI lange.\n\nNupiešk leidžiamas sritis ant žemėlapio naudodamas IŠPLĖSTI LEIDŽIAMĄ SRITĮ ir SUMAŽINTI LEIDŽIAMĄ SRITĮ mygtukus Architekto lange.</AllowedAreas.helpText>
+  
+  <!-- EN: Animal taming -->
+  <AnimalTaming.label>Gyvūnų jaukinimas</AnimalTaming.label>
+  <!-- EN: You can assign colonists to tame a wild animal with the TAME designator.\n\nColonists will offer the animal food and attempt to tame it.\n\nBeware: Some animals can respond violently to failed taming attempts. -->
+  <AnimalTaming.helpText>Gali pažymėti laukinį gyvūną prijaukinimui naudodamas PRIJAUKINTI žymeklį.\n\nKolonistai gyvūnui siūlys maistą ir bandys jį prijaukinti.\n\nAtsargiai: Kai kurie gyvūnai į nepavykusius bandymus prijaukinti atsako smurtu.</AnimalTaming.helpText>
+  
+  <!-- EN: Animal training -->
+  <AnimalTraining.label>Gyvūnų dresavimas</AnimalTraining.label>
+  <!-- EN: You can assign a tame animal to be trained in specific skills on its TRAINING tab.\n\nAnimals can't be trained continuously; they need time between training sessions. -->
+  <AnimalTraining.helpText>Gali pažymėti dresuoti prijaukinto gyvūno konkrečius įgūdžius jo DRESUOTI lange.\n\nGyvūnai negali būti ištisai dresuojami; jiems reikia praleisti laiko tarp dresavimų.</AnimalTraining.helpText>
+  
+  <!-- EN: Camera dolly -->
+  <CameraDolly.label>Kameros judinimas</CameraDolly.label>
+  <!-- EN: Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle button) or with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys. -->
+  <CameraDolly.helpText>Judink kamerą paspausdamas ir tempdamas PELĖS MYGTUKĄ 3 (vidurinį mygtuką/ratuką) arba su {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} mygtukais.</CameraDolly.helpText>
+  <!-- EN: Move the camera by using the D-pad. -->
+  <CameraDolly.helpTextController>TODO</CameraDolly.helpTextController>
+  
+  <!-- EN: Camera zoom -->
+  <CameraZoom.label>Kameros priartinimas</CameraZoom.label>
+  <!-- EN: Zoom in and out with the MOUSEWHEEL or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys. -->
+  <CameraZoom.helpText>Priartink ar nutokink vaizdą su PELĖS RATUKU arba su {Key:MapZoom_In} ir {Key:MapZoom_Out} mygtukais.</CameraZoom.helpText>
+  <!-- EN: Zoom in and out with {Key:MapZoom_In} and {Key:MapZoom_Out}. -->
+  <CameraZoom.helpTextController>TODO</CameraZoom.helpTextController>
+  
+  <!-- EN: Clicking messages -->
+  <ClickingMessages.label>Paspaudimas ant pranešimų</ClickingMessages.label>
+  <!-- EN: You can click on the notifications in the top-left of the screen to instantly center the camera on their subject. -->
+  <ClickingMessages.helpText>Gali paspausti ant pranešimų viršuje kairėje ekrano pusėje kad iškart nuvestum kamerą ant jų subjekto.</ClickingMessages.helpText>
+  
+  <!-- EN: Cover and shooting -->
+  <CoverAndShooting.label>Priedanga ir šaudymas</CoverAndShooting.label>
+  <!-- EN: The most important thing to do in ranged combat is to use cover.\n\nCover only works if your colonist is touching it, and it is between your colonist and the enemy.\n\nYou can also place colonists behind wall corners. They will lean out to shoot.\n\nMost things can be used as cover, but some things are better than others. Hiding behind a tree is better than nothing, but hiding behind sandbags is better than using a tree. -->
+  <CoverAndShooting.helpText>Svarbiausias dalykas kurį reikia daryti nuotolinėje kovoje tai naudoti priedangą.\n\nPriedanga veikia tik tada jei kolonistas su ja liečiasi ir jei ji yra tarp tavo kolonisto ir priešo.\n\nTaip pat gali pastatyti kolonistus už sienos kampų. Jie išlįs šaudyti iš už kampo.\n\nDaugumą dalykų galima naudoti kaip priedangą, bet kai kurie veikia geriau nei kiti. Sleptis už medžio yra geriau nei už nieko, bet slėptis už smėlio maišų yra geriau negu slėptis už medžio.</CoverAndShooting.helpText>
+  
+  <!-- EN: Item deterioration -->
+  <Deterioration.label>Daiktų gedimas</Deterioration.label>
+  <!-- EN: Items left outdoors will slowly deteriorate.\n\nIf you want to store items long-term, keep them in a roofed room. -->
+  <Deterioration.helpText>Daiktai palikti lauke po truputį suges.\n\nJei nori saugoti daiktus ilgesnį laiką, laikyk juos kambaryje su stogu.</Deterioration.helpText>
+  
+  <!-- EN: Equipping weapons -->
+  <EquippingWeapons.label>Ginklų ekipavimas</EquippingWeapons.label>
+  <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip. -->
+  <EquippingWeapons.helpText>Tavo kolonistai atvyko su keliais ginklais. Ekipuok juos!\n\nPasirink kiekviena kolonistą ir paspausk dešinį pelės klavišą ant ginklo kurį nori kad jis pasiimtų.</EquippingWeapons.helpText>
+  <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and press the left trigger on the weapon you want them to equip. -->
+  <EquippingWeapons.helpTextController>TODO</EquippingWeapons.helpTextController>
+  
+  <!-- EN: Fire preparation -->
+  <FirePreparation.label>Pasirengimas gaisrui</FirePreparation.label>
+  <!-- EN: Fires can easily burn down a colony. To defeat them, you must prepare before they happen.\n\nThese design elements can help reduce the damage from fires:\n\n1. Instead of constructing one super-building, build separate buildings with spaces in between.\n\n2. Use less flammable materials. Wood is cheap and fast - but very flammable.\n\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire. -->
+  <FirePreparation.helpText>Gaisras gali lengvai sudeginti visą koloniją. Kad įveiktum gaisrą, ruoškis kol jis neatsitiko.\n\nKeli dalykai kurie gali padėti sumažinti gaisrų padaromą žalą:\n\n1. Vietoj vieno didelio pastato, padaryk atskirus pastatus su tarpais tarp jų.\n\n2. Naudok ne tokias degias medžiagas. Mediena yra pigi ir greitai gaunama - bet labai degi.\n\n3. Pasidaryk gaisrines juostas, kad sustabdytum miško gaisrus, besikesinančius į tavo bazę. 3 ar 4 langelių pločio betono juosos paprastai užtenka gaisrui sustabdyti.</FirePreparation.helpText>
+  
+  <!-- EN: Forbid and allow -->
+  <Forbidding.label>Uždrausk ir leisk</Forbidding.label>
+  <!-- EN: Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to ALLOW it. -->
+  <Forbidding.helpText>Kolonistai nesinaudos daiktais pažymėtais kaip UŽDRAUSTI.\n\nUždrausti daiktai turi prie savęs mažą raudoną X. Pasirink uždraustą daiktą ir LEISK jį naudoti paspausdamas mygtuką juostoje apačioje.</Forbidding.helpText>
+  
+  <!-- EN: Forbidding doors -->
+  <ForbiddingDoors.label>Durų uždraudimas</ForbiddingDoors.label>
+  <!-- EN: You can FORBID doors so colonists and tame animals won't go through them.\n\nNote that this isn't a door lock. Doors are always locked, so enemies can't pass freely. Forbidding just directs your colonists not to use the door. Colonists who are going crazy might use the door anyway. -->
+  <ForbiddingDoors.helpText>Gali UŽDRAUSTI duris, kad kolonistai ir prijaukinti gyvūnai pro jas nevaikščiotų.\n\nAtsimink, kad tai neužrakina durų. Durys visada užrakintos, tad priešai laisvai praeiti negali. Uždraudimas tiesiog pasako kolonistams tų durų nenaudoti. Išprotėję kolonistai vis tiek gali jas panaudoti.</ForbiddingDoors.helpText>
+  
+  <!-- EN: Forming caravans -->
+  <FormCaravan.label>Karavanų formavimas</FormCaravan.label>
+  <!-- EN: You can form a caravan to send groups of people traveling across the planet!\n\nIn the WORLD tab, select your home base and click the "form caravan" button. -->
+  <FormCaravan.helpText>Gali suformuoti karavaną ir išsiųsti žmonių grupes keliauti po pasaulį!\n\nPasaulio lange pasirink savo namų bazę ir paspausk "Formuoti karavaną" mygtuką.</FormCaravan.helpText>
+  
+  <!-- EN: Friendly fire safety -->
+  <FriendlyFireSafety.label>Draugiška ugnis</FriendlyFireSafety.label>
+  <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over their friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
+  <FriendlyFireSafety.helpText>Draugiška ugnis niekada neįvyksta jėi šaulys yra šalia savo bendražygio.\n\nPavyzdžiui, gali saugiai pastatyti kardu ginkluotą kolonistą prieš kolonistą su šautuvu. Šaulys šaudys per savo draugo petį.\n\nTai geras būdas suderinti kovotojus su nuotoliniais ginklais su kovotojais skirtais artimai kovai.</FriendlyFireSafety.helpText>
+  
+  <!-- EN: Getting more traders -->
+  <GettingMoreTraders.label>Kaip gauti daugiau prekeivių</GettingMoreTraders.label>
+  <!-- EN: More trader caravans will come to visit you if you're allied with more factions.\n\nIf you have no allies, no caravans will ever visit!\n\nYou can also pay allies to send trade caravans by calling them on the comms console. -->
+  <GettingMoreTraders.helpText>Kuo daugiau frakcijų yra tavo sąjungininkai, tuo daugiau prekybos karavanų tave aplankys.\n\nJei neturi sąjungininkų, joks karavanas niekada neaplankys!\n\nTaip pat gali sumokėti sąjungininkams kad atsiųstų prekybos karavaną paskambindamas jiems naudodamasis radijo stotele.</GettingMoreTraders.helpText>
+  
+  <!-- EN: Growing zones -->
+  <GrowingFood.label>Auginimo zonos</GrowingFood.label>
+  <!-- EN: To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground. -->
+  <GrowingFood.helpText>Kad užaugintum maisto, pasidaryk AUGINIMO ZONĄ naudodamasis Architekto kortele.\n\nJos gali būti tik ant derlingos žemės.</GrowingFood.helpText>
+  
+  <!-- EN: History tab -->
+  <HistoryTab.label>Istorijos langas</HistoryTab.label>
+  <!-- EN: You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen. -->
+  <HistoryTab.helpText>Gali matyti savo kolonijos įvykių seką laike ISTORIJOS lange apatinėje ekrano dalyje.</HistoryTab.helpText>
+  
+  <!-- EN: Home area -->
+  <HomeArea.label>Namų sritis</HomeArea.label>
+  <!-- EN: The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu. -->
+  <HomeArea.helpText>Namų sritis nurodo kolonistams kur reikia valyti ir gesinti gaisrus.\n\nApibrėžk NAMŲ SRITĮ naudodamas Zonų kategoriją Architekto kortelėje.</HomeArea.helpText>
+  
+  <!-- EN: Hostility response modes -->
+  <HostilityResponse.label>Reakcija į priešiškumą</HostilityResponse.label>
+  <!-- EN: You can configure how colonists should automatically respond to threats like predatory animals.\n\nChoose from FLEE, ATTACK, and IGNORE modes in the ASSIGN menu. -->
+  <HostilityResponse.helpText>Gali pakeisti kaip kolonistai turėtų automatiškai reaguoti į tokias grėsmes kaip plėšrūs gyvūnai.\n\nPasirink iš BĖGTI, ATAKUOTI ir IGNORUOTI režimų PRISKIRTI kortelėje.</HostilityResponse.helpText>
+  
+  <!-- EN: Info card -->
+  <InfoCard.label>Informacinė lentelė</InfoCard.label>
+  <!-- EN: The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane. -->
+  <InfoCard.helpText>Informacinė lentelė parodo smulkią statistiką apie bet kokį daiktą, žmogų ar pastatą.\n\nPasirink asmenį ar daiktą ir atidaryk jo informacinę lentelę paspausdamas "i" mygtuką esantį peržiūros lange.</InfoCard.helpText>
+  
+  <!-- UNUSED -->
+  <InspectRoomStats.label>Kambario statistikos peržiūra</InspectRoomStats.label>
+  <InspectRoomStats.helpText>Gali peržiūrėti kambario įspūdingumą, turtingumą ir gražumą naudodamasis KAMBARIO STATISTIKOS PERŽIŪRA jungikliu apačioje dešinėje.</InspectRoomStats.helpText>
+  
+  <!-- EN: Manual work priorities -->
+  <ManualWorkPriorities.label>Rankinis darbų prioriteto nustatymas</ManualWorkPriorities.label>
+  <!-- EN: One of the most important parts of RimWorld is choosing good work settings for your colonists.\n\nPoor work settings can leave essential work unfinished for a long time while colonists waste time on unimportant tasks.\n\nTo give more control over what work colonists do, you can use the Manual Priorities mode in the WORK tab.\n\nIn this mode, each colonist has a priority number for each work type. Colonists will do priority 1 work from left to right, then priority 2 work from left to right, and so on.\n\nIntelligent use of these setting is essential for a large, well-automated colony. -->
+  <ManualWorkPriorities.helpText>Vienas iš svarbiausių dalykų RimWorld žaidime yra gerai sureguliuoti kolonistų darbus.\n\nPrastai sureguliuoti darbų prioritetai gali palikti esminius darbus ilgai nenudirbtus, o kolonistai tuo metu švaistys laiką nesvarbioms veikloms.\n\nKad geriau kontroliuotum ką daro kolonistai, gali panaudoti Rankinį Prioritetų režimą DARBO lange.\n\nŠiame režime kiekvienas kolonistas turi prioriteto skaičių kiekvienai darbo rūšiai. Kolonistai darys darbus su prioritetu 1 einant nuo kairės į dešinę, tada darbus su prioritetu 2 nuo kairės į dešinę ir taip toliau.\n\nProtingas šių nustatymų panaudojimas yra būtinas didelei, gerai automatizuotai kolonijai.</ManualWorkPriorities.helpText>
+  
+  <!-- EN: Medical operations -->
+  <MedicalOperations.label>Medicininės operacijos</MedicalOperations.label>
+  <!-- EN: To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab. -->
+  <MedicalOperations.helpText>Norėdamas padaryti operacijas, tokias kaip organo paėmimai ar protezo įstatymai, atidaryk SVEIKATOS langą, tada pereik į OPERACIJŲ langą.</MedicalOperations.helpText>
+  
+  <!-- EN: Mining -->
+  <Mining.label>Kasyba</Mining.label>
+  <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
+  <Mining.helpText>Gali pažymėti kur kasti atidarydamas Architekto kortelę ir pasirinkdamas NURODYMŲ langą.\n\nIš kai kurių iškasamų blokų galima išgauti PLIENO, AUKSO, PLASTMETALIO ir kitų naudingų medžiagų.</Mining.helpText>
+  
+  <!-- EN: Outfits -->
+  <Outfits.label>Aprangos komplektai</Outfits.label>
+  <!-- EN: Colonists will automatically try to wear the newest, highest-quality apparel they can.\n\nYou don't need to manually assign each piece of apparel to colonists (though you can, if you wish).\n\nTo assign colonists restrictions on how to dress, open the ASSIGN tab, use the "Manage outfits" dialog box to design a new outfit, and then assign the outfit to colonists. -->
+  <Outfits.helpText>Kolonistai automatiškai stengsis dėvėti naujausią, geriausios kokybės aprangą kokią tik galės.\n\nNebūtina kolonistams rankiniu būdu priskirti kiekvieno drabužio (nors gali, jei nori).\n\nKad apribotum kaip kolonistai gali rengtis, atidaryk PRISKIRTI langą, įeik į "Keisti aprangos komplektus" dialogą, sukurk naują aprangos komplektą ir tada priskirk ją kolonistams.</Outfits.helpText>
+  
+  <!-- EN: Pausing -->
+  <Pause.label>Sustabdymas</Pause.label>
+  <!-- EN: Hit {Key:TogglePause} to pause or unpause the game.\n\nYou can give orders while paused.\n\nRemember this - if things get hectic, just hit {Key:TogglePause}! -->
+  <Pause.helpText>Paspausk {Key:TogglePause} kad sustabdytum ar tęstum žaidimą.\n\nSustabdžius gali duoti nurodymus.\n\nAtsimink tai - jei reikalai tampa įtempti, spausk {Key:TogglePause}!</Pause.helpText>
+  
+  <!-- EN: Shot accuracy tooltip -->
+  <ShotAccuracyTooltip.label>Šūvio taiklumo informacija</ShotAccuracyTooltip.label>
+  <!-- EN: You can see the exact calculations behind the accuracy of any shot.\n\nTo do so, select the shooter, then rest the mouse over the target. The tooltip will show the chance to hit, and a breakdown of the contribution of various to-hit chance multipliers. -->
+  <ShotAccuracyTooltip.helpText>Gali peržiūrėti tikslų bet kurio šūvio taiklumo skaičiavimą.\n\nPasirink šaulį, tada palaikyk užvestą žymeklį ant taikinio. Pamatysi pačią pataikymo tikimybę ir įvairius pataikymo tikimybės daugiklius.</ShotAccuracyTooltip.helpText>
+  
+  <!-- EN: Spoilage and freezers -->
+  <SpoilageAndFreezers.label>Pagedimas ir šaldytuvai</SpoilageAndFreezers.label>
+  <!-- EN: Most foodstuffs will spoil after a relatively short time.\n\nTo prevent this, you can build a walk-in freezer.\n\nTo build a freezer, construct a closed room, and put one or two coolers into the wall. Set the coolers to a negative target temperature.\n\nFrozen foods won't ever spoil. -->
+  <SpoilageAndFreezers.helpText>Dauguma maisto santykinai greitai pagenda.\n\nKad užkirstum tam kelią, gali pastatyti įeinamą šaldytuvą.\n\nKad pastatytum šaldytuvą, pastatyk uždarą kambarį ir įmontuok į sieną vieną ar du aušintuvus. Nustatyk aušintuvų temperatūros tikslą į neigiamą.\n\nUžšalęs maistas niekada nepages.</SpoilageAndFreezers.helpText>
+  
+  <!-- EN: Stockpiles -->
+  <Stockpiles.label>Sandėliavimo vietos</Stockpiles.label>
+  <!-- EN: Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left. -->
+  <Stockpiles.helpText>Tavo kolonistams reikia kažkur susidėti daiktus. Pažymėk SANDĖLIAVIMO VIETĄ daiktams laikyti.\n\nSurask sandėlį ARCHITEKTO kortelės apačioje kairėje ZONŲ kategorijoje.</Stockpiles.helpText>
+  
+  <!-- EN: Storage tab -->
+  <StorageTab.label>Saugyklos langas</StorageTab.label>
+  <!-- EN: You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority. -->
+  <StorageTab.helpText>Gali pakeisti sandėliavimo vietas ir saugyklų pastatus pasirinkdamas juos ir atidarydamas SAUGYKLOS LANGĄ virš apačioje kairėje esančio peržiūros lango.\n\nSandėliavimo vietos saugyklos lange gali išskleisti kategorijas ir leisti ar neleisti konkrečius daiktus. Kad neleistum, paspausk ant trikampių kairiau nuo kategorijų vardų.\n\nGali pakeisti saugyklos PRIORITETĄ. Kolonistai pirmiausia užpildys aukštesnio prioriteto saugyklas ir gabens daiktus iš žemesnio į aukštesnį prioritetą turinčias saugyklas.</StorageTab.helpText>
+  
+  <!-- EN: Tile inspector -->
+  <TileInspector.label>TODO</TileInspector.label>
+  <!-- EN: You can inspect the details of a tile by holding {Key:ShowCellInspector}. This displays the contents of a tile, room information, beauty information, and more. -->
+  <TileInspector.helpText>TODO</TileInspector.helpText>
+  
+  <!-- EN: Time assignments -->
+  <TimeAssignments.label>Laiko paskirstymas</TimeAssignments.label>
+  <!-- EN: You can modify what time of day colonists should do different activities using the RESTRICT tab. -->
+  <TimeAssignments.helpText>Gali pakeisti ką kokiu dienos metu kolonistai turėtų veikti naudodamas APRIBOTI langą.</TimeAssignments.helpText>
+  
+  <!-- EN: Time controls -->
+  <TimeControls.label>Laiko valdymas</TimeControls.label>
+  <!-- EN: You can speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
+  <TimeControls.helpText>Gali pagreitinti laiką.\n\nPabandyk valdyti laiką su {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast} ir {Key:TimeSpeed_Superfast} mygtukais arba su laiko valdikliais apačioje dešinėje.</TimeControls.helpText>
+  <!-- EN: You can speed up time.\n\nTry controlling time with {Key:TimeSpeed_Faster} and {Key:TimeSpeed_Slower}, or with the time controls in the bottom right. -->
+  <TimeControls.helpTextController>TODO</TimeControls.helpTextController>
+  
+  <!-- EN: Work settings -->
+  <WorkTab.label>Darbų nustatymai</WorkTab.label>
+  <!-- EN: You can set each colonist's work settings in the WORK tab at the bottom left of the screen.\n\nThey will always do the highest priority work that they can find.\n\nIf nobody has a certain work type assigned, or if they are busy with higher-priority tasks, it will never get done. -->
+  <WorkTab.helpText>Gali reguliuoti kiekvieno kolonisto darbų nustatymus DARBŲ lange ekrano apačioje kairiau.\n\nJie visada darys aukščiausio kokį gali rasti prioriteto darbą.\n\nJei niekas neturi priskirtos kažkokios darbo rūšies, arba jei visi yra užsiėmę su kitais, aukštesnio prioriteto veiklomis, tai tas darbas niekada nebus padarytas.</WorkTab.helpText>
+  
+</LanguageData>

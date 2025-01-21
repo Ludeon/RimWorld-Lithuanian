@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: You can dismiss letters by right-clicking on them. -->
+  <GameplayTips.DismissLetters>Gali pašalinti laiškus paspausdamas ant jų dešiniu pelės klavišu.</GameplayTips.DismissLetters>
+  <!-- EN: You can hold the shift key to queue orders on your colonists. -->
+  <GameplayTips.QueueOrders>Gali laikyti paspaudės shift mygtuką, kad sudėtum nurodymus kolonistui į eilę.</GameplayTips.QueueOrders>
+  <!-- EN: You can right-click and drag to reorder colonists on the colonist bar. -->
+  <GameplayTips.ReorderColonistbar>Gali paspausti su dešiniu pelės klavišu viršutinėje kolonistų juostoje ir tempti kad perrūšiuotum kolonistus.</GameplayTips.ReorderColonistbar>
+  <!-- EN: You can select previous/next colonist with the , and . keys. -->
+  <GameplayTips.SelectPrevNextColonist>Gali pasirinkti ankstesnį/sekantį kolonistą su , ir . mygtukais.</GameplayTips.SelectPrevNextColonist>
+  <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
+  <GameplayTips.SettingPainting>Daugelyje meniu gali paspausti ir tempti nustatymą kad "užpieštum" ant kelių eilučių. Tai net veikia tokiems dalykams kaip aprangos komplektai ir maisto ribojimai.</GameplayTips.SettingPainting>
+  <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->
+  <GameplayTips.ManualPriorities>Darbo lango rankinio prioritetų valdymo režime, 1 yra aukščiausias prioritetas ir 4 žemiausias.</GameplayTips.ManualPriorities>
+  <!-- EN: Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen. -->
+  <GameplayTips.ColonistMood>Kiekvieno kolonisto nuotaika rodoma kolonistų juostoje ekrano viršuje, jų ikonos fone.</GameplayTips.ColonistMood>
+  <!-- EN: Shift-clicking the name of a work type in the Work tab changes settings for all colonists at once. -->
+  <GameplayTips.WorkTabChangeAllColonists>Shift + paspausk ant darbo rūšies pavadinimo Darbo lange kad pakeistum nustatymą visiems kolonistams iškart.</GameplayTips.WorkTabChangeAllColonists>
+  <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
+  <GameplayTips.WorkTabDecreasePriority>Dešinio pelės klavišo paspaudimas ant skaičiaus Darbo lange naudojant rankinį prioritetų režimą sumažins prioritetą vietoj padidinimo.</GameplayTips.WorkTabDecreasePriority>
+  <!-- EN: You can hold the alt key to show detailed information about a specific tile. -->
+  <GameplayTips.CellInspector>Gali laikyti nuspaudęs alt klavišą, kad pamatytum išsamią informaciją apie konkretų langelį.</GameplayTips.CellInspector>
+  <!-- EN: In a gunfight, always be behind cover! Right-click and drag to have your drafted fighters form a line. -->
+  <GameplayTips.GunfightCover>Šaudynėse visada slėpkis už priedangos! Paspausk dešinį pelės klavišą ir tempk, kad išrikiuotum savo mobilizuotus kolonistus į liniją.</GameplayTips.GunfightCover>
+  <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
+  <GameplayTips.GunfightSpread>Paspausk dešinį pelės klavišą ir tempk, kad išrikiuotum savo mobilizuotus kolonistus į liniją. Į susigrūdusius taikinius lengva pataikyti!</GameplayTips.GunfightSpread>
+  <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
+  <GameplayTips.ShootingAccuracySmoke>Dūmai visiškai neleidžia bokštams aptikti taikinių, bet žmonės vis tiek gali šaudyti, nors ir ne taip tiksliai.</GameplayTips.ShootingAccuracySmoke>
+  <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->
+  <GameplayTips.DesignDefenses>Kai ruoši gynybą, manyk kad priešai įeis su transporto kapsulėmis arba tuneliais. Pasistatyk vidines gynybos pozicijas.</GameplayTips.DesignDefenses>
+  <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->
+  <GameplayTips.ShootingAccuracyFogRain>Ūkanotas ir lietingas oras sumažina nuotolinių ginklų taiklumą.</GameplayTips.ShootingAccuracyFogRain>
+  <!-- EN: You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target. -->
+  <GameplayTips.ShootingTooltip>Gali pažiūrėti kokia šūvio pataikymo tikimybė pasirinkdamas šaulį ir nuvesdamas pelės rodyklę virš taikinio.</GameplayTips.ShootingTooltip>
+  <!-- EN: Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them. -->
+  <GameplayTips.TurretsExplode>Bokštai sprogsta kai patiria per daug žalos. Nestatyk jų arti vienas kito ir nelaikyk žmonių per arti.</GameplayTips.TurretsExplode>
+  <!-- EN: Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it. -->
+  <GameplayTips.AnimalDeathExplosion>Kai kurie gyvūnai mirdami sprogsta. Naudodamas transportavimo kapsules gali numesti gyvūnus ant priešų. Pagalvok apie tai.</GameplayTips.AnimalDeathExplosion>
+  <!-- EN: If you need help in a fight, call your allies using the comms console. -->
+  <GameplayTips.CallAllies>Jei reikia pagalbos kovoje, susisiek su savo sąjungininkams naudodamasis radijo stotele.</GameplayTips.CallAllies>
+  <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
+  <GameplayTips.MaddenedAnimals>Įsiutinti gyvūnai puls bet kokį žmogų, įskaitant ir tavo priešus. Gali tuo pasinaudoti.</GameplayTips.MaddenedAnimals>
+  <!-- EN: EMP bursts will temporarily disable turrets and shields. -->
+  <GameplayTips.EMPDisablesTurretsShields>EMP sprogimai laikinai išjungs bokštus ir skydus.</GameplayTips.EMPDisablesTurretsShields>
+  <!-- EN: EMP bursts instantly break personal shields. -->
+  <GameplayTips.EMPDisablesPersonalShields>EMP sprogimai iškart numuša asmeninius skydus.</GameplayTips.EMPDisablesPersonalShields>
+  <!-- EN: The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills. -->
+  <GameplayTips.HunterStealth>Medžiotojo sėlinimo statistinis rodiklis sumažina gyvūnų puolimų tikimybę. Ji priklauso nuo medžiotojo įgūdžių su gyvūnais ir jo šaudymo įgūdžių.</GameplayTips.HunterStealth>
+  <!-- EN: Animals are more likely to attack when harmed from close range. Long-range, slow-firing weapons are safest for hunting. -->
+  <GameplayTips.AnimalsAttackCloseRange>Gyvūnai labiau linkę pulti kai būna sužeisti iš arti. Ilgo nuotolio, lėtai šaudantys ginklai yra saugiausi medžioklei.</GameplayTips.AnimalsAttackCloseRange>
+  <!-- EN: Entire herds of animals may attack you when you try to hunt them. Accept the risk before hunting, or choose weaker prey. -->
+  <GameplayTips.AnimalsMayAttack>Visos gyvūnų bandos gali tave pulti kai bandai juos medžioti. Prisiimk riziką prieš medžiodamas, arba pasirink silpnesnę auką.</GameplayTips.AnimalsMayAttack>
+  <!-- EN: If you hunt boomrats and boomalopes when it's raining, their deaths won't cause forest fires. -->
+  <GameplayTips.AnimalDeathExplosionRain>Jei medžiosi sprogstančias antilopes ir sprogstančias žiurkes kai lyja, tai jų mirtys nesukels miško gaisrų.</GameplayTips.AnimalDeathExplosionRain>
+  <!-- EN: Carefully-slaughtered animals yield more meat and leather than those who were killed violently. -->
+  <GameplayTips.GreaterSlaughterYield>Iš atsargiai papjautų gyvūnų gausi daugiau mėsos ir odos negu iš tų kurie buvo nužudyti naudojant smurtą.</GameplayTips.GreaterSlaughterYield>
+  <!-- EN: Place the caravan hitching spot where you want your caravans to form up. It's usually best to place it near your storage areas. -->
+  <GameplayTips.CaravanHitchingSpot>Paskirk karavano sukinkymo vietą kur nori suformuoti karavaną. Paprastai geriausia vieta yra netoli saugyklų.</GameplayTips.CaravanHitchingSpot>
+  <!-- EN: During encounters away from home, you can place a caravan hitching spot to keep your animals from wandering. -->
+  <GameplayTips.CaravanHitchingSpotRoamers>Per susidūrimus su priešais toli nuo namų, kad gyvūnai neklaidžiotų, gali padėti karavano sukinkymo vietą.</GameplayTips.CaravanHitchingSpotRoamers>
+  <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
+  <GameplayTips.CaravanRideableAnimals>Karavanai juda greičiau jei juose yra gyvūnų, ant kurių galima joti, kaip arkliai, asilai ir dromedarai.</GameplayTips.CaravanRideableAnimals>
+  <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
+  <GameplayTips.CaravanSmallerLessVisible>Mažesni karavanai yra puolami rečiau nes jie yra mažiau matomi.</GameplayTips.CaravanSmallerLessVisible>
+  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan hitching spot. This will make packing much faster. -->
+  <GameplayTips.CaravanStockpileNearPackingSpot>Prieš formuodamas karavaną surink daiktus kuriuos nori išsiųsti į sandėliavimo vietą greta karavano sukinkymo vietos. Taip pagreitinsi karavano pakavimą.</GameplayTips.CaravanStockpileNearPackingSpot>
+  <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
+  <GameplayTips.CaravanUntrainedAnimals>Jei savo karavane turi neišdresuotų gyvūnų, kad patrauktum juos iš kovos, prieš puldamas priešus gali juos perkelti į atskirą karavaną.</GameplayTips.CaravanUntrainedAnimals>
+  <!-- EN: Don't forget to pack medicine on your caravans. -->
+  <GameplayTips.CaravanDontForgetMedicine>Nepamiršk į savo karavanus pasiimti vaistų.</GameplayTips.CaravanDontForgetMedicine>
+  <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
+  <GameplayTips.StoryGenerator>RimWorld skirtas kurti istorijas, o ne išbandyti įgūdžius. Žlugusi kolonija yra dramatiška tragedija, ne pralaimėjimas.</GameplayTips.StoryGenerator>
+  <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
+  <GameplayTips.BadAllies>Kai kurie kolonistai yra blogiau negu išvis nieko. Blogi pagalbininkai yra dalis iššūkio.</GameplayTips.BadAllies>
+  <!-- EN: If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue. -->
+  <GameplayTips.MakeCaravanRunBeforeDefeat>Jei negali apsiginti nuo grėsmės, pasidaryk karavaną ir bėk. Gal ir prarasi namus, bet tavo pasakojimas tęsis.</GameplayTips.MakeCaravanRunBeforeDefeat>
+  <!-- EN: When you have more wealth, more powerful enemies attack. If you want the challenge to scale with time instead, select 'Wealth-independent progress mode' in the storyteller settings. -->
+  <GameplayTips.FixedWealthMode>Kai turi daugiau turto puola galingesni priešai. Jei nori, kad vietoj to sunkumas augtų su laiku, pasakotojo nustatymuose pasirink "Nuo turtingumo nepriklausantis sudėtingumo režimas".</GameplayTips.FixedWealthMode>
+  <!-- EN: Avoid using stone for doors. They open very slowly, which wastes your colonists' time. -->
+  <GameplayTips.StoneDoors>Venk naudoti akmenį durims. Jos atsidaro labai lėtai, kas švaisto tavo kolonistų laiką.</GameplayTips.StoneDoors>
+  <!-- EN: Put chairs in front of workbenches so workers can sit comfortably while working. -->
+  <GameplayTips.ChairsWorkbench>Padėk kėdes prie darbo stalų kad darbuotojai dirbdami patogiai sėdėtų.</GameplayTips.ChairsWorkbench>
+  <!-- EN: Mechanical structures break down and require replacement components. Don't build things you don't need. -->
+  <GameplayTips.MechanicalBreakdown>Mechanizmai genda ir tada reikia komponentų jų taisymui. Nestatyk dalykų kuriu nereikia.</GameplayTips.MechanicalBreakdown>
+  <!-- EN: Be careful what you construct on bridges. Bridges collapse easily under explosions, and your buildings will go with them. -->
+  <GameplayTips.CarefulConstructionOnBridges>Saugokis ką statai ant tiltų. Tiltai lengvai griūva nuo sprogimų, ir tavo statiniai grius kartu su jais.</GameplayTips.CarefulConstructionOnBridges>
+  <!-- EN: Clean rooms increase research speed, improve medical outcomes, and reduce food poisoning. Sterile tiles make rooms extra-clean. -->
+  <GameplayTips.CleanRooms>Švarūs kambariai padidina tyrimų greitį, pagerina operacijų baigtį ir sumažina apsinuodijimą maistu. Sterilios plytelės padarys kambarius ypač švariais.</GameplayTips.CleanRooms>
+  <!-- EN: Building your whole colony in one structure saves resources, but also makes it difficult to contain fires. -->
+  <GameplayTips.ColonyOneStructure>Visos kolonijos pastatymas viename pastate taupo išteklius, bet taip pat apsunkina gaisrų suvaldymą.</GameplayTips.ColonyOneStructure>
+  <!-- EN: Terrain affects movement speed. Build floors to help your colonists get around quicker. -->
+  <GameplayTips.TerrainMovementSpeed>Gruntas paveikia judėjimo greitį. Pastatyk grindis kad padėtum kolonistams greičiau suktis.</GameplayTips.TerrainMovementSpeed>
+  <!-- EN: Different terrain has different inherent cleanliness levels. Tiles are inherently clean; dirt is inherently dirty. -->
+  <GameplayTips.TerrainCleanliness>Skirtingas gruntas turi skirtingus švaros lygius. Plytelės yra savaime švarios; purvas yra savaime purvinas.</GameplayTips.TerrainCleanliness>
+  <!-- EN: Some floor types are faster to clean than others. It takes much longer to clean carpet compared to metal tile. -->
+  <GameplayTips.TerrainCleanSpeed>Kai kurių rūšių grindys valomos greičiau nei kitos. Kilimų valymas užtrunka daug ilgiau, palyginti su metalinėmis plytelėmis.</GameplayTips.TerrainCleanSpeed>
+  <!-- EN: You can give prisoners as gifts. Giving a prisoner back to their own faction will be highly appreciated. -->
+  <GameplayTips.PrisonersAsGifts>Gali atiduoti kalinius kaip dovanas. Kalinio atidavimas jo frakcijai bus labai įvertintas.</GameplayTips.PrisonersAsGifts>
+  <!-- EN: You can request specific types of trade caravans using the comms console. -->
+  <GameplayTips.RequestTradeCaravans>Gali užsiprašyti specifinės rūšies prekybos karavanų naudodamas radijo stotelę.</GameplayTips.RequestTradeCaravans>
+  <!-- EN: You can use transport pods to send gifts directly to other factions' bases - even your enemies. This improves faction relations. -->
+  <GameplayTips.TransportPodsSendGift>Gali naudoti transportavimo kapsules nusiųsti dovanoms tiesiai į kitos frakcijos bazę - net priešų. Tai pagerina frakcijų santykius.</GameplayTips.TransportPodsSendGift>
+  <!-- EN: Keeping prisoners together saves space. However, prisoners kept together will try to break out together. -->
+  <GameplayTips.KeepingPrisonersTogether>Kalinių laikymas drauge taupo vietą. Bet kaliniai kurie kali kartu, taip pat ir bėga kartu.</GameplayTips.KeepingPrisonersTogether>
+  <!-- EN: Enemy faction bases are very well-defended. You don't need to attack them - but be well-prepared if you choose to try. -->
+  <GameplayTips.EnemyFactionBaseDefenses>Priešų frakcijų bazės turi labai gerą gynybą. Tau jų pulti nereikia - bet jei bandysi, būk gerai pasiruošęs.</GameplayTips.EnemyFactionBaseDefenses>
+  <!-- EN: Cute tame animals will nuzzle your colonists, improving their mood. -->
+  <GameplayTips.AnimalNuzzle>Mieli prijaukinti gyvūnai trins savo nosytę į kolonistus taip pakeldami jų nuotaiką.</GameplayTips.AnimalNuzzle>
+  <!-- EN: Assign your herbivorous animals to areas with lots of grass. They'll eat the grass and spare you the need to feed them. -->
+  <GameplayTips.AnimalHerbivorousGrassArea>Paskirk savo žolėdžius gyvūnus į sritis su daug žolės. Jie ės žolę ir tau nereikės jų šerti.</GameplayTips.AnimalHerbivorousGrassArea>
+  <!-- EN: If someone has a serious infection in a limb, you can remove the limb to save their life. -->
+  <GameplayTips.RemoveLimbInfection>Jei kažkas turi sunkią infekciją galūnėje, gali pašalinti galūnę kad išgelbėtum jo gyvybę.</GameplayTips.RemoveLimbInfection>
+  <!-- EN: Sloshing through water makes people unhappy. Build a bridge when you can. -->
+  <GameplayTips.SloshingWater>Braidymas per vandenį daro žmones nelaimingais. Pastatyk tiltą kai gali.</GameplayTips.SloshingWater>
+  <!-- EN: Luciferium can heal scars - even those on the eye or brain. It is, however, a permanent commitment. -->
+  <GameplayTips.Luciferium>Liuciferinas gali išgydyti randus - netgi akyse ar smegenyse. Bet deja tai yra įsipareigojimas visam laikui.</GameplayTips.Luciferium>
+  <!-- EN: Work and movement speed are affected by lighting. Everything is slower in the dark. -->
+  <GameplayTips.WorkMovementSpeedLighting>Darbo ir judėjimo greičiai priklauso nuo apšvietimo. Viskas vyksta lėčiau tamsoje.</GameplayTips.WorkMovementSpeedLighting>
+  <!-- EN: Deep underground caverns have a naturally stable temperature, even if it's very hot or cold outside. -->
+  <GameplayTips.DeepCavesTemperature>Gilios požeminės olos yra natūraliai stabilios temperatūros, net jei lauke labai karšta ar šalta.</GameplayTips.DeepCavesTemperature>
+  <!-- EN: Mountain bases are easy to defend. The downside is that people go crazy spending too long underground. And giant insects. -->
+  <GameplayTips.MountainBases>Kalnų bazės yra lengvai apginamos. Minusas tik tas, kad žmonės išprotėja būdami per ilgai po žeme. Ir didieji vabzdžiai.</GameplayTips.MountainBases>
+  <!-- EN: Prisoners will join much quicker and attempt fewer breakouts when they're in a good mood. -->
+  <GameplayTips.PrisonersGoodMood>Kaliniai prisijungia daug greičiau ir rečiau bando pabėgti kai jie yra geros nuotaikos.</GameplayTips.PrisonersGoodMood>
+  <!-- EN: You can have multiple researchers working simultaneously at multiple research tables. -->
+  <GameplayTips.MultipleResearchers>Gali turėti kelis tyrėjus dirbančius prie kelių skirtingų tyrimų stalų vienu metu.</GameplayTips.MultipleResearchers>
+  <!-- EN: Geysers heat up rooms if enclosed. This can be dangerous, or useful. -->
+  <GameplayTips.GeysersHeatRooms>Jei uždaryti viduje, geizeriai sušildys kambarius. Tai gali būti pavojinga. Arba naudinga.</GameplayTips.GeysersHeatRooms>
+  <!-- EN: Explosions extinguish fires in their blast radius. This makes artillery shells useful for stopping fires when there is no other choice. -->
+  <GameplayTips.ExtinguishFireArtillery>Sprogimai savo spindulyje užgesina gaisrus. Tai, kai nėra kitos išeities, daro artilerijos sviedinius naudingais gesinant gaisrus.</GameplayTips.ExtinguishFireArtillery>
+  <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
+  <GameplayTips.BestStoriesFromDarkestSituations>Net didelės nesėkmės nereiškia kad žaidimas turi baigtis. Pabandyk žaisti iki galo net pralaimėtą kovą - dažnai geriausios istorijos būna iš sunkiausių situacijų.</GameplayTips.BestStoriesFromDarkestSituations>
+  <!-- EN: Keep weapon stockpiles away from your prisons. Prison breaks are much more dangerous with guns and explosives. -->
+  <GameplayTips.KeepWeaponsAwayFromPrisoners>Laikyk savo ginklų sandėliavimo vietas toliau nuo kalėjimų. Pabėgimai iš kalėjimo su ginklais ir sprogmenimis yra daug pavojingesni.</GameplayTips.KeepWeaponsAwayFromPrisoners>
+  <!-- EN: When taming animals, make sure you have enough food of the correct type to feed them. -->
+  <GameplayTips.MakeSureYouHaveFoodForTamedAnimals>Kai jaukini gyvūnus, įsitikink kad turi pakankamai tinkamos rūšies maisto juos pamaitinti.</GameplayTips.MakeSureYouHaveFoodForTamedAnimals>
+  <!-- EN: Dropping a stone or slag chunk in a doorway will force it open, leaving you vulnerable to hostile wildlife and raiders. -->
+  <GameplayTips.DroppingChunksWillForceDoorsOpen>Akmens ar šlako gabalo numetimas tarpduryje paliks duris atviras, padarys tave pažeidžiamą agresyviems laukiniams gyvūnams ir užpuolikams.</GameplayTips.DroppingChunksWillForceDoorsOpen>
+  <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
+  <GameplayTips.CleanLabs>Švarios laboratorijos su steriliomis plytelėmis padidina tyrimų greitį.</GameplayTips.CleanLabs>
+  <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
+  <GameplayTips.ChangeStoryteller>Visada gali pakeisti pasakotoją ir žaidimo stilių naudodamasis nustatymų meniu.</GameplayTips.ChangeStoryteller>
+  <!-- EN: The more factions you are allied with, the more random traders and military aid you will receive. -->
+  <GameplayTips.MoreAlliesMoreTraders>Kuo daugiau frakcijų bus sąjungininkais, tuo daugiau gausi atsitiktinių prekeivių ir karinės pagalbos.</GameplayTips.MoreAlliesMoreTraders>
+  <!-- EN: You can use drug policies to have your fighters carry combat drugs like go-juice. A quick dose at the start of combat can win the battle. -->
+  <GameplayTips.CombatDrugsFromInventory>Gali pakeisti medikamentų vartojimo tvarką taip kad tavo kovotojai nešiotųsi kovinius narkotikus, kaip raketa. Viena dozė kovos pradžioje gali laimėti visą mūšį.</GameplayTips.CombatDrugsFromInventory>
+  <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
+  <GameplayTips.SchedulesSetLong>Nustatyk tvarkaraščius su ilgais vienos veiklos tarpais, kad sumažintum vaikščiojimo pirmyn atgal laiką.</GameplayTips.SchedulesSetLong>
+  <!-- EN: Straw matting ignores filth. Use it as the floor for your barn. -->
+  <GameplayTips.StrawMatting>Šiaudiniai dembliai nepaiso nešvarumų. Panaudok tai kaip grindis savo tvartams.</GameplayTips.StrawMatting>
+  <!-- EN: Some animals produce a lot of filth. Keep your elephants and cattle outside. -->
+  <GameplayTips.AnimalFilth>Kai kurie gyvūnai pridaro daug nešvaros. Laikyk savo dramblius ir galvijus lauke.</GameplayTips.AnimalFilth>
+  <!-- EN: Predators won't hunt animals which are on the other side of fences or barricades. -->
+  <GameplayTips.PredatorsAndFences>Plėšrūnai nemedžios gyvūnų kitoje tvoros ar barikadų pusėje.</GameplayTips.PredatorsAndFences>
+  
+</LanguageData>

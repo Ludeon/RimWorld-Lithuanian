@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals -->
+  <Animals.label>gyvūnai</Animals.label>
+  <!-- EN: Configure how the colony's tame animals should be treated. -->
+  <Animals.description>Nustatyk kas turėtų būti daroma su kolonijos naminiais gyvūnais.</Animals.description>
+  
+  <!-- EN: architect -->
+  <Architect.label>architektas</Architect.label>
+  <!-- EN: Designate where to build, farm, store items, and so on. -->
+  <Architect.description>Pažymėk kur statyti, ūkininkauti, saugoti daiktus ir taip toliau.</Architect.description>
+  
+  <!-- EN: assign -->
+  <Assign.label>priskirti</Assign.label>
+  <!-- EN: Assign behaviors to colonists like what they should wear, what drugs to take, or how to respond to enemies. -->
+  <Assign.description>Nustatyk kaip kolonistams elgtis, pavyzdžiui ką dėvėti, kokius medikamentus vartoti arba kaip reaguoti į priešus.</Assign.description>
+  
+  <!-- EN: factions -->
+  <Factions.label>frakcijos</Factions.label>
+  <!-- EN: Review the other factions on this world and their relationships. -->
+  <Factions.description>Peržiūrėk kitas šio pasaulio frakcijas ir santykius su jomis.</Factions.description>
+  
+  <!-- EN: history -->
+  <History.label>istorija</History.label>
+  <!-- EN: Review historical records. -->
+  <History.description>Peržiūrėk istorinius duomenis.</History.description>
+  
+  <!-- EN: inspect -->
+  <Inspect.label>apžiūrėti</Inspect.label>
+  
+  <!-- EN: menu -->
+  <Menu.label>meniu</Menu.label>
+  <!-- EN: Change options, save, load, or quit the game. -->
+  <Menu.description>Pakeisk nustatymus, išsaugok, įkelk arba išjunk žaidimą.</Menu.description>
+  
+  <!-- EN: quests -->
+  <Quests.label>užduotys</Quests.label>
+  <!-- EN: View available, active, and historical quests. -->
+  <Quests.description>Peržiūrėk gautas, aktyvias ir istorines užduotis.</Quests.description>
+  
+  <!-- EN: research -->
+  <Research.label>tyrimai</Research.label>
+  <!-- EN: Examine and decide on research projects. -->
+  <Research.description>Peržiūrėk ir nuspręsk kokius tyrimus vykdyti.</Research.description>
+  
+  <!-- EN: schedule -->
+  <Schedule.label>tvarkaraštis</Schedule.label>
+  <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
+  <Schedule.description>Sutvarkyk savo kolonistų tvarkaraščius nustatydamas laiką veikloms, taip pat priskirk leidžiamas sritis.</Schedule.description>
+  
+  <!-- EN: wildlife -->
+  <Wildlife.label>gyvoji gamta</Wildlife.label>
+  <!-- EN: List wild animals in the area and designate them for hunting or taming. -->
+  <Wildlife.description>Laukinių gyvūnų sąrašas. Pažymėk juos medžiojimui arba jaukinimui.</Wildlife.description>
+  
+  <!-- EN: work -->
+  <Work.label>darbai</Work.label>
+  <!-- EN: Choose which colonist does what kinds of work, and in what order. -->
+  <Work.description>Pasirink kurie kolonistai kokius darbus ir kokia tvarka dirbs.</Work.description>
+  
+  <!-- EN: world -->
+  <World.label>pasaulis</World.label>
+  <!-- EN: Examine the world map, form, and manage caravans. -->
+  <World.description>Apžiūrėk pasaulio žemėlapį, suformuok ir valdyk karavanus.</World.description>
+  
+</LanguageData>

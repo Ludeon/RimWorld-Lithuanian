@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: club -->
+  <MeleeWeapon_Club.label>kuoka</MeleeWeapon_Club.label>
+  <!-- EN: A shaped stick, heavy at one end, for bashing enemies to death. This weapon is so old it's part of human biology. Evolutionary biologists say that a major reason humans can tilt our wrists side-to-side (instead of just forward-and-back like other primates) is to be able to better swing a club. -->
+  <MeleeWeapon_Club.description>Viename gale sunki lazda skirta uždaužyti priešus iki mirties. Šis ginklas toks senas, kad tapo žmogaus biologijos dalimi. Evoliucijos biologai sako kad pagrindinė priežastis kodėl žmonės gali pasukti riešus į šonus (ne tik pirmyn ir atgal, kaip kiti primatai) yra tam, kad galėtų geriau valdyti kuoką.</MeleeWeapon_Club.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Club.tools.handle.label>rankena</MeleeWeapon_Club.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Club.tools.head.label>buožė</MeleeWeapon_Club.tools.head.label>
+  
+  <!-- EN: ikwa -->
+  <MeleeWeapon_Ikwa.label>trumpa ietis</MeleeWeapon_Ikwa.label>
+  <!-- EN: A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust. -->
+  <MeleeWeapon_Ikwa.description>Trumpa rankena pritvirtinta prie ilgų ašmenų, padaryta įdurti į gyvybinius organus greitu dūriu.</MeleeWeapon_Ikwa.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Ikwa.tools.handle.label>rankena</MeleeWeapon_Ikwa.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Ikwa.tools.head.label>galvutė</MeleeWeapon_Ikwa.tools.head.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Ikwa.tools.edge.label>ašmenys</MeleeWeapon_Ikwa.tools.edge.label>
+  
+  <!-- EN: knife -->
+  <MeleeWeapon_Knife.label>peilis</MeleeWeapon_Knife.label>
+  <!-- EN: One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting. -->
+  <MeleeWeapon_Knife.description>Vienas seniausių žmogaus padarytų objektų. Nors peilių būna įvairių formų, esmė išlieka ta pati: rankena laikyti ir ašmenys pjauti.</MeleeWeapon_Knife.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Knife.tools.handle.label>rankena</MeleeWeapon_Knife.tools.handle.label>
+  <!-- EN: blade -->
+  <MeleeWeapon_Knife.tools.blade.label>ašmenys</MeleeWeapon_Knife.tools.blade.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Knife.tools.point.label>galiukas</MeleeWeapon_Knife.tools.point.label>
+  
+  <!-- EN: spear -->
+  <MeleeWeapon_Spear.label>ietis</MeleeWeapon_Spear.label>
+  <!-- EN: A polearm tipped with a sharp point for stabbing opponents. -->
+  <MeleeWeapon_Spear.description>Ilgas ginklas su aštriu galiuku badyti oponentams.</MeleeWeapon_Spear.description>
+  <!-- EN: shaft -->
+  <MeleeWeapon_Spear.tools.shaft.label>kotas</MeleeWeapon_Spear.tools.shaft.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Spear.tools.point.label>galiukas</MeleeWeapon_Spear.tools.point.label>
+  
+</LanguageData>

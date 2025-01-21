@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: create incident -->
+  <CreateIncident.label>sukurti incidentą</CreateIncident.label>
+  
+  <!-- EN: disable incident -->
+  <DisableIncident.label>išjungti incidentą</DisableIncident.label>
+  
+  <!-- EN: forced health condition -->
+  <ForcedHediff.label>priverstinė sveikatos būsena</ForcedHediff.label>
+  
+  <!-- EN: forced trait -->
+  <ForcedTrait.label>priverstinis pruožas</ForcedTrait.label>
+  
+  <!-- EN: planetkiller weapon incoming -->
+  <GameCondition_Planetkiller.label>planetą naikinantis ginklas atkeliauja</GameCondition_Planetkiller.label>
+  
+  <!-- EN: game start dialog -->
+  <GameStartDialog.label>žaidimo pradžios dialogas</GameStartDialog.label>
+  
+  <!-- EN: naked -->
+  <Naked.label>nuogas</Naked.label>
+  
+  <!-- EN: no possessions -->
+  <NoPossessions.label>asmeninių daiktų neturi</NoPossessions.label>
+  
+  <!-- EN: characters explode on death -->
+  <OnPawnDeathExplode.label>veikėjai mirdami sprogsta</OnPawnDeathExplode.label>
+  
+  <!-- EN: allowed age range -->
+  <PawnFilter_Age.label>leidžiamo amžiaus ribos</PawnFilter_Age.label>
+  
+  <!-- EN: permanent game condition -->
+  <PermanentGameCondition.label>nuolatinė žaidimo sąlyga</PermanentGameCondition.label>
+  
+  <!-- EN: disallow building -->
+  <Rule_DisallowBuilding.label>neleisti statyti</Rule_DisallowBuilding.label>
+  
+  <!-- EN: cannot hunt -->
+  <Rule_DisallowDesignator_Hunt.label>negali medžioti</Rule_DisallowDesignator_Hunt.label>
+  <!-- EN: Cannot hunt. -->
+  <Rule_DisallowDesignator_Hunt.description>Negali medžioti.</Rule_DisallowDesignator_Hunt.description>
+  
+  <!-- EN: cannot mine -->
+  <Rule_DisallowDesignator_Mine.label>negali kasti</Rule_DisallowDesignator_Mine.label>
+  <!-- EN: Cannot mine. -->
+  <Rule_DisallowDesignator_Mine.description>Negali kasti iškasenų.</Rule_DisallowDesignator_Mine.description>
+  
+  <!-- EN: cannot tame -->
+  <Rule_DisallowDesignator_Tame.label>negali prisijaukinti</Rule_DisallowDesignator_Tame.label>
+  <!-- EN: Cannot tame animals. -->
+  <Rule_DisallowDesignator_Tame.description>Negali prisijaukinti gyvūnų.</Rule_DisallowDesignator_Tame.description>
+  
+  <!-- EN: cannot sow -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>negali sėti</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <!-- EN: Cannot sow plants on the ground. -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>Negali sėti augalų ant žemės.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  
+  <!-- EN: scattered randomly -->
+  <ScatterThingsAnywhere.label>išmėtyta atsitiktinai</ScatterThingsAnywhere.label>
+  
+  <!-- EN: start near -->
+  <ScatterThingsNearPlayerStart.label>pradėti prie</ScatterThingsNearPlayerStart.label>
+  
+  <!-- EN: set need level -->
+  <SetNeedLevel.label>nustatyti poreikio lygį</SetNeedLevel.label>
+  
+  <!-- EN: start with animal(s) -->
+  <StartingAnimal.label>pradėti su gyvūnu(-ais)</StartingAnimal.label>
+  
+  <!-- EN: start with research -->
+  <StartingResearch.label>pradėti tyrimus</StartingResearch.label>
+  
+  <!-- EN: start with -->
+  <StartingThing_Defined.label>pradėti su</StartingThing_Defined.label>
+  
+  <!-- EN: stat multiplier -->
+  <StatFactor.label>statistinių rodiklių daugiklis</StatFactor.label>
+  
+</LanguageData>

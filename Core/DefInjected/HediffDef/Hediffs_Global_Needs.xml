@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: malnutrition -->
+  <Malnutrition.label>maisto nepakankamumas</Malnutrition.label>
+  <!-- EN: Abnormally low body fat and weight, typically caused by lack of food. Malnutrition is always very unpleasant, but its initial effects are mild. Without food, though, a malnourished creature will waste away, losing muscle mass and capacities. Malnutrition ends with death. Upon re-feeding malnutrition naturally recovers over time. Malnourished creatures have larger appetites than normal. -->
+  <Malnutrition.description>Nenormaliai mažas kūno riebalų kiekis ir svoris, įprastai sukeltas nepakankamos mitybos. Maisto nepakankamumas yra visada labai nemalonus, bet pradiniai simptomai nežymūs. Tačiau be maisto būtybė sunyks, prarasdama raumenų masę ir pajėgumus. Maisto nepakankamumas baigiasi mirtimi.\n\nPavalgius maisto nepakankamumas natūraliai praeina. Būtybės kurioms nepakanka maisto turi didesnius apetitus nei įprastai.</Malnutrition.description>
+  <!-- EN: trivial -->
+  <Malnutrition.stages.trivial.label>nežymus</Malnutrition.stages.trivial.label>
+  <!-- EN: minor -->
+  <Malnutrition.stages.minor.label>lengvas</Malnutrition.stages.minor.label>
+  <!-- EN: moderate -->
+  <Malnutrition.stages.moderate.label>vidutinis</Malnutrition.stages.moderate.label>
+  <!-- EN: severe -->
+  <Malnutrition.stages.severe.label>sunkus</Malnutrition.stages.severe.label>
+  <!-- EN: extreme -->
+  <Malnutrition.stages.extreme.label>aukščiausio laipsnio</Malnutrition.stages.extreme.label>
+  
+</LanguageData>

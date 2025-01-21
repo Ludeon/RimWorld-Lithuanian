@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals learning factor -->
+  <AnimalsLearningFactor.label>gyvūnų mokymosi koeficientas</AnimalsLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for animals skill. -->
+  <AnimalsLearningFactor.description>Gyvūnų įgūdžių mokymosi greičio daugiklis.</AnimalsLearningFactor.description>
+  
+  <!-- EN: bed hunger rate multiplier -->
+  <BedHungerRateFactor.label>gulint lovoje išalkimo greičio daugiklis</BedHungerRateFactor.label>
+  
+  <!-- EN: caravan riding speed -->
+  <CaravanRidingSpeedFactor.label>karavano jojimo greitis</CaravanRidingSpeedFactor.label>
+  <!-- EN: The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans. -->
+  <CaravanRidingSpeedFactor.description>Daugiklis pritaikomas asmens judėjimo greičiui kai jie joja ant šio gyvūno būdami karavane. Gyvūnais joti galima tik būnant karavane.</CaravanRidingSpeedFactor.description>
+  
+  <!-- EN: carrying capacity -->
+  <CarryingCapacity.label>nešimo talpa</CarryingCapacity.label>
+  <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips. -->
+  <CarryingCapacity.description>Kiek dalykų ši būtybė gali panešti savo rankomis, burna ar kitais būdais.\n\nTai yra atskira nuo sugebėjimo nešti krovinį tolimose kelionėse per pasaulį.</CarryingCapacity.description>
+  
+  <!-- EN: Maximum comfortable temperature -->
+  <ComfyTemperatureMax.label>Maksimali komfortiška temperatūra</ComfyTemperatureMax.label>
+  <!-- EN: Above this temperature, characters will be unhappy.\n\nSignificantly above this temperature, they will develop heatstroke and eventually die. -->
+  <ComfyTemperatureMax.description>Viršijus šią temperatūrą veikėjai bus nelaimingi.\n\nReikšmingai viršijus šią temperatūrą jie patirs šilumos smūgį ir galiausiai mirs.</ComfyTemperatureMax.description>
+  
+  <!-- EN: Minimum comfortable temperature -->
+  <ComfyTemperatureMin.label>Minimali komfortiška temperatūra</ComfyTemperatureMin.label>
+  <!-- EN: Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
+  <ComfyTemperatureMin.description>Žemiau šios temperatūros veikėjai bus nelaimingi.\n\nDaug žemiau šios temperatūros jiems atsiras hipotermija ir nušalimas ir jie galiausiai mirs.</ComfyTemperatureMin.description>
+  
+  <!-- EN: eating speed -->
+  <EatingSpeed.label>valgymo greitis</EatingSpeed.label>
+  <!-- EN: A multiplier on eating speed. -->
+  <EatingSpeed.description>Valgymo greičio daugiklis.</EatingSpeed.description>
+  
+  <!-- EN: filth rate -->
+  <FilthRate.label>nešvarumų pridarymas</FilthRate.label>
+  <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
+  <FilthRate.description>Kiek ši būtybė pridaro nešvarumų.\n\nGeriausia daug nešvarumų pridarančius gyvūnus laikyti arba lauke, arba ant šiaudinių demblių, kur jų nešvarumai nebus problema.</FilthRate.description>
+  
+  <!-- EN: foraged food amount -->
+  <ForagedNutritionPerDay.label>gamtoje surenkamo maisto kiekis</ForagedNutritionPerDay.label>
+  <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
+  <ForagedNutritionPerDay.description>Maisto medžiagų kiekis kurį šis asmuo gamtoje per dieną automatiškai surinks keliaudamas karavanu.</ForagedNutritionPerDay.description>
+  
+  <!-- EN: global learning factor -->
+  <GlobalLearningFactor.label>bendras mokymosi koeficientas</GlobalLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for all skills. -->
+  <GlobalLearningFactor.description>Visų įgūdžių mokymosi greičio daugiklis.</GlobalLearningFactor.description>
+  
+  <!-- EN: immunity gain speed -->
+  <ImmunityGainSpeed.label>imuniteto įgavimo greitis</ImmunityGainSpeed.label>
+  <!-- EN: The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity. -->
+  <ImmunityGainSpeed.description>Greitis kuriuo šis veikėjas įgauna imunitetą ligoms.\n\nJei jis yra per žemas, veikėjas mirs nuo ligų prieš atsirandant imunitetui.</ImmunityGainSpeed.description>
+  
+  <!-- EN: injury healing factor -->
+  <InjuryHealingFactor.label>žaizdų gijimo koeficientas</InjuryHealingFactor.label>
+  <!-- EN: The multiplier applied to a person's injury healing rate. -->
+  <InjuryHealingFactor.description>Daugiklis pritaikomas žmogaus žaizdų gijimo greičiui.</InjuryHealingFactor.description>
+  
+  <!-- EN: leather amount -->
+  <LeatherAmount.label>odos kiekis</LeatherAmount.label>
+  <!-- EN: The amount of leather yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
+  <LeatherAmount.description>Odos kiekis gaunamas išmėsinėjus šią būtybę. Ši vertė sumažėja jei būtybė nėra švariai papjaunama arba jei yra sužeidžiama nužudant.</LeatherAmount.description>
+  
+  <!-- EN: lifespan factor -->
+  <LifespanFactor.label>gyvenimo trukmės koeficientas</LifespanFactor.label>
+  <!-- EN: Lifespan factor alters the effective lifespan of a creature by shortening or lengthening the time until they develop age-related diseases. A lifespan factor over 100% delays disease onset and increases overall lifespan, while a lifespan factor under 100% speeds up disease onset and reduces lifespan. -->
+  <LifespanFactor.description>Gyvenimo trukmės koeficientas pakeičia faktinę būtybės gyvenimo trukmę sutrumpindamas arba prailgindamas laiką iki kol jai išsivysto senatvinės ligos. Gyvenimo trukmės koeficientas virš 100% atidės ligos pradžią ir bendrai prailgins gyvenimo trukmę, kai gyvenimo trukmės koeficientas mažiau 100% pagreitins ligos pradžią ir sutrumpins gyvenimo trukmę.</LifespanFactor.description>
+  
+  <!-- EN: max nutrition -->
+  <MaxNutrition.label>maksimalus maisto medžiagų kiekis</MaxNutrition.label>
+  <!-- EN: The amount of nutrition needed to completely fill this creature's stomach. -->
+  <MaxNutrition.description>Maisto medžiagų kiekis reikalingas visiškai pripildyti būtybės skrandį.</MaxNutrition.description>
+  
+  <!-- EN: meat amount -->
+  <MeatAmount.label>mėsos kiekis</MeatAmount.label>
+  <!-- EN: The amount of meat yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
+  <MeatAmount.description>Mėsos kiekis gaunamas išmėsinėjus šią būtybę. Ši vertė sumažėja jei būtybė nėra švariai papjaunama arba jei yra sužeidžiama nužudant.</MeatAmount.description>
+  
+  <!-- EN: mental break threshold -->
+  <MentalBreakThreshold.label>proto pakrikimo riba</MentalBreakThreshold.label>
+  <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are. -->
+  <MentalBreakThreshold.description>Kol žmogaus nuotaika yra žemiau šio lygio, jiems yra rizika jog pakriks protas.\n\nPakrikimo sunkumas priklausys nuo to kiek žemiau ribos jie yra.</MentalBreakThreshold.description>
+  
+  <!-- EN: minimum handling skill -->
+  <MinimumHandlingSkill.label>minimalūs darbo su gyvūnais įgūdžiai</MinimumHandlingSkill.label>
+  <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
+  <MinimumHandlingSkill.description>Ši būtybė negali būti jaukinama, dresuojama ar komanduojama tų kas turi mažiau darbo su gyvūnais įgūdžių nei šie.</MinimumHandlingSkill.description>
+  
+  <!-- EN: move speed -->
+  <MoveSpeed.label>judėjimo greitis</MoveSpeed.label>
+  <!-- EN: Speed of movement in cells per second. -->
+  <MoveSpeed.description>Judėjimo greitis langeliais per sekundę.</MoveSpeed.description>
+  <!-- EN: {0} c/s -->
+  <MoveSpeed.formatString>{0} l/s</MoveSpeed.formatString>
+  
+  <!-- EN: pain shock threshold -->
+  <PainShockThreshold.label>skausmo šoko riba</PainShockThreshold.label>
+  <!-- EN: The pain level at which this creature is downed from pain. -->
+  <PainShockThreshold.description>Skausmo lygis kurį peržengus ši būtybė nukris iš skausmo.</PainShockThreshold.description>
+  
+  <!-- EN: psychic sensitivity -->
+  <PsychicSensitivity.label>psichinis jautrumas</PsychicSensitivity.label>
+  <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
+  <PsychicSensitivity.description>Jautresni žmonės labiau kenčia nuo neigiamų psichinių poveikių, bet ir gauna daugiau naudos iš teigiamų. Aukštesnis psichinis jautrumas taip pat padidina nenuroninio perkaitimo ribą.</PsychicSensitivity.description>
+  
+  <!-- EN: sleep fall rate -->
+  <RestFallRateFactor.label>miego mažėjimo greitis</RestFallRateFactor.label>
+  <!-- EN: A multiplier on the speed that a person's sleep need falls. -->
+  <RestFallRateFactor.description>Daugiklis greičiui kuriuo žmogaus išsimiegojimas mažėja.</RestFallRateFactor.description>
+  
+  <!-- EN: rest rate multiplier -->
+  <RestRateMultiplier.label>ilsėjimosi greičio daugiklis</RestRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
+  <RestRateMultiplier.description>Daugiklis būtybės ilsėjimosi greičiui jai miegant.</RestRateMultiplier.description>
+  
+  <!-- EN: toxic environment resistance -->
+  <ToxicEnvironmentResistance.label>atsparumas toksiškai aplinkai</ToxicEnvironmentResistance.label>
+  <!-- EN: How resistant this creature is to the effects of environmental toxins. This protects against toxic fallout and rot stink exposure, but not against direct attacks with venom or injected poison. -->
+  <ToxicEnvironmentResistance.description>Kiek ši būtybė yra atspari toksiškos aplinkos poveikiui. Tai saugo nuo toksiškų nuokritų ir puvimo smarvės poveikio, bet ne nuo tiesioginės atakos su nuodais ar sušvirkščiamų nuodų.</ToxicEnvironmentResistance.description>
+  
+  <!-- EN: toxic resistance -->
+  <ToxicResistance.label>toksinis atsparumas</ToxicResistance.label>
+  <!-- EN: How well this creature resists toxic buildup. -->
+  <ToxicResistance.description>Kaip šios būtybės organizmas kovoja su toksiškų medžiagų kaupimusi.</ToxicResistance.description>
+  
+</LanguageData>

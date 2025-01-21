@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: marsh -->
+  <Marsh.label>pelkė</Marsh.label>
+  <!-- EN: water -->
+  <Marsh.tools.water.label>valduo</Marsh.tools.water.label>
+  <!-- EN: mud -->
+  <Marsh.tools.mud.label>purvas</Marsh.tools.mud.label>
+  
+  <!-- EN: deep water -->
+  <WaterDeep.label>gilus vanduo</WaterDeep.label>
+  <!-- EN: water -->
+  <WaterDeep.tools.water.label>vanduo</WaterDeep.tools.water.label>
+  
+  <!-- EN: chest-deep moving water -->
+  <WaterMovingChestDeep.label>judantis vanduo iki krūtinės</WaterMovingChestDeep.label>
+  <!-- EN: water -->
+  <WaterMovingChestDeep.tools.water.label>vanduo</WaterMovingChestDeep.tools.water.label>
+  
+  <!-- EN: shallow moving water -->
+  <WaterMovingShallow.label>seklus judantis vanduo</WaterMovingShallow.label>
+  <!-- EN: water -->
+  <WaterMovingShallow.tools.water.label>vanduo</WaterMovingShallow.tools.water.label>
+  
+  <!-- EN: deep ocean water -->
+  <WaterOceanDeep.label>gilus jūros vanduo</WaterOceanDeep.label>
+  <!-- EN: water -->
+  <WaterOceanDeep.tools.water.label>vanduo</WaterOceanDeep.tools.water.label>
+  
+  <!-- EN: shallow ocean water -->
+  <WaterOceanShallow.label>seklus jūros vanduo</WaterOceanShallow.label>
+  <!-- EN: water -->
+  <WaterOceanShallow.tools.water.label>vanduo</WaterOceanShallow.tools.water.label>
+  
+  <!-- EN: shallow water -->
+  <WaterShallow.label>seklus vanduo</WaterShallow.label>
+  <!-- EN: water -->
+  <WaterShallow.tools.water.label>vanduo</WaterShallow.tools.water.label>
+  
+</LanguageData>

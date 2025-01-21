@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Ability -->
+  <Ability.label>Sugebėjimas</Ability.label>
+  
+  <!-- EN: animal productivity -->
+  <AnimalProductivity.label>gyvūno produktyvumas</AnimalProductivity.label>
+  
+  <!-- EN: Apparel -->
+  <Apparel.label>Apranga</Apparel.label>
+  
+  <!-- EN: Basics -->
+  <Basics.label>Pagrindiniai duomenys</Basics.label>
+  
+  <!-- EN: Basics -->
+  <BasicsImportant.label>Pagrindiniai duomenys</BasicsImportant.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawn.label>Pagrindiniai duomenys</BasicsNonPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawnImportant.label>Pagrindiniai duomenys</BasicsNonPawnImportant.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawn.label>Pagrindiniai duomenys</BasicsPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawnImportant.label>Pagrindiniai duomenys</BasicsPawnImportant.label>
+  
+  <!-- EN: Building -->
+  <Building.label>Statinys</Building.label>
+  
+  <!-- EN: effects -->
+  <CapacityEffects.label>poveikiai</CapacityEffects.label>
+  
+  <!-- EN: Drug -->
+  <Drug.label>Medikamentas</Drug.label>
+  
+  <!-- EN: drug addiction -->
+  <DrugAddiction.label>priklausomybė narkotikams</DrugAddiction.label>
+  
+  <!-- EN: Offsets when equipped -->
+  <EquippedStatOffsets.label>Pokyčiai kai ekipuota</EquippedStatOffsets.label>
+  
+  <!-- EN: Genetics -->
+  <Genetics.label>TODO</Genetics.label>
+  
+  <!-- EN: Implant -->
+  <Implant.label>Implantas</Implant.label>
+  
+  <!-- EN: Meditation -->
+  <Meditation.label>Meditacija</Meditation.label>
+  
+  <!-- EN: Combat -->
+  <PawnCombat.label>Kova</PawnCombat.label>
+  
+  <!-- EN: Misc -->
+  <PawnMisc.label>Įvairūs</PawnMisc.label>
+  
+  <!-- EN: Social -->
+  <PawnSocial.label>Socialinis</PawnSocial.label>
+  
+  <!-- EN: Work -->
+  <PawnWork.label>Darbas</PawnWork.label>
+  
+  <!-- EN: content source -->
+  <Source.label>turinio šaltinis</Source.label>
+  
+  <!-- EN: Multipliers when equipment made of this -->
+  <StuffOfEquipmentStatFactors.label>Daugikliai kai ekipuotė pagaminta iš šios medžiagos</StuffOfEquipmentStatFactors.label>
+  
+  <!-- EN: Multipliers when made of this -->
+  <StuffStatFactors.label>Daugikliai kai pagaminta iš šios medžiagos</StuffStatFactors.label>
+  
+  <!-- EN: Offsets when made of this -->
+  <StuffStatOffsets.label>Pokyčiai kai pagaminta iš šios medžiagos</StuffStatOffsets.label>
+  
+  <!-- EN: Surgical -->
+  <Surgery.label>Chirurginis</Surgery.label>
+  
+  <!-- EN: terrain -->
+  <Terrain.label>gruntas</Terrain.label>
+  
+  <!-- EN: Weapon -->
+  <Weapon.label>Ginklas</Weapon.label>
+  
+  <!-- EN: Weapon (melee) -->
+  <Weapon_Melee.label>Ginklas (artimos kovos)</Weapon_Melee.label>
+  
+  <!-- EN: Weapon (ranged) -->
+  <Weapon_Ranged.label>Ginklas (nuotolinis)</Weapon_Ranged.label>
+  
+</LanguageData>

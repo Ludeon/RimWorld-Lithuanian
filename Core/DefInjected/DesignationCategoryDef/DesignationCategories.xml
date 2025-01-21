@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: floors -->
+  <Floors.label>grindys</Floors.label>
+  
+  <!-- EN: furniture -->
+  <Furniture.label>baldai</Furniture.label>
+  
+  <!-- EN: recreation -->
+  <Joy.label>pramogos</Joy.label>
+  
+  <!-- EN: misc -->
+  <Misc.label>įvairūs</Misc.label>
+  
+  <!-- EN: orders -->
+  <Orders.label>nurodymai</Orders.label>
+  
+  <!-- EN: power -->
+  <Power.label>elektra</Power.label>
+  
+  <!-- EN: production -->
+  <Production.label>gamyba</Production.label>
+  
+  <!-- EN: security -->
+  <Security.label>saugumas</Security.label>
+  
+  <!-- EN: ship -->
+  <Ship.label>erdvėlaivis</Ship.label>
+  
+  <!-- EN: structure -->
+  <Structure.label>pastatai</Structure.label>
+  
+  <!-- EN: temperature -->
+  <Temperature.label>temperatūra</Temperature.label>
+  
+  <!-- EN: zone -->
+  <Zone.label>zonos</Zone.label>
+  
+</LanguageData>

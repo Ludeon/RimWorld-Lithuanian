@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: recon armor -->
+  <Apparel_ArmorRecon.label>žvalgybiniai šarvai</Apparel_ArmorRecon.label>
+  <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. -->
+  <Apparel_ArmorRecon.description>Lengvų, dalinai elektra varomų šarvų kostiumas sukurtas greitam judėjimui. Lengvos pastmetalio plokštės blokuoja atakas netrukdydamos judėjimui. Neuro-memetinė pagalba apatinėje kūno dalyje leidžia žmogui dėvėti šarvus ir vis tiek lengvai judėti.\n\nTokius šarvus dažnai naudoja imperijos skautai ir ultramodernaus pasaulio policijos pajėgos.</Apparel_ArmorRecon.description>
+  
+  <!-- EN: T-shirt -->
+  <Apparel_BasicShirt.label>marškinėliai</Apparel_BasicShirt.label>
+  <!-- EN: A simple T-shirt. -->
+  <Apparel_BasicShirt.description>Paprasti marškinėliai.</Apparel_BasicShirt.description>
+  
+  <!-- EN: button-down shirt -->
+  <Apparel_CollarShirt.label>marškiniai</Apparel_CollarShirt.label>
+  <!-- EN: A nice-looking collared shirt with buttons. -->
+  <Apparel_CollarShirt.description>Gražūs marškiniai su apykakle ir sagomis.</Apparel_CollarShirt.description>
+  
+  <!-- EN: duster -->
+  <Apparel_Duster.label>paltas</Apparel_Duster.label>
+  <!-- EN: A long duster coat for blocking the sun and grit of the outdoors. -->
+  <Apparel_Duster.description>Ilgas paltas saugantis nuo saulės ir vėjo.</Apparel_Duster.description>
+  
+  <!-- EN: flak jacket -->
+  <Apparel_FlakJacket.label>neperšaunamas švarkas</Apparel_FlakJacket.label>
+  <!-- EN: A tough fabric jacket with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
+  <Apparel_FlakJacket.description>Iš tvirtos medžiagos pagamintas švarkas su įsiūtomis šarvų plokštėmis. Nors ir ne toks geras kaip pilni šarvai, suteikia veiksmingą apsaugą prieš visokių rūšių atakas išlikdamas gana patogus.</Apparel_FlakJacket.description>
+  
+  <!-- EN: flak pants -->
+  <Apparel_FlakPants.label>neperšaunamos kelnės</Apparel_FlakPants.label>
+  <!-- EN: A pair of pants with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
+  <Apparel_FlakPants.description>Kelnės su įsiūtomis šarvų plokštėmis. Nors ir ne tokios geros kaip pilni šarvai, suteikia veiksmingą apsaugą prieš visokių rūšių atakas išlikdamos gana patogios.</Apparel_FlakPants.description>
+  
+  <!-- EN: flak vest -->
+  <Apparel_FlakVest.label>neperšaunama liemenė</Apparel_FlakVest.label>
+  <!-- EN: A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs. -->
+  <Apparel_FlakVest.description>Liemenė su priekinėje ir užpakalinėje pusėje įsiūtomis šarvų plokštėmis. Nors gana veiksmingas atremiant šautuvų šūvius ir dūrių atakas, visiškai neapsaugo galūnių.</Apparel_FlakVest.description>
+  
+  <!-- EN: jacket -->
+  <Apparel_Jacket.label>švarkas</Apparel_Jacket.label>
+  <!-- EN: A tough jacket to stop scrapes and bruises, and to keep one warm in chilly weather. -->
+  <Apparel_Jacket.description>Tvirtas švarkas saugantis nuo draskymų ir braižymų. Šildo vėsioje temperatūroje.</Apparel_Jacket.description>
+  
+  <!-- EN: pants -->
+  <Apparel_Pants.label>kelnės</Apparel_Pants.label>
+  <!-- EN: A simple set of pants. -->
+  <Apparel_Pants.description>Paprastos kelnės.</Apparel_Pants.description>
+  
+  <!-- EN: parka -->
+  <Apparel_Parka.label>striukė</Apparel_Parka.label>
+  <!-- EN: A parka for staying warm in even the coldest of temperatures. -->
+  <Apparel_Parka.description>Striukė išlaiko šilumą net ir šalčiausiose temperatūrose.</Apparel_Parka.description>
+  
+  <!-- EN: plate armor -->
+  <Apparel_PlateArmor.label>plokštiniai šarvai</Apparel_PlateArmor.label>
+  <!-- EN: Overlapping solid plates of armor covering the entire body from neck to feet. -->
+  <Apparel_PlateArmor.description>Kieti šarvai iš persidengiančių plokščių, dengiantys visą kūną nuo kaklo iki pėdų.</Apparel_PlateArmor.description>
+  
+  <!-- EN: marine armor -->
+  <Apparel_PowerArmor.label>pėstininko šarvai</Apparel_PowerArmor.label>
+  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by rapid-incursion space marines. -->
+  <Apparel_PowerArmor.description>Šarvuotas elektrinis kostiumas. Plastmetalio plokščių sluoksniai yra labai veiksmingi stabdant atakas, turi tik kelias pažeidžiamas vietas ties sujungimais. Neuro-memetinė pagalba leidžia žmogui dėvėti šarvus ir vis tiek lengvai judėti.\n\nTokius šarvus dažnai naudoja greitojo reagavimo kosmoso pėstininkai.</Apparel_PowerArmor.description>
+  
+  <!-- EN: tribalwear -->
+  <Apparel_TribalA.label>gentiniai apdarai</Apparel_TribalA.label>
+  <!-- EN: A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer. -->
+  <Apparel_TribalA.description>Viso kūno drabužiai pagaminti naudojant neolitinius įrankius. Nors ir atrodo primityviai, efektyviai izoliuoja šilumą.</Apparel_TribalA.description>
+  
+</LanguageData>

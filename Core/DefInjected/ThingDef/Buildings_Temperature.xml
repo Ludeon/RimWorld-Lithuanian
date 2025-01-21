@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: campfire -->
+  <Campfire.label>laužas</Campfire.label>
+  <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
+  <Campfire.description>Gamina patiekalus ir skleidžia šilumą, o po kelių dienų išdega. Kaip ir su visais šilumos šaltiniais, jis turi būti patalpintas viduje, kad turėtų uždarą erdvę kurią šildytų. Galima papildyti kurą.</Campfire.description>
+  
+  <!-- EN: cooler -->
+  <Cooler.label>aušintuvas</Cooler.label>
+  <!-- EN: An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
+  <Cooler.description>Oro aušinimo įrenginys, telpantis į sieną. Šaltas oras išeina iš vienos pusės, o karštas išmetimas iš kitos. Gali būti naudojamas arba patalpoms vėsinti vasarą, arba įrengti šaldiklį.</Cooler.description>
+  
+  <!-- EN: heater -->
+  <Heater.label>šildytuvas</Heater.label>
+  <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  <Heater.description>Prietaisas, paverčiantis elektros energiją į šilumą. Jis gali automatiškai įsijungti arba išsijungti, kad pasiektų tam tikrą tikslinę temperatūrą.</Heater.description>
+  
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>pasyvus aušintuvas</PassiveCooler.label>
+  <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
+  <PassiveCooler.description>Tradicinis aušintuvas, kuriam nereikia elektros, veikiantis garinant vandenį. Turi būti reguliariai papildytas mediena. Nepakankamai efektyvus maistui užšaldyti.</PassiveCooler.description>
+  
+  <!-- EN: vent -->
+  <Vent.label>vėdinimo anga</Vent.label>
+  <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
+  <Vent.description>Orlaidė, skirta suvienodinti temperatūrą tarp dviejų kambarių, bet neleidžiant žmonėms vaikščioti tarp jų.</Vent.description>
+  
+</LanguageData>

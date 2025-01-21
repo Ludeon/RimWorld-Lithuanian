@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate without table -->
+  <AteWithoutTable.stages.ate_without_table.label>valgė ne prie stalo</AteWithoutTable.stages.ate_without_table.label>
+  <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
+  <AteWithoutTable.stages.ate_without_table.description>Aš turėjau valgyti maistą nuo žemės. Ar negalime čia rasti stalo?</AteWithoutTable.stages.ate_without_table.description>
+  
+  <!-- EN: bonded animal {0} banished -->
+  <BondedAnimalBanished.stages.bonded_animal_banished.label>augintinis {0} ištremtas</BondedAnimalBanished.stages.bonded_animal_banished.label>
+  <!-- EN: My bonded animal was banished! -->
+  <BondedAnimalBanished.stages.bonded_animal_banished.description>Mano augintinis buvo ištremtas!</BondedAnimalBanished.stages.bonded_animal_banished.description>
+  
+  <!-- EN: I butchered humanlike -->
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>Aš išmėsinėjau žmogišką būtybę</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
+  <!-- EN: I butchered someone up like an animal. -->
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>Aš išmėsinėjau kažkokį asmenį kaip gyvulį.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
+  
+  <!-- EN: butchered humanlike corpse -->
+  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>išmėsinėtas žmogiškos būtybės lavonas</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+  
+  <!-- EN: catharsis -->
+  <Catharsis.stages.catharsis.label>katarsis</Catharsis.stages.catharsis.label>
+  <!-- EN: It felt good to finally unbottle my feelings. -->
+  <Catharsis.stages.catharsis.description>Buvo gera pagaliau išlaisvinti savo susikaupusius jausmus.</Catharsis.stages.catharsis.description>
+  
+  <!-- EN: colonist banished -->
+  <ColonistBanished.stages.colonist_banished.label>ištremtas kolonistas</ColonistBanished.stages.colonist_banished.label>
+  <!-- EN: We just banished someone. I hope they make it, but I'm worried. -->
+  <ColonistBanished.stages.colonist_banished.description>Mes ką tik kažką ištrėmėme. Tikiuosi, kad jam bus viskas gerai, bet aš nerimauju.</ColonistBanished.stages.colonist_banished.description>
+  
+  <!-- EN: colonist banished to death -->
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>kolonistas ištremtas mirti</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
+  <!-- EN: We banished someone in such a way that there's almost no way they'll survive. -->
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>Mes kažką ištrėmėme taip, kad beveik nėra galimybės, kad jis išgyvens.</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
+  
+  <!-- EN: Colonist prisoner escaped -->
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>pabėgo įkalintas kolonistas</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>
+  <!-- EN: Can't we keep control of our own people? I feel like anything could happen to me here. -->
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>Ar mes negalime kontroliuoti savo pačių žmonių? Jaučiu, kad čia man gali nutikti bet kas.</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>
+  
+  <!-- EN: defeated hostile leader {0} -->
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>nugalėtas priešiškas lyderis {0}</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
+  <!-- EN: They were leading efforts to destroy us, and I took them down! -->
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>Jie dėjo pastangas mus sunaikinti, ir aš juos nugalėjome!</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
+  
+  <!-- EN: defeated hostile leader -->
+  <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>nugalėjo priešišką lyderį</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
+  
+  <!-- EN: defeated insect hive -->
+  <DefeatedInsectHive.stages.defeated_insect_hive.label>nugalėtas vabzdžių avilys</DefeatedInsectHive.stages.defeated_insect_hive.label>
+  <!-- EN: The only good bug is a dead bug! -->
+  <DefeatedInsectHive.stages.defeated_insect_hive.description>Geras vabalas yra tik miręs vabalas!</DefeatedInsectHive.stages.defeated_insect_hive.description>
+  
+  <!-- EN: defeated mech cluster -->
+  <DefeatedMechCluster.stages.defeated_mech_cluster.label>nugalėtas mechanoidų telkinys</DefeatedMechCluster.stages.defeated_mech_cluster.label>
+  <!-- EN: Blood beats metal, you damn machines! -->
+  <DefeatedMechCluster.stages.defeated_mech_cluster.description>Kraujas laimi prieš metalą, jūs prakeiktos mašinos!</DefeatedMechCluster.stages.defeated_mech_cluster.description>
+  
+  <!-- EN: denied joining -->
+  <DeniedJoining.stages.denied_joining.label>neleista prisijungti</DeniedJoining.stages.denied_joining.label>
+  <!-- EN: We just denied someone's request to join us. I hope they make it. -->
+  <DeniedJoining.stages.denied_joining.description>Mes ką tik atmetėme kažkieno prašymą prisijungti prie mūsų. Tikiuosi, kad jam bus viskas gerai.</DeniedJoining.stages.denied_joining.description>
+  
+  <!-- EN: failed to rescue {0} -->
+  <FailedToRescueRelative.stages.failed_to_rescue.label>nepavyko išgelbėti {0}</FailedToRescueRelative.stages.failed_to_rescue.label>
+  <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
+  <FailedToRescueRelative.stages.failed_to_rescue.description>Mes turėjome galimybę išgelbėti mano giminaitį, bet mums nepavyko. Aš galėjau jam padėti!</FailedToRescueRelative.stages.failed_to_rescue.description>
+  
+  <!-- EN: freed from slavery -->
+  <FreedFromSlavery.stages.freed_from_slavery.label>išlaisvintas iš vergijos</FreedFromSlavery.stages.freed_from_slavery.label>
+  <!-- EN: I have been freed from slavery. I'm so thankful! -->
+  <FreedFromSlavery.stages.freed_from_slavery.description>Aš buvau išlaisvintas iš vergijos. Esu toks dėkingas!</FreedFromSlavery.stages.freed_from_slavery.description>
+  
+  <!-- EN: bloodlust organ harvested -->
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>paimtas organas su kraujo troškimu</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
+  <!-- EN: Extracting the flesh from their bodies is so bloody and satisfying. -->
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>Mėsos išėmimas iš jų kūnų yra toks kruvinas ir labai malonus.</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
+  
+  <!-- EN: killed someone -->
+  <KilledHumanlikeBloodlust.stages.killed_someone.label>kažką nužudė</KilledHumanlikeBloodlust.stages.killed_someone.label>
+  <!-- EN: I killed someone! What a rush! -->
+  <KilledHumanlikeBloodlust.stages.killed_someone.description>Aš kažką nužudžiau! Kaip smagu!</KilledHumanlikeBloodlust.stages.killed_someone.description>
+  
+  <!-- EN: buried in sarcophagus -->
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>palaidotas sarkofage</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>
+  <!-- EN: This colony buried someone in an ornamented sarcophagus. May their soul rest in peace. -->
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>Ši kolonija kažką palaidojo ornamentuotame sarkofage. Tegul jų siela ilsisi ramybėje.</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>
+  
+  <!-- EN: we butchered humanlike -->
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>mes išmėsinėjome žmogišką būtybę</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>
+  <!-- EN: We butchered someone up like an animal. -->
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>Mes kažkokį asmenį išmėsinėjome kaip kokį gyvulį.</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>
+  
+  <!-- EN: colonist's organ harvested -->
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>paimtas kolonisto organas</KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>
+  <!-- EN: Someone took body parts from a colonist. It's horrible, breaking someone down for parts when they have no choice. -->
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>Kažkas paėmė kūno dalis iš kolonisto. Tai yra siaubinga, supjaustyti kažką dėl dalių, kai jis neturi jokio pasirinkimo.</KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>
+  
+  <!-- EN: someone's organ harvested -->
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.label>paimtas kažkieno organas</KnowGuestOrganHarvested.stages.someones_organ_harvested.label>
+  <!-- EN: The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice. -->
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>Ši kolonija paėmė kūno dalis iš svečio ar kalinio. Tai yra siaubinga, supjaustyti kažką dėl dalių, kai jis neturi jokio pasirinkimo.</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
+  
+  <!-- EN: prisoner sold -->
+  <KnowPrisonerSold.stages.prisoner_sold.label>kalinys parduotas</KnowPrisonerSold.stages.prisoner_sold.label>
+  <!-- EN: This colony sold a prisoner into slavery. That's a worrying thought. -->
+  <KnowPrisonerSold.stages.prisoner_sold.description>Ši kolonija pardavė kalinį į vergiją. Tai nerimą kelianti mintis.</KnowPrisonerSold.stages.prisoner_sold.description>
+  
+  <!-- EN: my organ harvested -->
+  <MyOrganHarvested.stages.my_organ_harvested.label>paimtas mano organas</MyOrganHarvested.stages.my_organ_harvested.label>
+  <!-- EN: The colony harvested body parts from me! They're breaking me down like an old engine! -->
+  <MyOrganHarvested.stages.my_organ_harvested.description>Ši kolonija paėmė iš manęs kūno dalis! Jie ardo mane kaip kokį seną variklį!</MyOrganHarvested.stages.my_organ_harvested.description>
+  
+  <!-- EN: initial hope -->
+  <NewColonyHope.stages.initial_hope.label>pradinė viltis</NewColonyHope.stages.initial_hope.label>
+  <!-- EN: I'm getting used to this, but it's still an exciting new situation. I hope this works out... -->
+  <NewColonyHope.stages.initial_hope.description>Aš jau apsipratau čia, bet tai dar vis tiek nauja ir jaudinanti situacija. Tikiuosi viskas bus gerai...</NewColonyHope.stages.initial_hope.description>
+  
+  <!-- EN: initial optimism -->
+  <NewColonyOptimism.stages.initial_optimism.label>pradinis optimizmas</NewColonyOptimism.stages.initial_optimism.label>
+  <!-- EN: It's a tough situation, but I'm excited to be founding a new settlement. -->
+  <NewColonyOptimism.stages.initial_optimism.description>Tai sudėtinga situacija, bet džiaugiuosi galėdamas įkurti naują gyvenvietę.</NewColonyOptimism.stages.initial_optimism.description>
+  
+  <!-- EN: nuzzled -->
+  <Nuzzled.stages.nuzzled.label>patrintas nosimi</Nuzzled.stages.nuzzled.label>
+  <!-- EN: A cute animal nuzzled me. -->
+  <Nuzzled.stages.nuzzled.description>Mielas gyvūnėlis patrynė į mane nosį.</Nuzzled.stages.nuzzled.description>
+  
+  <!-- EN: observed corpse -->
+  <ObservedLayingCorpse.stages.observed_corpse.label>matė lavoną</ObservedLayingCorpse.stages.observed_corpse.label>
+  <!-- EN: I saw a dead body laying on the ground. It was disturbing. -->
+  <ObservedLayingCorpse.stages.observed_corpse.description>Aš mačiau negyvą kūną gulintį ant žemės. Tai mane sutrikdė.</ObservedLayingCorpse.stages.observed_corpse.description>
+  
+  <!-- EN: observed rotting corpse -->
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>matė pūvantį lavoną</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
+  <!-- EN: I saw a rotting corpse laying on the ground. It was disgusting. -->
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>Aš mačiau ant žemės gulintį pūvantį lavoną. Tai buvo šlykštu.</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
+  
+  <!-- EN: on duty -->
+  <OnDuty.stages.on_duty.label>TODO</OnDuty.stages.on_duty.label>
+  <!-- EN: I have a job to do. -->
+  <OnDuty.stages.on_duty.description>TODO</OnDuty.stages.on_duty.description>
+  
+  <!-- EN: prisoner banished to death -->
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>kalinys ištremtas mirti</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
+  <!-- EN: We banished a prisoner in such a way that there's almost no way they'll survive. -->
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>Mes ištrėmėme kalinį taip, kad beveik nėra galimybės, kad jis išgyvens.</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
+  
+  <!-- EN: prisoner released -->
+  <ReleasedHealthyPrisoner.stages.prisoner_released.label>kalinys paleistas</ReleasedHealthyPrisoner.stages.prisoner_released.label>
+  <!-- EN: We released a healthy prisoner. It feels good to know we even treat prisoners well. -->
+  <ReleasedHealthyPrisoner.stages.prisoner_released.description>Mes paleidome sveiką kalinį. Gera žinoti, kad net su kaliniais mes elgiamės gerai.</ReleasedHealthyPrisoner.stages.prisoner_released.description>
+  
+  <!-- EN: rescued -->
+  <Rescued.stages.rescued.label>išgelbėtas</Rescued.stages.rescued.label>
+  <!-- EN: I was rescued! I almost thought I was done for back there. I'm so thankful. -->
+  <Rescued.stages.rescued.description>Aš buvau išgelbėtas! Jau maniau, kad iš ten nebeišsikapstysiu. Esu toks dėkingas.</Rescued.stages.rescued.description>
+  
+  <!-- EN: rescued {0} -->
+  <RescuedRelative.stages.rescued.label>išgelbėtas (0)</RescuedRelative.stages.rescued.label>
+  <!-- EN: We rescued one of my relatives. Finally, I can breathe a sigh of relief. -->
+  <RescuedRelative.stages.rescued.description>Mes išgelbėjome vieną iš mano giminaičių. Pagaliau galiu lengviau atsikvėpti.</RescuedRelative.stages.rescued.description>
+  
+  <!-- EN: disturbed sleep -->
+  <SleepDisturbed.stages.disturbed_sleep.label>sutrikdytas miegas</SleepDisturbed.stages.disturbed_sleep.label>
+  <!-- EN: I was disturbed during sleep by people moving around nearby. A private room would solve this. -->
+  <SleepDisturbed.stages.disturbed_sleep.description>Mano miegą sutrikdė netoliese vaikštantys žmonės. Atskiras kambarys tai išspręstų.</SleepDisturbed.stages.disturbed_sleep.description>
+  
+  <!-- EN: slept in the cold -->
+  <SleptInCold.stages.slept_in_the_cold.label>miegojo šaltyje</SleptInCold.stages.slept_in_the_cold.label>
+  <!-- EN: I had to sleep in the cold. We really need some heaters. -->
+  <SleptInCold.stages.slept_in_the_cold.description>Aš turėjau miegoti šaltyje. Mums tikrai reikia šildytuvų.</SleptInCold.stages.slept_in_the_cold.description>
+  
+  <!-- EN: slept in the heat -->
+  <SleptInHeat.stages.slept_in_the_heat.label>miegojo karštyje</SleptInHeat.stages.slept_in_the_heat.label>
+  <!-- EN: I had to sleep in unbearable heat. Can't we have air conditioning? -->
+  <SleptInHeat.stages.slept_in_the_heat.description>Man teko miegoti nepakeliamame karštyje. Ar mes negalime įsirengti oro kondicionieriaus?</SleptInHeat.stages.slept_in_the_heat.description>
+  
+  <!-- EN: slept on ground -->
+  <SleptOnGround.stages.slept_on_ground.label>miegojo ant žemės</SleptOnGround.stages.slept_on_ground.label>
+  <!-- EN: I had to sleep on the ground like an animal. -->
+  <SleptOnGround.stages.slept_on_ground.description>Aš turėjau miegoti ant žemės kaip gyvulys.</SleptOnGround.stages.slept_on_ground.description>
+  
+  <!-- EN: slept outside -->
+  <SleptOutside.stages.slept_outside.label>miegojo lauke</SleptOutside.stages.slept_outside.label>
+  <!-- EN: I had to sleep outdoors without any protection from the elements. -->
+  <SleptOutside.stages.slept_outside.description>Man teko miegoti lauke be jokios apsaugos nuo stichijų.</SleptOutside.stages.slept_outside.description>
+  
+  <!-- EN: soaking wet -->
+  <SoakingWet.stages.soaking_wet.label>permirkęs</SoakingWet.stages.soaking_wet.label>
+  <!-- EN: I'm soaking wet. -->
+  <SoakingWet.stages.soaking_wet.description>Aš esu permirkęs.</SoakingWet.stages.soaking_wet.description>
+  
+  <!-- EN: eager to travel -->
+  <TravelAnticipation.stages.eager_to_travel.label>nekantriai laukia keliauti</TravelAnticipation.stages.eager_to_travel.label>
+  <!-- EN: I've been preparing this caravan for a while. I'm looking forward to the upcoming journey. -->
+  <TravelAnticipation.stages.eager_to_travel.description>Jau kurį laiką ruošiu šį karavaną. Nekantriai laukiu būsimos kelionės.</TravelAnticipation.stages.eager_to_travel.description>
+  <!-- EN: excited to travel -->
+  <TravelAnticipation.stages.excited_to_travel.label>entuziastingai laukia keliauti</TravelAnticipation.stages.excited_to_travel.label>
+  <!-- EN: So much thought and preparation have gone into this adventure. I can't wait to set off! -->
+  <TravelAnticipation.stages.excited_to_travel.description>Tiek daug galvota ir ruoštasi šiam nuotykiui. Negaliu sulaukti kol išvyksim!</TravelAnticipation.stages.excited_to_travel.description>
+  
+  <!-- EN: was imprisoned -->
+  <WasImprisoned.stages.was_imprisoned.label>buvo įkalintas</WasImprisoned.stages.was_imprisoned.label>
+  <!-- EN: The colony had me in jail for a while, like a caged animal. -->
+  <WasImprisoned.stages.was_imprisoned.description>Ši kolonija kurį laiką laikė mane kalėjime, kaip gyvūną narve.</WasImprisoned.stages.was_imprisoned.description>
+  
+  <!-- EN: witnessed ally's death -->
+  <WitnessedDeathAlly.stages.witnessed_allys_death.label>matė sąjungininko mirtį</WitnessedDeathAlly.stages.witnessed_allys_death.label>
+  <!-- EN: I saw one of my people die. They were alive one moment, and dead the next. -->
+  <WitnessedDeathAlly.stages.witnessed_allys_death.description>Mačiau, kaip vienas iš maniškių mirė. Vieną akimirką jis gyvas, kitą – miręs.</WitnessedDeathAlly.stages.witnessed_allys_death.description>
+  
+  <!-- EN: witnessed death with bloodlust -->
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>matė mirtį su kraujo troškimu</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>
+  <!-- EN: I saw someone die! That was intense! -->
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>Mačiau, kaip kažkas mirė! Buvo labai stipru!</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>
+  
+  <!-- EN: witnessed family member's death -->
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.label>matė šeimos nario mirtį</WitnessedDeathFamily.stages.witnessed_family_members_death.label>
+  <!-- EN: I saw a member of my family die. My own flesh and blood... -->
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.description>Mačiau, kaip mirė mano šeimos narys. Mano kūnas ir kraujas...</WitnessedDeathFamily.stages.witnessed_family_members_death.description>
+  
+  <!-- EN: witnessed outsider's death -->
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>matė pašalinio mirtį</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>
+  <!-- EN: I saw someone die. They were alive one moment, and dead the next. -->
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>Mačiau, kaip kažkas mirė. Vieną akimirką jis gyvas, kitą – miręs.</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>
+  
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: concrete -->
+  <Concrete.label>betonas</Concrete.label>
+  <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
+  <Concrete.description>Grublėtas betonas. Jis pigus ir greitai pastatomas, bet yra ir gana negražus.</Concrete.description>
+  
+  <!-- EN: gold tile -->
+  <GoldTile.label>auksinė plytelė</GoldTile.label>
+  <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
+  <GoldTile.description>Dėl nepaprastos ekstravagancijos niekas neprilygsta auksinėms plytelėms. Jie yra nepaprastai brangios ir nepaprastai gražios, ir žmonės manys, kad esate ypač snobiškas, jei iš tikro gyvenate ant jų.</GoldTile.description>
+  
+  <!-- EN: steel tile -->
+  <MetalTile.label>plieninė plytelė</MetalTile.label>
+  <!-- EN: Steel tiles, for that spaceship look. They are quick to clean and get a bonus to cleanliness for use in medical settings. -->
+  <MetalTile.description>Plieninės plytelės, kad atrodytų lyg erdvėlaivis. Jos greitai išvalomos ir gauna priedą švarai naudojant medicinos įstaigose.</MetalTile.description>
+  
+  <!-- EN: paved tile -->
+  <PavedTile.label>betoninė plytelė</PavedTile.label>
+  <!-- EN: Concrete tiles. Cheap, but neutral in terms of looks and slow to build. -->
+  <PavedTile.description>Betoninės plytelės. Pigu, bet išvaizdos atžvilgiu neutrali ir lėtai statoma.</PavedTile.description>
+  
+  <!-- EN: silver tile -->
+  <SilverTile.label>sidabrinė plytelė</SilverTile.label>
+  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They are quick to clean and get a bonus to cleanliness. -->
+  <SilverTile.description>Sidabrinės plytelės puikiai tinka prabangiuose kambariuose, kad atrodytų futuristiškai, bet karališkai. Jos greitai valomos ir gauna priedą švarai.</SilverTile.description>
+  
+  <!-- EN: sterile tile -->
+  <SterileTile.label>sterili plytelė</SterileTile.label>
+  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build, but quick to clean. -->
+  <SterileTile.description>Sterilios plytelės su ypatingomis švarą didinančiomis savybėmis. Itin švarios patalpos pagerina rezultatus ligoninėse ir tyrimų laboratorijose. Ši plytelė labai lėtai statoma, bet greitai valoma.</SterileTile.description>
+  
+  <!-- EN: straw matting -->
+  <StrawMatting.label>šiaudiniai dembliai</StrawMatting.label>
+  <!-- EN: Rough straw matting for use in animal barns. It is cheap and accepts very little filth. -->
+  <StrawMatting.description>Šiurkštūs šiaudiniai dembliai, skirti naudoti gyvūnų tvartuose. Jie pigūs ir priima labai mažai nešvarumų.</StrawMatting.description>
+  
+  <!-- EN: wood floor -->
+  <WoodPlankFloor.label>medinės grindys</WoodPlankFloor.label>
+  <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+  <WoodPlankFloor.description>Medinių lentų grindys suteikia šilto, namų jausmo. Nors jos greitai klojamos, taip pat jos yra ir labai degios.</WoodPlankFloor.description>
+  
+</LanguageData>

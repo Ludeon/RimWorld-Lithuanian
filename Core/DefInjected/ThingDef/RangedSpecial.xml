@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: orbital bombardment targeter -->
+  <OrbitalTargeterBombardment.label>orbitinio bombardavimo taikiklis</OrbitalTargeterBombardment.label>
+  <!-- EN: An ancient targeting apparatus for an orbital bombardment system. This unit designates a target and transmits the coordinates to a network of satellites, which then bombard the target area with kinetic impactors. This unit has been reprogrammed to accept unauthorized users, but once it is used, the network will detect the incursion and cut off the link permanently. -->
+  <OrbitalTargeterBombardment.description>Senovinis taikymo aparatas, skirtas orbitinei bombardavimo sistemai. Šis įrenginys pažymi taikinį ir perduoda koordinates į palydovų tinklą, kuris tada bombarduoja taikinį kinetiniais smogtuvais. Šis įrenginys buvo perprogramuotas taip, kad priimtų neautorizuotus vartotojus, bet kartą panaudojus, tinklas aptiks įsilaužimą ir visam laikui nutrauks su juo ryšį.</OrbitalTargeterBombardment.description>
+  <!-- EN: charge -->
+  <OrbitalTargeterBombardment.comps.CompReloadable.chargeNoun>užkrauti</OrbitalTargeterBombardment.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OrbitalTargeterBombardment.comps.CompReloadable.cooldownGerund>pertraukoje</OrbitalTargeterBombardment.comps.CompReloadable.cooldownGerund>
+  <!-- EN: orbital bombardment targeter -->
+  <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>orbitinio bombardavimo taikiklis</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
+  
+  <!-- EN: orbital power beam targeter -->
+  <OrbitalTargeterPowerBeam.label>orbitinio energijos spindulio taikiklis</OrbitalTargeterPowerBeam.label>
+  <!-- EN: An ancient targeting unit for a network of power-collection satellites. Once aimed at a target, it directs ancient satellites to begin beaming power down in a massive column of electromagnetic energy. This power can safely be collected in a giant absorption dish. Since you have no absorption dish, you'll be aiming it at enemies, at which point the power column will turn the area into a thousand-degree inferno. This will last until the satellites detect the unsafe targeting, shut themselves down, and permanently deactivate the targeter. -->
+  <OrbitalTargeterPowerBeam.description>Senovinis taikymo įrenginys, skirtas energiją kaupiančių palydovų tinklui. Nutaikytas į taikinį, jis nukreipia senovinius palydovus, kad jie pradėtų spinduliuoti didžiulę elektromagnetinės energijos koloną. Šią energiją galima saugiai surinkti į milžinišką sugeriamąjį indą. Kadangi sugeriamojo indo neturi, taikysi jį į priešus, o tada energijos kolona pavers teritoriją tūkstančio laipsnių pragaru. Tai tęsis tol, kol palydovai aptiks nesaugų nusitaikymą, išsijungs patys ir visam laikui išjungs taikiklį.</OrbitalTargeterPowerBeam.description>
+  <!-- EN: charge -->
+  <OrbitalTargeterPowerBeam.comps.CompReloadable.chargeNoun>užkrauti</OrbitalTargeterPowerBeam.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OrbitalTargeterPowerBeam.comps.CompReloadable.cooldownGerund>pertraukoje</OrbitalTargeterPowerBeam.comps.CompReloadable.cooldownGerund>
+  <!-- EN: orbital power beam targeter -->
+  <OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>orbitinio energijos spindulio taikiklis</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
+  
+  <!-- EN: tornado generator -->
+  <TornadoGenerator.label>tornado generatorius</TornadoGenerator.label>
+  <!-- EN: An ancient control unit for a network of weather-control satellites. This device has had certain failsafes bypassed; it is capable of causing a massive air current disturbance, which will generate a tornado at a chosen location. The weather network will detect this unauthorized intrusion and lock out the device after use, but the tornado will be left to spend its energy normally. -->
+  <TornadoGenerator.description>Senovinis oro valdymo palydovų tinklo valdymo blokas. Šiame įrenginyje buvo apeiti tam tikri saugikliai; jis gali sukelti didžiulį oro srovės sutrikdymą, kuris pasirinktoje vietoje sukels tornadą. Orų tinklas aptiks šį neteisėtą įsibrovimą ir panaudojus užblokuos įrenginį, tačiau tornadas liks tol, kol išeikvos savo energiją.</TornadoGenerator.description>
+  <!-- EN: charge -->
+  <TornadoGenerator.comps.CompReloadable.chargeNoun>užkrauti</TornadoGenerator.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <TornadoGenerator.comps.CompReloadable.cooldownGerund>pertraukoje</TornadoGenerator.comps.CompReloadable.cooldownGerund>
+  <!-- EN: tornado generator -->
+  <TornadoGenerator.verbs.Verb_Spawn.label>tornado generatorius</TornadoGenerator.verbs.Verb_Spawn.label>
+  
+</LanguageData>

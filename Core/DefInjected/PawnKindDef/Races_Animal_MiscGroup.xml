@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>alfa bebras</Alphabeaver.label>
+  
+  <!-- EN: cobra -->
+  <Cobra.label>kobra</Cobra.label>
+  
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>trumbas</Thrumbo.label>
+  <!-- EN: thrumbo calf -->
+  <Thrumbo.lifeStages.thrumbo_calf.label>trumbo veršelis</Thrumbo.lifeStages.thrumbo_calf.label>
+  <!-- EN: thrumbo calves -->
+  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>trumbo veršeliai</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
+  
+  <!-- EN: tortoise -->
+  <Tortoise.label>vėžlys</Tortoise.label>
+  
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abandoned settlement -->
+  <AbandonedSettlement.label>apleista gyvenvietė</AbandonedSettlement.label>
+  <!-- EN: An abandoned settlement. -->
+  <AbandonedSettlement.description>Apleista gyvenvietė.</AbandonedSettlement.description>
+  
+  <!-- EN: attacked caravan -->
+  <AttackedNonPlayerCaravan.label>užpultas karavanas</AttackedNonPlayerCaravan.label>
+  <!-- EN: A caravan under attack. -->
+  <AttackedNonPlayerCaravan.description>Karavanas yra puolamas</AttackedNonPlayerCaravan.description>
+  
+  <!-- EN: caravan -->
+  <Caravan.label>karavanas</Caravan.label>
+  <!-- EN: A group of traveling people. -->
+  <Caravan.description>Grupė keliaujančių žmonių.</Caravan.description>
+  
+  <!-- EN: destroyed settlement -->
+  <DestroyedSettlement.label>sunaikinta gyvenvietė</DestroyedSettlement.label>
+  <!-- EN: A destroyed settlement. -->
+  <DestroyedSettlement.description>Sunaikinta gyvenvietė.</DestroyedSettlement.description>
+  
+  <!-- EN: landed ship -->
+  <EscapeShip.label>nusileidęs erdvėlaivis</EscapeShip.label>
+  <!-- EN: The location of a hidden ship which can help you escape the planet. -->
+  <EscapeShip.description>Paslėpto erdvėlaivio, kuris tau gali padėti ištrtūkti iš planetos, buvimo vieta.</EscapeShip.description>
+  
+  <!-- EN: peace talks -->
+  <PeaceTalks.label>taikos derybos</PeaceTalks.label>
+  <!-- EN: A site designated for peace talks. -->
+  <PeaceTalks.description>Vieta paskirta taikos deryboms.</PeaceTalks.description>
+  
+  <!-- EN: waypoint -->
+  <RoutePlannerWaypoint.label>kelionės taškas</RoutePlannerWaypoint.label>
+  <!-- EN: A temporary waypoint. -->
+  <RoutePlannerWaypoint.description>Laikinas kelionės taškas.</RoutePlannerWaypoint.description>
+  
+  <!-- EN: settlement -->
+  <Settlement.label>gyvenvietė</Settlement.label>
+  <!-- EN: A base of one of the factions. -->
+  <Settlement.description>Vienos iš frakcijų bazė.</Settlement.description>
+  
+  <!-- EN: transport pods -->
+  <TravelingTransportPods.label>transportavimo kapsulės</TravelingTransportPods.label>
+  <!-- EN: Transport pods in flight. -->
+  <TravelingTransportPods.description>Skrendančios transportavimo kapsulės.</TravelingTransportPods.description>
+  
+</LanguageData>

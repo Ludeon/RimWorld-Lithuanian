@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Call {0} -->
+  <CallOnRadio>Skambinti {0}</CallOnRadio>
+  <!-- EN: Cannot use: {0} -->
+  <CannotUseReason>Negali naudoti: {0}</CannotUseReason>
+  <!-- EN: Cannot use: EMP -->
+  <CannotUseSolarFlare>Negali naudoti: EMP</CannotUseSolarFlare>
+  <!-- EN: Cannot use: No power -->
+  <CannotUseNoPower>Negali naudoti: Nėra elektros</CannotUseNoPower>
+  <!-- EN: Cannot use: No path -->
+  <CannotUseNoPath>Negali naudoti: Nėra praėjimo</CannotUseNoPath>
+  <!-- EN: Cannot use: Reserved -->
+  <CannotUseReserved>Negali naudoti: Rezervuota</CannotUseReserved>
+  <!-- EN: Cannot use: Full -->
+  <CannotUseFull>Negali naudoti: pilna</CannotUseFull>
+  <!-- EN: leader {1_labelShort} is unavailable -->
+  <LeaderUnavailable>lyderis {1_labelShort} yra nepasiekiamas</LeaderUnavailable>
+  <!-- EN: leader is unavailable -->
+  <LeaderUnavailableNoLeader>lyderis yra nepasiekiamas</LeaderUnavailableNoLeader>
+  <!-- EN: Not allowed -->
+  <NotAllowed>Neleidžiama</NotAllowed>
+  
+  <!-- EN: Fire at {1_label} -->
+  <FireAt>Šauti į {1_label}</FireAt>
+
+  <!-- EN: out of range -->
+  <OutOfRange>per toli</OutOfRange>
+  <!-- EN: too close -->
+  <TooClose>per arti</TooClose>
+  <!-- EN: Cannot hit target -->
+  <CannotHitTarget>Negali pataikyti į taikinį</CannotHitTarget>
+  <!-- EN: {1_labelShort} is incapable of violence -->
+  <IsIncapableOfViolenceLower>{1_labelShort} yra negalintis smurtauti</IsIncapableOfViolenceLower>
+  <!-- EN: incapable of violence -->
+  <IncapableOfViolenceLower>negalintis smurtauti</IncapableOfViolenceLower>
+  <!-- EN: {0_labelShort} is incapable of shooting -->
+  <IsIncapableOfShootingLower>{0_labelShort} yra negalintis šaudyti</IsIncapableOfShootingLower>
+  <!-- EN: {1_labelShort} is not drafted -->
+  <IsNotDraftedLower>{1_labelShort} nėra mobilizuotas</IsNotDraftedLower>
+  <!-- EN: cannot order characters you do not control -->
+  <CannotOrderNonControlledLower>negalima nurodyti veikėjams kurių tu nekontroliuoji</CannotOrderNonControlledLower>
+  <!-- EN: cannot attack self -->
+  <CannotAttackSelf>negalima atakuoti savęs</CannotAttackSelf>
+  <!-- EN: cannot attack faction ally -->
+  <CannotAttackSameFactionMember>negalima atakuoti frakcijos sąjungininkų</CannotAttackSameFactionMember>
+  <!-- EN: Incapable of firefighting. -->
+  <IncapableOfFirefighting>Negalintis gesinti gaisrų.</IncapableOfFirefighting>
+
+  <!-- EN: Man {1_labelShort} -->
+  <OrderManThing>Valdyti {1_labelShort}</OrderManThing>
+  
+  <!-- EN: Melee attack {1_label} -->
+  <MeleeAttack>Atakuoti artimoje kovoje {1_label}</MeleeAttack>
+  <!-- EN: Melee attack {1_label} to death -->
+  <MeleeAttackToDeath>Atakuoti artimoje kovoje {1_label} iki mirties</MeleeAttackToDeath>
+  <!-- EN: no path -->
+  <NoPath>nėra praėjimo</NoPath>
+  <!-- EN: burying -->
+  <Burying>laidoja</Burying>
+  <!-- EN: designated for {0} -->
+  <DesignatedFor>skirta {0}</DesignatedFor>
+
+  <!-- EN: forbidden -->
+  <ForbiddenLower>uždrausta</ForbiddenLower>
+  <!-- EN: outside allowed area -->
+  <ForbiddenOutsideAllowedAreaLower>už leidžiamos srities ribų</ForbiddenOutsideAllowedAreaLower>
+  <!-- EN: not in home area -->
+  <NotInHomeArea>ne namų srityje</NotInHomeArea>
+  <!-- EN: burning -->
+  <BurningLower>dega</BurningLower>
+  <!-- EN: no empty, accessible spot configured to store it -->
+  <NoEmptyPlaceLower>nėra tuščios, prieinamos vietos  kuri būtų pritaikyta tai laikyti</NoEmptyPlaceLower>
+  <!-- EN: no stack available to merge into -->
+  <NoMergeTarget>nėra pasiekiamos krūvos su kuria sujungti</NoMergeTarget>
+  <!-- EN: already filled enough -->
+  <AlreadyFilledLower>jau pakankamai pripildyta</AlreadyFilledLower>
+  <!-- EN: missing {0} -->
+  <MissingMaterials>trūksta {0}</MissingMaterials>
+  <!-- EN: No medicine for restriction '{CATEGORY}'. -->
+  <NoMedicineMatchingCategory>Nėra vaistų '{CATEGORY}' apribojimui.</NoMedicineMatchingCategory>
+  <!-- EN: under required skill {0} -->
+  <UnderRequiredSkill>žemiau reikiamų įgūdžių {0}</UnderRequiredSkill>
+  <!-- EN: under allowed skill {0} -->
+  <UnderAllowedSkill>žemiau leidžiamų įgūdžių {0}</UnderAllowedSkill>
+  <!-- EN: above allowed skill {0} -->
+  <AboveAllowedSkill>virš leidžiamų įgūdžių {0}</AboveAllowedSkill>
+  <!-- EN: no reachable outside cell -->
+  <NoReachableOutsideCell>nėra pasiekiamo išorinio langelio</NoReachableOutsideCell>
+  <!-- EN: missing required skill level -->
+  <MissingRequiredSkillLevel>trūksta reikiamo įgūdžių lygio</MissingRequiredSkillLevel>
+  <!-- EN: animal interacted too recently -->
+  <AnimalInteractedTooRecently>neseniai su šiuo gyvūnu bendrauta</AnimalInteractedTooRecently>
+  <!-- EN: interacted with too recently -->
+  <PrisonerInteractedTooRecently>neseniai bendrauta</PrisonerInteractedTooRecently>
+  <!-- EN: no usable food -->
+  <NoUsableFood>nėra tinkamo naudoti maisto</NoUsableFood>
+  <!-- EN: no food -->
+  <NoFood>nėra maisto</NoFood>
+  <!-- EN: no food matching restrictions -->
+  <NoFoodMatchingRestrictions>nėra maisto atitinkančio reikalavimus</NoFoodMatchingRestrictions>
+  <!-- EN: No {0_label} -->
+  <NoIngredient>Nėra {0_label}</NoIngredient>
+  <!-- EN: below requirements of {0} -->
+  <FoodBelowTitleRequirements>žemiau {0} reikalavimų</FoodBelowTitleRequirements>
+  <!-- EN: animals skill too low - need {0} -->
+  <AnimalsSkillTooLow>gyvūnų įgūdžiai per žemi - reikia {0}</AnimalsSkillTooLow>
+  <!-- EN: animal downed -->
+  <CantInteractAnimalDowned>gyvūnas numuštas</CantInteractAnimalDowned>
+  <!-- EN: animal sleeping -->
+  <CantInteractAnimalAsleep>gyvūnas miega</CantInteractAnimalAsleep>
+  <!-- EN: animal busy -->
+  <CantInteractAnimalBusy>gyvūnas užsiėmęs</CantInteractAnimalBusy>
+  <!-- EN: no allowed reachable pens -->
+  <CantRopeAnimalNoUsableReachablePens>nėra prieinamų leidžiamų aptvarų</CantRopeAnimalNoUsableReachablePens>
+  <!-- EN: no enclosed pens -->
+  <CantRopeAnimalNoEnclosedPens>nėra uždarytų aptvarų</CantRopeAnimalNoEnclosedPens>
+  <!-- EN: no allowed pens -->
+  <CantRopeAnimalNoAllowedPens>nėra leidžiamų aptvarų</CantRopeAnimalNoAllowedPens>
+  <!-- EN: no reachable pens -->
+  <CantRopeAnimalNoReachablePens>nėra prieinamų aptvarų</CantRopeAnimalNoReachablePens>
+  <!-- EN: can't touch -->
+  <CantRopeAnimalCantTouch>negali paliesti</CantRopeAnimalCantTouch>
+  <!-- EN: no space in pen -->
+  <CantRopeAnimalNoSpace>aptvare nėra vietos</CantRopeAnimalNoSpace>
+  <!-- EN: {0_labelShort} is in {1} state -->
+  <CantRopeAnimalMentalState>{0_labelShort} yra {1} būsenos</CantRopeAnimalMentalState>
+  <!-- EN: already in best pen -->
+  <CantRopeAnimalAlreadyInBestPen>jau yra geriausiame aptvare</CantRopeAnimalAlreadyInBestPen>
+  <!-- EN: {0} skill too low -->
+  <SkillTooLowForConstruction>{0} įgūdžiai per žemi</SkillTooLowForConstruction>
+  <!-- EN: need components -->
+  <NoComponentsToRepair>reikia komponentų</NoComponentsToRepair>
+  <!-- EN: need {0} -->
+  <NoFuelToRefuel>reikia {0}</NoFuelToRefuel>
+  <!-- EN: need wort -->
+  <NoWort>reikia misos</NoWort>
+  <!-- EN: available food is in storage of higher priority -->
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>pasiekiamas maistas yra aukštesnio prioriteto saugykloje</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <!-- EN: no suitable food -->
+  <NoFoodToFillHopper>nėra tinkamo maisto</NoFoodToFillHopper>
+  <!-- EN: self-tend disabled -->
+  <SelfTendDisabled>savęs gydymas išjungtas</SelfTendDisabled>
+  <!-- EN: reserved for prisoners -->
+  <ReservedForPrisoners>rezervuota kaliniams</ReservedForPrisoners>
+  <!-- EN: cannot reach -->
+  <CannotReach>negali pasiekti</CannotReach>
+  <!-- EN: not ready for surgery -->
+  <NotSurgeryReady>nepasiruošęs operacijai</NotSurgeryReady>
+  <!-- EN: skill incapable -->
+  <SkillDisabled>negalintis turėti šių įgūdžių</SkillDisabled>
+  <!-- EN: too bright -->
+  <CantSowCavePlantBecauseOfLight>per šviesu</CantSowCavePlantBecauseOfLight>
+  <!-- EN: unroofed -->
+  <CantSowCavePlantBecauseUnroofed>neuždengta stogu</CantSowCavePlantBecauseUnroofed>
+  <!-- EN: incapable of deconstruction -->
+  <IncapableOfDeconstruction>negalintis išardyti</IncapableOfDeconstruction>
+  <!-- EN: incapable of mining -->
+  <IncapableOfMining>negalintis kasti</IncapableOfMining>
+  <!-- EN: angers faction -->
+  <AngersFaction>supykdo frakciją</AngersFaction>
+  <!-- EN: no body part -->
+  <InstallImplantNoBodyPart>nėra kūno dalies</InstallImplantNoBodyPart>
+  <!-- EN: not a colonist -->
+  <InstallImplantNotAllowedForNonColonists>ne kolonistas</InstallImplantNotAllowedForNonColonists>
+  <!-- EN: already installed -->
+  <InstallImplantAlreadyInstalled>jau įdėtas</InstallImplantAlreadyInstalled>
+  <!-- EN: requires an existing {0} -->
+  <InstallImplantHediffRequired>reikia jau esamo {0}</InstallImplantHediffRequired>
+  <!-- EN: max level -->
+  <InstallImplantAlreadyMaxLevel>didžiausio lygio</InstallImplantAlreadyMaxLevel>
+  <!-- EN: requires min level {0} -->
+  <InstallImplantMinLevel>reikia bent {0} lygio</InstallImplantMinLevel>
+  <!-- EN: psychically deaf -->
+  <InstallImplantPsychicallyDeaf>psichiškai kurčias</InstallImplantPsychicallyDeaf>
+  <!-- EN: Upgrade {0} to level {1} -->
+  <UpgradeImplant>Patobulinti {0} iki {1} lygio</UpgradeImplant>
+  <!-- EN: violation of faction ally -->
+  <SurgeryViolationFellowFactionMember>sąjungininkų frakcijos pažeidimas</SurgeryViolationFellowFactionMember>
+  <!-- EN: being carried by {0_labelShort} -->
+  <BeingCarriedBy>yra nešamas {0_labelShort}</BeingCarriedBy>
+  <!-- EN: full -->
+  <ContainerFull>pilnas</ContainerFull>
+  <!-- EN: already assigned -->
+  <AlreadyAssigned>jau paskirtas</AlreadyAssigned>
+  
+  <!-- EN: Consume {1_labelShort} -->
+  <ConsumeThing>Suvartoti {1_labelShort}</ConsumeThing>
+  
+  <!-- EN: Cannot go here: No path -->
+  <CannotGoNoPath>Negalima čia eiti: nėra praėjimo</CannotGoNoPath>
+  <!-- EN: Go here -->
+  <GoHere>Eiti čia</GoHere>
+  
+  <!-- EN: Arrest {0} -->
+  <Arrest>Suimti {0}</Arrest>
+  <!-- EN: Try to arrest {1_label} ({2} chance) -->
+  <TryToArrest>Pabandyti suimti {1_label} ({2} tikimybė)</TryToArrest>
+  <!-- EN: Cannot arrest -->
+  <CannotArrest>Negali suimti</CannotArrest>
+  <!-- EN: {0} chance of arrest -->
+  <ArrestChance>{0} tikimybė suimti</ArrestChance>
+
+  <!-- EN: Capture {1_label} -->
+  <Capture>Paimti {1_label} į nelaisvę </Capture>
+  <!-- EN: Cannot capture -->
+  <CannotCapture>Negalima paimti į nelaisvę</CannotCapture>
+  <!-- EN: unwaveringly loyal -->
+  <Unrecruitable>nepalaužiamai ištikimas</Unrecruitable>
+
+  <!-- EN: Rescue {1_label} -->
+  <Rescue>Išgelbėti {1_label}</Rescue>
+  <!-- EN: Put {1_label} somewhere safe -->
+  <PutSomewhereSafe>Padėti {1_label} kur nors saugiai</PutSomewhereSafe>
+  <!-- EN: Taking {0_labelShort} to bed. -->
+  <TakingToBed>{0_labelShort} nešamas miegoti</TakingToBed>
+  <!-- EN: Cannot rescue -->
+  <CannotRescue>Negalima išgelbėti</CannotRescue>
+
+  <!-- EN: Carry {1_label} to cryptosleep casket -->
+  <CarryToCryptosleepCasket>Nešti {1_label} į kriptomiego karstą</CarryToCryptosleepCasket>
+  <!-- EN: Cannot carry to cryptosleep casket -->
+  <CannotCarryToCryptosleepCasket>Negalima nešti į kriptomiego karstą</CannotCarryToCryptosleepCasket>
+
+  <!-- EN: Carry {0_label} to shuttle -->
+  <CarryToShuttle>Nešti {0_label} į erdvėlaivį</CarryToShuttle>
+
+  <!-- EN: No available cryptosleep casket. -->
+  <NoCryptosleepCasket>Nėra pasiekiamų kriptiomiego karstų..</NoCryptosleepCasket>
+  <!-- EN: Temporary faction members not allowed. -->
+  <CryptosleepCasketGuestsNotAllowed>Laikini frakcijos nariai neleidžiami.</CryptosleepCasketGuestsNotAllowed>
+  <!-- EN: Hosted prisoners not allowed. -->
+  <CryptosleepCasketGuestPrisonersNotAllowed>Priimti kaliniai neleidžiami.</CryptosleepCasketGuestPrisonersNotAllowed>
+  <!-- EN: Already occupied -->
+  <CryptosleepCasketOccupied>Jau užimta</CryptosleepCasketOccupied>
+  <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
+  <NoPrisonerBed>Nėra pasiekiamos, nerezervuotos, uždaros kaliniams pažymėtos lovos saugioje temperatūroje.</NoPrisonerBed>
+  <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
+  <NoNonPrisonerBed>Nėra pasiekiamos, nerezervuotos ne kalinių lovos saugioje temperatūroje.</NoNonPrisonerBed>
+  <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
+  <NoAnimalBed>Nėra pasiekiamos, nerezervuotos gyvūnų lovos saugioje temperatūroje.</NoAnimalBed>
+  <!-- EN: Reserved by someone else. -->
+  <Reserved>Rezervuota kažkam kitam.</Reserved>
+  <!-- EN: Reserved by {1_labelShort} -->
+  <ReservedBy>Rezervuota {1_labelShort}</ReservedBy>
+  <!-- EN: {0} is reserved by {1}. -->
+  <IsReservedBy>{0} yra rezervuota {1}.</IsReservedBy>
+  <!-- EN: Too heavy -->
+  <TooHeavy>Per sunku</TooHeavy>
+  <!-- EN: {0_labelShort} is in the same faction. -->
+  <SameFaction>{0_labelShort} yra toje pačioje frakcijoje.</SameFaction>
+
+  <!-- EN: incapable -->
+  <Incapable>negalintis</Incapable>
+  <!-- EN: incapable of {0} -->
+  <IncapableOfCapacity>negalintis {0}</IncapableOfCapacity>
+  <!-- EN: Must have {0_label} -->
+  <MustHaveHediff>Turi turėti {0_label}</MustHaveHediff>
+
+  <!-- EN: min skill -->
+  <MinSkill>minimalūs įgūdžiai</MinSkill>
+  
+  <!-- EN: Equip {0} -->
+  <Equip>Ekipuoti {0}</Equip>
+  <!-- EN: (brawler will be unhappy) -->
+  <EquipWarningBrawler>(mušeika bus nelaimingas)</EquipWarningBrawler>
+  <!-- EN: Cannot equip {0} -->
+  <CannotEquip>Negali ekipuoti {0}</CannotEquip>
+  <!-- EN: Cannot man {1_labelShort} -->
+  <CannotManThing>negali valdyti {1_labelShort}</CannotManThing>
+  
+  <!-- EN: Force wear {1_labelShort} -->
+  <ForceWear>Priversti dėvėti {1_labelShort}</ForceWear>
+  <!-- EN: Cannot wear {1_label} -->
+  <CannotWear>Negali dėvėti {1_label}</CannotWear>
+  <!-- EN: Force equip {1_labelShort} -->
+  <ForceEquipApparel>Versti ekipuoti {1_labelShort}</ForceEquipApparel>
+  <!-- EN: Cannot equip {1_label} -->
+  <CannotEquipApparel>Negali ekipuoti {1_label}</CannotEquipApparel>
+  <!-- EN: missing body parts -->
+  <CannotWearBecauseOfMissingBodyParts>trūksta kūno dalių</CannotWearBecauseOfMissingBodyParts>
+  
+  <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
+  <Reload>Užtaisyti {GEAR_labelShort} su {AMMO_label}</Reload>
+  <!-- EN: Full -->
+  <ReloadFull>Pilna</ReloadFull>
+  <!-- EN: Too few -->
+  <ReloadNotEnough>Per mažai</ReloadNotEnough>
+  <!-- EN: Cannot carry enough {AMMO_label} to reload 1 charge. -->
+  <ReloadCannotCarryEnough>Negali panešti pakankamai {AMMO_label} kad užtaisytų 1 šūviui.</ReloadCannotCarryEnough>
+  
+  <!-- EN: Cannot pick up {1_labelShort} -->
+  <CannotPickUp>Negali paimti {1_labelShort}</CannotPickUp>
+  <!-- EN: Cannot pick up {1_label} (all) -->
+  <CannotPickUpAll>Negali paimti {1_label} (visų)</CannotPickUpAll>
+  <!-- EN: Pick up {1_labelShort} x1 -->
+  <PickUpOne>Paimti {1_labelShort} x1</PickUpOne>
+  <!-- EN: Pick up {1_label} (all) -->
+  <PickUpAll>Paimti {1_label} (visus)</PickUpAll>
+  <!-- EN: Pick up {1_labelShort}... -->
+  <PickUpSome>Paimti {1_labelShort}...</PickUpSome>
+  <!-- EN: Pick up {1_labelShort} x{{0}} -->
+  <PickUpCount>Paimti {1_labelShort} x{{0}}</PickUpCount>
+  <!-- EN: Cannot pick up {1_labelShort} -->
+  <CannotPickUpSome>Negali paimti {1_labelShort}</CannotPickUpSome>
+  <!-- EN: {0} {1} allowed -->
+  <MaxPickUpAllowed>{0} {1} leidžiama</MaxPickUpAllowed>
+  
+  <!-- EN: Cannot load {1_label} onto pack animal -->
+  <CannotGiveToPackAnimal>Negalima pakrauti {1_label} į nešulinį gyvūną</CannotGiveToPackAnimal>
+  <!-- EN: Cannot load {1_label} (all) onto pack animal -->
+  <CannotGiveToPackAnimalAll>Negalima pakrauti {1_label} (visų) į nešulinį gyvūną</CannotGiveToPackAnimalAll>
+  <!-- EN: Load {1_label} onto pack animal -->
+  <GiveToPackAnimal>Pakrauti {1_label} į nešulinį gyvūną</GiveToPackAnimal>
+  <!-- EN: Load {1_label} (all) onto pack animal -->
+  <GiveToPackAnimalAll>Pakrauti {1_label} (visus) į nešulinį gyvūną</GiveToPackAnimalAll>
+  <!-- EN: Load {1_labelShort} onto pack animal... -->
+  <GiveToPackAnimalSome>Pakrauti {1_labelShort} į nešulinį gyvūną...</GiveToPackAnimalSome>
+  <!-- EN: Load {1_labelShort} x{{0}} onto pack animal -->
+  <GiveToPackAnimalCount>Pakrauti {1_labelShort} x{{0}} į nešulinį gyvūną</GiveToPackAnimalCount>
+  
+  <!-- EN: Cannot load {1_label} into caravan -->
+  <CannotLoadIntoCaravan>Negalima pakrauti {1_label} į karavaną</CannotLoadIntoCaravan>
+  <!-- EN: Cannot load {1_label} (all) into caravan -->
+  <CannotLoadIntoCaravanAll>Negalima pakrauti {1_label} (visų) į karavaną</CannotLoadIntoCaravanAll>
+  <!-- EN: Load {1_label} into caravan -->
+  <LoadIntoCaravan>Pakrauti {1_label} į karavaną</LoadIntoCaravan>
+  <!-- EN: Load {1_label} (all) into caravan -->
+  <LoadIntoCaravanAll>Pakrauti {1_label} (all) į karavaną</LoadIntoCaravanAll>
+  <!-- EN: Load {1_labelShort} into caravan... -->
+  <LoadIntoCaravanSome>Pakrauti {1_labelShort} į karavaną...</LoadIntoCaravanSome>
+  <!-- EN: Load {1_labelShort} x{{0}} -->
+  <LoadIntoCaravanCount>Pakrauti {1_labelShort} x{{0}}</LoadIntoCaravanCount>
+  <!-- EN: overweight -->
+  <OverweightLower>perkrauta</OverweightLower>
+
+  <!-- EN: Cannot carry {1_label} and leave the area -->
+  <CannotCarryToExit>Negalima nešti {1_label} ir išvykti iš vietovės</CannotCarryToExit>
+  <!-- EN: Carry {1_label} and leave the area -->
+  <CarryToExit>Nešti {1_label} ir išvykti iš vietovės</CarryToExit>
+  <!-- EN: Capture {1_label} and leave the area -->
+  <CarryToExitAndCapture>Paimti {1_label} į nelaisvę ir išvykti iš vietovės</CarryToExitAndCapture>
+  
+  <!-- EN: Strip {1_label} -->
+  <Strip>Nurengti {1_label}</Strip>
+  <!-- EN: Cannot strip {1_label} -->
+  <CannotStrip>Negalima nurengti {1_label}</CannotStrip>
+  <!-- EN: Cannot drop {1_label} -->
+  <CannotDrop>Negalima numesti {1_label}</CannotDrop>
+  <!-- EN: Carry {0_label} -->
+  <Carry>Nešti {0_label}</Carry>
+  <!-- EN: Cannot carry {0_label} -->
+  <CannotCarry>Negalima nešti</CannotCarry>
+  <!-- EN: temporary faction member -->
+  <QuestRelated>laikinas frakcijos narys</QuestRelated>
+  <!-- EN: Cannot change outfits on temporary faction members -->
+  <QuestRelated_Outfit>Negalima keisti aprangos komplektų laikiniems frakcijos nariams</QuestRelated_Outfit>
+  <!-- EN: would replace locked apparel -->
+  <WouldReplaceLockedApparel>pakeistų užrakintą aprangą</WouldReplaceLockedApparel>
+
+  <!-- EN: Cannot place {0_label} in {1_label} -->
+  <CannotPlaceIn>Negalima įdėti {0_label} į {1_label}</CannotPlaceIn>
+  <!-- EN: Place {0_label} in {1_label} -->
+  <PlaceIn>Įdėti {0_label} į {1_label}</PlaceIn>
+
+  <!-- EN: Self-destruct here -->
+  <SelfDestructHere>Susinaikinti čia</SelfDestructHere>
+  
+  <!-- EN: Drop {1_label} -->
+  <Drop>Numesti {1_label}</Drop>
+
+  <!-- EN: Rest until healed -->
+  <UseMedicalBed>Ilsetis kol pasveiks</UseMedicalBed>
+  <!-- EN: not injured -->
+  <NotInjured>nesužeistas</NotInjured>
+  <!-- EN: no doctor -->
+  <NoDoctor>ne daktaras</NoDoctor>
+  <!-- EN: medical bed not for slaves -->
+  <NotForSlaves>medicininė lova ne vergams</NotForSlaves><!-- text_todo -->
+  <!-- EN: occupied by {0} -->
+  <SomeoneElseSleeping>užimta {0}</SomeoneElseSleeping>
+  
+  <!-- EN: Trade with {0} -->
+  <TradeWith>Prekiauti su {0}</TradeWith>
+  <!-- EN: Cannot trade -->
+  <CannotTrade>Negalima prekiauti</CannotTrade>
+
+  <!-- EN: Open {0_label} -->
+  <Open>Atidaryti {0_label}</Open>
+  <!-- EN: Cannot open {0_label} -->
+  <CannotOpen>Negalima atidaryti {0_label}</CannotOpen>
+  
+  <!-- EN: Enter {0} -->
+  <EnterMap>Įeiti į {0}</EnterMap>
+  <!-- EN: Visit {0} -->
+  <VisitSettlement>Aplankyti {0}</VisitSettlement>
+  <!-- EN: Visit {0} -->
+  <VisitPeaceTalks>Lankytis {0}</VisitPeaceTalks>
+  <!-- EN: Visit {0} -->
+  <VisitEscapeShip>Aplankyti {0}</VisitEscapeShip>
+  <!-- EN: Attack {0} -->
+  <AttackSettlement>Užpulti {0}</AttackSettlement>
+  <!-- EN: Approach {0} -->
+  <ApproachSite>Prieiti {0}</ApproachSite>
+  <!-- EN: Approaching {0} -->
+  <ApproachingSite>Einama link {0}</ApproachingSite>
+  <!-- EN: Offer gifts -->
+  <OfferGifts>Pasiūlyti dovanų</OfferGifts>
+  <!-- EN: Trade with {0} -->
+  <TradeWithSettlement>Prekiauti su {0}</TradeWithSettlement>
+
+  <!-- Specific thing interactions -->
+  <!-- EN: Enter cryptosleep casket -->
+  <EnterCryptosleepCasket>Įlipti į kriptomiego karstą</EnterCryptosleepCasket>
+  <!-- EN: Open cryptosleep casket -->
+  <OpenCryptosleepCasket>Atidaryti kriptomiego karstą</OpenCryptosleepCasket>
+  <!-- EN: Get in shuttle -->
+  <EnterShuttle>Patekti į erdvėlaivį</EnterShuttle>
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
+  <!-- EN: Cannot {0} {1} -->
+  <CannotGenericWork>Negalima {0} {1}</CannotGenericWork>
+  <!-- EN: Cannot {0} -->
+  <CannotGenericWorkCustom>Negalima {0}</CannotGenericWorkCustom>
+
+  <!-- EN: Cannot prioritize: Incapable of {0} -->
+  <CannotMissingHealthActivities>Negalima teikti prioriteto: negalintis {0}</CannotMissingHealthActivities>
+
+  <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
+  <!-- EN: Already {0} {2_labelShort} -->
+  <CannotGenericAlreadyAm>Jau {0} {2_labelShort}</CannotGenericAlreadyAm>
+  <!-- EN: Already {0} -->
+  <CannotGenericAlreadyAmCustom>Jau {0}</CannotGenericAlreadyAmCustom>
+
+  <!-- EN: Cannot prioritize: Will never do {0} -->
+  <CannotPrioritizeWorkTypeDisabled>Negalima teikti prioriteto: Niekada nedarys {0}</CannotPrioritizeWorkTypeDisabled>
+  <!-- EN: lacking necessary title -->
+  <MissingTitleAbility>trūksta reikalingo titulo</MissingTitleAbility>
+
+  <!-- EN: Cannot prioritize: Will never {0} -->
+  <CannotPrioritizeWorkGiverDisabled>Negalima teikti prioriteto: niekada {0}</CannotPrioritizeWorkGiverDisabled>
+  <!-- EN: will never {0} -->
+  <WillNever>niekada {0}</WillNever>
+
+  <!-- EN: Cannot prioritize: Not assigned to {0} -->
+  <CannotPrioritizeNotAssignedToWorkType>Negalima teikti prioriteto: nepaskirtas {0}</CannotPrioritizeNotAssignedToWorkType>
+  <!-- EN: not assigned -->
+  <NotAssigned>nepaskirtas</NotAssigned>
+  <!-- EN: not assigned to {0} -->
+  <NotAssignedToWorkType>nepaskirtas {0}</NotAssignedToWorkType>
+
+  <!-- EN: Cannot prioritize: Research is a long-term task -->
+  <CannotPrioritizeResearch>Negalima teikti prioriteto: tyrimai yra ilgalaikė veikla</CannotPrioritizeResearch>
+
+  <!-- EN: Cannot prioritize: {1_label} is forbidden -->
+  <CannotPrioritizeForbidden>Negalima teikti prioriteto: {1_label} yra uždrausta</CannotPrioritizeForbidden>
+  <!-- EN: Cannot prioritize: Forbidden -->
+  <CannotPrioritizeCellForbidden>Negalima teikti prioriteto: uždrausta</CannotPrioritizeCellForbidden>
+  <!-- EN: Outside allowed area -->
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Už leidžiamos srities ribų</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <!-- EN: Cannot prioritize burying -->
+  <CannotPrioritizeBurying>Negalima teikti prioriteto laidojimui</CannotPrioritizeBurying>
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
+  <!-- EN: Prioritize {0} {1} -->
+  <PrioritizeGeneric>Teikti prioritetą {0} {1}</PrioritizeGeneric>
+  
+  <!-- EN: Drop at edge -->
+  <DropAtEdge>Numesti krašte</DropAtEdge>
+  <!-- EN: Drop in center -->
+  <DropInCenter>Numesti centre</DropInCenter>
+  <!-- EN: Attack {0} -->
+  <AttackShuttle>Užpulti {0}</AttackShuttle>
+  <!-- EN: Attack {0}: Drop at edge -->
+  <AttackAndDropAtEdge>Užpulti {0}: Numesti krašte</AttackAndDropAtEdge>
+  <!-- EN: Attack {0}: Drop in center -->
+  <AttackAndDropInCenter>Užpulti {0}: Numesti centre</AttackAndDropInCenter>
+  
+  <!-- EN: vomiting -->
+  <VomitingLower>vemia</VomitingLower>
+  <!-- EN: not interruptible -->
+  <NotInterruptibleLower>nepertraukiamas</NotInterruptibleLower>
+  
+  <!-- EN: Add a new waypoint here -->
+  <AddWaypoint>Pridėti naują kelionės tašką čia</AddWaypoint>
+  <!-- EN: Remove this waypoint -->
+  <RemoveWaypoint>Pašalinti šį kelionės tašką</RemoveWaypoint>
+
+  <!-- EN: Cancel all designations -->
+  <RemoveAllDesignations>Atšaukti visus pažymėjimus</RemoveAllDesignations>
+  <!-- EN: Designate all -->
+  <DesignateAll>Pažymėti visus</DesignateAll>
+  <!-- EN: {0} affected -->
+  <CountToDesignate>{0} paveikti</CountToDesignate>
+  <!-- EN: Forbid all items -->
+  <ForbidAllItems>Uždrausti visus daiktus</ForbidAllItems>
+  <!-- EN: Unforbid all items -->
+  <UnforbidAllItems>Atšaukti uždraudimą visiems daiktams</UnforbidAllItems>
+
+  <!-- Transport pods -->
+  <!-- EN: Zoom in and choose a landing spot in {0} -->
+  <LandInExistingMap>Priartink ir pasirink nusileidimo vietą {0}</LandInExistingMap>
+  <!-- EN: The contents will be lost -->
+  <TransportPodsContentsWillBeLost>Turinys bus prarastas</TransportPodsContentsWillBeLost>
+  <!-- EN: Form caravan here -->
+  <FormCaravanHere>Suformuoti karavaną čia</FormCaravanHere>
+  <!-- EN: Give to {0} -->
+  <GiveToCaravan>Duoti {0}</GiveToCaravan>
+  <!-- EN: Give as a gift to {0} ({1}) -->
+  <GiveGiftViaTransportPods>Duoti kaip dovaną {0} ({1})</GiveGiftViaTransportPods>
+  <!-- EN: Not part of launch group -->
+  <NotPartOfLaunchGroup>TODO</NotPartOfLaunchGroup>
+
+  <!-- Rescue quest -->
+  <!-- EN: Free prisoner -->
+  <FreePrisoner>Išlaisvinti kalinį</FreePrisoner>
+  <!-- EN: Offer help -->
+  <OfferHelp>Pasiūlyti pagalbą</OfferHelp>
+
+  <!-- EN: apply {0} -->
+  <ApplyTechprint>pritaikyti {0}</ApplyTechprint>
+
+  <!-- EN: Too dangerous -->
+  <EnterCooldownBlocksEntering>Per daug pavojinga</EnterCooldownBlocksEntering>
+
+  <!-- CommsConsole -->
+  <!-- EN: Nobody to call -->
+  <NoCommsTarget>Nėra kam skambinti</NoCommsTarget>
+
+  <!-- EN: Invoke {0} -->
+  <Invoke>TODO</Invoke>
+  <!-- EN: Cannot invoke {0} -->
+  <CannotInvoke>TODO</CannotInvoke>
+  <!-- EN: power -->
+  <Power>TODO</Power>
+  <!-- EN: already invoked -->
+  <AlreadyInvoked>TODO</AlreadyInvoked>
+
+  <!-- EN: Tend {0} -->
+  <Tend>Gydyti {0}</Tend>
+  <!-- EN: Cannot tend {0} -->
+  <CannotTend>Negalima gydyti {0}</CannotTend>
+  <!-- EN: {0} does not require tending -->
+  <TendingNotRequired>{0} nereikalauja gydymo</TendingNotRequired>
+  <!-- EN: without medicine -->
+  <WithoutMedicine>be vaistų</WithoutMedicine>
+
+  <!-- EN: Repair {0} -->
+  <RepairThing>Taisyti {0}</RepairThing>
+  <!-- EN: Cannot repair {0} -->
+  <CannotRepair>Negalima taisyti {0}</CannotRepair>
+
+  <!-- EN: Cannot enter -->
+  <CannotEnter>Negalima įeiti</CannotEnter>
+
+  <!-- Romance partner -->
+  <!-- EN: Cannot romance {0} -->
+  <CannotRomance>Negalima siekti romantikos su {0}</CannotRomance>
+  <!-- EN: Romance {0} -->
+  <CanRomance>Siekti romantikos su {0}</CanRomance>
+
+  <!-- Feeding -->
+  <!-- EN: disliked food -->
+  <WarningFoodDisliked>nepatiko maistas</WarningFoodDisliked>
+
+</LanguageData>

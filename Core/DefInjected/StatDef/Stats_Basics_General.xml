@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>grožis</Beauty.label>
+  <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
+  <Beauty.description>Kaip malonu į šį objektas pažiūrėti.\n\nGražūs objektai išpildo veikėjų poreikį grožiui.</Beauty.description>
+  
+  <!-- EN: outdoor beauty -->
+  <BeautyOutdoors.label>grožis lauke</BeautyOutdoors.label>
+  <!-- EN: How enjoyable something is to look at if it's outside.\n\nBeautiful objects fulfill peoples' need for beauty. -->
+  <BeautyOutdoors.description>Kaip malonu į šį objektas pažiūrėti jei jis lauke.\n\nGražūs objektai išpildo žmonių poreikį grožiui.</BeautyOutdoors.description>
+  
+  <!-- EN: cleanliness -->
+  <Cleanliness.label>švarumas</Cleanliness.label>
+  <!-- EN: How much an object contributes to an area's cleanliness score. -->
+  <Cleanliness.description>Kiek objektas prisideda prie vietos švarumo balo.</Cleanliness.description>
+  
+  <!-- EN: comfort -->
+  <Comfort.label>komfortas</Comfort.label>
+  <!-- EN: How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort. -->
+  <Comfort.description>Kiek patogus šis objektas sėdėti ar gulėti ant jo.\n\nPatogūs objektai išpildo veikėjų poreikį komfortui.</Comfort.description>
+  
+  <!-- EN: deterioration rate -->
+  <DeteriorationRate.label>gadinimosi greitis</DeteriorationRate.label>
+  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
+  <DeteriorationRate.description>Kaip greitai šis daiktas sugenda kai būna paliktas lauke, vidutiniškai gyvybės taškais per dieną.\n\nGadinimosi greitis taip pat priklauso nuo dalykų kaip oras, stogai, toksiškos nuokritos ar buvimas sekliame vandenyje.</DeteriorationRate.description>
+  <!-- EN: {0} / day -->
+  <DeteriorationRate.formatString>{0} per dieną</DeteriorationRate.formatString>
+  
+  <!-- EN: flammability -->
+  <Flammability.label>degumas</Flammability.label>
+  <!-- EN: How easily an object catches fire and how quickly a fire will grow as it burns. -->
+  <Flammability.description>Kaip lengvai objektas užsidega ir kaip greit liepsna didės kol jis degs.</Flammability.description>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChanceFixedHuman.label>apsinuodijimo maistu tikimybė</FoodPoisonChanceFixedHuman.label>
+  <!-- EN: The chance this food will cause food poisoning. -->
+  <FoodPoisonChanceFixedHuman.description>Tikimybė kad šis maistas sukels apsinuodijimą.</FoodPoisonChanceFixedHuman.description>
+  <!-- EN: food poison chance (food stat) -->
+  <FoodPoisonChanceFixedHuman.labelForFullStatList>apsinuodijimo maistu tikimybė (maisto statistinis rodiklis)</FoodPoisonChanceFixedHuman.labelForFullStatList>
+  
+  <!-- EN: market value -->
+  <MarketValue.label>rinkos vertė</MarketValue.label>
+  <!-- EN: The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
+  <MarketValue.description>Objekto rinkos vertė.\n\nTikroji prekybos kaina priklausys nuo derybinių įgūdžių, santykių statuso ir kitų aplinkybių.</MarketValue.description>
+  
+  <!-- EN: market value ignoring hitpoints -->
+  <MarketValueIgnoreHp.label>rinkos vertė neskaitant gynybos taškų</MarketValueIgnoreHp.label>
+  
+  <!-- EN: mass -->
+  <Mass.label>svoris</Mass.label>
+  <!-- EN: The physical mass of an object. -->
+  <Mass.description>Fizinis objekto svoris.</Mass.description>
+  <!-- EN: {0} kg -->
+  <Mass.formatString>{0} kg</Mass.formatString>
+  
+  <!-- EN: max hit points -->
+  <MaxHitPoints.label>gyvybės taškų maksimumas</MaxHitPoints.label>
+  <!-- EN: The maximum hit points of an object.\n\nThis represents how much damage it can take before being destroyed. -->
+  <MaxHitPoints.description>Objekto gyvybės taškų maksimumas.\n\nRodo kiek žalos jis gali patirti kol bus sunaikintas.</MaxHitPoints.description>
+  
+  <!-- EN: nutrition -->
+  <Nutrition.label>maisto medžiagų kiekis</Nutrition.label>
+  <!-- EN: How nutritious this food is. -->
+  <Nutrition.description>Kiek maisto medžiagų turi šis maistas.</Nutrition.description>
+  
+  <!-- EN: honor value -->
+  <RoyalFavorValue.label>TODO</RoyalFavorValue.label>
+  <!-- EN: The amount of honor your trader will earn for giving this to a tribute collector. -->
+  <RoyalFavorValue.description>TODO</RoyalFavorValue.description>
+  
+  <!-- EN: sell price multiplier -->
+  <SellPriceFactor.label>pardavimo kainos daugiklis</SellPriceFactor.label>
+  <!-- EN: A multiplier on the price at which you can sell items. -->
+  <SellPriceFactor.description>Daugiklis kainai už kurią gali parduoti daiktus.</SellPriceFactor.description>
+  
+  <!-- EN: shooting accuracy -->
+  <ShootingAccuracyTurret.label>šaudymo taiklumas</ShootingAccuracyTurret.label>
+  <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <ShootingAccuracyTurret.description>Bazinė tikimybė neprašauti kiekvienam šūvio atstumo langeliui.\n\nTikimybė pataikyti taip pat priklauso nuo daugelio kitų aplinkybių. Pataikymo tikimybės paaiškinimą kiekvienam konkrečiam šūviui galima matyti pasirenkant šaulį ir užvedant žymeklį ant taikinio.</ShootingAccuracyTurret.description>
+  <!-- EN: shooting accuracy (turrets) -->
+  <ShootingAccuracyTurret.labelForFullStatList>šaudymo taiklumas (šarvuotasis bokštas)</ShootingAccuracyTurret.labelForFullStatList>
+  
+  <!-- EN: work to make -->
+  <WorkToMake.label>darbas kad tai pagamintum</WorkToMake.label>
+  <!-- EN: The base amount of work it takes to make an item, once all materials are gathered. -->
+  <WorkToMake.description>Bazinis darbo kiekis reikalingas pagaminti šį daiktą kai visos medžiagos yra suneštos.</WorkToMake.description>
+  
+</LanguageData>

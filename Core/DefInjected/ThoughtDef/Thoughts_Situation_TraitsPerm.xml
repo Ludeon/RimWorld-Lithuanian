@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: depressive -->
+  <MoodOffsetDepressive.stages.depressive.label>depresinis</MoodOffsetDepressive.stages.depressive.label>
+  <!-- EN: Natural penalty from 'depressive' trait. -->
+  <MoodOffsetDepressive.stages.depressive.description>Natūrali bauda dėl 'depresinio' bruožo.</MoodOffsetDepressive.stages.depressive.description>
+  
+  <!-- EN: optimist -->
+  <MoodOffsetOptimist.stages.optimist.label>optimistas</MoodOffsetOptimist.stages.optimist.label>
+  <!-- EN: Natural bonus from 'optimist' trait. -->
+  <MoodOffsetOptimist.stages.optimist.description>Natūralus priedas iš 'optimisto' bruožo.</MoodOffsetOptimist.stages.optimist.description>
+  
+  <!-- EN: pessimist -->
+  <MoodOffsetPessimist.stages.pessimist.label>pesimistas</MoodOffsetPessimist.stages.pessimist.label>
+  <!-- EN: Natural penalty from 'pessimist' trait. -->
+  <MoodOffsetPessimist.stages.pessimist.description>Natūrali bauda dėl 'pesimisto' bruožo.</MoodOffsetPessimist.stages.pessimist.description>
+  
+  <!-- EN: sanguine -->
+  <MoodOffsetSanguine.stages.sanguine.label>sangvinikas</MoodOffsetSanguine.stages.sanguine.label>
+  <!-- EN: Natural bonus from 'sanguine' trait. -->
+  <MoodOffsetSanguine.stages.sanguine.description>Natūralus priedas iš 'sangviniko' bruožo.</MoodOffsetSanguine.stages.sanguine.description>
+  
+  <!-- EN: Tortured artist -->
+  <MoodOffsetTorturedArtist.stages.Tortured_artist.label>besikankinantis menininkas</MoodOffsetTorturedArtist.stages.Tortured_artist.label>
+  <!-- EN: Natural penalty from 'tortured artist' trait. -->
+  <MoodOffsetTorturedArtist.stages.Tortured_artist.description>Natūrali bauda dėl 'besikankinančio menininko' bruožo.</MoodOffsetTorturedArtist.stages.Tortured_artist.description>
+  
+</LanguageData>

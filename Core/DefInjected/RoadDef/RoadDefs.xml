@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient asphalt highway -->
+  <AncientAsphaltHighway.label>senovinis asfalto greitkelis</AncientAsphaltHighway.label>
+  
+  <!-- EN: ancient asphalt road -->
+  <AncientAsphaltRoad.label>senovinis asfalto kelias</AncientAsphaltRoad.label>
+  
+  <!-- EN: dirt path -->
+  <DirtPath.label>takas</DirtPath.label>
+  
+  <!-- EN: dirt road -->
+  <DirtRoad.label>žvyrkelis</DirtRoad.label>
+  
+  <!-- EN: stone road -->
+  <StoneRoad.label>akmeninis kelias</StoneRoad.label>
+  
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: barricade -->
+  <Barricade.label>barikada</Barricade.label>
+  <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. Barricades will block certain kinds of animals the same way that fences do. -->
+  <Barricade.description>Užtvara iki juosmens, skirta naudoti kaip priedanga nuo atskriejančių šūvių. Barikados atrodo negražiai, bet geriau dengia nei kiti žemi objektai. Barikados blokuos tam tikras gyvūnų rūšis taip pat, kaip tvoros.</Barricade.description>
+  
+  <!-- EN: sandbags -->
+  <Sandbags.label>smėlio maišai</Sandbags.label>
+  <!-- EN: Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are ugly, but provide better cover than other low objects. -->
+  <Sandbags.description>Maišai su vietinės gamybos žemėmis ar smėliu, sukrauti naudoti kaip priedangą. Smėlio maišai atrodo negražiai, bet geriau pridengia nei kiti žemi daiktai.</Sandbags.description>
+  
+  <!-- EN: IED antigrain warhead trap -->
+  <TrapIED_AntigrainWarhead.label>ISU antimedžiagos kovinės galvutės spąstai</TrapIED_AntigrainWarhead.label>
+  <!-- EN: An antimatter-powered antigrain warhead connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_AntigrainWarhead.description>Antimedžiagos kovinė galvutė sujungta su gaiduku, kuris detonuoja palietus arba pataikius kulkai. Kadangi spąstai yra paslėpti supančioje aplinkoje, jie negali būti dedami šalia kitų spąstų. Būdami ramūs gyvūnai gali juos jausti.</TrapIED_AntigrainWarhead.description>
+  
+  <!-- EN: IED EMP trap -->
+  <TrapIED_EMP.label>ISU EMP spąstai</TrapIED_EMP.label>
+  <!-- EN: A pair of EMP shells connected to a trigger which detonates on touch or bullet impact. The explosion can paralyze mechanoids for a few seconds. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_EMP.description>Pora EMP sviedinių, sujungtų su gaiduku, kuris detonuoja palietus arba pataikius kulkai. Sprogimas gali kelioms sekundėms paralyžiuoti mechanoidus. Kadangi spąstai yra paslėpti supančioje aplinkoje, jie negali būti dedami šalia kitų spąstų. Būdami ramūs gyvūnai gali juos jausti.</TrapIED_EMP.description>
+  
+  <!-- EN: IED firefoam trap -->
+  <TrapIED_Firefoam.label>ISU gaisro gesinimo putų spąstai</TrapIED_Firefoam.label>
+  <!-- EN: A pair of firefoam shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Firefoam.description>Pora gaisro gesinimo putų sviedinių, sujungtų su gaiduku, kuris detonuoja palietus arba pataikius kulkai. Kadangi spąstai yra paslėpti supančioje aplinkoje, jie negali būti dedami šalia kitų spąstų. Būdami ramūs gyvūnai gali juos jausti.</TrapIED_Firefoam.description>
+  
+  <!-- EN: IED trap -->
+  <TrapIED_HighExplosive.label>ISU spąstai</TrapIED_HighExplosive.label>
+  <!-- EN: A pair of high-explosive shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_HighExplosive.description>Pora didelio galingumo sprogstamųjų sviedinių, sujungtų su gaiduku, kuris detonuoja palietus arba pataikius kulkai. Kadangi spąstai yra paslėpti supančioje aplinkoje, jie negali būti dedami šalia kitų spąstų. Būdami ramūs gyvūnai gali juos jausti.</TrapIED_HighExplosive.description>
+  
+  <!-- EN: IED incendiary trap -->
+  <TrapIED_Incendiary.label>ISU padegamieji spąstai</TrapIED_Incendiary.label>
+  <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Incendiary.description>Pora padegamųjų sviedinių, sujungtų su gaiduku, kuris detonuoja palietus arba pataikius kulkai. Kadangi spąstai yra paslėpti supančioje aplinkoje, jie negali būti dedami šalia kitų spąstų. Būdami ramūs gyvūnai gali juos jausti.</TrapIED_Incendiary.description>
+  
+  <!-- EN: IED Smoke trap -->
+  <TrapIED_Smoke.label>ISU dūminiai spąstai</TrapIED_Smoke.label>
+  <!-- EN: A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Smoke.description>Pora dūminių sviedinių, sujungtų su gaiduku, kuris detonuoja palietus arba pataikius kulkai. Kadangi spąstai yra paslėpti supančioje aplinkoje, jie negali būti dedami šalia kitų spąstų. Būdami ramūs gyvūnai gali juos jausti.</TrapIED_Smoke.description>
+  
+  <!-- EN: spike trap -->
+  <TrapSpike.label>smaigalių spąstai</TrapSpike.label>
+  <!-- EN: Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forth and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapSpike.description>Penki įtempti smaigaliai, sujungti su gaiduku. Kai auka sujudina gaiduką, smaigaliai iššoka ir smogia aukai. Kadangi spąstai yra paslėpti supančioje aplinkoje, jie negali būti dedami šalia kitų spąstų. Būdami ramūs gyvūnai gali juos jausti.</TrapSpike.description>
+  
+</LanguageData>

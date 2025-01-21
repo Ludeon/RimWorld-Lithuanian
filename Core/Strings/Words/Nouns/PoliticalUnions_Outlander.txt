@@ -1,0 +1,18 @@
+﻿//Common with tribals
+sąjunga
+tauta
+konfederacija
+aljansas
+giminių lyga
+sandora
+sutartis
+paktas
+koalicija
+
+//Outlander specific (different from empire)
+federacija
+lyga
+susitarimas
+akordas
+susijungimas
+susivienijimas

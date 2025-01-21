@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: age -->
+  <Age.label>amžius</Age.label>
+  
+  <!-- EN: allowed area -->
+  <AllowedArea.label>leidžiama sritis</AllowedArea.label>
+  
+  <!-- EN: allowed area -->
+  <AllowedAreaWide.label>leidžiama sritis</AllowedAreaWide.label>
+  
+  <!-- EN: carry -->
+  <Carry.label>nešiotis</Carry.label>
+  
+  <!-- EN: drug policy -->
+  <DrugPolicy.label>medikamentų vartojimo tvarka</DrugPolicy.label>
+  
+  <!-- EN: food restriction -->
+  <FoodRestriction.label>maisto ribojimas</FoodRestriction.label>
+  
+  <!-- EN: Hostility response -->
+  <HostilityResponse.headerTip>Atsakas į priešiškumą</HostilityResponse.headerTip>
+  
+  <!-- EN: master -->
+  <Master.label>šeimininkas</Master.label>
+  
+  <!-- EN: Medical care -->
+  <MedicalCare.headerTip>Sveikatos priežiūra</MedicalCare.headerTip>
+  
+  <!-- EN: current outfit -->
+  <Outfit.label>aprangos komplektas</Outfit.label>
+  
+</LanguageData>

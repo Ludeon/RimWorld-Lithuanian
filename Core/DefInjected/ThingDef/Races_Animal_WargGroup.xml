@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: warg -->
+  <Warg.label>vargas</Warg.label>
+  <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
+  <Warg.description>Labai raumeningos į vilkus panašios būtybės su žiauriais nenatūraliais nagais ir absurdiškai galingu kandimu. Jie ėda tik mėsą ar lavonus. Jei bus trikdomi laukinėje gamtoje, labai tikėtina, kad jie užpuls.\n\nMokslininkai teigia, kad vargai yra palikuonys karinių gyvūnų, kurie buvo naudoti kaip ginklai populiacijai slopinti. Prietaringesni mano, kad jie yra rūstaus dievo įrankiai.</Warg.description>
+  <!-- EN: left claw -->
+  <Warg.tools.left_claw.label>kairė letena</Warg.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Warg.tools.right_claw.label>dešinė letena</Warg.tools.right_claw.label>
+  <!-- EN: razorfangs -->
+  <Warg.tools.razorfangs.label>ašmeninės iltys</Warg.tools.razorfangs.label>
+  <!-- EN: head -->
+  <Warg.tools.head.label>galva</Warg.tools.head.label>
+  
+</LanguageData>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>grožis</Beauty.label>
+  <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
+  <Beauty.description>Grožis atspindi, kiek vizualiai patraukli pastaruoju metu žmogui buvo jo aplinka. Gražūs dalykai, tokie kaip menas, pagerina grožį žiūrint, o negražūs dalykai, tokie kaip nešvarumai ir netašyto akmens paviršiai, jį sumažina.</Beauty.description>
+  
+  <!-- EN: comfort -->
+  <Comfort.label>komfortas</Comfort.label>
+  <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
+  <Comfort.description>Patogumas gaunamas sėdint arba miegant ant patogių baldų. Įgyjamas gulint lovoje, sėdint kėdėje darbo ar kitu metu.</Comfort.description>
+  
+  <!-- EN: chemical -->
+  <DrugDesire.label>chemikalai</DrugDesire.label>
+  <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
+  <DrugDesire.description>Chemikalai išreiškia norą vartoti narkotikus. Kai viršija tam tikrą lygį, tai sukurs gerą nuotaiką, o kai žemiau tam tikro lygio – vis blogesnę nuotaiką.</DrugDesire.description>
+  
+  <!-- EN: food -->
+  <Food.label>maistas</Food.label>
+  <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
+  <Food.description>Maistas – tai maisto medžiagų kiekis, kurį būtybė suvalgė pastaruoju metu. Jei jis yra lygus nuliui, būtybei vis labiau trūks maisto ir ji galiausiai mirs.</Food.description>
+  
+  <!-- EN: indoors -->
+  <Indoors.label>buvimas viduje</Indoors.label>
+  <!-- EN: Indoors expresses the need to be within walls and under a roof. It is harmed by spending time in outdoor areas or not under roofs. To raise this need past 50%, a person must be under an overhead mountain, not just a normal roof. -->
+  <Indoors.description>Buvimas viduje išreiškia poreikį būti tarp sienų ir po stogu. Jam kenkia laiko leidimas lauke ar ne po stogais. Kad šis poreikis viršytų 50%, žmogus turi būti po kalnu virš galvos, o ne tik po normaliu stogu.</Indoors.description>
+  
+  <!-- EN: recreation -->
+  <Joy.label>pramogos</Joy.label>
+  <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
+  <Joy.description>Pramogos yra poreikis linksmintis. Kartojant tokią pačią veiklą, ji tampa vis mažiau įdomi, todėl būtina įvairovė.</Joy.description>
+  
+  <!-- EN: mood -->
+  <Mood.label>nuotaika</Mood.label>
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low their mood is, someone who has a mental break may have a minor breaks like hiding in their room for a day, or a major break like going on a murder spree. -->
+  <Mood.description>Nuotaika parodo ar žmogus yra laimingas, ar patiria stresą. Jei nuotaika tampa per žema, žmogus gali patirti nervinį pakrikimą. Priklausomai nuo nuotaikos, žmogus, turintis nervinį pakrikimą, gali patirti lengvų pakrikimų, kaip slėpimasis savo kambaryje vieną dieną, arba sunkių pakrikimą, kai pradės visus žudyti.</Mood.description>
+  
+  <!-- EN: outdoors -->
+  <Outdoors.label>buvimas lauke</Outdoors.label>
+  <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
+  <Outdoors.description>Buvimas lauke išreiškia poreikį nebūti užspaustam viduje. Jam kenkia ilgas buvimas viduje, ypač po žeme. Padeda, kai kas nors leidžia laiką po dangumi, ypač lauke. Tai ne dėl kambarių dydžio, o dėl būtinybės karts nuo karto pabūti lauke. Buvimo lauke trūkumas yra didelis iššūkis žmonėms, gyvenantiems požeminėse bazėse.</Outdoors.description>
+  
+  <!-- EN: sleep -->
+  <Rest.label>miegas</Rest.label>
+  <!-- EN: Sleep is how much time a creature has spent sleeping recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
+  <Rest.description>Miegas yra tai, kiek laiko būtybė pastaruoju metu praleido miegodamas. Jei jis yra lygus nuliui, būtybė galiausiai užmigs vietoje.</Rest.description>
+  
+  <!-- EN: room size -->
+  <RoomSize.label>kambario dydis</RoomSize.label>
+  
+</LanguageData>

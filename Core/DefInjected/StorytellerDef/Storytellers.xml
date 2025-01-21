@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cassandra Classic -->
+  <Cassandra.label>Sandra Klasikaitė</Cassandra.label>
+  <!-- EN: Cassandra creates story events on a classic increasing curve of challenge and tension. She'll push you with dangerous events, then give breathing room, then come back to push once more. -->
+  <Cassandra.description>Sandra kuria įvykius pagal klasikinę augančią iššūkių ir įtampos kreivę. Ji atsiųs tau pavojingų įvykių, tada duos laiko atsikvėpti, tada grįš ir atsiųs vėl.</Cassandra.description>
+  
+  <!-- EN: Phoebe Chillax -->
+  <Phoebe.label>Ramutė Vėsaitė</Phoebe.label>
+  <!-- EN: Phoebe gives lots of time between disasters to build your colony. But beware - at high difficulties, she'll hit as hard as anyone. -->
+  <Phoebe.description>Nuo nelaimės iki nelaimės Ramutė tau duos daug laiko statyti savo koloniją. Bet saugokis - aukšto sudėtingumo lygiuose bus taip pat sunku kaip ir su bet kokiu kitu pasakotoju.</Phoebe.description>
+  
+  <!-- EN: Randy Random -->
+  <Randy.label>Raimundas Randis</Randy.label>
+  <!-- EN: Randy doesn't follow rules. He'll generate random events, and he doesn't care if they make a story of triumph or utter hopelessness. It's all drama to him.\n\nWarning: Since Randy is truly random, he will sometimes send extremely difficult or unfair groups of events at you. It makes for high drama - and unavoidable sacrifices. -->
+  <Randy.description>Randis nesilaiko taisyklių. Jis sukurs įvykius atsitiktinai ir jam nerūpi ar tai bus tavo pergalė, ar visiškas ir beviltiškas pralaimėjimas. Jam tai tik drama.\n\nĮspėjimas: Kadangi Randis veikia visiškai atsitiktinai, jis kartais atsiųs tau itin sudėtingas ir nesąžiningai stiprias grupes ir sunkius įvykius. Tai sukurs daug dramos - bet neišvengsi ir aukų.</Randy.description>
+  
+  <!-- EN: Tutor Hidden -->
+  <Tutor.label>Mokytojas Slėpinys</Tutor.label>
+  
+</LanguageData>

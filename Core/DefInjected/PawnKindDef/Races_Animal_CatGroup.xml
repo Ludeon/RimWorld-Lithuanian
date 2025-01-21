@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cat -->
+  <Cat.label>katė</Cat.label>
+  <!-- EN: kitten -->
+  <Cat.lifeStages.kitten.label>kačiukas</Cat.lifeStages.kitten.label>
+  
+  <!-- EN: guinea pig -->
+  <GuineaPig.label>jūrų kiaulytė</GuineaPig.label>
+  
+  <!-- EN: husky -->
+  <Husky.label>haskis</Husky.label>
+  <!-- EN: huskies -->
+  <Husky.labelPlural>haskiai</Husky.labelPlural>
+  <!-- EN: husky puppy -->
+  <Husky.lifeStages.husky_puppy.label>haskio šunytis</Husky.lifeStages.husky_puppy.label>
+  <!-- EN: husky puppies -->
+  <Husky.lifeStages.husky_puppy.labelPlural>haskio šunyčiai</Husky.lifeStages.husky_puppy.labelPlural>
+  
+  <!-- EN: labrador retriever -->
+  <LabradorRetriever.label>labradoro retriveris</LabradorRetriever.label>
+  <!-- EN: labrador puppy -->
+  <LabradorRetriever.lifeStages.labrador_puppy.label>labradoro šunytis</LabradorRetriever.lifeStages.labrador_puppy.label>
+  <!-- EN: labrador puppies -->
+  <LabradorRetriever.lifeStages.labrador_puppy.labelPlural>labradoro šunyčiai</LabradorRetriever.lifeStages.labrador_puppy.labelPlural>
+  
+  <!-- EN: monkey -->
+  <Monkey.label>beždžionė</Monkey.label>
+  
+  <!-- EN: yorkshire terrier -->
+  <YorkshireTerrier.label>jorkšyro terjeras</YorkshireTerrier.label>
+  <!-- EN: yorkshire terrier puppy -->
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>jorkšyro terjero šunytis</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>
+  <!-- EN: yorkshire terrier puppies -->
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>jorkšyro terjero šunyčiai</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>
+  
+</LanguageData>

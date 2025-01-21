@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: neutral ancients -->
+  <Ancients.label>neutralūs senoviniai žmonės</Ancients.label>
+  <!-- EN: Ancients -->
+  <Ancients.fixedName>Senoviniai žmonės</Ancients.fixedName>
+  <!-- EN: leader -->
+  <Ancients.leaderTitle>lyderis</Ancients.leaderTitle>
+  <!-- EN: ancient -->
+  <Ancients.pawnSingular>senovinis žmogus</Ancients.pawnSingular>
+  <!-- EN: ancients -->
+  <Ancients.pawnsPlural>senoviniai žmonės</Ancients.pawnsPlural>
+  
+  <!-- EN: hostile ancients -->
+  <AncientsHostile.label>agresyvūs senoviniai žmonės</AncientsHostile.label>
+  <!-- EN: Ancients -->
+  <AncientsHostile.fixedName>Senoviniai žmonės</AncientsHostile.fixedName>
+  <!-- EN: leader -->
+  <AncientsHostile.leaderTitle>lyderis</AncientsHostile.leaderTitle>
+  <!-- EN: ancient -->
+  <AncientsHostile.pawnSingular>senovinis žmogus</AncientsHostile.pawnSingular>
+  <!-- EN: ancients -->
+  <AncientsHostile.pawnsPlural>senoviniai žmonės</AncientsHostile.pawnsPlural>
+  
+  <!-- EN: insect geneline -->
+  <Insect.label>didieji vabzdžiai</Insect.label>
+  <!-- EN: These giant insect-like creatures live underground and burrow up to attack when attracted by noise or pheromone signals. Originally from the planet Sorne, interstellar entrepreneurs managed to capture, genetically-modify, and vat-grow the insect colonies for use as weapons. It's not clear who placed Sorne insects on this planet, but they are here and as dangerous as ever. -->
+  <Insect.description>Šie milžiniški vabzdžius primenantys padarai gyvena po žeme, bet išsikasa į paviršių kad užpultų. Juos traukia triukšmas ir feromonų signalai. Anksčiau gyveno Sorno planetoje, tarpžvaigždiniams verslininkams pavyko juos paimti į nelaisvę, genetiškai modifikuoti ir kolonijomis laboratorijoje auginti naudojimui kaip gyvieji ginklai. Neaišku kas atgabeno Sorno vabzdžius į šią planetą, bet jie yra čia ir jie yra tokie pat pavojingi kaip visada.</Insect.description>
+  <!-- EN: Sorne Geneline -->
+  <Insect.fixedName>TODO</Insect.fixedName>
+  <!-- EN: leader -->
+  <Insect.leaderTitle>lyderis</Insect.leaderTitle>
+  <!-- EN: insect -->
+  <Insect.pawnSingular>vabzdys</Insect.pawnSingular>
+  <!-- EN: insects -->
+  <Insect.pawnsPlural>vabzdžiai</Insect.pawnsPlural>
+  
+  <!-- EN: mechanoid hive -->
+  <Mechanoid.label>mechanoidų avilys</Mechanoid.label>
+  <!-- EN: Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god. -->
+  <Mechanoid.description>Nežinomos kilmės robotai žudikai. Paslėptos senoviniuose statiniuose, po dulkių klodais ar vandenyno dugne, mechanoidai gali palaikyti savo veikimą tukstančius metų. Ši mechanoidų grupė atrodo susivienijusi tikslui, bet nelabai gerai koordinuota. Nors vietiniai istorikai mano, kad tai autonominiai ginklai likę iš po senovinio karo, genčių legendos apibūdina juos kaip miegančio dievo demoniškus tarnus.</Mechanoid.description>
+  <!-- EN: leader -->
+  <Mechanoid.leaderTitle>lyderis</Mechanoid.leaderTitle>
+  <!-- EN: mechanoid -->
+  <Mechanoid.pawnSingular>mechanoidas</Mechanoid.pawnSingular>
+  <!-- EN: mechanoids -->
+  <Mechanoid.pawnsPlural>mechanoidai</Mechanoid.pawnsPlural>
+  
+</LanguageData>

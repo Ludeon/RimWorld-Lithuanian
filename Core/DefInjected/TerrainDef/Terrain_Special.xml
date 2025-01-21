@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bridge -->
+  <Bridge.label>tiltas</Bridge.label>
+  <!-- EN: A flat wooden surface on supportive beams which can be built over water. You can build light structures on bridges, but be careful - bridges are fragile. If a bridge falls, buildings on top of it fall as well. -->
+  <Bridge.description>Plokščias medinis paviršius ant laikančių sijų, kuris gali būti pastatytas virš vandens. Gali pastatyti lengvus statinius ant tiltų, bet būk atsargus - tiltai yra trapūs. Jei sugrius tiltas, statiniai esantys ant jo taip pat nukris.</Bridge.description>
+  
+  <!-- EN: underwall -->
+  <Underwall.label>TODO</Underwall.label>
+  
+</LanguageData>

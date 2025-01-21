@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abrasive -->
+  <Abrasive.degreeDatas.abrasive.label>tiesmukas</Abrasive.degreeDatas.abrasive.label>
+  <!-- EN: {PAWN_nameDef} always says exactly what's on {PAWN_possessive} mind, especially if it's bugging {PAWN_objective}. That tends to rub people the wrong way. -->
+  <Abrasive.degreeDatas.abrasive.description>{PAWN_nameDef} visada sako viską apie ką {PAWN_possessive} galvoja, ypač jei tai {PAWN_objective} erzina. Toks elgesys kitiems zmonėms nepatinka.</Abrasive.degreeDatas.abrasive.description>
+  
+  <!-- EN: annoying voice -->
+  <AnnoyingVoice.degreeDatas.annoying_voice.label>erzinantis balsas</AnnoyingVoice.degreeDatas.annoying_voice.label>
+  <!-- EN: {PAWN_nameDef}'s voice has a particularly grating, nasal quality to it, and {PAWN_pronoun} tends to talk in barked, garbled phrases. This predisposes others to dislike {PAWN_objective}. -->
+  <AnnoyingVoice.degreeDatas.annoying_voice.description>{PAWN_nameDef} turi ypatingai šaižų, nosinį balsą ir {PAWN_pronoun} linkęs kalbėti trūkinėjančiomis, suveltomis frazėmis. Tai iš anksto nuteikia kitus {PAWN_objective} nemėgti.</AnnoyingVoice.degreeDatas.annoying_voice.description>
+  
+  <!-- EN: ascetic -->
+  <Ascetic.degreeDatas.ascetic.label>asketas</Ascetic.degreeDatas.ascetic.label>
+  <!-- EN: {PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance. -->
+  <Ascetic.degreeDatas.ascetic.description>{PAWN_nameDef} atsisakė fizinių malonumų ir komforto kad gyventų paprastą, tyrą gyvenimą. {PAWN_pronoun} taps nelaimingu jei {PAWN_pronoun} turės per daug prabangų miegamąjį. {PAWN_nameDef} taip pat nepatinka prašmatnūs patiekalai, {PAWN_pronoun} geriau renkasi žalią maistą. {PAWN_pronoun} niekada nevertina kitų pagal jų išvaizdą.</Ascetic.degreeDatas.ascetic.description>
+  
+  <!-- EN: asexual -->
+  <Asexual.degreeDatas.asexual.label>aseksualus</Asexual.degreeDatas.asexual.label>
+  <!-- EN: {PAWN_nameDef} has no sexual attraction to anyone at all. -->
+  <Asexual.degreeDatas.asexual.description>{PAWN_nameDef} neturi jokio seksualinio potraukio niekam.</Asexual.degreeDatas.asexual.description>
+  
+  <!-- EN: bisexual -->
+  <Bisexual.degreeDatas.bisexual.label>biseksualus</Bisexual.degreeDatas.bisexual.label>
+  <!-- EN: {PAWN_nameDef} is romantically attracted to both men and women. -->
+  <Bisexual.degreeDatas.bisexual.description>{PAWN_nameDef} jaučia potraukį tiek vyrams, tiek moterims.</Bisexual.degreeDatas.bisexual.description>
+  
+  <!-- EN: bloodlust -->
+  <Bloodlust.degreeDatas.bloodlust.label>kraujo troškimas</Bloodlust.degreeDatas.bloodlust.label>
+  <!-- EN: {PAWN_nameDef} gets a rush from hurting people, and never minds the sight of blood or death. {PAWN_pronoun} is four times as likely to start a social fight as others. -->
+  <Bloodlust.degreeDatas.bloodlust.description>{PAWN_nameDef} patinka žmonėms kelti skausmą ir jam netrukdo kraujo ir mirties vaizdai. {PAWN_pronoun} yra keturis kartus labiau linkęs pradėti konfliktą nei kiti.</Bloodlust.degreeDatas.bloodlust.description>
+  
+  <!-- EN: body purist -->
+  <BodyPurist.degreeDatas.body_purist.label>tyro kūno šalininkas</BodyPurist.degreeDatas.body_purist.label>
+  <!-- EN: {PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts and xenogenes are unethical and disgusting. -->
+  <BodyPurist.degreeDatas.body_purist.description>{PAWN_nameDef} tiki, kad žmogaus kūnas turi ribotas galimybes ne be reikalo. {PAWN_objective} dirbtinės kūno dalys ir ateivių genai yra neetiška ir šlykštu.</BodyPurist.degreeDatas.body_purist.description>
+  
+  <!-- EN: brawler -->
+  <Brawler.degreeDatas.brawler.label>mušeika</Brawler.degreeDatas.brawler.label>
+  <!-- EN: {PAWN_nameDef} likes to fight up close and personal. {PAWN_possessive} accuracy is greatly increased in melee combat, but {PAWN_pronoun}'ll be very unhappy if asked to carry a ranged weapon. -->
+  <Brawler.degreeDatas.brawler.description>{PAWN_nameDef} mėgsta kovoti akis į akį. {PAWN_possessive} tikslumas yra daug didesnis artimoje kovoje, bet {PAWN_pronoun} bus labai nelaimingas, jei reikės nešiotis nuotolinį ginklą.</Brawler.degreeDatas.brawler.description>
+  
+  <!-- EN: cannibal -->
+  <Cannibal.degreeDatas.cannibal.label>kanibalas</Cannibal.degreeDatas.cannibal.label>
+  <!-- EN: {PAWN_nameDef} was taught that eating human meat is wrong and horrible. But one time, long ago, {PAWN_pronoun} tried it... and {PAWN_pronoun} liked it. -->
+  <Cannibal.degreeDatas.cannibal.description>{PAWN_nameDef} buvo mokinamas, kad žmogienos valgymas yra blogai ir kažkas siaubingo. Bet vieną karta, labai seniai, {PAWN_pronoun} pabandė paragauti... ir {PAWN_pronoun} žmogiena patiko.</Cannibal.degreeDatas.cannibal.description>
+  
+  <!-- EN: creepy breathing -->
+  <CreepyBreathing.degreeDatas.creepy_breathing.label>šiurpus kvėpavimas</CreepyBreathing.degreeDatas.creepy_breathing.label>
+  <!-- EN: {PAWN_nameDef} breathes heavily all the time, and sweats constantly. People find it creepy. -->
+  <CreepyBreathing.degreeDatas.creepy_breathing.description>{PAWN_nameDef} visada sunkiai kvėpuoja ir nuolat prakaituoja. Žmones tai šiurpina.</CreepyBreathing.degreeDatas.creepy_breathing.description>
+  
+  <!-- EN: misandrist -->
+  <DislikesMen.degreeDatas.misandrist.label>misandristas</DislikesMen.degreeDatas.misandrist.label>
+  <!-- EN: {PAWN_nameDef} really dislikes and distrusts men. -->
+  <DislikesMen.degreeDatas.misandrist.description>{PAWN_nameDef} tikrai nepatinka ir nepasitiki vyrais.</DislikesMen.degreeDatas.misandrist.description>
+  
+  <!-- EN: misogynist -->
+  <DislikesWomen.degreeDatas.misogynist.label>misoginistas</DislikesWomen.degreeDatas.misogynist.label>
+  <!-- EN: {PAWN_nameDef} really dislikes and distrusts women. -->
+  <DislikesWomen.degreeDatas.misogynist.description>{PAWN_nameDef} tikrai nepatinka ir nepasitiki moterimis.</DislikesWomen.degreeDatas.misogynist.description>
+  
+  <!-- EN: fast learner -->
+  <FastLearner.degreeDatas.fast_learner.label>greitai mokinasi</FastLearner.degreeDatas.fast_learner.label>
+  <!-- EN: {PAWN_nameDef} has a knack for learning. {PAWN_pronoun} picks things up much faster than others. -->
+  <FastLearner.degreeDatas.fast_learner.description>{PAWN_nameDef} yra gabus mokytis. {PAWN_pronoun} išmoksta dalykus daug greičiau nei kiti.</FastLearner.degreeDatas.fast_learner.description>
+  
+  <!-- EN: gay -->
+  <Gay.degreeDatas.gay.label>gėjus</Gay.degreeDatas.gay.label>
+  <!-- EN: {PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender. -->
+  <Gay.degreeDatas.gay.description>{PAWN_nameDef} romantiškai traukia {PAWN_possessive} paties lytis.</Gay.degreeDatas.gay.description>
+  
+  <!-- EN: gourmand -->
+  <Gourmand.degreeDatas.gourmand.label>gurmanas</Gourmand.degreeDatas.gourmand.label>
+  <!-- EN: {PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry. -->
+  <Gourmand.degreeDatas.gourmand.description>{PAWN_nameDef} gyvenimas sukasi aplink maistą. {PAWN_pronoun} greit išalksta ir kartais jam kyla nenumaldomas noras godžiai valgyti, net jei nebūna alkanas.</Gourmand.degreeDatas.gourmand.description>
+  
+  <!-- EN: great memory -->
+  <GreatMemory.degreeDatas.great_memory.label>puiki atmintis</GreatMemory.degreeDatas.great_memory.label>
+  <!-- EN: {PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will lose unused skills at half the rate of other people. -->
+  <GreatMemory.degreeDatas.great_memory.description>{PAWN_nameDef} nuostabiai atsimena smulkiausias detales. {PAWN_pronoun} praras nenaudojamus įgūdžius dvigubai lėčiau negu kiti.</GreatMemory.degreeDatas.great_memory.description>
+  
+  <!-- EN: greedy -->
+  <Greedy.degreeDatas.greedy.label>gobšus</Greedy.degreeDatas.greedy.label>
+  <!-- EN: {PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants. -->
+  <Greedy.degreeDatas.greedy.description>{PAWN_nameDef} nori turėti tikrai įspūdingą miegamąjį. {PAWN_pronoun} praras nuotaiką jei {PAWN_pronoun} negaus ko nori.</Greedy.degreeDatas.greedy.description>
+  
+  <!-- EN: jealous -->
+  <Jealous.degreeDatas.jealous.label>pavydus</Jealous.degreeDatas.jealous.label>
+  <!-- EN: For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom. -->
+  <Jealous.degreeDatas.jealous.description>{PAWN_nameDef} jaučia pažeminimą turėdamas prastesnį miegamąjį nei kažkas kitas. {PAWN_pronoun} praras nuotaiką jei bet kuris kolonistas turi geresnį miegamąjį.</Jealous.degreeDatas.jealous.description>
+  
+  <!-- EN: kind -->
+  <Kind.degreeDatas.kind.label>malonus</Kind.degreeDatas.kind.label>
+  <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} rarely insults others or starts fights, and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. -->
+  <Kind.degreeDatas.kind.description>{PAWN_nameDef} yra ypatingai sukalbamas ir dosnus žmogus. {PAWN_pronoun} retai kada įžeis kitus ar pradės muštynes, taip pat kartais pasakys gerus žodžius, kad praskaidrintų nuotaiką aplinkiniams. {PAWN_pronoun} taip pat niekada nevertina kitų pagal išvaizdą.</Kind.degreeDatas.kind.description>
+  
+  <!-- EN: masochist -->
+  <Masochist.degreeDatas.masochist.label>mazochistas</Masochist.degreeDatas.masochist.label>
+  <!-- EN: For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently. -->
+  <Masochist.degreeDatas.masochist.description>{PAWN_nameDef} skauskas sukelia malonų jaudulį. {PAWN_pronoun} nežino kodėl, {PAWN_pronoun} tiesiog yra kitoks.</Masochist.degreeDatas.masochist.description>
+  
+  <!-- EN: night owl -->
+  <NightOwl.degreeDatas.night_owl.label>naktinė pelėda</NightOwl.degreeDatas.night_owl.label>
+  <!-- EN: {PAWN_nameDef} likes to be up during the night, and sleep during the day.\n\n{PAWN_pronoun} gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\n{PAWN_pronoun} doesn't get a mood penalty for being in the dark. -->
+  <NightOwl.degreeDatas.night_owl.description>{PAWN_nameDef} patinka būti atsikėlęs naktį ir miegoti dieną.\n\n{PAWN_pronoun} gauna priedą prie nuotaikos jei yra atsibudęs naktį (23 val. - 6 val.) ir baudą nuotaikai, jei atsibudęs dieną (11 val. - 18 val.).\n\n{PAWN_pronoun} nepraranda nuotaikos dėl buvimo tamsoje.</NightOwl.degreeDatas.night_owl.description>
+  
+  <!-- EN: nimble -->
+  <Nimble.degreeDatas.nimble.label>vikrus</Nimble.degreeDatas.nimble.label>
+  <!-- EN: {PAWN_nameDef} has remarkable kinesthetic intelligence. {PAWN_pronoun} seems to dance around danger with preternatural grace. -->
+  <Nimble.degreeDatas.nimble.description>{PAWN_nameDef} turi nepaprastai aukštą kinestezinį intelektą. {PAWN_pronoun} atrodo, kad apeina pavojus su antgamtišku grakštumu.</Nimble.degreeDatas.nimble.description>
+  
+  <!-- EN: nudist -->
+  <Nudist.degreeDatas.nudist.label>nudistas</Nudist.degreeDatas.nudist.label>
+  <!-- EN: {PAWN_nameDef} enjoys the feeling of freedom that comes from being nude. {PAWN_pronoun} can handle clothing, but will be happier without it. -->
+  <Nudist.degreeDatas.nudist.description>{PAWN_nameDef} mėgaujasi laisvės jausmu, kuris aplanko būnant nuogam. {PAWN_pronoun} gali ištverti drabužius, bet bus daug laimingesnis be jų.</Nudist.degreeDatas.nudist.description>
+  
+  <!-- EN: psychopath -->
+  <Psychopath.degreeDatas.psychopath.label>psichopatas</Psychopath.degreeDatas.psychopath.label>
+  <!-- EN: {PAWN_nameDef} has no empathy. The suffering of others doesn't bother {PAWN_objective} at all. {PAWN_pronoun} doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects {PAWN_objective}. {PAWN_pronoun} also feels no mood boost from socializing. -->
+  <Psychopath.degreeDatas.psychopath.description>{PAWN_nameDef} neturi empatijos. Kitų kančia {PAWN_objective} nei kiek netrikdo. {PAWN_pronoun} nepergyvena, jei kiti yra mėsinėjami, palikti nepalaidoti, įkalinti ar parduoti į vergovę - nebent tai paveikia {PAWN_objective} patį. {PAWN_possessive} taip pat nepagerėja nuotaika bendraujant su kitais žmonėmis.</Psychopath.degreeDatas.psychopath.description>
+  
+  <!-- EN: pyromaniac -->
+  <Pyromaniac.degreeDatas.pyromaniac.label>piromanas</Pyromaniac.degreeDatas.pyromaniac.label>
+  <!-- EN: {PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires, and will occasionally go on random fire starting sprees. {PAWN_pronoun} will be happy around flames, and happier when wielding an incendiary weapon. -->
+  <Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_nameDef} dievina ugnį. {PAWN_pronoun} niekada negesns gaisrų ir kartais pradės atsitiktinai viską padeginėti. {PAWN_pronoun} bus laimingas būdamas aplink liepsnas ir {PAWN_possessive} patiks valdyti padegamuosius ginklus.</Pyromaniac.degreeDatas.pyromaniac.description>
+  
+  <!-- EN: quick sleeper -->
+  <QuickSleeper.degreeDatas.quick_sleeper.label>greitai išmiegantis</QuickSleeper.degreeDatas.quick_sleeper.label>
+  <!-- EN: {PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time. -->
+  <QuickSleeper.degreeDatas.quick_sleeper.description>{PAWN_nameDef} nereikia miegot tiek daug kiek vidutiniam asmeniui. Ar {PAWN_pronoun} miega ant lovos, ar ant žemės, {PAWN_pronoun} pilnai pailsės per maždaug du trečdalius įprastinio laiko.</QuickSleeper.degreeDatas.quick_sleeper.description>
+  
+  <!-- EN: slow learner -->
+  <SlowLearner.degreeDatas.slow_learner.label>lėtai besimokantis</SlowLearner.degreeDatas.slow_learner.label>
+  <!-- EN: {PAWN_nameDef} is slow on the uptake. {PAWN_pronoun} learns much slower than others. -->
+  <SlowLearner.degreeDatas.slow_learner.description>{PAWN_nameDef} lėtai sugeria informaciją. {PAWN_pronoun} mokosi lėčiau nei kiti.</SlowLearner.degreeDatas.slow_learner.description>
+  
+  <!-- EN: too smart -->
+  <TooSmart.degreeDatas.too_smart.label>per protingas</TooSmart.degreeDatas.too_smart.label>
+  <!-- EN: {PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric. -->
+  <TooSmart.degreeDatas.too_smart.description>{PAWN_nameDef} yra per daug protingas savo patiers labui. {PAWN_pronoun} išmoksta viską daug greičiau nei visi, bet gali būti gana ekscentriškas.</TooSmart.degreeDatas.too_smart.description>
+  
+  <!-- EN: tortured artist -->
+  <TorturedArtist.degreeDatas.tortured_artist.label>besikankinantis menininkas</TorturedArtist.degreeDatas.tortured_artist.label>
+  <!-- EN: {PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break. -->
+  <TorturedArtist.degreeDatas.tortured_artist.description>{PAWN_nameDef} jaučiasi svetimas ir nesuprastas kitų žmonių. {PAWN_pronoun} turės nuolatinį nuotaikos sumažėjimą, bet po proto pakrikimo turi tikimybę (50%) gauti kūrybinį įkvėpimą.</TorturedArtist.degreeDatas.tortured_artist.description>
+  <!-- EN: As a suffering tortured artist, [PAWN_nameIndef] has experienced an inspiration. -->
+  <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>Kaip besikankinantis menininkas, [PAWN_nameIndef] patyrė įkvėpimą.</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
+  
+  <!-- EN: tough -->
+  <Tough.degreeDatas.tough.label>tvirtas</Tough.degreeDatas.tough.label>
+  <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill. -->
+  <Tough.degreeDatas.tough.description>{PAWN_nameDef} turi storą odą, tankius audinius ir patvarius kaulus. {PAWN_pronoun} patiria daug mažiau žalos nei kiti žmonės gavę tuos pačius smūgius. {PAWN_pronoun} yra itin sunku nužudyti.</Tough.degreeDatas.tough.description>
+  
+  <!-- EN: body modder -->
+  <Transhumanist.degreeDatas.body_modder.label>kūno modifikuotojas</Transhumanist.degreeDatas.body_modder.label>
+  <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced with artificial body parts or xenogenetics. -->
+  <Transhumanist.degreeDatas.body_modder.description>{PAWN_nameDef} jaučiasi apribotas savo gležname žmogaus kūne. {PAWN_pronoun} dažnai svajoja, kaip būtų pagerintas dirbtinėmis kūno dalimis arba ateivių genais.</Transhumanist.degreeDatas.body_modder.description>
+  
+  <!-- EN: undergrounder -->
+  <Undergrounder.degreeDatas.undergrounder.label>požeminis</Undergrounder.degreeDatas.undergrounder.label>
+  <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness. -->
+  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef} neturi poreikio būti lauke ar jausti dienos šviesą. {PAWN_pronoun} niekada nesijaus uždarytas, nepriklausomai kiek ilgai {PAWN_pronoun} bus viduje ir {PAWN_pronoun} netrukdo tamsa.</Undergrounder.degreeDatas.undergrounder.description>
+  
+  <!-- EN: wimp -->
+  <Wimp.degreeDatas.wimp.label>silpnuolis</Wimp.degreeDatas.wimp.label>
+  <!-- EN: {PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize {PAWN_objective}. -->
+  <Wimp.degreeDatas.wimp.description>{PAWN_nameDef} yra silpnas ir bailus. Net ir nestiprus skausmas {PAWN_objective} pavers neveiksniu.</Wimp.degreeDatas.wimp.description>
+  
+</LanguageData>

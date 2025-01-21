@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: temperate forest -->
+  <TemperateForest.label>vidutinio klimato miškas</TemperateForest.label>
+  <!-- EN: Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around among the trees and on the plains. -->
+  <TemperateForest.description>Lapuočių miškai su derlingomis laukymėmis. Lygumos ir miškai pilni įvairių rūšių gyvūnų.</TemperateForest.description>
+  
+  <!-- EN: temperate swamp -->
+  <TemperateSwamp.label>vidutinio klimato pelkė</TemperateSwamp.label>
+  <!-- EN: Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures. -->
+  <TemperateSwamp.description>Pelkynai pilni žolių ir ligų. Tanki augmenija trukdo vaikščioti ir teritorijų valymas statymui atima daug laiko. Didžioji dalis grunto yra nepakankamai stabilus kad išlaikytų sunkius pastatus.</TemperateSwamp.description>
+  
+</LanguageData>

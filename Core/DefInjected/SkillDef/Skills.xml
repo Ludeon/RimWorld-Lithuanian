@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals -->
+  <Animals.label>gyvūnai</Animals.label>
+  <!-- EN: Taming, training, and controlling animals. -->
+  <Animals.description>Gyvūnų jaukinimas, dresavimas ir suvaldymas</Animals.description>
+  <!-- EN: animals -->
+  <Animals.skillLabel>gyvūnai</Animals.skillLabel>
+  
+  <!-- EN: artistic -->
+  <Artistic.label>artistiškumas</Artistic.label>
+  <!-- EN: Crafting art. -->
+  <Artistic.description>Meno kūrimas.</Artistic.description>
+  <!-- EN: artistic -->
+  <Artistic.skillLabel>artistiškumas</Artistic.skillLabel>
+  
+  <!-- EN: construction -->
+  <Construction.label>statymas</Construction.label>
+  <!-- EN: Constructing and deconstructing structures and furniture. -->
+  <Construction.description>Pastatų ir baldų statymas ir griovimas.</Construction.description>
+  <!-- EN: construction -->
+  <Construction.skillLabel>statymas</Construction.skillLabel>
+  
+  <!-- EN: cooking -->
+  <Cooking.label>maisto gaminimas</Cooking.label>
+  <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
+  <Cooking.description>Patiekalų gaminimas iš žalių ingredientų, greitai ir be atsitiktinių apsinuodijimų maistu.</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.skillLabel>maisto gaminimas</Cooking.skillLabel>
+  
+  <!-- EN: crafting -->
+  <Crafting.label>meistravimas</Crafting.label>
+  <!-- EN: Crafting general items including weapons, components, and refined resources. -->
+  <Crafting.description>Visokių daiktų meistravimas, įskaitant ginklus, komponentus ir perdirbtus išteklius.</Crafting.description>
+  <!-- EN: crafting -->
+  <Crafting.skillLabel>meistravimas</Crafting.skillLabel>
+  
+  <!-- EN: intellectual -->
+  <Intellectual.label>intelektualumas</Intellectual.label>
+  <!-- EN: Researching and drug synthesis. -->
+  <Intellectual.description>Tyrimai ir medikamentų sintezė.</Intellectual.description>
+  <!-- EN: intellectual -->
+  <Intellectual.skillLabel>intelektualumas</Intellectual.skillLabel>
+  
+  <!-- EN: medical -->
+  <Medicine.label>medicininis</Medicine.label>
+  <!-- EN: Tending wounds and diseases and performing surgery. -->
+  <Medicine.description>Žaizdų ir ligų gydymas ir operavimas.</Medicine.description>
+  <!-- EN: medical -->
+  <Medicine.skillLabel>medicininis</Medicine.skillLabel>
+  
+  <!-- EN: melee -->
+  <Melee.label>artima kova</Melee.label>
+  <!-- EN: Melee combat, both armed and unarmed. -->
+  <Melee.description>Artima kova, tiek su ginklais, tiek be.</Melee.description>
+  <!-- EN: melee -->
+  <Melee.skillLabel>artima kova</Melee.skillLabel>
+  
+  <!-- EN: mining -->
+  <Mining.label>kalnakasyba</Mining.label>
+  <!-- EN: Digging tunnels and extracting buried resources. -->
+  <Mining.description>Tunelių kasimas ir žemės išteklių iškasimas.</Mining.description>
+  <!-- EN: mining -->
+  <Mining.skillLabel>kalnakasyba</Mining.skillLabel>
+  
+  <!-- EN: plants -->
+  <Plants.label>augalai</Plants.label>
+  <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
+  <Plants.description>Kultūrinių augalų sėjimas ir priežiūra, derliaus nuėmimas ir maisto surinkimas gamtoje keliaujant.</Plants.description>
+  <!-- EN: plants -->
+  <Plants.skillLabel>augalai</Plants.skillLabel>
+  
+  <!-- EN: shooting -->
+  <Shooting.label>šaudymas</Shooting.label>
+  <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
+  <Shooting.description>Nuotolinė kova tiek su technologiškai pažangiais, tiek primityviais ginklais.</Shooting.description>
+  <!-- EN: shooting -->
+  <Shooting.skillLabel>šaudymas</Shooting.skillLabel>
+  
+  <!-- EN: social -->
+  <Social.label>socialumas</Social.label>
+  <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
+  <Social.description>Derybų vykdymas, įtikinėjimas, manipuliavimas, lyderiavimas ir kitų nuotaikos pakėlimas.</Social.description>
+  <!-- EN: social -->
+  <Social.skillLabel>socialumas</Social.skillLabel>
+  
+</LanguageData>

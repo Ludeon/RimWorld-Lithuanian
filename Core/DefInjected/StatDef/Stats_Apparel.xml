@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Armor - Blunt -->
+  <ArmorRating_Blunt.label>Šarvai - Nuo buko</ArmorRating_Blunt.label>
+  <!-- EN: The protection given against blunt damage like fists, club impacts and rock falls.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
+  <ArmorRating_Blunt.description>Apsauga nuo žalos buku daiktu, kaip kumščiai, smūgiai kuoka ir krentantys akmenys.\n\nGaunant žalą, pirmiausia iš šios šarvų vertės yra atimama atakuojančiojo šarvų pramušimo vertė.\n\nTada likusi šarvų vertė lyginama su atsitiktiniu skaičiumi nuo 0 iki 100.\n\n    – Jei atsitiktinis skaičius yra mažesnis nei pusė šarvų vertės, žala yra atremiama pilnai.\n    – Jei atsitiktinis skaičius yra didesnis nei pusė šarvų vertės, bet ne didesnis už šarvų vertę, žala yra sumažinama per pusę ir pakeičiama į buką.\n    – Jei atsitiktinis skaičius yra didesnis už šarvų vertę, šarvai neturi jokios įtakos.\n\nPavyzdžiui, esant 90% šarvų vertei prieš ataką su 10% šarvų pramušimu, yra 40% tikimybė, kad ataka bus pilnai atremta, ir 40% tikimybė, kad žala bus sumažinta.\n\nKiekvienas šarvų sluoksnis skaičiuojamas atskirai, einant iš išorės gilyn.</ArmorRating_Blunt.description>
+  <!-- EN: Armor - Blunt (armor stat) -->
+  <ArmorRating_Blunt.labelForFullStatList>Šarvai - Nuo buko (šarvų statistinis rodiklis)</ArmorRating_Blunt.labelForFullStatList>
+  
+  <!-- EN: Armor - Heat -->
+  <ArmorRating_Heat.label>Šarvai - Nuo karščio</ArmorRating_Heat.label>
+  <!-- EN: The protection given against temperature-related damage like burns.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
+  <ArmorRating_Heat.description>Apsauga nuo su temperatūra susijusios žalos, kaip nudegimai.\n\nGaunant žalą, pirmiausia iš šios šarvų vertės yra atimama atakuojančiojo šarvų pramušimo vertė.\n\nTada likusi šarvų vertė lyginama su atsitiktiniu skaičiumi nuo 0 iki 100.\n\n    – Jei atsitiktinis skaičius yra mažesnis nei pusė šarvų vertės, žala yra atremiama pilnai.\n    – Jei atsitiktinis skaičius yra didesnis nei pusė šarvų vertės, bet ne didesnis už šarvų vertę, žala yra sumažinama per pusę ir pakeičiama į buką.\n    – Jei atsitiktinis skaičius yra didesnis už šarvų vertę, šarvai neturi jokios įtakos.\n\nPavyzdžiui, esant 90% šarvų vertei prieš ataką su 10% šarvų pramušimu, yra 40% tikimybė, kad ataka bus pilnai atremta, ir 40% tikimybė, kad žala bus sumažinta.\n\nKiekvienas šarvų sluoksnis skaičiuojamas atskirai, einant iš išorės gilyn.</ArmorRating_Heat.description>
+  <!-- EN: Armor - Heat (armor stat) -->
+  <ArmorRating_Heat.labelForFullStatList>Šarvai - Nuo karščio (šarvų statistinis rodiklis)</ArmorRating_Heat.labelForFullStatList>
+  
+  <!-- EN: Armor - Sharp -->
+  <ArmorRating_Sharp.label>Šarvai - Nuo aštraus</ArmorRating_Sharp.label>
+  <!-- EN: The protection given against sharp damage like bullets, knife stabs, explosions, and animal bites.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
+  <ArmorRating_Sharp.description>Apsauga nuo žalos aštriu daiktu, kaip kulkos, peilių dūriai, sprogimai ir gyvūnų įkandimai.\n\nGaunant žalą, pirmiausia iš šios šarvų vertės yra atimama atakuojančiojo šarvų pramušimo vertė.\n\nTada likusi šarvų vertė lyginama su atsitiktiniu skaičiumi nuo 0 iki 100.\n\n    – Jei atsitiktinis skaičius yra mažesnis nei pusė šarvų vertės, žala yra atremiama pilnai.\n    – Jei atsitiktinis skaičius yra didesnis nei pusė šarvų vertės, bet ne didesnis už šarvų vertę, žala yra sumažinama per pusę ir pakeičiama į buką.\n    – Jei atsitiktinis skaičius yra didesnis už šarvų vertę, šarvai neturi jokios įtakos.\n\nPavyzdžiui, esant 90% šarvų vertei prieš ataką su 10% šarvų pramušimu, yra 40% tikimybė, kad ataka bus pilnai atremta, ir 40% tikimybė, kad žala bus sumažinta.\n\nKiekvienas šarvų sluoksnis skaičiuojamas atskirai, einant iš išorės gilyn.</ArmorRating_Sharp.description>
+  <!-- EN: Armor - Sharp (armor stat) -->
+  <ArmorRating_Sharp.labelForFullStatList>Šarvai - Nuo aštraus (šarvų statistinis rodiklis)</ArmorRating_Sharp.labelForFullStatList>
+  
+  <!-- EN: Shield max energy -->
+  <EnergyShieldEnergyMax.label>Maksimali skydo energija</EnergyShieldEnergyMax.label>
+  <!-- EN: The maximum energy a shield can have at one time.\n\nMore energy absorbs more damage. -->
+  <EnergyShieldEnergyMax.description>Maksimali energija, kurią vienu metu gali turėti skydas.\n\Daugiau energijos sugeria daugiau žalos.</EnergyShieldEnergyMax.description>
+  
+  <!-- EN: Shield recharge rate -->
+  <EnergyShieldRechargeRate.label>Skydo įkrovimo greitis</EnergyShieldRechargeRate.label>
+  <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
+  <EnergyShieldRechargeRate.description>Greitis, kuriuo skydas įgyja energijos tol, kol jis nėra sulūžęs.</EnergyShieldRechargeRate.description>
+  <!-- EN: {0}/s -->
+  <EnergyShieldRechargeRate.formatString>{0}/s</EnergyShieldRechargeRate.formatString>
+  
+  <!-- EN: equip delay -->
+  <EquipDelay.label>ekipavimo trukmė</EquipDelay.label>
+  <!-- EN: The time it takes to equip and unequip this item. -->
+  <EquipDelay.description>Kiek laiko užtrunka šį daiktą ekipuoti ar nusiimti.</EquipDelay.description>
+  <!-- EN: {0} s -->
+  <EquipDelay.formatString>{0} s</EquipDelay.formatString>
+  
+  <!-- EN: Insulation - Cold -->
+  <Insulation_Cold.label>Izoliacija - Nuo šalčio</Insulation_Cold.label>
+  <!-- EN: How much this apparel improves a wearer's minimum comfortable temperature.\n\nGreater values allow surviving in colder temperatures. -->
+  <Insulation_Cold.description>Kiek šis drabužis pagerina minimalią komfortišką temperatūrą.\n\nDidesnės vertės leidžia išgyventi esant šaltesnei temperatūrai.</Insulation_Cold.description>
+  <!-- EN: Insulation - Cold (armor stat) -->
+  <Insulation_Cold.labelForFullStatList>Izoliacija - Nuo šalčio (šarvų statistinis rodiklis)</Insulation_Cold.labelForFullStatList>
+  
+  <!-- EN: Insulation - Heat -->
+  <Insulation_Heat.label>Izoliacija - Nuo karščio</Insulation_Heat.label>
+  <!-- EN: How much this apparel improves a wearer's maximum comfortable temperature.\n\nGreater values allow surviving in warmer temperatures. -->
+  <Insulation_Heat.description>Kiek šis drabužis pagerina maksimalią komfortišką temperatūrą.\n\nDidesnės vertės leidžia išgyventi esant šiltesnei temperatūrai.</Insulation_Heat.description>
+  <!-- EN: Insulation - Heat (armor stat) -->
+  <Insulation_Heat.labelForFullStatList>Izoliacija - Nuo karščio (šarvų statistinis rodiklis)</Insulation_Heat.labelForFullStatList>
+  
+  <!-- EN: Smokepop pack radius -->
+  <SmokepopBeltRadius.label>dūmų užtaiso paketo spindulys</SmokepopBeltRadius.label>
+  <!-- EN: The area obscured when a smokepop pack detonates. -->
+  <SmokepopBeltRadius.description>Uždengtas plotas, kai detonuojamas dūmų užtaiso paketas.</SmokepopBeltRadius.description>
+  <!-- EN: {0} c -->
+  <SmokepopBeltRadius.formatString>{0} l</SmokepopBeltRadius.formatString>
+  
+  <!-- EN: Armor - Material effect multiplier -->
+  <StuffEffectMultiplierArmor.label>Šarvai – Medžiagos efekto daugiklis</StuffEffectMultiplierArmor.label>
+  
+  <!-- EN: Insulation - Cold - Material effect multiplier -->
+  <StuffEffectMultiplierInsulation_Cold.label>>Izoliacija - Nuo šalčio – Medžiagos efekto daugiklis</StuffEffectMultiplierInsulation_Cold.label>
+  
+  <!-- EN: Insulation - Heat - Material effect multiplier -->
+  <StuffEffectMultiplierInsulation_Heat.label>Izoliacija - Nuo karščio – Medžiagos efekto daugiklis</StuffEffectMultiplierInsulation_Heat.label>
+  
+</LanguageData>

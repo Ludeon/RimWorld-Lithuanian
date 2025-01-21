@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal products -->
+  <AnimalProductRaw.label>gyvuliniai produktai</AnimalProductRaw.label>
+  
+  <!-- EN: animals -->
+  <Animals.label>gyvūnai</Animals.label>
+  
+  <!-- EN: apparel -->
+  <Apparel.label>apranga</Apparel.label>
+  
+  <!-- EN: armor -->
+  <ApparelArmor.label>šarvai</ApparelArmor.label>
+  
+  <!-- EN: misc -->
+  <ApparelMisc.label>įvairūs</ApparelMisc.label>
+  
+  <!-- EN: noble apparel -->
+  <ApparelNoble.label>kilmingųjų apranga</ApparelNoble.label>
+  
+  <!-- EN: utility -->
+  <ApparelUtility.label>pagalbiniai</ApparelUtility.label>
+  
+  <!-- EN: headgear -->
+  <ArmorHeadgear.label>galvos apdangalai</ArmorHeadgear.label>
+  
+  <!-- EN: artifacts -->
+  <Artifacts.label>artefaktai</Artifacts.label>
+  
+  <!-- EN: body parts -->
+  <BodyParts.label>kūno dalys</BodyParts.label>
+  
+  <!-- EN: archotech -->
+  <BodyPartsArchotech.label>archotechnologijos</BodyPartsArchotech.label>
+  
+  <!-- EN: bionic -->
+  <BodyPartsBionic.label>bionika</BodyPartsBionic.label>
+  
+  <!-- EN: mechtech -->
+  <BodyPartsMechtech.label>TODO</BodyPartsMechtech.label>
+  
+  <!-- EN: natural -->
+  <BodyPartsNatural.label>natūralūs</BodyPartsNatural.label>
+  
+  <!-- EN: prosthetic -->
+  <BodyPartsProsthetic.label>protezai</BodyPartsProsthetic.label>
+  
+  <!-- EN: simple parts -->
+  <BodyPartsSimple.label>paprastos detalės</BodyPartsSimple.label>
+  
+  <!-- EN: ultratech -->
+  <BodyPartsUltra.label>ultratechnologijos</BodyPartsUltra.label>
+  
+  <!-- EN: buildings -->
+  <Buildings.label>statiniai</Buildings.label>
+  
+  <!-- EN: art -->
+  <BuildingsArt.label>menas</BuildingsArt.label>
+  
+  <!-- EN: furniture -->
+  <BuildingsFurniture.label>baldai</BuildingsFurniture.label>
+  
+  <!-- EN: recreation -->
+  <BuildingsJoy.label>pramogos</BuildingsJoy.label>
+  
+  <!-- EN: misc -->
+  <BuildingsMisc.label>kita</BuildingsMisc.label>
+  
+  <!-- EN: power -->
+  <BuildingsPower.label>elektros energija</BuildingsPower.label>
+  
+  <!-- EN: production -->
+  <BuildingsProduction.label>gamyba</BuildingsProduction.label>
+  
+  <!-- EN: security -->
+  <BuildingsSecurity.label>saugumas</BuildingsSecurity.label>
+  
+  <!-- EN: special -->
+  <BuildingsSpecial.label>specialūs</BuildingsSpecial.label>
+  
+  <!-- EN: temperature -->
+  <BuildingsTemperature.label>temperatūra</BuildingsTemperature.label>
+  
+  <!-- EN: chunks -->
+  <Chunks.label>gabalai</Chunks.label>
+  
+  <!-- EN: corpses -->
+  <Corpses.label>lavonai</Corpses.label>
+  
+  <!-- EN: animal corpses -->
+  <CorpsesAnimal.label>gyvūnų lavonai</CorpsesAnimal.label>
+  
+  <!-- EN: humanlike corpses -->
+  <CorpsesHumanlike.label>žmogiški lavonai</CorpsesHumanlike.label>
+  
+  <!-- EN: insect corpses -->
+  <CorpsesInsect.label>vabzdžių lavonai</CorpsesInsect.label>
+  
+  <!-- EN: mechanoid corpses -->
+  <CorpsesMechanoid.label>mechanoidų lavonai</CorpsesMechanoid.label>
+  
+  <!-- EN: drugs -->
+  <Drugs.label>medikamentai</Drugs.label>
+  
+  <!-- EN: eggs (fert.) -->
+  <EggsFertilized.label>kiaušiniai (apv.)</EggsFertilized.label>
+  
+  <!-- EN: eggs (unfert.) -->
+  <EggsUnfertilized.label>kiaušiniai (neapv.)</EggsUnfertilized.label>
+  
+  <!-- EN: meals -->
+  <FoodMeals.label>patiekalai</FoodMeals.label>
+  
+  <!-- EN: raw food -->
+  <FoodRaw.label>žalias maistas</FoodRaw.label>
+  
+  <!-- EN: foods -->
+  <Foods.label>maistas</Foods.label>
+  
+  <!-- EN: grenades -->
+  <Grenades.label>granatos</Grenades.label>
+  
+  <!-- EN: headgear -->
+  <Headgear.label>galvos apdangalai</Headgear.label>
+  
+  <!-- EN: headgear -->
+  <HeadgearNoble.label>galvos apdangalai</HeadgearNoble.label>
+  
+  <!-- EN: inert relics -->
+  <InertRelics.label>TODO</InertRelics.label>
+  
+  <!-- EN: items -->
+  <Items.label>daiktai</Items.label>
+  
+  <!-- EN: misc -->
+  <ItemsMisc.label>įvairūs</ItemsMisc.label>
+  
+  <!-- EN: leathers -->
+  <Leathers.label>odos</Leathers.label>
+  
+  <!-- EN: manufactured -->
+  <Manufactured.label>gaminiai</Manufactured.label>
+  
+  <!-- EN: meat -->
+  <MeatRaw.label>mėsa</MeatRaw.label>
+  
+  <!-- EN: medicine -->
+  <Medicine.label>vaistai</Medicine.label>
+  
+  <!-- EN: mortar shells -->
+  <MortarShells.label>minosvaidžio sviediniai</MortarShells.label>
+  
+  <!-- EN: neurotrainers -->
+  <Neurotrainers.label>neurotreniruokliai</Neurotrainers.label>
+  
+  <!-- EN: psytrainers -->
+  <NeurotrainersPsycast.label>psitreniruokliai</NeurotrainersPsycast.label>
+  
+  <!-- EN: skilltrainers -->
+  <NeurotrainersSkill.label>įgūdžių treniruokliai</NeurotrainersSkill.label>
+  
+  <!-- EN: vegetarian -->
+  <PlantFoodRaw.label>vegetariški</PlantFoodRaw.label>
+  
+  <!-- EN: plant matter -->
+  <PlantMatter.label>augaliniai</PlantMatter.label>
+  
+  <!-- EN: plants -->
+  <Plants.label>augalai</Plants.label>
+  
+  <!-- EN: raw resources -->
+  <ResourcesRaw.label>žaliavos</ResourcesRaw.label>
+  
+  <!-- EN: root -->
+  <Root.label>šaknys</Root.label>
+  
+  <!-- EN: stone blocks -->
+  <StoneBlocks.label>akmenų blokai</StoneBlocks.label>
+  
+  <!-- EN: stone chunks -->
+  <StoneChunks.label>akmenų gabalai</StoneChunks.label>
+  
+  <!-- EN: stumps -->
+  <Stumps.label>kelmai</Stumps.label>
+  
+  <!-- EN: techprints -->
+  <Techprints.label>techniniai brėžiniai</Techprints.label>
+  
+  <!-- EN: textiles -->
+  <Textiles.label>tekstilė</Textiles.label>
+  
+  <!-- EN: unfinished -->
+  <Unfinished.label>nebaigti</Unfinished.label>
+  
+  <!-- EN: weapons -->
+  <Weapons.label>ginklai</Weapons.label>
+  
+  <!-- EN: melee weapons -->
+  <WeaponsMelee.label>artimos kovos ginklai</WeaponsMelee.label>
+  
+  <!-- EN: persona weapons -->
+  <WeaponsMeleeBladelink.label>personos ginklai</WeaponsMeleeBladelink.label>
+  
+  <!-- EN: ranged weapons -->
+  <WeaponsRanged.label>nuotoliniai ginklai</WeaponsRanged.label>
+  
+  <!-- EN: wools -->
+  <Wools.label>vilnos</Wools.label>
+  
+</LanguageData>

@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- Audiovisuals -->
+  <!-- EN: Audiovisuals -->
+  <Audiovisuals>Garsas ir vaizdas</Audiovisuals>
+  <!-- EN: Master volume -->
+  <MasterVolume>Pagrindinis garsumas</MasterVolume>
+  <!-- EN: Game volume -->
+  <GameVolume>Žaidimo garsumas</GameVolume>
+  <!-- EN: Music volume -->
+  <MusicVolume>Muzikos garsumas</MusicVolume>
+  <!-- EN: Ambience volume -->
+  <AmbientVolume>Aplinkos garsumas</AmbientVolume>
+  <!-- EN: UI volume -->
+  <UIVolume>Sąsajos garsumas</UIVolume>
+  <!-- EN: Affects all sounds. -->
+  <MasterVolumeTooltip>Paveikia visus garsus.</MasterVolumeTooltip>
+  <!-- EN: Affects all in world sounds, e.g. chopping trees, building walls. -->
+  <GameVolumeTooltip>Paveikia visus žaidimo pasaulio garsus, pvz. medžių kirtimas, sienų statymas.</GameVolumeTooltip>
+  <!-- EN: Affects music. -->
+  <MusicVolumeTooltip>Paveikia muziką</MusicVolumeTooltip>
+  <!-- EN: Affects all ambient sounds, e.g. wind, insects. -->
+  <AmbientVolumeTooltip>Paveikia visus aplinkos garsus, pvz. vėjas, vabzdžiai.</AmbientVolumeTooltip>
+  <!-- EN: Affects all interface sounds, e.g. button clicks, messages. -->
+  <UIVolumeTooltip>Paveikia visus sąsajos garsus, pvz. mygtukų paspaudimai, pranešimai.</UIVolumeTooltip>
+  <!-- EN: Anti-aliasing -->
+  <Antialiasing>Tekstūrų lyginimas (Anti-aliasing)</Antialiasing>
+
+  <!-- Gameplay -->
+  <!-- EN: Screen-edge mouse scroll -->
+  <EdgeScreenScroll>Slinkimas pele ekrano kraštais</EdgeScreenScroll>
+  <!-- EN: Pause on load -->
+  <PauseOnLoad>Sustabdyti įkėlus</PauseOnLoad>
+  <!-- EN: Pause on urgent letter -->
+  <PauseOnUrgentLetter>Sustabdyti atsiradus skubiam laiškui</PauseOnUrgentLetter>
+  <!-- EN: Pause on letter -->
+  <AutomaticPauseModeSetting>Sustabdyti atsiradus pranešimui</AutomaticPauseModeSetting>
+  <!-- EN: Disable game-specific cursor -->
+  <CustomCursor>Išjungti specifinį žaidimo žymeklį</CustomCursor>
+  <!-- EN: Hide hats on UI -->
+  <HatsShownOnlyOnMap>Paslėpti kepures sąsajoje</HatsShownOnlyOnMap>
+  <!-- EN: UI scale -->
+  <UIScale>Sąsajos mastelis</UIScale>
+  <!-- EN: Keyboard configuration -->
+  <KeyboardConfig>Klaviatūros konfigūracija</KeyboardConfig>
+  <!-- EN: Controller configuration -->
+  <ControllerConfig>valdymo pultelio nustatymai</ControllerConfig>
+  <!-- EN: Modify -->
+  <ModifyConfig>Pakeisti</ModifyConfig>
+  <!-- EN: Choose language -->
+  <ChooseLanguage>Pasirinkti kalbą</ChooseLanguage>
+  <!-- EN: Reset learning helper -->
+  <ResetAdaptiveTutor>Atstatyti mokymosi pagalbininką</ResetAdaptiveTutor>
+  <!-- EN: Tutor is reset. You will be now be re-taught all lessons from scratch. -->
+  <AdaptiveTutorIsReset>Mokytojas atstatytas. Būsi iš naujo išmokintas visų pamokų nuo pradžių.</AdaptiveTutorIsReset>
+  <!-- EN: Keyboard mode -->
+  <SteamDeckKeyboardMode>Klaviatūros režimas</SteamDeckKeyboardMode>
+  <!-- EN: Run in background -->
+  <RunInBackground>Tęsti veikimą fone</RunInBackground>
+  <!-- EN: Development mode -->
+  <DevelopmentMode>Programuotojo režimas</DevelopmentMode>
+  <!-- EN: Auto-reset mods config on crash -->
+  <ResetModsConfigOnCrash>Atstatyti žaidimo modifikacijų nustatymus po nulūžimo</ResetModsConfigOnCrash>
+  <!-- EN: Simulate not owning Royalty -->
+  <SimulateNotOwningRoyalty>Simuliuoti Karaliavimo neturėjimą</SimulateNotOwningRoyalty>
+  <!-- EN: Simulate not owning Ideology -->
+  <SimulateNotOwningIdeology>Simuliuoti Ideologijos neturėjimą</SimulateNotOwningIdeology>
+  <!-- EN: Simulate not owning Biotech -->
+  <SimulateNotOwningBiotech>Simuliuoti Biotechnologijų neturėjimą</SimulateNotOwningBiotech>
+  <!-- EN: Verbose logging -->
+  <LogVerbose>Detalus spausdinimas į įrašų bylą</LogVerbose>
+  <!-- EN: Save data folder -->
+  <SaveGameDataFolder>Išsaugotų duomenų katalogas</SaveGameDataFolder>
+  <!-- EN: Save data location -->
+  <SaveGameDataLocation>Išsaugotų duomenų vieta</SaveGameDataLocation>
+  <!-- EN: Log file folder -->
+  <LogFileFolder>Įrašų bylos katalogas</LogFileFolder>
+  <!-- EN: Log file location -->
+  <LogFileLocation>Įrašų bylos vieta</LogFileLocation>
+  <!-- EN: Open -->
+  <OpenFolder>Atidaryti</OpenFolder>
+  <!-- EN: Show -->
+  <ShowFolder>Rodyti</ShowFolder>
+  <!-- EN: Preferred "Name in Game" characters -->
+  <NamesYouWantToSee>Pirmenybė "Vardas Žaidime" veikėjams</NamesYouWantToSee>
+  <!-- EN: These characters will be more likely to appear randomly during play. -->
+  <NamesYouWantToSeeSubText> Bus labiau tikėtina kad šie veikėjai atsiras žaidžiant.</NamesYouWantToSeeSubText>
+  <!-- EN: Add name -->
+  <AddName>Pridėti vardą</AddName>
+  <!-- EN: Type the first name, nickname, or last name. -->
+  <TypeFirstNickOrLastName>Įrašyk vardą, pravardę arba pavardę.</TypeFirstNickOrLastName>
+  <!-- EN: This name is already on the preferred list. -->
+  <MessageAlreadyPreferredName>Šis vardas jau yra pageidautinų veikėjų sąraše.</MessageAlreadyPreferredName>
+  <!-- EN: Storyteller settings -->
+  <ChangeStoryteller>Pasakotojo nustatymai</ChangeStoryteller>
+  <!-- EN: Autosave interval -->
+  <AutosaveInterval>Automatiškai išsaugoti kas</AutosaveInterval>
+  <!-- EN: The number of in game days between each auto save. -->
+  <AutosaveIntervalTooltip>Žaidimo dienų skaičius tarp kiekvieno automatinio išsaugojimo.</AutosaveIntervalTooltip>
+  <!-- EN: Temperature unit -->
+  <TemperatureMode>Temp. formatas</TemperatureMode>
+  <!-- EN: Show realtime clock -->
+  <ShowRealtimeClock>Rodyti realų laiką laikrodyje</ShowRealtimeClock>
+  <!-- EN: Disable tiny font -->
+  <DisableTinyText>Išjungti mažą šriftą</DisableTinyText>
+  <!-- EN: Maximum number of colonies: {0} -->
+  <MaxNumberOfPlayerSettlements>Maksimalus kolonijų skaičius: {0}</MaxNumberOfPlayerSettlements>
+  <!-- EN: Map mouse drag sensitivity -->
+  <MapDragSensitivity>Žemėlapio tempimo jautrumas paspaudus pele</MapDragSensitivity>
+  <!-- EN: Plant wind sway -->
+  <PlantWindSway>Augalų lingavimas nuo vėjo</PlantWindSway>
+  <!-- EN: Enable test map sizes -->
+  <EnableTestMapSizes>Įjungti testinius žemėlapio dydžius</EnableTestMapSizes>
+  <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
+  <MaxPermadeathAutosaveIntervalInfo>Maksimalus automatinio išsaugojimo intervalas galutinės mirties režime yra {0} diena (-os).</MaxPermadeathAutosaveIntervalInfo>
+  <!-- EN: Mod Settings -->
+  <ModSettings>Žaidimo modifikacijų nustatymai</ModSettings>
+  <!-- EN: Permanently disable development mode -->
+  <PermanentlyDisableDevMode>Išjungti programuotojo režimą visam laikui</PermanentlyDisableDevMode>
+  <!-- EN: Texture compression -->
+  <TextureCompression>Tekstūrų suspaudimas</TextureCompression>
+  <!-- EN: Turning off texture compression will use much more video memory, but makes textures look slightly better in detailed areas. Only turn this off if you know you have lots of extra video memory.\n\nNote that using certain mods will often consume much more video memory, so you may need to turn this on if you add certain mods. -->
+  <TextureCompression_Tooltip>Išjungus tekstūrų suspaudimą bus naudojama daug daugiau vaizdo atminties, tačiau tekstūros atrodys šiek tiek geriau vietose su smulkiomis detalėmis. Išjunk tai tik jei žinai, kad turi daug papildomos vaizdo atminties.\n\nAtmink, kad naudojant tam tikras žaidimo modifikacijas dažnai sunaudojama daug daugiau vaizdo atminties, todėl gali tekti tai įjungti, jei pridėsi tam tikras žaidimo modifikacijas.</TextureCompression_Tooltip>
+  <!-- EN: Smooth camera jumps -->
+  <SmoothCameraJumps>Tolygūs kameros šuoliai</SmoothCameraJumps>
+  <!-- EN: When enabled, the camera will quickly pan when focusing on a new location. When disabled, the camera will jump instantly. -->
+  <SmoothCameraJumpsDesc>Kai įjungta, kamera greitai nuslinks kai fokusuojama į naują vietą. Išjungus, kamera nušoks iškart.</SmoothCameraJumpsDesc>
+
+  <!-- Resolution -->
+  <!-- EN: Resolution -->
+  <Resolution>Rezoliucija</Resolution>
+  <!-- EN: Fullscreen -->
+  <Fullscreen>Per visą ekraną</Fullscreen>
+  <!-- EN: Borderless fullscreen -->
+  <BorderlessFullscreen>Per visą ekraną be lango kraštų</BorderlessFullscreen>
+  <!-- EN: To run RimWorld in borderless fullscreen mode:\n\n1) Open Steam\n2) Go to the "Library" tab at the top\n3) Find RimWorld on the list and right-click it\n4) Choose "Properties..."\n5) Add "-popupwindow" without quotes to "Launch options" in the "General" tab\n6) Restart game\n7) If done correctly, you won't see this window\n\nHint: Use Windows Key + Shift + Left/Right to move the window between your monitors. -->
+  <BorderlessFullscreenInstructions>Norėdamas paleisti RimWorld viso ekrano režimu be lango kraštų:\n\n1) Atidaryk Steam\n2) Eik į viršuje esantį langą „Library“.\n3) Sąraše rask „RimWorld“ ir spustelėk jį dešiniuoju pelės klavišu.\n4) Pasirinkite „Properties..."\n5) Pridėk "-popupwindow" be kabučių prie "Launch options" lange "General"\n6) Paleisk žaidimą iš naujo\n7) Jei viskas bus padaryta teisingai, šio lango nematysi\n\nPatarimas: naudokite "Windows" klavišą + Shift + Kairėn / Dešinėn, norėdamas perkelti langą tarp monitorių.</BorderlessFullscreenInstructions>
+
+  <!-- Mods -->
+  <!-- EN: Select mod... -->
+  <SelectMod>Pasirinkti žaidimo modifikaciją...</SelectMod>
+  <!-- EN: No configurable mods loaded. -->
+  <NoConfigurableMods>Nėra įkeltų konfigūruojamų žaidimo modifikacijų.</NoConfigurableMods>
+  
+  <!-- Options reset -->
+  <!-- EN: Restore all settings to default -->
+  <RestoreToDefaultSettingsLabel>Atstatyti visus nustatymus į pradinę būseną</RestoreToDefaultSettingsLabel>
+  <!-- EN: Restore defaults -->
+  <RestoreToDefaultSettings>Atstatyti į pradinę būseną</RestoreToDefaultSettings>
+  <!-- EN: All settings have been reset. The game will now restart automatically. -->
+  <ResetAndRestart>Visi nustatymai atstatyti. Žaidimas dabar persijungs iš naujo automatiškai.</ResetAndRestart>
+  <!-- EN: All settings will be reset to the default and the game will be restarted. Unsaved progress will be lost,\n\nContinue? -->
+  <ResetAndRestartConfirmationDialog>Visi nustatymai bus atstatyti į pradinę būseną. Neišsaugotas progresas dings,\n\nTęsti?</ResetAndRestartConfirmationDialog>
+  <!-- EN: Changing texture compression settings requires a restart. Unsaved progress will be lost.\n\nContinue? -->
+  <ChangedTextureCompressionRestart>Norint pakeisti tekstūros suspaudimo nustatymus, reikia paleisti iš naujo. Neišsaugotas progresas bus prarastas.\n\nTęsti?</ChangedTextureCompressionRestart>
+  
+  <!-- Background image -->
+  <!-- EN: Menu background -->
+  <SetBackgroundImage>Meniu fonas</SetBackgroundImage>
+
+  <!-- UNUSED -->
+  <OpenSaveGameDataFolder>Atidaryti išsaugotų duomenų katalogą</OpenSaveGameDataFolder>
+  <ShowSaveGameDataLocation>Parodyti išsaugotų duomenų vietą</ShowSaveGameDataLocation>
+  <OpenLogFileFolder>Atidaryti įrašų bylos katalogą</OpenLogFileFolder>
+  <ShowLogFileLocation>Parodyti įrašų bylos vietą</ShowLogFileLocation>
+
+</LanguageData>

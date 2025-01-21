@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: battery -->
+  <Battery.label>baterija</Battery.label>
+  <!-- EN: Stores electricity for later use. Charged batteries explode when exposed to rain or fire. -->
+  <Battery.description>Kaupia elektros energiją vėlesniam naudojimui. Įkrautos baterijos sprogsta nuo lietaus ar ugnies.</Battery.description>
+  
+  <!-- EN: chemfuel powered generator -->
+  <ChemfuelPoweredGenerator.label>degalais varomas generatorius</ChemfuelPoweredGenerator.label>
+  <!-- EN: Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
+  <ChemfuelPoweredGenerator.description>Gamina elektros energiją vartodamas degalus. Juos reikia rankomis periodiškai papildyti.</ChemfuelPoweredGenerator.description>
+  
+  <!-- EN: geothermal generator -->
+  <GeothermalGenerator.label>geoterminis generatorius</GeothermalGenerator.label>
+  <!-- EN: Produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
+  <GeothermalGenerator.description>Gamina elektros energiją iš geoterminių geizerių. Turi būti dedamas ant geizerio.</GeothermalGenerator.description>
+  
+  <!-- EN: power conduit -->
+  <PowerConduit.label>elektros kabeliai</PowerConduit.label>
+  <!-- EN: A bundle of electrical cables for moving power around. Can be placed under walls and other buildings. -->
+  <PowerConduit.description>Elektros kabelių pluoštas, skirtas elektros energijos tiekimui. Galima dėti po sienomis ir kitais statiniais.</PowerConduit.description>
+  
+  <!-- EN: power switch -->
+  <PowerSwitch.label>elektros jungiklis</PowerSwitch.label>
+  <!-- EN: Switches power on/off. -->
+  <PowerSwitch.description>Įjungia ir išjungia elektros srovę.</PowerSwitch.description>
+  
+  <!-- EN: solar generator -->
+  <SolarGenerator.label>saulės generatorius</SolarGenerator.label>
+  <!-- EN: Produces electricity from sunlight. Does not work in the dark or under artificial light. -->
+  <SolarGenerator.description>Gamina elektros energiją iš saulės šviesos. Neveikia tamsoje ar dirbtinėje šviesoje.</SolarGenerator.description>
+  
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>vandens malūno generatorius</WatermillGenerator.label>
+  <!-- EN: Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation. -->
+  <WatermillGenerator.description>Gamina elektrą iš upės. Turi būti padėtas su ratu judančiame vandenyje. Jei vandens malūnai yra per arti vienas kito, jų sukeliama turbulencija trukdys ir sumažins elektros energijos gamybą.</WatermillGenerator.description>
+  
+  <!-- EN: waterproof conduit -->
+  <WaterproofConduit.label>vandeniui atsparūs elektros kabeliai</WaterproofConduit.label>
+  <!-- EN: Insulated electrical cables for transmitting power under shallow water. -->
+  <WaterproofConduit.description>Izoliuoti elektros kabeliai energijai perduoti per seklų vandenį.</WaterproofConduit.description>
+  
+  <!-- EN: wind turbine -->
+  <WindTurbine.label>vėjo turbina</WindTurbine.label>
+  <!-- EN: A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
+  <WindTurbine.description>Vėjo varomas elektros generatorius. Norint užtikrinti optimalų oro srautą, reikia didelės laisvos erdvės priekyje ir gale.</WindTurbine.description>
+  
+  <!-- EN: wood-fired generator -->
+  <WoodFiredGenerator.label>malkomis kūrenamas generatorius</WoodFiredGenerator.label>
+  <!-- EN: Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
+  <WoodFiredGenerator.description>Gamina elektros energiją degindamas medieną. Reikia rankomis periodiškai pakrauti malkų.</WoodFiredGenerator.description>
+  
+</LanguageData>

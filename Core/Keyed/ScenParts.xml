@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- ======================== Non-grouped ========================-->
+  
+  <!-- EN: Your faction will be a {0}. -->
+  <ScenPart_PlayerFaction>Tavo frakcija bus {0}.</ScenPart_PlayerFaction>
+
+  <!-- EN: Start with 1 person. -->
+  <ScenPart_StartWithPawn>Pradėti su 1 žmogumi.</ScenPart_StartWithPawn>
+  <!-- EN: Start with {0} people. -->
+  <ScenPart_StartWithPawns>Pradėsi su {0} žmonėmis.</ScenPart_StartWithPawns>
+  <!-- EN: chosen from -->
+  <ScenPart_StartWithPawns_OutOf>pasirinktais iš</ScenPart_StartWithPawns_OutOf>
+  <!-- EN: random pet -->
+  <RandomPet>atsitiktinis augintinis</RandomPet>
+
+  <!-- EN: Start with research: {0} -->
+  <ScenPart_StartingResearchFinished>Pradėsi su baigtais tyrimais: {0}</ScenPart_StartingResearchFinished>
+  
+  <!-- EN: Arrive in drop pods. -->
+  <ScenPart_ArriveInDropPods>Atvyksi su transporto kapsulėmis.</ScenPart_ArriveInDropPods>
+
+  <!-- EN: The stat "{0}" will be universally multiplied by {1}. -->
+  <ScenPart_StatFactor>Statistinis rodiklis "{0}" bus visur padaugintas iš {1}.</ScenPart_StatFactor>
+
+  <!-- Pawn modifiers -->
+  <!-- EN: {0} have a {1} chance to start with {2}. -->
+  <ScenPart_PawnsHaveHediff>{0} turi {1} tikimybę pradėti su {2}.</ScenPart_PawnsHaveHediff>
+  <!-- EN: severity: {0} -->
+  <ConfigurableSeverity>sunkumas: {0}</ConfigurableSeverity>
+
+  <!-- EN: {0} have a {1} chance to have their {2} set between {3} and {4}. -->
+  <ScenPart_SetNeed>{0} turi {1} tikimybę turėti savo {2} nustatytą tarp {3} ir {4}.</ScenPart_SetNeed>
+  <!-- EN: level: {0} -->
+  <ConfigurableLevel>lygis: {0}</ConfigurableLevel>
+
+  <!-- EN: {0} have a {1} chance to start with trait: {2} -->
+  <ScenPart_PawnsHaveTrait>{0} turi {1} tikimybę pradėti su bruožu: {2}</ScenPart_PawnsHaveTrait>
+  <!-- EN: Characters and creatures explode on death ({0}, radius {1}). -->
+  <ScenPart_OnPawnDeathExplode>Veikėjai ir būtybės mirdami sprogsta ({0}, spindulys {1}).</ScenPart_OnPawnDeathExplode>
+  <!-- EN: {0} have a {1} chance to start naked. -->
+  <ScenPart_PawnsAreNaked>{0} turi {1} tikimybę pradėti nuogi.</ScenPart_PawnsAreNaked>
+  
+  <!-- Pawn filters -->
+  <!-- EN: Your people will be at least {0} years old. -->
+  <ScenPart_StartingPawnAgeMin>Tavo žmonės bus bent {0} metų.</ScenPart_StartingPawnAgeMin>
+  <!-- EN: Your people will be at most {0} years old. -->
+  <ScenPart_StartingPawnAgeMax>Tavo žmonės bus daugiausia {0} metų.</ScenPart_StartingPawnAgeMax>
+  <!-- EN: Your people will be between {0} and {1} years old. -->
+  <ScenPart_StartingPawnAgeRange>Tavo žmonės bus tarp {0} ir {1} metų.</ScenPart_StartingPawnAgeRange>
+
+  <!-- ======================== Grouped ========================-->
+
+  <!-- EN: Start with -->
+  <ScenPart_StartWith>Pradėsi su</ScenPart_StartWith>
+  <!-- EN: Map is scattered with -->
+  <ScenPart_MapScatteredWith>Vietovėje galima rasti</ScenPart_MapScatteredWith>
+  <!-- EN: Permanent game condition(s) -->
+  <ScenPart_PermaGameCondition>Nuolatinės žaidimo sąlygos</ScenPart_PermaGameCondition>
+  <!-- EN: Incident(s) disabled -->
+  <ScenPart_DisableIncident>Išjungti incidentai</ScenPart_DisableIncident>
+  <!-- EN: Incident created -->
+  <ScenPart_CreateIncident>Sukurtas incidentas</ScenPart_CreateIncident>
+  <!-- EN: Can never build -->
+  <ScenPart_DisallowBuilding>Negalima statyti niekada</ScenPart_DisallowBuilding>
+
+</LanguageData>

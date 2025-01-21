@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>viščiukas</Chicken.label>
+  <!-- EN: hen -->
+  <Chicken.labelFemale>višta</Chicken.labelFemale>
+  <!-- EN: rooster -->
+  <Chicken.labelMale>gaidys</Chicken.labelMale>
+  <!-- EN: chick -->
+  <Chicken.lifeStages.chick.label>vištelė</Chicken.lifeStages.chick.label>
+  <!-- EN: cockerel -->
+  <Chicken.lifeStages.cockerel.labelMale>gaidelis</Chicken.lifeStages.cockerel.labelMale>
+  
+  <!-- EN: duck -->
+  <Duck.label>antis</Duck.label>
+  <!-- EN: duckling -->
+  <Duck.lifeStages.duckling.label>ančiukas</Duck.lifeStages.duckling.label>
+  
+  <!-- EN: goose -->
+  <Goose.label>žąsis</Goose.label>
+  <!-- EN: geese -->
+  <Goose.labelPlural>žąsys</Goose.labelPlural>
+  
+  <!-- EN: turkey -->
+  <Turkey.label>kalakutas</Turkey.label>
+  
+</LanguageData>

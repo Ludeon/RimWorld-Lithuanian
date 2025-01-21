@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: penoxycyline -->
+  <Penoxycyline.label>penoksicilinas</Penoxycyline.label>
+  <!-- EN: A drug for preventing infections before they take hold. Blocks malaria, sleeping sickness, plague. Must be taken every five days to remain effective.\n\nThis drug only prevents new infections. It does not cure existing infections - even those that are not yet discovered. -->
+  <Penoxycyline.description>Vaistas, skirtas apsisaugoti nuo infekcijų prieš joms įsitvirtinus. Blokuoja maliariją, miegligę, marą. Kad išliktų veiksmingas, reikia vartoti kas penkias dienas.\n\nŠis vaistas apsaugo tik nuo naujų infekcijų. Jis neišgydo esamų infekcijų – net ir tų, kurios dar neatsiradusios.</Penoxycyline.description>
+  <!-- EN: Take {0} -->
+  <Penoxycyline.ingestible.ingestCommandString>Gerti {0}</Penoxycyline.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <Penoxycyline.ingestible.ingestReportString>Geria {0}.</Penoxycyline.ingestible.ingestReportString>
+  
+</LanguageData>

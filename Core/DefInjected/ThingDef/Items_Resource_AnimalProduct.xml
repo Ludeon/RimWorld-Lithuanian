@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary egg (fert.) -->
+  <EggCassowaryFertilized.label>kazuaro kiaušinis (apv.)</EggCassowaryFertilized.label>
+  <!-- EN: A fertilized cassowary egg. If all goes well, it should hatch into a baby cassowary. It can be eaten raw, but it's much better cooked. -->
+  <EggCassowaryFertilized.description>Apvaisintas kazario kiaušinis. Jei viskas gerai, iš jo turėtų išsiristi kazuaro jauniklis. Galima valgyti žalią, bet daug geriau keptas.</EggCassowaryFertilized.description>
+  
+  <!-- EN: chicken egg (fert.) -->
+  <EggChickenFertilized.label>vištos kiaušinis (apv.)</EggChickenFertilized.label>
+  <!-- EN: A fertilized chicken egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked. -->
+  <EggChickenFertilized.description>Apvaisintas vištos kiaušinis. Jei viskas gerai, iš jo turėtų išsiristi viščiukas. Galima valgyti žalią, bet daug geriau keptas.</EggChickenFertilized.description>
+  
+  <!-- EN: chicken egg (unfert.) -->
+  <EggChickenUnfertilized.label>vištos kiaušinis (neapv.)</EggChickenUnfertilized.label>
+  <!-- EN: An unfertilized chicken egg. It can be eaten raw, but it's much, much better cooked. -->
+  <EggChickenUnfertilized.description>Neapvaisintas vištos kiaušinis. Galima valgyti žalią, bet daug geriau keptas.</EggChickenUnfertilized.description>
+  
+  <!-- EN: cobra egg (fert.) -->
+  <EggCobraFertilized.label>kobros kiaušinis (apv.)</EggCobraFertilized.label>
+  <!-- EN: A fertilized cobra egg. If all goes well, it should hatch into a baby cobra. It can be eaten raw, but it's much better cooked. -->
+  <EggCobraFertilized.description>Apvaisintas kobros kiaušinis. Jei viskas gerai, iš jo turėtų išsiristi kobros jauniklis. Galima valgyti žalią, bet daug geriau keptas.</EggCobraFertilized.description>
+  
+  <!-- EN: duck egg (fert.) -->
+  <EggDuckFertilized.label>anties kiaušinis (apv.)</EggDuckFertilized.label>
+  <!-- EN: A fertilized duck egg. If all goes well, it should hatch into a duckling. It can be eaten raw, but it's much better cooked. -->
+  <EggDuckFertilized.description>Apvaisintas anties kiaušinis. Jei viskas gerai, iš jo turėtų išsiristi ančiukas. Galima valgyti žalią, bet daug geriau keptas.</EggDuckFertilized.description>
+  
+  <!-- EN: duck egg (unfert.) -->
+  <EggDuckUnfertilized.label>anties kiaušinis (neapv.)</EggDuckUnfertilized.label>
+  <!-- EN: An unfertilized duck egg. It can be eaten raw, but it's much, much better cooked. -->
+  <EggDuckUnfertilized.description>Neapvaisintas anties kiaušinis. Galima valgyti žalią, bet daug geriau keptas.</EggDuckUnfertilized.description>
+  
+  <!-- EN: emu egg (fert.) -->
+  <EggEmuFertilized.label>emu kiaušinis (apv.)</EggEmuFertilized.label>
+  <!-- EN: A fertilized emu egg. If all goes well, it should hatch into a baby emu. It can be eaten raw, but it's much better cooked. -->
+  <EggEmuFertilized.description>Apvaisintas emu kiaušinis. Jei viskas gerai, iš jo turėtų išsiristi emu jauniklis. Galima valgyti žalią, bet daug geriau keptas.</EggEmuFertilized.description>
+  
+  <!-- EN: goose egg (fert.) -->
+  <EggGooseFertilized.label>žąsies kiaušinis (apv.)</EggGooseFertilized.label>
+  <!-- EN: A fertilized goose egg. If all goes well, it should hatch into a baby goose. It can be eaten raw, but it's much better cooked. -->
+  <EggGooseFertilized.description>Apvaisintas žąsies kiaušinis. Jei viskas gerai, iš jo turėtų išsiristi žąsiukas. Galima valgyti žalią, bet daug geriau keptas.</EggGooseFertilized.description>
+  
+  <!-- EN: goose egg (unfert.) -->
+  <EggGooseUnfertilized.label>žąsies kiaušinis (neapv.)</EggGooseUnfertilized.label>
+  <!-- EN: An unfertilized goose egg. It can be eaten raw, but it's much, much better cooked. -->
+  <EggGooseUnfertilized.description>Neapvaisintas žąsies kiaušinis. Galima valgyti žalią, bet daug geriau keptas.</EggGooseUnfertilized.description>
+  
+  <!-- EN: iguana egg (fert.) -->
+  <EggIguanaFertilized.label>iguanos kiaušinis (apv.)</EggIguanaFertilized.label>
+  <!-- EN: A fertilized iguana egg. If all goes well, it should hatch into a baby iguana. It can be eaten raw, but it's much better cooked. -->
+  <EggIguanaFertilized.description>Apvaisintas iguanos kiaušinis. Jei viskas gerai, iš jo turėtų išsiristi iguanos jauniklis. Galima valgyti žalią, bet daug geriau keptas.</EggIguanaFertilized.description>
+  
+  <!-- EN: ostrich egg (fert.) -->
+  <EggOstrichFertilized.label>stručio kiaušinis (apv.)</EggOstrichFertilized.label>
+  <!-- EN: A fertilized ostrich egg. If all goes well, it should hatch into a baby ostrich. It can be eaten raw, but it's much better cooked. -->
+  <EggOstrichFertilized.description>Apvaisintas stručio kiaušinis. Jei viskas gerai, iš jo turėtų išsiristi stručio jauniklis. Galima valgyti žalią, bet daug geriau keptas.</EggOstrichFertilized.description>
+  
+  <!-- EN: tortoise egg (fert.) -->
+  <EggTortoiseFertilized.label>vėžlio kiaušinis (apv.)</EggTortoiseFertilized.label>
+  <!-- EN: A fertilized tortoise egg. If all goes well, it should hatch into a baby tortoise. It can be eaten raw, but it's much better cooked. -->
+  <EggTortoiseFertilized.description>Apvaisintas vėžlio kiaušinis. Jei viskas gerai, iš jo turėtų išsiristi vėžlio jauniklis. Galima valgyti žalią, bet daug geriau keptas.</EggTortoiseFertilized.description>
+  
+  <!-- EN: turkey egg (fert.) -->
+  <EggTurkeyFertilized.label>kalakuto kiaušinis (apv.)</EggTurkeyFertilized.label>
+  <!-- EN: A fertilized turkey egg. If all goes well, it should hatch into a baby turkey. It can be eaten raw, but it's much better cooked. -->
+  <EggTurkeyFertilized.description>Apvaisintas kalakuto kiaušinis. Jei viskas gerai, iš jo turėtų išsiristi kalakuto jauniklis. Galima valgyti žalią, bet daug geriau keptas.</EggTurkeyFertilized.description>
+  
+  <!-- EN: insect jelly -->
+  <InsectJelly.label>vabzdžių želė</InsectJelly.label>
+  <!-- EN: Jelly stored and used as food by oversized insects. It is smooth, rich, and fulfills the recreation need of those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots. -->
+  <InsectJelly.description>Želė, kurią didieji vabzdžiai laiko ir naudoja kaip maistą. Ji yra glotni, sodri ir patenkina tų, kurie ją vartoja, pramogų poreikį. Dėl savo unikalių biologinių savybių ji gali maitinti beveik visus būtybes ir niekada nepūva.</InsectJelly.description>
+  
+  <!-- EN: milk -->
+  <Milk.label>pienas</Milk.label>
+  <!-- EN: Milk from an animal. -->
+  <Milk.description>Pienas iš gyvūno.</Milk.description>
+  
+</LanguageData>

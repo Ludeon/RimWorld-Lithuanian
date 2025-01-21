@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced fabrication -->
+  <AdvancedFabrication.label>pažangesnė aukštųjų technologijų gamyba</AdvancedFabrication.label>
+  <!-- EN: Fabricate advanced components from standard components and other materials. -->
+  <AdvancedFabrication.description>Gamink pažangius komponentus iš standartinių komponentų ir kitų medžiagų.</AdvancedFabrication.description>
+  
+  <!-- EN: bionic replacements -->
+  <Bionics.label>bioniniai protezai</Bionics.label>
+  <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
+  <Bionics.description>Gamink aukštųjų technologijų bionines kūno dalis, kad pakeistum prarastas galūnes ir akis. Pritvirtinti reikalingas įgudęs gydytojas.</Bionics.description>
+  
+  <!-- EN: pulse-charged munitions -->
+  <ChargedShot.label>impulsinė ginkluotė</ChargedShot.label>
+  <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
+  <ChargedShot.description>Gamink ginklus, kurie šaudo impulsinę amunicija, kuri daro papildomos žalos. Atmink, kad šiems ginklams reikalingi pažangūs komponentai.</ChargedShot.description>
+  
+  <!-- EN: cryptosleep casket -->
+  <Cryptosleep.label>kriptomiego karstas</Cryptosleep.label>
+  <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
+  <Cryptosleep.description>Konstruok kriptomiego karstus, kurie neribotam laikui gali įvesti gyvas būtybes į sustabdytų gyvybinių funkcijų būseną.</Cryptosleep.description>
+  
+  <!-- EN: fabrication -->
+  <Fabrication.label>aukštųjų technologijų gamyba</Fabrication.label>
+  <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
+  <Fabrication.description>Statyk aukštųjų technologijų gamybos stalus, galinčius vykdyti sudėtingus projektus, nuo komponentų surinkimo iki galios šarvų konstrukcijos.</Fabrication.description>
+  <!-- EN: You now have the technology to build a fabrication bench - but it also requires some advanced components to get started. You can collect advanced components several ways:\n\n  -All outlander settlements sell advanced components. Send a caravan to buy some.\n  -Some visiting traders sell advanced components. Invite or wait for them.\n  -Some quests are rewarded with advanced components. -->
+  <Fabrication.discoveredLetterText>Dabar su šia technologija gali statyti aukštųjų technologijų gamybos stalą, bet jam reikalingi keli pažangūs komponentai. Pažangius komponentus gali gauti keliais būdais:\n\n  – Visos svetimšalių gyvenvietės parduoda pažangius komponentus. Nusiųsk karavaną, kad nusipirktum.\n  – Kai kurie apsilankantys prekeiviai parduoda pažangius komponentus. Pakviesk juos arba lauk kol ateis patys.\n  – Kai kurių užduočių atlygis yra pažangūs komponentai.</Fabrication.discoveredLetterText>
+  <!-- EN: About: Getting advanced components -->
+  <Fabrication.discoveredLetterTitle>Apie: Kaip gauti pažangių komponentų</Fabrication.discoveredLetterTitle>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>daugiafunkcinis analizatorius</MultiAnalyzer.label>
+  <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
+  <MultiAnalyzer.description>Statyk daugiafunkcinius analizatorius, kurie padidina tyrimų greitį ir leidžia vykdyti aukštesnio lygio tyrimų projektus.</MultiAnalyzer.description>
+  
+  <!-- EN: marine armor -->
+  <PoweredArmor.label>pėstininko šarvai</PoweredArmor.label>
+  <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
+  <PoweredArmor.description>Gamink pėstininko šarvus – bendro naudojimo motorinį šarvų kostiumą, naudojamą aukštųjų technologijų šturmo būrių. Atmink, kad jiems taip pat reikalingi pažangūs komponentai.</PoweredArmor.description>
+  
+  <!-- EN: recon armor -->
+  <ReconArmor.label>žvalgo šarvai</ReconArmor.label>
+  <!-- EN: Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components. -->
+  <ReconArmor.description>Gamink žvalgo šarvus – lengvą motorinį šarvų kostiumą, naudojamą žvalgų būrių, kuriems reikia apsaugos judant. Atmink, kad jiems taip pat reikalingi pažangūs komponentai.</ReconArmor.description>
+  
+  <!-- EN: rocketswarm launcher -->
+  <RocketswarmLauncher.label>daugkartinio raketų paleidimo sistema</RocketswarmLauncher.label>
+  <!-- EN: Produce rocketswarm launchers, single-burst turrets which can devastate a wide area at a key moment in battle. -->
+  <RocketswarmLauncher.description>Statyk daugkartinio raketų paleidimo sistemas, vienos salvės bokštus, kurie gali nuniokoti didelį plotą kertiniu mūšio momentu.</RocketswarmLauncher.description>
+  
+  <!-- EN: uranium slug turret -->
+  <SniperTurret.label>urano luitų bokštas</SniperTurret.label>
+  <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
+  <SniperTurret.description>Statyk šarvus pramušantį urano luitų bokštą. Bokštas šaudo urano luitais, kurie eina kiaurai per plastmetalį kaip per popierių, nors yra ne toks veiksmingas iš arti.</SniperTurret.description>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>gyvybinių funkcijų stebėjimo įranga</VitalsMonitor.label>
+  <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
+  <VitalsMonitor.description>Statyk gyvybinių funkcijų stebėjimo įranga, kuri pagerina medicininius rezultatus, kai padedama šalia ligoninės lovų.</VitalsMonitor.description>
+  
+</LanguageData>

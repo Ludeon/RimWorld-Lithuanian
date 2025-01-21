@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amniotic fluid -->
+  <Filth_AmnioticFluid.label>amniono skystis</Filth_AmnioticFluid.label>
+  
+  <!-- EN: animal filth -->
+  <Filth_AnimalFilth.label>gyvūnų nešvarumai</Filth_AnimalFilth.label>
+  
+  <!-- EN: ash -->
+  <Filth_Ash.label>pelenai</Filth_Ash.label>
+  
+  <!-- EN: blood -->
+  <Filth_Blood.label>kraujas</Filth_Blood.label>
+  
+  <!-- EN: bugblood -->
+  <Filth_BloodInsect.label>vabzdžių kraujas</Filth_BloodInsect.label>
+  
+  <!-- EN: corpse bile -->
+  <Filth_CorpseBile.label>lavono skystis</Filth_CorpseBile.label>
+  
+  <!-- EN: dirt -->
+  <Filth_Dirt.label>purvas</Filth_Dirt.label>
+  
+  <!-- EN: firefoam -->
+  <Filth_FireFoam.label>gaisro gesinimo putos</Filth_FireFoam.label>
+  
+  <!-- EN: chemfuel puddle -->
+  <Filth_Fuel.label>degalų bala</Filth_Fuel.label>
+  <!-- EN: A puddle of flammable chemfuel. -->
+  <Filth_Fuel.description>Degių degalų bala.</Filth_Fuel.description>
+  
+  <!-- EN: hair -->
+  <Filth_Hair.label>plaukai</Filth_Hair.label>
+  
+  <!-- EN: machine bits -->
+  <Filth_MachineBits.label>prietaisų gabaliukai</Filth_MachineBits.label>
+  
+  <!-- EN: building rubble -->
+  <Filth_RubbleBuilding.label>pastato nuolaužos</Filth_RubbleBuilding.label>
+  
+  <!-- EN: rock rubble -->
+  <Filth_RubbleRock.label>uolienų nuolaužos</Filth_RubbleRock.label>
+  
+  <!-- EN: sand -->
+  <Filth_Sand.label>smėlis</Filth_Sand.label>
+  
+  <!-- EN: slime -->
+  <Filth_Slime.label>gleivės</Filth_Slime.label>
+  
+  <!-- EN: trash -->
+  <Filth_Trash.label>šiukšlės</Filth_Trash.label>
+  
+  <!-- EN: vomit -->
+  <Filth_Vomit.label>vėmalai</Filth_Vomit.label>
+  
+  <!-- EN: water puddle -->
+  <Filth_Water.label>vandens bala</Filth_Water.label>
+  
+  <!-- EN: scattered sandbags -->
+  <SandbagRubble.label>išsimėtę smėlio maišai</SandbagRubble.label>
+  
+  <!-- EN: scattered slag -->
+  <SlagRubble.label>pabiręs šlakas</SlagRubble.label>
+  
+</LanguageData>

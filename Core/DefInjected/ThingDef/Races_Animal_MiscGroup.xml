@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>alfa bebras</Alphabeaver.label>
+  <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
+  <Alphabeaver.description>Didelė, į bebrą panaši būtybė, genetiškai sukurta kirsti medieną efektyvumu prilygstančiu mašinai. Nesant specializuoto pašaro, šie gyvūnai pereis į manijos būseną, dėl kurios jie griauš ištisus medžius, ir gali užpulti, jei bus trikdomi.</Alphabeaver.description>
+  <!-- EN: left claw -->
+  <Alphabeaver.tools.left_claw.label>kairė letena</Alphabeaver.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Alphabeaver.tools.right_claw.label>dešinė letena</Alphabeaver.tools.right_claw.label>
+  <!-- EN: head -->
+  <Alphabeaver.tools.head.label>galva</Alphabeaver.tools.head.label>
+  
+  <!-- EN: cobra -->
+  <Cobra.label>kobra</Cobra.label>
+  <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <Cobra.description>Didelė plėšri gyvatė. Išprovokuotos kobros gali būti labai agresyvios, o įkandimo metu jos į auką sušvirkščia nuodų.</Cobra.description>
+  <!-- EN: cobra meat -->
+  <Cobra.race.meatLabel>kobros mėsa</Cobra.race.meatLabel>
+  <!-- EN: venom-fangs -->
+  <Cobra.tools.venomfangs.label>nuodingos iltys</Cobra.tools.venomfangs.label>
+  <!-- EN: head -->
+  <Cobra.tools.head.label>galva</Cobra.tools.head.label>
+  
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>trumbas</Thrumbo.label>
+  <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
+  <Thrumbo.description>Gigantiška, grakšti neaiškios kilmės būtybė. Iš prigimties trumbas yra švelnus, bet įsiutęs jis itin pavojingas. Nors ilgas kailis yra nepaprastai gražus, jo oda taip pat yra neįtikėtinai atspari pažeidimams. Jo aštraus it skustuvas ragas kainuoja labai daug.\n\nLegendos sako, kad senas trumbas yra išmintingiausia būtybė visatoje – jis tiesiog renkasi nekalbėti.</Thrumbo.description>
+  <!-- EN: horn -->
+  <Thrumbo.tools.horn.label>ragas</Thrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <Thrumbo.tools.left_foot.label>kairė pėda</Thrumbo.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Thrumbo.tools.right_foot.label>dešinė pėda</Thrumbo.tools.right_foot.label>
+  <!-- EN: head -->
+  <Thrumbo.tools.head.label>galva</Thrumbo.tools.head.label>
+  
+  <!-- EN: tortoise -->
+  <Tortoise.label>vėžlys</Tortoise.label>
+  <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
+  <Tortoise.description>Šis stipriai šarvuotas sausumoje gyvenantis roplys yra žinomas dėl savo lėto judėjimo greičio ir stebėtinai nuožmaus kandimo. Dėl savo natūralių šarvų jį sunku nužudyti, ir jis gali padaryti daug žalos per užsitęsusias kovas iš arti.</Tortoise.description>
+  <!-- EN: beak -->
+  <Tortoise.tools.beak.label>snapas</Tortoise.tools.beak.label>
+  <!-- EN: head -->
+  <Tortoise.tools.head.label>galva</Tortoise.tools.head.label>
+  
+</LanguageData>
