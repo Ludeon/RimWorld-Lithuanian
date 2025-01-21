@@ -3,7 +3,7 @@
   <friendlyNameNative>Lietuvių</friendlyNameNative>
   <friendlyNameEnglish>Lithuanian</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
-  <languageWorkerClass>LanguageWorker_English</languageWorkerClass>
+  <languageWorkerClass>LanguageWorker_Lithuanian</languageWorkerClass>
   <credits>
   </credits>
 </LanguageInfo>

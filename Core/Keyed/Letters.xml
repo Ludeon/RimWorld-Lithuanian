@@ -3,23 +3,23 @@
 
   <!-- Misc -->
   <!-- EN: Jump to location -->
-  <JumpToLocation>Nušokti į vietą</JumpToLocation>
+  <JumpToLocation>Nušokti į vietovę</JumpToLocation>
   <!-- EN: Postpone -->
   <PostponeLetter>Atidėti</PostponeLetter>
   <!-- EN: Reject -->
   <RejectLetter>Atmesti</RejectLetter>
   <!-- EN: Read more -->
-  <ReadMore>Skaityk daugiau</ReadMore>
+  <ReadMore>Skaityti daugiau</ReadMore>
   <!-- EN: You have {0} more letters -->
   <MoreLetters>TODO</MoreLetters>
 
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>Vasara</LetterLabelFirstSummerWarning>
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nTo prepare for winter, buy, steal, or make some parkas, or you'll freeze when you step outside. -->
-  <FirstSummerWarning>Prasidėjo vasara! Bet žiema ateina.\n\nTavo maistiniai kultūriniai augalai žiemos šaltyje neaugs. Pasirūpink, kad užtektų maisto išgyventi. Gali pastatyti įeinamą šaldytuvą, kad apsaugotum maistą nuo pagedimo.\n\nKad pasiruoštum žiemai pirk, vok ar gaminkis striukių, kitaip žiemą lauke sušalsi.</FirstSummerWarning>
+  <FirstSummerWarning>Prasidėjo vasara! Bet žiema artėja.\n\nTavo maistiniai augalai žiemos šaltyje neaugs. Pasirūpink, kad užtektų maisto išgyventi. Gali pastatyti įeinamą šaldytuvą, kad kad maistas nesugestų.\n\nKad pasiruoštum žiemai nusipirk, pasivok ar pasigamink striukių, kitaip žiemą lauke sušalsi.</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
-  <LetterRelationsChange_Hostile>Santykiai su {0} visiškai sužlugo. Dabar jie agresyvūs tavo atžvilgiu.</LetterRelationsChange_Hostile>  
+  <LetterRelationsChange_Hostile>Santykiai su {0} visiškai sužlugo. Dabar jie yra tau priešiški.</LetterRelationsChange_Hostile>  
   <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
   <LetterRelationsChange_HostileGoodwillDescription>Jie vykdys reguliarius reidus į tavo koloniją ir puls tavo karavanus, prie to kad nebeprekiaus su tavim. Jei nori pagerinti santykius, vis dar gali dovanoti jiems dovanas naudodamas karavanus arba transportavimo kapsules.\n\nTai nutiko nes geranoriškumas ({0}) nukrito žemiau {1}. Kad atstatytum neutralius santykius, geranoriškumas turi vėl pasiekti {2}.</LetterRelationsChange_HostileGoodwillDescription>  
 
@@ -58,7 +58,7 @@
   <AreaRevealedWithMechanoids>Buvo atidengta nauja vieta. Joje yra senoviniai, agresyvūs mechanoidai.</AreaRevealedWithMechanoids>
 
   <!-- EN: A roof has collapsed because it was too far from any support. -->
-  <RoofCollapsed>Stogas sugriuvo nes jis buvo per toli nuo bet kokios atramos.</RoofCollapsed>
+  <RoofCollapsed>Stogas sugriuvo nes jis buvo per toli nuo atramos.</RoofCollapsed>
   <!-- EN: These things were crushed: -->
   <TheseThingsCrushed>Šie daiktai buvo sutraiškyti:</TheseThingsCrushed>
   <!-- EN: Nothing was crushed. -->

@@ -13,33 +13,33 @@
   <!-- EN: won't do {0} -->
   <WorkTypeDisablesOption>won't do {0}</WorkTypeDisablesOption>
   <!-- EN: Disconnect -->
-  <Disconnect>Disconnect</Disconnect>
+  <Disconnect>Atsijungti</Disconnect>
 
   <!-- Gift offer -->
   <!-- EN: Offer gift -->
-  <OfferGift>Offer gift</OfferGift>
+  <OfferGift>Pasiūlyti dovaną</OfferGift>
   <!-- EN: must be ally -->
   <MustBeAlly>must be ally</MustBeAlly>
   <!-- EN: need {0} goodwill -->
   <NeedGoodwill>need {0} goodwill</NeedGoodwill>
   <!-- EN: need {0} silver near trade beacons -->
-  <NeedSilverLaunchable>need {0} silver near trade beacons</NeedSilverLaunchable>
+  <NeedSilverLaunchable>Reikia {0} sidabro netoli prekybos švyturio</NeedSilverLaunchable>
   <!-- EN: not enough silver -->
-  <NotEnoughSilver>not enough silver</NotEnoughSilver>
+  <NotEnoughSilver>Nepakankamai sidabro</NotEnoughSilver>
   <!-- EN: {0} silver for {1} goodwill -->
-  <SilverForGoodwill>{0} silver for {1} goodwill</SilverForGoodwill>
+  <SilverForGoodwill>{0} sidabro už {1} geranoriškumo</SilverForGoodwill>
   <!-- EN: {0} thanks you.\n\n(Goodwill improved by {1}) -->
-  <SilverGiftSent>{0} thanks you.\n\n(Goodwill improved by {1})</SilverGiftSent>
+  <SilverGiftSent>{0} dėkoja tau.\n\n(Geranoriškumas padidėja {1}).</SilverGiftSent>
 
   <!-- Trade caravan request -->
   <!-- EN: Request a trade caravan (cost: {0} goodwill) -->
-  <RequestTrader>Request a trade caravan (cost: {0} goodwill)</RequestTrader>
+  <RequestTrader>Paprašyti prekybos karavano (kainuoja: {0} geranoriškumo)</RequestTrader>
   <!-- EN: {0} asks what kind of trade caravan you want. -->
-  <ChooseTraderKind>{0} asks what kind of trade caravan you want.</ChooseTraderKind>
+  <ChooseTraderKind>{0} klausia kokio prekybos karavano nori.</ChooseTraderKind>
   <!-- EN: {0} agrees to send you a trade caravan. It will arrive within a few days. -->
-  <TraderSent>{0} agrees to send you a trade caravan. It will arrive within a few days.</TraderSent>
+  <TraderSent>{0} sutinka tau atsiųsti prekybos karavaną. Jis atvyks už kelių dienų.</TraderSent>
   <!-- EN: wait {0} -->
-  <WaitTime>wait {0}</WaitTime>
+  <WaitTime>laukti {0}</WaitTime>
   
   <!-- AI core request -->
   <!-- EN: Request the location of a {0} (cost: {1} silver) -->
@@ -51,15 +51,15 @@
   
   <!-- Military aid request -->
   <!-- EN: Request immediate military aid (cost: {0} goodwill) -->
-  <RequestMilitaryAid>Request immediate military aid (cost: {0} goodwill)</RequestMilitaryAid>
+  <RequestMilitaryAid>Prašo skubios karinės pagalbos (kainuoja: {0} geranoriškumo).</RequestMilitaryAid>
   <!-- EN: {0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid? -->
-  <MilitaryAidConfirmMutualEnemy>{0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid?</MilitaryAidConfirmMutualEnemy>
+  <MilitaryAidConfirmMutualEnemy>{0} nepadės tau kovoti su kitomis frakcijomis, kurios nėra jų priešai. Įskaitant tas, kurios dabar tau grasina, {1}. Ar vis dar nori kviesti pagalbą?</MilitaryAidConfirmMutualEnemy>
   <!-- EN: Yes, call them anyway. -->
-  <CallConfirm>Yes, call them anyway.</CallConfirm>
+  <CallConfirm>Taip, vis tiek juos kviesti.</CallConfirm>
   <!-- EN: No, never mind. -->
-  <CallCancel>No, never mind.</CallCancel>
+  <CallCancel>Ne, persigalvojau.</CallCancel>
   <!-- EN: {0} agrees to send fighters to help you. -->
-  <MilitaryAidSent>{0} agrees to send fighters to help you.</MilitaryAidSent>
+  <MilitaryAidSent>{0} sutinka atsiūsti kovotojus padėti tau.</MilitaryAidSent>
   <!-- EN: {0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods) -->
   <CantSendMilitaryAidInTime>{0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods)</CantSendMilitaryAidInTime>
   <!-- EN: hostile visitors present -->

@@ -7,14 +7,14 @@
   <!-- EN: Growing -->
   <TabGrowing>Auginimas</TabGrowing>
   <!-- EN: Bio -->
-  <TabCharacter>Biografija</TabCharacter>
+  <TabCharacter>Veikėjas</TabCharacter>
   <!-- EN: Training -->
   <TabTraining>Dresuoti</TabTraining>
   <!-- EN: Prisoner -->
   <TabPrisoner>Kalinys</TabPrisoner>
   <!-- EN: Guest -->
-  <TabGuest>Svetys</TabGuest>
-  <!-- EN: Gear -->
+  <TabGuest>Svečias</TabGuest>
+  <TabGear>Įranga</TabGear>
   <TabGear>Ekipuotė</TabGear>
   <!-- EN: Needs -->
   <TabNeeds>Poreikiai</TabNeeds>
@@ -144,7 +144,7 @@
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
-  <MoveSpeed>Vaikščiojimo greitis</MoveSpeed>
+  <MoveSpeed>Judėjimo greitis</MoveSpeed>
   <!-- EN: Efficiency -->
   <Efficiency>Efektyvumas</Efficiency>
   <!-- EN: Part efficiency -->
@@ -212,11 +212,11 @@
   <!-- EN: Pain -->
   <PainFactor>Skausmas</PainFactor>
   <!-- EN: Prevents infection -->
-  <PreventsInfection>Saugo nuo infekcijų</PreventsInfection>
+  <PreventsInfection>Užkerta kelią infekcijai</PreventsInfection>
   <!-- EN: Self-tend -->
-  <SelfTend>Savęs gydymas</SelfTend>
+  <SelfTend>Savarankiškai slaugytis</SelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <SelfTendTip>{0} su įjungtu savęs gydymu automatiškai gydys save ten, kur stovi {1} nuo įprasto efektyvumo.</SelfTendTip>
+  <SelfTendTip>{0} su įjungtu savarankišku slaugymusi automatiškai gydys save ten, kur stovi {1} nuo įprasto efektyvumo.</SelfTendTip>
   <!-- EN: death in {0} -->
   <DeathIn>mirtis už {0}</DeathIn>
   
@@ -228,11 +228,11 @@
   <!-- EN: Poor -->
   <Poor>Prastai</Poor>
   <!-- EN: Weakened -->
-  <Weakened>Susilpnintai</Weakened>
+  <Weakened>Nusilpęs</Weakened>
   <!-- EN: OK -->
   <GoodCondition>Gerai</GoodCondition>
   <!-- EN: Enhanced -->
-  <Enhanced>Pagerintai</Enhanced>
+  <Enhanced>Sustiprintas</Enhanced>
   <!-- EN: Seriously impaired -->
   <SeriouslyImpaired>Stipriai sutrikęs</SeriouslyImpaired>
   <!-- EN: Impaired -->

@@ -23,7 +23,7 @@
   <!-- EN: Abandon {{0}}x {0} -->
   <AbandonSliderText>Palikti {{0}}x {0}</AbandonSliderText>
   <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
-  <ConfirmAbandonItemDialog>Ar tikrai nori palikti {0}?\n\nPalikti daiktai dingsta ir niekada nebegali būti atgauti.</ConfirmAbandonItemDialog>
+  <ConfirmAbandonItemDialog>Ar tikrai nori palikti {0}?\n\nPalikti daiktai pranyks ir jų niekada nebebus galima atgauti.</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
   <AbandonTip>Palikti</AbandonTip>
   <!-- EN: Banish -->
@@ -31,9 +31,9 @@
   <!-- EN: Abandon specific count -->
   <AbandonSpecificCountTip>Palikti konkretų kiekį</AbandonSpecificCountTip>
   <!-- EN: Abandon (all) -->
-  <AbandonAllTip>Palikti (visus)</AbandonAllTip>
+  <AbandonAllTip>Palikti (viską)</AbandonAllTip>
   <!-- EN: Abandoned items vanish and can never be recovered. -->
-  <AbandonItemTipExtraText>Palikti daiktai dingsta ir jų niekada nebegalima atgauti.</AbandonItemTipExtraText>
+  <AbandonItemTipExtraText>Palikti daiktai pranyks ir jų niekada nebebus galima atgauti.</AbandonItemTipExtraText>
   <!-- EN: {1_labelShort} will most likely die. -->
   <BanishTipWillDie>{1_labelShort} tikriausiai mirs.</BanishTipWillDie>
   
@@ -57,7 +57,7 @@
   
   <!-- Caravan gear -->
   <!-- EN: Drag to rearrange. -->
-  <DragToRearrange>Tempk kad pakeistum tvarką.</DragToRearrange>
+  <DragToRearrange>Tempk, kad pertvarkytum.</DragToRearrange>
 
   <!-- Caravan items -->
   <!-- EN: Assign drug policies -->
