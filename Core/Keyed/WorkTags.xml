@@ -1,21 +1,47 @@
-﻿<?xml version="1.1" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <WorkTagNone>Jokio</WorkTagNone>
-  <WorkTagIntellectual>Intelektualinio</WorkTagIntellectual>
-  <WorkTagManualDumb>Kvailo</WorkTagManualDumb>
-  <WorkTagManualSkilled>Kvalifikuoto</WorkTagManualSkilled>
-  <WorkTagViolent>Smurtinio</WorkTagViolent>
-  <WorkTagCaring>Rūpestingo</WorkTagCaring>
-  <WorkTagSocial>Socialaus</WorkTagSocial>
-  <WorkTagAnimals>Darbo su gyvunais</WorkTagAnimals>
-  <WorkTagArtistic>Meninio</WorkTagArtistic>
-  <WorkTagCrafting>Rankdarbinio</WorkTagCrafting>
-  <WorkTagCooking>Maisto gaminimo</WorkTagCooking>
-  <WorkTagFirefighting>Ugnies gesinimo</WorkTagFirefighting>
-  <WorkTagCleaning>Tvarkymo</WorkTagCleaning>
-  <WorkTagHauling>Nešiojimo</WorkTagHauling>
-  <WorkTagPlantWork>Darbo su augalais</WorkTagPlantWork>
-  <WorkTagMining>Kalnakasybos</WorkTagMining>
+  <!-- EN: none -->
+  <WorkTagNone>nėra</WorkTagNone>
+  <!-- EN: intellectual -->
+  <WorkTagIntellectual>protinės veiklos</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
+  <WorkTagManualDumb>įgūdžių nereikalaujančio darbo</WorkTagManualDumb>
+  <!-- EN: skilled labor -->
+  <WorkTagManualSkilled>kvalifikuoto darbo</WorkTagManualSkilled>
+  <!-- EN: violent -->
+  <WorkTagViolent>smurtauti</WorkTagViolent>
+  <!-- EN: shooting -->
+  <WorkTagShooting>šaudyti</WorkTagShooting>
+  <!-- EN: caring -->
+  <WorkTagCaring>rūpintis</WorkTagCaring>
+  <!-- EN: social -->
+  <WorkTagSocial>socialinės veiklos</WorkTagSocial>
+  <!-- EN: animals -->
+  <WorkTagAnimals>dirbti su gyvūnais</WorkTagAnimals>
+  <!-- EN: artistic -->
+  <WorkTagArtistic>kurti meno</WorkTagArtistic>
+  <!-- EN: crafting -->
+  <WorkTagCrafting>meistrauti</WorkTagCrafting>
+  <!-- EN: cooking -->
+  <WorkTagCooking>gaminti maisto</WorkTagCooking>
+  <!-- EN: firefighting -->
+  <WorkTagFirefighting>gesinti gaisro</WorkTagFirefighting>
+  <!-- EN: cleaning -->
+  <WorkTagCleaning>valyti</WorkTagCleaning>
+  <!-- EN: hauling -->
+  <WorkTagHauling>gabenti</WorkTagHauling>
+  <!-- EN: plant work -->
+  <WorkTagPlantWork>dirbti su augalais</WorkTagPlantWork>
+  <!-- EN: mining -->
+  <WorkTagMining>kasti</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>medžioti</WorkTagHunting>
+  <!-- EN: constructing -->
+  <WorkTagConstructing>statyti</WorkTagConstructing>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>prasčiokų darbo</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>bet kokio darbo</WorkTagAllWork>
 
 </LanguageData>

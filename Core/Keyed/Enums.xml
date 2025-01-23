@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Glow -->
+  <!-- EN: Dark -->
+  <Dark>Tamsu</Dark>
+  <!-- EN: Lit -->
+  <Lit>Šviesu</Lit>
+  <!-- EN: Brightly lit -->
+  <LitBrightly>Ryškiai šviesu</LitBrightly>
+
+  <!-- Price types -->
+  <!-- EN: very cheap -->
+  <PriceTypeVeryCheap>labai pigu</PriceTypeVeryCheap>
+  <!-- EN: cheap -->
+  <PriceTypeCheap>pigu</PriceTypeCheap>
+  <!-- EN: normal -->
+  <PriceTypeNormal>įprasta</PriceTypeNormal>
+  <!-- EN: expensive -->
+  <PriceTypeExpensive>brangu</PriceTypeExpensive>
+  <!-- EN: exorbitant -->
+  <PriceTypeExorbitant>plėšikiška</PriceTypeExorbitant>
+
+  <!-- Storage priority labels -->
+  <!-- EN: unstored -->
+  <StoragePriorityUnstored>nerūšiuotas</StoragePriorityUnstored>
+  <!-- EN: low -->
+  <StoragePriorityLow>žemas</StoragePriorityLow>
+  <!-- EN: normal -->
+  <StoragePriorityNormal>įprastas</StoragePriorityNormal>
+  <!-- EN: preferred -->
+  <StoragePriorityPreferred>pageidautinas</StoragePriorityPreferred>
+  <!-- EN: important -->
+  <StoragePriorityImportant>svarbus</StoragePriorityImportant>
+  <!-- EN: critical -->
+  <StoragePriorityCritical>kritiškai svarbus</StoragePriorityCritical>
+
+  <!-- Food type flags -->
+  <!-- EN: vegetables -->
+  <FoodTypeFlags_VegetableOrFruit>daržovės</FoodTypeFlags_VegetableOrFruit>
+  <!-- EN: raw meat -->
+  <FoodTypeFlags_Meat>žalia mėsa</FoodTypeFlags_Meat>
+  <!-- EN: corpses -->
+  <FoodTypeFlags_Corpse>lavonai</FoodTypeFlags_Corpse>
+  <!-- EN: seeds -->
+  <FoodTypeFlags_Seed>sėklos</FoodTypeFlags_Seed>
+  <!-- EN: animal products -->
+  <FoodTypeFlags_AnimalProduct>gyvulių produktai</FoodTypeFlags_AnimalProduct>
+  <!-- EN: live plants -->
+  <FoodTypeFlags_Plant>gyvi augalai</FoodTypeFlags_Plant>
+  <!-- EN: live trees -->
+  <FoodTypeFlags_Tree>gyvi medžiai</FoodTypeFlags_Tree>
+  <!-- EN: meals -->
+  <FoodTypeFlags_Meal>patiekalai</FoodTypeFlags_Meal>
+  <!-- EN: processed foods -->
+  <FoodTypeFlags_Processed>apdorotas maistas</FoodTypeFlags_Processed>
+  <!-- EN: liquor -->
+  <FoodTypeFlags_Liquor>likeris</FoodTypeFlags_Liquor>
+  <!-- EN: kibble -->
+  <FoodTypeFlags_Kibble>pašaras</FoodTypeFlags_Kibble>
+
+  <!-- Quality category -->
+  <!-- EN: awful -->
+  <QualityCategory_Awful>labai prastas</QualityCategory_Awful>
+  <!-- EN: poor -->
+  <QualityCategory_Poor>prastas</QualityCategory_Poor>
+  <!-- EN: normal -->
+  <QualityCategory_Normal>paprastas</QualityCategory_Normal>
+  <!-- EN: good -->
+  <QualityCategory_Good>geras</QualityCategory_Good>
+  <!-- EN: excellent -->
+  <QualityCategory_Excellent>puikus</QualityCategory_Excellent>
+  <!-- EN: masterwork -->
+  <QualityCategory_Masterwork>meistriškas</QualityCategory_Masterwork>
+  <!-- EN: legendary -->
+  <QualityCategory_Legendary>legendinis</QualityCategory_Legendary>
+  <!-- EN: awfl -->
+  <QualityCategoryShort_Awful>lb pras</QualityCategoryShort_Awful>
+  <!-- EN: poor -->
+  <QualityCategoryShort_Poor>pras</QualityCategoryShort_Poor>
+  <!-- EN: norm -->
+  <QualityCategoryShort_Normal>papr</QualityCategoryShort_Normal>
+  <!-- EN: good -->
+  <QualityCategoryShort_Good>ger</QualityCategoryShort_Good>
+  <!-- EN: exc -->
+  <QualityCategoryShort_Excellent>puik</QualityCategoryShort_Excellent>
+  <!-- EN: mast -->
+  <QualityCategoryShort_Masterwork>meis</QualityCategoryShort_Masterwork>
+  <!-- EN: legd -->
+  <QualityCategoryShort_Legendary>leg</QualityCategoryShort_Legendary>
+  
+  <!-- Hunger -->
+  <!-- EN: Starving -->
+  <HungerLevel_Starving>Badauja</HungerLevel_Starving>
+  <!-- EN: Urgently hungry -->
+  <HungerLevel_UrgentlyHungry>Peralkęs</HungerLevel_UrgentlyHungry>
+  <!-- EN: Hungry -->
+  <HungerLevel_Hungry>Alkanas</HungerLevel_Hungry>
+  <!-- EN: Fed -->
+  <HungerLevel_Fed>Pavalgęs</HungerLevel_Fed>
+
+  <!-- -Fatigue -->
+  <!-- EN: Exhausted -->
+  <HungerLevel_Exhausted>Išsekęs</HungerLevel_Exhausted>
+  <!-- EN: Very tired -->
+  <HungerLevel_VeryTired>Labai pavargęs</HungerLevel_VeryTired>
+  <!-- EN: Tired -->
+  <HungerLevel_Tired>Pavargęs</HungerLevel_Tired>
+  <!-- EN: Rested -->
+  <HungerLevel_Rested>Pailsėjęs</HungerLevel_Rested>
+
+  <!-- Hilliness -->
+  <!-- EN: flat -->
+  <Hilliness_Flat>lygu</Hilliness_Flat>
+  <!-- EN: small hills -->
+  <Hilliness_SmallHills>žemos kalvos</Hilliness_SmallHills>
+  <!-- EN: large hills -->
+  <Hilliness_LargeHills>aukštos kalvos</Hilliness_LargeHills>
+  <!-- EN: mountainous -->
+  <Hilliness_Mountainous>kalnuota</Hilliness_Mountainous>
+  <!-- EN: impassable -->
+  <Hilliness_Impassable>nepraeinama</Hilliness_Impassable>
+  
+  <!-- Steam workshop interaction -->
+  <!-- EN: Creating -->
+  <WorkshopInteractStage_CreatingItem>Kuria</WorkshopInteractStage_CreatingItem>
+  <!-- EN: Submitting -->
+  <WorkshopInteractStage_SubmittingItem>Pristato</WorkshopInteractStage_SubmittingItem>
+  <!-- EN: Invalid -->
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Negalimas</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <!-- EN: Preparing config data -->
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Ruošiami konfigūracijos duomenys</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <!-- EN: Preparing content files -->
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Ruošiamos turinio bylos</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <!-- EN: Uploading content -->
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Įkeliamas turinys</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <!-- EN: Uploading preview file -->
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Įkeliamos peržiūros bylos</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <!-- EN: Committing changes -->
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Išsaugomi pakeitimai</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+
+  <!-- Mod sources -->
+  <!-- EN: Official content -->
+  <ContentSource_OfficialModsFolder>Oficialus turinys</ContentSource_OfficialModsFolder>
+  <!-- EN: Local folder -->
+  <ContentSource_ModsFolder>Lokalus katalogas</ContentSource_ModsFolder>
+  <!-- EN: Steam Workshop -->
+  <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
+  
+  <!-- Medical care category -->
+  <!-- EN: no medical care -->
+  <MedicalCareCategory_NoCare>jokios sveikatos priežiūros</MedicalCareCategory_NoCare>
+  <!-- EN: doctor care, but no medicine -->
+  <MedicalCareCategory_NoMeds>daktaro priežiūra, bet be vaistų</MedicalCareCategory_NoMeds>
+  <!-- EN: herbal medicine or worse -->
+  <MedicalCareCategory_HerbalOrWorse>vaistažolės ar blogiau</MedicalCareCategory_HerbalOrWorse>
+  <!-- EN: industrial-tech medicine or worse -->
+  <MedicalCareCategory_NormalOrWorse>pramonės eros vaistinėlė ar blogiau</MedicalCareCategory_NormalOrWorse>
+  <!-- EN: best quality medicine -->
+  <MedicalCareCategory_Best>geriausios kokybės vaistai</MedicalCareCategory_Best>
+
+  <!-- Hostility response mode -->
+  <!-- EN: Ignore -->
+  <HostilityResponseMode_Ignore>Ignoruoti</HostilityResponseMode_Ignore>
+  <!-- EN: Attack -->
+  <HostilityResponseMode_Attack>Atakuoti</HostilityResponseMode_Attack>
+  <!-- EN: Flee -->
+  <HostilityResponseMode_Flee>Bėgti</HostilityResponseMode_Flee>
+  
+  <!-- HediffGrowthMode -->
+  <!-- EN: growing -->
+  <HediffGrowthMode_Growing>auga</HediffGrowthMode_Growing>
+  <!-- EN: stable -->
+  <HediffGrowthMode_Stable>stabilus</HediffGrowthMode_Stable>
+  <!-- EN: remission -->
+  <HediffGrowthMode_Remission>nyksta</HediffGrowthMode_Remission>
+
+  <!-- TechLevel -->
+  <!-- EN: animal -->
+  <TechLevel_Animal>gyvūnas</TechLevel_Animal>
+  <!-- EN: neolithic -->
+  <TechLevel_Neolithic>neolitinis</TechLevel_Neolithic>
+  <!-- EN: medieval -->
+  <TechLevel_Medieval>viduramžių</TechLevel_Medieval>
+  <!-- EN: industrial -->
+  <TechLevel_Industrial>pramoninis</TechLevel_Industrial>
+  <!-- EN: spacer -->
+  <TechLevel_Spacer>kosmoso</TechLevel_Spacer>
+  <!-- EN: ultra -->
+  <TechLevel_Ultra>ultra</TechLevel_Ultra>
+  <!-- EN: archotech -->
+  <TechLevel_Archotech>archotechnologijų</TechLevel_Archotech>
+
+  <!-- Player pawns arrive method -->
+  <!-- EN: Standing -->
+  <PlayerPawnsArriveMethod_Standing>Pėsčiomis</PlayerPawnsArriveMethod_Standing>
+  <!-- EN: Drop pods -->
+  <PlayerPawnsArriveMethod_DropPods>Transporto kapsulės</PlayerPawnsArriveMethod_DropPods>
+
+  <!-- Pawn generation context -->
+  <!-- EN: all characters -->
+  <PawnGenerationContext_All>visi veikėjai</PawnGenerationContext_All>
+  <!-- EN: player starting characters -->
+  <PawnGenerationContext_PlayerStarter>žaidėjo pradiniai veikėjai</PawnGenerationContext_PlayerStarter>
+  <!-- EN: non-player characters -->
+  <PawnGenerationContext_NonPlayer>ne žaidėjo veikėjai</PawnGenerationContext_NonPlayer>
+
+  <!-- Screen shake mode -->
+  <!-- EN: Screen shake intensity -->
+  <ScreenShakeIntensity>Ekrano drebėjimo intensyvumas</ScreenShakeIntensity>
+  
+  <!-- Animal name display mode -->
+  <!-- EN: Show animal names -->
+  <ShowAnimalNames>Rodyti gyvūnų vardus</ShowAnimalNames>
+  <!-- EN: Tame (named only) -->
+  <AnimalNameDisplayMode_TameNamed>Jaukinti (tik su vardais)</AnimalNameDisplayMode_TameNamed>
+  <!-- EN: Tame (all) -->
+  <AnimalNameDisplayMode_TameAll>Jaukinti (visus)</AnimalNameDisplayMode_TameAll>
+  
+  <!-- Mech name display mode -->
+  <!-- EN: Show player mech names -->
+  <ShowMechNames>Rodyti žaidėjo mechanoidų vardus</ShowMechNames>
+  <!-- EN: While drafted -->
+  <MechNameDisplayMode_WhileDrafted>Kai mobilizuoti</MechNameDisplayMode_WhileDrafted>
+  <!-- EN: always -->
+  <MechNameDisplayMode_Always>visada</MechNameDisplayMode_Always>
+
+  <!-- Show weapons under portrait mode -->
+  <!-- EN: Weapons below portrait -->
+  <ShowWeaponsUnderPortrait>Ginklai po portretais</ShowWeaponsUnderPortrait>
+  <!-- EN: Show weapons below each person's portrait on the colonist bar at the top of the screen -->
+  <ShowWeaponsUnderPortraitTooltip>Rodyti kiekvieno žmogaus ginklą po jų portretu kolonistų juostoje ekrano viršuje.</ShowWeaponsUnderPortraitTooltip>
+  <!-- EN: always -->
+  <ShowWeapons_Always>visada</ShowWeapons_Always>
+  <!-- EN: while drafted -->
+  <ShowWeapons_WhileDrafted>kai mobilizuoti</ShowWeapons_WhileDrafted>
+
+  <!-- Temperature -->
+  <!-- EN: Celsius -->
+  <Celsius>Celsijaus</Celsius>
+  <!-- EN: Fahrenheit -->
+  <Fahrenheit>Farenheito</Fahrenheit>
+  <!-- EN: Kelvin -->
+  <Kelvin>Kelvino</Kelvin>
+  
+  <!-- Direction8Way -->
+  <!-- EN: N -->
+  <Direction8Way_North_Short>Š</Direction8Way_North_Short>
+  <!-- EN: NE -->
+  <Direction8Way_NorthEast_Short>ŠR</Direction8Way_NorthEast_Short>
+  <!-- EN: E -->
+  <Direction8Way_East_Short>R</Direction8Way_East_Short>
+  <!-- EN: SE -->
+  <Direction8Way_SouthEast_Short>PR</Direction8Way_SouthEast_Short>
+  <!-- EN: S -->
+  <Direction8Way_South_Short>P</Direction8Way_South_Short>
+  <!-- EN: SW -->
+  <Direction8Way_SouthWest_Short>PV</Direction8Way_SouthWest_Short>
+  <!-- EN: W -->
+  <Direction8Way_West_Short>V</Direction8Way_West_Short>
+  <!-- EN: NW -->
+  <Direction8Way_NorthWest_Short>ŠV</Direction8Way_NorthWest_Short>
+  
+  <!-- Diet category -->
+  <!-- EN: Never eats -->
+  <DietCategory_NeverEats>Nevalgo</DietCategory_NeverEats>
+  <!-- EN: Herbivorous -->
+  <DietCategory_Herbivorous>Žolėdis</DietCategory_Herbivorous>
+  <!-- EN: Dendrovorous -->
+  <DietCategory_Dendrovorous>Medėdis</DietCategory_Dendrovorous>
+  <!-- EN: Ovivorous -->
+  <DietCategory_Ovivorous>Kiaušinėdis</DietCategory_Ovivorous>
+  <!-- EN: Omnivorous -->
+  <DietCategory_Omnivorous>Visaėdis</DietCategory_Omnivorous>
+  <!-- EN: Carnivorous -->
+  <DietCategory_Carnivorous>Mėsėdis</DietCategory_Carnivorous>
+  <!-- EN: - -->
+  <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
+  <!-- EN: H -->
+  <DietCategory_Herbivorous_Short>Žol</DietCategory_Herbivorous_Short>
+  <!-- EN: D -->
+  <DietCategory_Dendrovorous_Short>Med</DietCategory_Dendrovorous_Short>
+  <!-- EN: Ov -->
+  <DietCategory_Ovivorous_Short>Kiauš</DietCategory_Ovivorous_Short>
+  <!-- EN: O -->
+  <DietCategory_Omnivorous_Short>Vis</DietCategory_Omnivorous_Short>
+  <!-- EN: C -->
+  <DietCategory_Carnivorous_Short>Mės</DietCategory_Carnivorous_Short>
+
+  <!-- Food poison cause -->
+  <!-- EN: incompetent cook -->
+  <FoodPoisonCause_IncompetentCook>neįgudęs virėjas</FoodPoisonCause_IncompetentCook>
+  <!-- EN: dirty cooking area -->
+  <FoodPoisonCause_FilthyKitchen>nešvari maisto gaminimo vieta</FoodPoisonCause_FilthyKitchen>
+  <!-- EN: rotten food -->
+  <FoodPoisonCause_Rotten>supuvęs maistas</FoodPoisonCause_Rotten>
+  <!-- EN: dangerous food type -->
+  <FoodPoisonCause_DangerousFoodType>pavojinga maisto rūšis</FoodPoisonCause_DangerousFoodType>
+
+  <!-- Psychic drone level -->
+  <!-- EN: none -->
+  <PsychicDroneLevel_None>nėra</PsychicDroneLevel_None>
+  <!-- EN: medium -->
+  <PsychicDroneLevel_GoodMedium>vidutinis</PsychicDroneLevel_GoodMedium>
+  <!-- EN: low -->
+  <PsychicDroneLevel_BadLow>silpnas</PsychicDroneLevel_BadLow>
+  <!-- EN: medium -->
+  <PsychicDroneLevel_BadMedium>vidutinis</PsychicDroneLevel_BadMedium>
+  <!-- EN: high -->
+  <PsychicDroneLevel_BadHigh>stiprus</PsychicDroneLevel_BadHigh>
+  <!-- EN: extreme -->
+  <PsychicDroneLevel_BadExtreme>aukščiausio laipsnio</PsychicDroneLevel_BadExtreme>
+  
+  <!-- Automatic pause mode -->
+  <!-- EN: Never -->
+  <AutomaticPauseMode_Never>Niekada</AutomaticPauseMode_Never>
+  <!-- EN: Major threats -->
+  <AutomaticPauseMode_MajorThreat>Didelės grėsmės</AutomaticPauseMode_MajorThreat>
+  <!-- EN: Any threat -->
+  <AutomaticPauseMode_AnyThreat>Bet kokios grėsmės</AutomaticPauseMode_AnyThreat>
+  <!-- EN: Any letter -->
+  <AutomaticPauseMode_AnyLetter>Bet koks pranešimas</AutomaticPauseMode_AnyLetter>
+
+  <!-- Pain category -->
+  <!-- EN: itchy -->
+  <PainCategory_LowPain>niežti</PainCategory_LowPain>
+  <!-- EN: aching -->
+  <PainCategory_MediumPain>gelia</PainCategory_MediumPain>
+  <!-- EN: painful -->
+  <PainCategory_HighPain>skausmingas</PainCategory_HighPain>
+  
+  <!-- ExtraFactionType -->
+  <!-- EN: home faction -->
+  <ExtraFactionType_HomeFaction>namų frakcija</ExtraFactionType_HomeFaction>
+  <!-- EN: remote host faction -->
+  <ExtraFactionType_HostFaction>atoki šeimininkų frakcija</ExtraFactionType_HostFaction>
+  <!-- EN: group -->
+  <ExtraFactionType_MiniFaction>grupė</ExtraFactionType_MiniFaction>
+
+  <!-- DrugCategory -->
+  <!-- EN: drug category -->
+  <DrugCategory>medikamentų kategorija</DrugCategory>
+  <!-- EN: none -->
+  <DrugCategory_None>jokie</DrugCategory_None>
+  <!-- EN: medical -->
+  <DrugCategory_Medical>medicininiai</DrugCategory_Medical>
+  <!-- EN: social -->
+  <DrugCategory_Social>socialiniai narkotikai</DrugCategory_Social>
+  <!-- EN: hard -->
+  <DrugCategory_Hard>sunkieji narkotikai</DrugCategory_Hard>
+  <!-- EN: any -->
+  <DrugCategory_Any>bet kokie</DrugCategory_Any>
+  
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Custom -->
+  <Custom.label>Pritaikytas</Custom.label>
+  <!-- EN: This setting allows you to define your own playstyle in detail.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
+  <Custom.description>Šis pasirinkimas leidžia tau detaliai apsibrėžti savo žaidimo stilių.\n\n(*SectionTitle)Rekomenduojama:(/SectionTitle)\n\n- Žmonėms kuriems patinka vienas iš standartinių žaidimo lygių, bet nori pakeisti kelis dalykiukus.\n- Žmonėms kurie nori paeksperimentuoti ir pasidaryti kažką naujo.</Custom.description>
+  
+  <!-- EN: community builder -->
+  <Easy.label>bendruomenės kūrimas</Easy.label>
+  <!-- EN: Build a community with a taste of danger. Threats appear, but they're weakened.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax. -->
+  <Easy.description>Sukurk bendruomenę su trupučiu pavojaus. Grėsmės atsiranda, bet jos yra susilpnintos.\n\n(*SectionTitle)Rekomenduojama:(/SectionTitle)\n\n- Žmonėms kurie nėra žaidę tokio žaidimo kaip šitas.\n- Žmonėms kurie nori pastatyti idealią koloniją.\n- Žaidėjams kurie nori atsipalaiduoti.</Easy.description>
+  
+  <!-- EN: losing is fun -->
+  <Extreme.label>pralaimėti smagu</Extreme.label>
+  <!-- EN: This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists. -->
+  <Extreme.description>Šitas nustatymas sukurtas kad būtų nesąžiningas. Milžiniškos grėsmės grius ant tave be jokio gailesčio tol, kol kolonija mirs. Pasirink šį nustatymą tik jei tau patinka vargti ir mirti.\n\n(*SectionTitle)Rekomenduojama:(/SectionTitle)\n\n- Patyrusiems žaidėjams kurie nori nori susidurti su žiauriais, nesąžiningais iššūkiais, kai net geriausi žaidimo įgūdžiai neapsaugos nuo mirties..\n Tragedijų mėgėjams.\- Skaitmeniniams mazochistams.</Extreme.description>
+  
+  <!-- EN: blood and dust -->
+  <Hard.label>kraujas ir dulkės</Hard.label>
+  <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to struggle to survive. -->
+  <Hard.description>Patirk žiaurius išgyvenimo iššūkius. Net jei ir žaisi gerai, žmonės mirs. Reikės ruoštis grėsmėms iki joms atsirandant ir visur ieškoti kiekvieno įmanomo pranašumo.\n\n(*SectionTitle)Rekomenduojama:(/SectionTitle)\n\n- Patyrusiems žaidėjams kurie nori vargti kad išgyventų.</Hard.description>
+  
+  <!-- EN: adventure story -->
+  <Medium.label>nuotykių istorija</Medium.label>
+  <!-- EN: There's room to grow and thrive, but it's still a dangerous planet.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced strategy gamers on their first game of RimWorld.\n- Experienced RimWorld players who want some breathing room to pursue funny or weird goals. -->
+  <Medium.description>Yra vietos augti ir klestėti, bet tai vis dar pavojinga planeta.\n\n(*SectionTitle)Rekomenduojama:(/SectionTitle)\n\n- Patyrusiems strateginiuose žaidimuose žaidžiantiems RimWorld pirmą kartą.\n- Patyrusiems RimWorld žaidėjams, norintiems turėti šiek tiek vietos atsikvėpti, kad eitų siekti juokingų ar keistų tikslų.</Medium.description>
+  
+  <!-- EN: peaceful -->
+  <Peaceful.label>taiku</Peaceful.label>
+  <!-- EN: Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax. -->
+  <Peaceful.description>Sukurk bendruomenę smėlio dėžės aplinkoje. Didelės tiesioginės grėsmės yra išjungtos, bet iššūkiai kaip ligos, nervų pakrikimai ir pasiutę gyvūnai gali atsirasti.\n\n(*SectionTitle)Rekomenduojama:(/SectionTitle)\n\n- Žmonėms kurie nori išmokti žaisti be didelio spaudimo.\n- Žmonėms kuriems tiesiog patinka statyti.\n- Žmonėms kurie tiesiog nori atsipalaiduoti.</Peaceful.description>
+  
+  <!-- EN: strive to survive -->
+  <Rough.label>stenkis išgyventi</Rough.label>
+  <!-- EN: Strive to survive on a rough, tough planet. There will be triumph and tragedy.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want a rough story requiring skill to survive. -->
+  <Rough.description>Stenkis išgyventi atšiaurioje, nesvetingoje planetoje. Bus pergalių ir pralaimėjimų.\n\n(*SectionTitle)Rekomenduojama:(/SectionTitle)\n\n- Patyrusiems žaidėjams norintiems sunkumų, kuriems reikės gerų įgūdžių, kad išgyventų.</Rough.description>
+  
+</LanguageData>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Crashlanded -->
+  <Crashlanded.label>Avarinis Nusileidimas</Crashlanded.label>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
+  <Crashlanded.description>Jūs trise atsibundate nuo sirenų ir lūžtančio metalo garsų savo kriptomiego sarkofaguose. Jūs vos spėjate į gelbėjimosi kapsules iki kol erdvėlaivis subyra į gabalus. Po kiek laiko, jūs nusileidžiate šiame nežinomame kraštiniame pasaulyje.</Crashlanded.description>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
+  <Crashlanded.scenario.description>Jūs trise atsibundate nuo sirenų ir lūžtančio metalo garsų savo kriptomiego sarkofaguose. Jūs vos spėjate į gelbėjimosi kapsules iki kol erdvėlaivis subyra į gabalus. Po kiek laiko, jūs nusileidžiate šiame nežinomame kraštiniame pasaulyje.</Crashlanded.scenario.description>
+  <!-- EN: Crashlanded -->
+  <Crashlanded.scenario.name>Avarinis Nusileidimas</Crashlanded.scenario.name>
+  <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
+  <Crashlanded.scenario.summary>Trys išgyvenusieji avarinį nusileidimą - klasikinė RimWorld patirtis.</Crashlanded.scenario.summary>
+  
+  <!-- EN: Lost Tribe -->
+  <LostTribe.label>Pasiklydusi Gentis</LostTribe.label>
+  <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and lack technology, this is a difficult scenario. -->
+  <LostTribe.description>Tavo gentį sunaikino dievų atsiųstos galingosios gyvos mašinos. Jums penkiese pavyko pasprukti. Dabar atėjo laikas pasistatyti naujus namus.\n\nPastaba: Tai yra sudėtingas scenarijus, kadangi pradėsi skurdžiai ir trūks technologijų.</LostTribe.description>
+  <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and lack technology, this is a difficult scenario. -->
+  <LostTribe.scenario.description>Tavo gentį sunaikino dievų atsiųstos galingosios gyvos mašinos. Jums penkiese pavyko pasprukti. Dabar atėjo laikas pasistatyti naujus namus.\n\nPastaba: Tai yra sudėtingas scenarijus, kadangi pradėsi skurdžiai ir trūks technologijų.</LostTribe.scenario.description>
+  <!-- EN: Lost Tribe -->
+  <LostTribe.scenario.name>Pasiklydusi Gentis</LostTribe.scenario.name>
+  <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped.\n\nNow, after a harrowing journey, with no friends to turn to, you must build a new home in the wilderness - like your ancestors did. -->
+  <LostTribe.scenario.parts.GameStartDialog.text>Dievai buvo labai pikti. Gyvos mašinos atėjo naktį. Jos nušlavė tavo kaimą, kapodamos ir degindamos žmones su savo ašmenimis ir velnio ugnimi.\n\nTik keletui pavyko pabėgti.\n\nDabar, po kankinančios kelionės, be nieko į ką kreiptis pagalbos, jūs turit pastatyt naujus namus laukinėje gamtoje - visai kaip kad jūsų protėviai darė.</LostTribe.scenario.parts.GameStartDialog.text>
+  <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
+  <LostTribe.scenario.summary>Penki pasiklydę gentainiai bando atstatyti savo gentį. Sudėtinga.</LostTribe.scenario.summary>
+  
+  <!-- EN: Naked Brutality -->
+  <NakedBrutality.label>Nuogas</NakedBrutality.label>
+  <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
+  <NakedBrutality.description>Tu gavai narkozę nedidelei operacijai. Dabar atsibudai transporto kapsulėje krentančioje į nežinomą planetą. Tu esi nuogas, vienas ir visiškai nepasirengęs. Ar gali išgyventi?\n\nĮspėjimas: šiame scenarijuje nėra nieko sąžiningo - jis itin sudėtingas ir mirtis gali nutikti dėl bet kokios priežasties.</NakedBrutality.description>
+  <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
+  <NakedBrutality.scenario.description>Tu gavai narkozę nedidelei operacijai. Dabar atsibudai transporto kapsulėje krentančioje į nežinomą planetą. Tu esi nuogas, vienas ir visiškai nepasirengęs. Ar gali išgyventi?\n\nĮspėjimas: šiame scenarijuje nėra nieko sąžiningo - jis itin sudėtingas ir mirtis gali nutikti dėl bet kokios priežasties.</NakedBrutality.scenario.description>
+  <!-- EN: Naked Brutality -->
+  <NakedBrutality.scenario.name>Nuogas</NakedBrutality.scenario.name>
+  <!-- EN: It was supposed to be a minor surgery. Just an hour under anesthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rimworld.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive? -->
+  <NakedBrutality.scenario.parts.GameStartDialog.text>Tai turėjo būti tik nedidelė operacija. Tik valanda narkozėje. Tu jauteisi visiškai saugus.\n\nDabar atsibudai transporto kapsulėje skrodžiančioje tolimo kraštinio pasaulio atmosfera.\n\nBe to, kad tavo visas kūnas yra padengtas keista slidžia žele, tu taip pat esi visiškai nuogas. Be jokio pasirengimo, be atsargų ir be įrankių, ar gali išgyventi?</NakedBrutality.scenario.parts.GameStartDialog.text>
+  <!-- EN: Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair. -->
+  <NakedBrutality.scenario.summary>Nuogas, vienas ir visiškai nepasirengęs. Ar gali išgyventi? Itin sudėtinga ir nesąžininga.</NakedBrutality.scenario.summary>
+  
+  <!-- EN: The Rich Explorer -->
+  <TheRichExplorer.label>Turtingas Keliautojas</TheRichExplorer.label>
+  <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
+  <TheRichExplorer.description>Žmonės vadino tave pakvaišusiu dėl to, kad nusprendei palikti namus ultramoderniame pasaulyje, bet tu visada ilgėjaisi keliavimo po žvaigždes - už neurosimuliatoriaus ribų. Dabar tu ilgos kriptomiego kelionės pabaigoje, leidiesi nežinomame kraštiniame pasaulyje, kad pažiūrėtum koks čia gyvenimas.\n\nPastaba: Kadangi tavo veikėjui trūks kai kurių įgūdžių, šis scenarijus yra ypatingai sunkus žaidimo pradžioje.</TheRichExplorer.description>
+  <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
+  <TheRichExplorer.scenario.description>Žmonės vadino tave pakvaišusiu dėl to, kad nusprendei palikti savo namus ultramoderniame pasaulyje, bet tu visada ilgėjaisi keliavimo po žvaigždes - už neurosimuliatoriaus ribų. Dabar tu ilgos kriptomiego kelionės pabaigoje, leidiesi kraštiniame pasaulyje, kad pažiūrėtum koks čia gyvenimas.\n\nPastaba: Kadangi tavo veikėjui trūks kai kurių įgūdžių, šis scenarijus yra ypatingai sunkus žaidimo pradžioje.</TheRichExplorer.scenario.description>
+  <!-- EN: The Rich Explorer -->
+  <TheRichExplorer.scenario.name>Turtingas Keliautojas</TheRichExplorer.scenario.name>
+  <!-- EN: The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you. -->
+  <TheRichExplorer.scenario.parts.GameStartDialog.text>Tau niekada nepakako neurosimuliatorių, holo žaidimų ir orgijų. Tu norėjai daugiau - tikro gyvenimo sunkumų ir pasekmių, tokių apie kurias jie kalba istorijos knygose. Tu norėjai pažiūrėti ką reiškia patirti tikrus iššūkius ir pasekmes.\n\nDabar, po dešimtmečių kelionės kriptomiege, tu leidiesi šiame nežinomame kraštiniame pasaulyje. Tavęs laukia tikros pasekmės.</TheRichExplorer.scenario.parts.GameStartDialog.text>
+  <!-- EN: One rich explorer out to experience the universe. Extra difficult. -->
+  <TheRichExplorer.scenario.summary>Vienas turtingas keliautojas išvykęs pamatyti visatą. Ypač sunku.</TheRichExplorer.scenario.summary>
+  
+  <!-- EN: tutorial -->
+  <Tutorial.label>Pamokos</Tutorial.label>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
+  <Tutorial.description>Jūs tryse atsibundate savo kriptomiego sarkofaguose nuo sirenų ir lūžtančio metalo garsų. Jūs vos spėjate į gelbėjimosi kapsules iki kol erdvėlaivis suplyšta į gabalus. Po kiek laiko, jūs nusileidžiate šiame nežinomame kraštiniame pasaulyje.</Tutorial.description>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
+  <Tutorial.scenario.description>Jūs tryse atsibundate savo kriptomiego sarkofaguose nuo sirenų ir lūžtančio metalo garsų. Jūs vos spėjate į gelbėjimosi kapsules iki kol erdvėlaivis suplyšta į gabalus. Po kiek laiko, jūs nusileidžiate šiame nežinomame kraštiniame pasaulyje.</Tutorial.scenario.description>
+  <!-- EN: tutorial -->
+  <Tutorial.scenario.name>Pamokos</Tutorial.scenario.name>
+  <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
+  <Tutorial.scenario.summary>Trys išgyvenusieji avarinį nusileidimą - klasikinė RimWorld patirtis.</Tutorial.scenario.summary>
+  
+</LanguageData>

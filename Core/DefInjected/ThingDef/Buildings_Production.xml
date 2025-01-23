@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: biofuel refinery -->
+  <BiofuelRefinery.label>biokuro perdirbimo įranga</BiofuelRefinery.label>
+  <!-- EN: Refines biological matter like wood or plant matter into chemfuel. -->
+  <BiofuelRefinery.description>Rafinuoja biologines medžiagas, tokias kaip mediena ar augalinės medžiagos, į degalus.</BiofuelRefinery.description>
+  
+  <!-- EN: brewery -->
+  <Brewery.label>alaus darykla</Brewery.label>
+  <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
+  <Brewery.description>Darbo vieta su visa įranga, reikalinga maišyti misai skirtai alaus gamybai. Misa turi būti fermentuota, kad galiausiai taptų alumi.</Brewery.description>
+  
+  <!-- EN: butcher spot -->
+  <ButcherSpot.label>mėsininko vieta</ButcherSpot.label>
+  <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
+  <ButcherSpot.description>Vieta gyvūnams mėsinėti. Dėl priemonių trūkumo, mėsinėjant čia iš būtybės gaunama tik 70% mėsos ir odos.</ButcherSpot.description>
+  
+  <!-- EN: crafting spot -->
+  <CraftingSpot.label>meistravimo vieta</CraftingSpot.label>
+  <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
+  <CraftingSpot.description>Vieta paprastiems daiktams, pavyzdžiui, peiliams ar lankams, gaminti. Gamyba čia vyksta lėtai, nes trūksta įrankių.</CraftingSpot.description>
+  
+  <!-- EN: deep drill -->
+  <DeepDrill.label>giluminis grąžtas</DeepDrill.label>
+  <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
+  <DeepDrill.description>Plutos gręžimo įranga, skirta mineralams iškasti iš gilumų. Ištekliams aptikti naudok grunto radarą. Šis grąžtas išgręš akmens gabalus, jei toje vietoje nėra išteklių. Bet kada galima perkelti į kitą vietą.</DeepDrill.description>
+  
+  <!-- EN: drug lab -->
+  <DrugLab.label>medikamentų laboratorija</DrugLab.label>
+  <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
+  <DrugLab.description>Darbo stalas su talpyklomis, šildytuvais, matavimo prietaisais įvairiems medikamentams gaminti.</DrugLab.description>
+  
+  <!-- EN: electric crematorium -->
+  <ElectricCrematorium.label>elektrinis krematoriumas</ElectricCrematorium.label>
+  <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
+  <ElectricCrematorium.description>Didžiulis akmeninis krematoriumas, kuriame itin aukštoje temperatūroje deginami lavonai.</ElectricCrematorium.description>
+  
+  <!-- EN: electric smelter -->
+  <ElectricSmelter.label>elektrinė lydykla</ElectricSmelter.label>
+  <!-- EN: Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power. -->
+  <ElectricSmelter.description>Išgauna tinkamą naudoti metalą iš šlako gabalų ir kitų mišrių metalo gaminių. Sunaudoja daug elektros energijos.</ElectricSmelter.description>
+  
+  <!-- EN: electric smithy -->
+  <ElectricSmithy.label>elektrinė kalvė</ElectricSmithy.label>
+  <!-- EN: An electric-powered station for smithing non-mechanical weapons and tools. -->
+  <ElectricSmithy.description>Elektra varoma darbo vieta, skirta nemechaniniams ginklams ir įrankiams kalti.</ElectricSmithy.description>
+  
+  <!-- EN: electric stove -->
+  <ElectricStove.label>elektrinė viryklė</ElectricStove.label>
+  <!-- EN: An electrically-powered stove with an attached countertop for preparing meals. -->
+  <ElectricStove.description>Elektra varoma viryklė su pritvirtintu stalviršiu patiekalams ruošti.</ElectricStove.description>
+  
+  <!-- EN: electric tailor bench -->
+  <ElectricTailoringBench.label>elektrinis siuvimo stalas</ElectricTailoringBench.label>
+  <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed. -->
+  <ElectricTailoringBench.description>Darbastalis su siuvimo mašina greitam drabužių pasiuvimui. Gali veikti be elektros 50% įprasto greičio.</ElectricTailoringBench.description>
+  
+  <!-- EN: fabrication bench -->
+  <FabricationBench.label>aukštųju technologijų gamybos stalas</FabricationBench.label>
+  <!-- EN: A workbench equipped with advanced tools for producing technological marvels from simpler materials. -->
+  <FabricationBench.description>Darbastalis su pažangiais įrankiais, leidžiančiais gaminti technologinius stebuklus iš paprastesnių medžiagų.</FabricationBench.description>
+  
+  <!-- EN: fermenting barrel -->
+  <FermentingBarrel.label>fermentavimo statinė</FermentingBarrel.label>
+  <!-- EN: A barrel for fermenting raw wort into beer. -->
+  <FermentingBarrel.description>Statinė žaliai misai fermentuoti į alų.</FermentingBarrel.description>
+  
+  <!-- EN: fueled smithy -->
+  <FueledSmithy.label>kūrenama kalvė</FueledSmithy.label>
+  <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
+  <FueledSmithy.description>Mediena kūrenama nemechaninių ginklų ir įrankių kalimo vieta.</FueledSmithy.description>
+  
+  <!-- EN: fueled stove -->
+  <FueledStove.label>kūrenama viryklė</FueledStove.label>
+  <!-- EN: A wood-fueled stove with an attached countertop for preparing meals. -->
+  <FueledStove.description>Malkomis kūrenama viryklė su pritvirtintu stalviršiu patiekalams ruošti.</FueledStove.description>
+  
+  <!-- EN: hand tailor bench -->
+  <HandTailoringBench.label>siuvimo rankomis stalas</HandTailoringBench.label>
+  <!-- EN: A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench. -->
+  <HandTailoringBench.description>Darbastalis rūbų siuvimui rankomis. Veikia 50% nuo elektrinio siuvimo stalo greičio.</HandTailoringBench.description>
+  
+  <!-- EN: hi-tech research bench -->
+  <HiTechResearchBench.label>aukštųjų technologijų tyrimų stalas</HiTechResearchBench.label>
+  <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
+  <HiTechResearchBench.description>Aukštųjų technologijų stalas su kompiuteriais ir elektronine matavimo įranga. Leidžia atlikti greitesnius mokslinius tyrimus ir atrakinti pažangius tyrimų projektus.</HiTechResearchBench.description>
+  
+  <!-- EN: hopper -->
+  <Hopper.label>piltuvas</Hopper.label>
+  <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
+  <Hopper.description>Talpina išteklius naudojamus aparatų, tokių kaip maistinės pastos dozatoriai.</Hopper.description>
+  
+  <!-- EN: hydroponics basin -->
+  <HydroponicsBasin.label>hidroponinė daigykla</HydroponicsBasin.label>
+  <!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
+  <HydroponicsBasin.description>Dirbtinė maistinių medžiagų vonia augalų auginimui. Maistinių medžiagų siurbliai turi veikti nuolat; nutrūkus energijos tiekimui, augalai žus.</HydroponicsBasin.description>
+  
+  <!-- EN: nutrient paste dispenser -->
+  <NutrientPasteDispenser.label>maistinės pastos dozatorius</NutrientPasteDispenser.label>
+  <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
+  <NutrientPasteDispenser.description>Aparatas kuris sintetina valgomą maistinę pastą iš organinės maistinės žaliavos dedamos į greta esančius piltuvus. Sutaupo ingredientų ir laiko palyginus su bet kokiu kitu maisto gaminimo būdu - bet niekas nemėgsta valgyti maistinės pastos. Priima žalią maistą, bet ne kietas augalines medžiagas kaip šienas.</NutrientPasteDispenser.description>
+  
+  <!-- EN: simple research bench -->
+  <SimpleResearchBench.label>paprastas tyrimų stalas</SimpleResearchBench.label>
+  <!-- EN: A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->
+  <SimpleResearchBench.description>Paprastas stalas su rašymo priemonėmis ir paprastais matavimo prietaisais. Tyrėjai čia dirba siekdami atrasti naujų dalykų.</SimpleResearchBench.description>
+  
+  <!-- EN: butcher table -->
+  <TableButcher.label>mėsininko stalas</TableButcher.label>
+  <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. Rotting or dessicated corpses cannot be butchered. -->
+  <TableButcher.description>Sunkus stalas, skirtas negyvoms būtybėms supjaustyti į žalios mėsos gabalus. Pūvančių ar išdžiūvusių lavonų mėsinėti negalima.</TableButcher.description>
+  
+  <!-- EN: machining table -->
+  <TableMachining.label>mechaninio apdirbimo stalas</TableMachining.label>
+  <!-- EN: A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids. -->
+  <TableMachining.description>Darbo vieta technikai, kaip ginklai ir amunicija, surinkti arba negyviems mechanoidams išardyti.</TableMachining.description>
+  
+  <!-- EN: art bench -->
+  <TableSculpting.label>menininko stalas</TableSculpting.label>
+  <!-- EN: A workbench equipped for creating art. -->
+  <TableSculpting.description>Menui kurti pritaikytas darbastalis.</TableSculpting.description>
+  
+  <!-- EN: stonecutter's table -->
+  <TableStonecutter.label>akmenskaldžio stalas</TableStonecutter.label>
+  <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
+  <TableStonecutter.description>Darbo stalas su pjūklais ir kaltais, skirtas akmens gabalams skaldyti į tinkamus naudoti blokus.</TableStonecutter.description>
+  
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: agave -->
+  <Plant_Agave.label>agava</Plant_Agave.label>
+  <!-- EN: A large-leafed desert plant with edible flowers and stalks. -->
+  <Plant_Agave.description>Stambialapis dykumos augalas su valgomais žiedais ir stiebais.</Plant_Agave.description>
+  
+  <!-- EN: pincushion cactus -->
+  <Plant_PincushionCactus.label>adatinis kaktusas</Plant_PincushionCactus.label>
+  <!-- EN: A short cactus. It is so named because it resembles a pincushion. -->
+  <Plant_PincushionCactus.description>Trumpas kaktusas. Jis taip pavadintas, nes primena adatinę.</Plant_PincushionCactus.description>
+  
+  <!-- EN: saguaro cactus -->
+  <Plant_SaguaroCactus.label>didžioji karnegija</Plant_SaguaroCactus.label>
+  <!-- EN: A large cactus native to arid Earth environments. Though it is not a tree, it yields a small amount of fibrous material that can be used like wood. -->
+  <Plant_SaguaroCactus.description>Didelis kaktusas, kilęs iš sausringų Žemės vietų. Nors tai nėra medis, iš jo galima išgauti nedidelį kiekį pluoštinės medžiagos, kurią galima naudoti kaip medieną.</Plant_SaguaroCactus.description>
+  
+  <!-- EN: drago tree -->
+  <Plant_TreeDrago.label>drakono medis</Plant_TreeDrago.label>
+  <!-- EN: A hardy desert tree topped with thick, pointed leaves. -->
+  <Plant_TreeDrago.description>Tvirtas dykumos medis su storais, smailiais lapais viršuje.</Plant_TreeDrago.description>
+  
+</LanguageData>

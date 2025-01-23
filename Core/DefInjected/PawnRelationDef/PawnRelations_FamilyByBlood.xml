@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: son -->
+  <Child.label>sūnus</Child.label>
+  <!-- EN: daughter -->
+  <Child.labelFemale>dukra</Child.labelFemale>
+  
+  <!-- EN: cousin -->
+  <Cousin.label>pusbrolis</Cousin.label>
+  <Cousin.labelFemale>pusseserė</Cousin.labelFemale>
+  
+  <!-- EN: cousin once removed -->
+  <CousinOnceRemoved.label>tolimas giminaitis</CousinOnceRemoved.label>
+  <CousinOnceRemoved.labelFemale>tolima giminaitė</CousinOnceRemoved.labelFemale>
+  
+  <!-- EN: grandson -->
+  <Grandchild.label>anūkas</Grandchild.label>
+  <!-- EN: granddaughter -->
+  <Grandchild.labelFemale>anūkė</Grandchild.labelFemale>
+  
+  <!-- EN: grandnephew -->
+  <GrandnephewOrGrandniece.label>tolimas giminaitis</GrandnephewOrGrandniece.label>
+  <!-- EN: grandniece -->
+  <GrandnephewOrGrandniece.labelFemale>tolima giminaitė</GrandnephewOrGrandniece.labelFemale>
+  
+  <!-- EN: grandfather -->
+  <Grandparent.label>senelis</Grandparent.label>
+  <!-- EN: grandmother -->
+  <Grandparent.labelFemale>močiutė</Grandparent.labelFemale>
+  
+  <!-- EN: granduncle -->
+  <GranduncleOrGrandaunt.label>tolimas giminaitis</GranduncleOrGrandaunt.label>
+  <!-- EN: grandaunt -->
+  <GranduncleOrGrandaunt.labelFemale>tolima giminaitė</GranduncleOrGrandaunt.labelFemale>
+  
+  <!-- EN: great grandson -->
+  <GreatGrandchild.label>proanūkis</GreatGrandchild.label>
+  <!-- EN: great granddaughter -->
+  <GreatGrandchild.labelFemale>proanūkė</GreatGrandchild.labelFemale>
+  
+  <!-- EN: great grandfather -->
+  <GreatGrandparent.label>prosenelis</GreatGrandparent.label>
+  <!-- EN: great grandmother -->
+  <GreatGrandparent.labelFemale>prosenelė</GreatGrandparent.labelFemale>
+  
+  <!-- EN: brother -->
+  <HalfSibling.label>brolis</HalfSibling.label>
+  <!-- EN: sister -->
+  <HalfSibling.labelFemale>sesuo</HalfSibling.labelFemale>
+  
+  <!-- EN: kin -->
+  <Kin.label>giminaitis</Kin.label>
+  
+  <!-- EN: nephew -->
+  <NephewOrNiece.label>sūnėnas</NephewOrNiece.label>
+  <!-- EN: niece -->
+  <NephewOrNiece.labelFemale>dukterėčia</NephewOrNiece.labelFemale>
+  
+  <!-- EN: father -->
+  <Parent.label>tėvas</Parent.label>
+  <!-- EN: mother -->
+  <Parent.labelFemale>motina</Parent.labelFemale>
+  
+  <!-- EN: second cousin -->
+  <SecondCousin.label>antros eilės pusbrolis</SecondCousin.label>
+  <SecondCousin.labelFemale>antros eilės pusseserė</SecondCousin.labelFemale>
+  
+  <!-- EN: brother -->
+  <Sibling.label>brolis</Sibling.label>
+  <!-- EN: sister -->
+  <Sibling.labelFemale>sesuo</Sibling.labelFemale>
+  
+  <!-- EN: uncle -->
+  <UncleOrAunt.label>dėdė</UncleOrAunt.label>
+  <!-- EN: aunt -->
+  <UncleOrAunt.labelFemale>teta</UncleOrAunt.labelFemale>
+  
+</LanguageData>

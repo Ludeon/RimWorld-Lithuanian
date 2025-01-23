@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aiming time -->
+  <AimingDelayFactor.label>taikymosi laikas</AimingDelayFactor.label>
+  <!-- EN: How long it takes to shoot after choosing a target. -->
+  <AimingDelayFactor.description>Kiek laiko užtrunka iššauti pasirinkus taikinį.</AimingDelayFactor.description>
+  
+  <!-- EN: incoming damage multiplier -->
+  <IncomingDamageFactor.label>gaunamos žalos daugiklis</IncomingDamageFactor.label>
+  <!-- EN: A multiplier on all incoming damage. -->
+  <IncomingDamageFactor.description>Visos gaunamos žalos daugiklis.</IncomingDamageFactor.description>
+  
+  <!-- EN: melee armor penetration -->
+  <MeleeArmorPenetration.label>šarvų pramušimas artimoje kovoje</MeleeArmorPenetration.label>
+  <!-- EN: Average armor penetration of all attacks in melee combat.\n\nThis stat includes currently used weapon. -->
+  <MeleeArmorPenetration.description>Vidutinis šarvų pramušimas visoms atakoms artimoje kovoje.\n\nŠiame statistiniame rodiklyje įskaičiuotas šiuo metu naudojamas ginklas.</MeleeArmorPenetration.description>
+  
+  <!-- EN: melee dodge chance -->
+  <MeleeDodgeChance.label>išsisukimo tikimybė artimoje kovoje</MeleeDodgeChance.label>
+  <!-- EN: Chance to dodge a melee attack that would've otherwise hit.\n\nCharacters will not dodge while aiming or firing a ranged weapon. -->
+  <MeleeDodgeChance.description>Tikimybė išsisukti nuo atakos artimoje kovoje, kuri kitu atveju būtų pataikiusi.\n\nVeikėjai nebandys išsisukti kol taikosi ar šaudo su nuotoliniu ginklu.</MeleeDodgeChance.description>
+  
+  <!-- EN: melee DPS -->
+  <MeleeDPS.label>ŽPS artimoje kovoje</MeleeDPS.label>
+  <!-- EN: Average damage per second in melee combat.\n\nThis stat ignores target defenses like dodging and armor. -->
+  <MeleeDPS.description>Vidutinė žala per sekundę artimoje kovoje.\n\nŠis statistinis rodiklis nepaiso taikinio gynybos, kaip išvengimas ir šarvai.</MeleeDPS.description>
+  
+  <!-- EN: melee hit chance -->
+  <MeleeHitChance.label>pataikymo tikimybė artimoje kovoje</MeleeHitChance.label>
+  <!-- EN: Chance to hit a target in melee.\n\nThe target can still dodge even if we would've hit. -->
+  <MeleeHitChance.description>Tikimybė pataikyti į taikinį artimoje kovoje.\n\nTaikinys vis tiek gali išsisukti, net jei būtų buvę pataikyta.</MeleeHitChance.description>
+  
+  <!-- EN: Mortar miss radius multiplier -->
+  <MortarMissRadiusFactor.label>Minosvaidžio nepataikymo spind. daug.</MortarMissRadiusFactor.label>
+  <!-- EN: A multiplier on the miss radius of a mortar used by this person. Smaller numbers means more accurate mortar shells. -->
+  <MortarMissRadiusFactor.description>Šio asmens naudojamo minosvaidžio nepataikymo spindulio daugiklis. Mažesni skaičiai reiškia tikslesnius Minosvaidžio sviedinius.</MortarMissRadiusFactor.description>
+  <!-- EN: Mortar miss radius multiplier -->
+  <MortarMissRadiusFactor.labelForFullStatList>Minosvaidžio nepataikymo spindulio daugiklis</MortarMissRadiusFactor.labelForFullStatList>
+  
+  <!-- EN: trap spring chance -->
+  <PawnTrapSpringChance.label>Pakliuvimo į spąstus tikimybė</PawnTrapSpringChance.label>
+  <!-- EN: Chance to spring a trap the character is unaware of. -->
+  <PawnTrapSpringChance.description>Tikimybė pakliūti į spąstus apie kuriuos veikėjas nežino.</PawnTrapSpringChance.description>
+  
+  <!-- EN: accuracy factor (long) -->
+  <ShootingAccuracyFactor_Long.label>tikslumo koeficientas (ilgas)</ShootingAccuracyFactor_Long.label>
+  <!-- EN: A multiplier on accuracy at a distance of 40 cells or more. -->
+  <ShootingAccuracyFactor_Long.description>Daugiklis tikslumui 40 ar daugiau langelių atstumu.</ShootingAccuracyFactor_Long.description>
+  
+  <!-- EN: accuracy factor (medium) -->
+  <ShootingAccuracyFactor_Medium.label>tikslumo koeficientas (vidutinis)</ShootingAccuracyFactor_Medium.label>
+  <!-- EN: A multiplier on accuracy at a distance of 25 cells. -->
+  <ShootingAccuracyFactor_Medium.description>Daugiklis tikslumui 25 langelių atstumu.</ShootingAccuracyFactor_Medium.description>
+  
+  <!-- EN: accuracy factor (short) -->
+  <ShootingAccuracyFactor_Short.label>tikslumo koeficientas (trumpas)</ShootingAccuracyFactor_Short.label>
+  <!-- EN: A multiplier on accuracy at a distance of 12 cells. -->
+  <ShootingAccuracyFactor_Short.description>Daugiklis tikslumui 12 langelių atstumu.</ShootingAccuracyFactor_Short.description>
+  
+  <!-- EN: accuracy factor (close) -->
+  <ShootingAccuracyFactor_Touch.label>tikslumo koeficientas (arti)</ShootingAccuracyFactor_Touch.label>
+  <!-- EN: A multiplier on accuracy at a distance of 3 cells or less. -->
+  <ShootingAccuracyFactor_Touch.description>Daugiklis tikslumui 3 ar mažiau langelių atstumu.</ShootingAccuracyFactor_Touch.description>
+  
+  <!-- EN: shooting accuracy -->
+  <ShootingAccuracyPawn.label>šaudymo tikslumas</ShootingAccuracyPawn.label>
+  <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors.\n\nA hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <ShootingAccuracyPawn.description>Bazinė tikimybė neprašauti kiekvienam langeliui iki taikinio.\n\nTikimybei pataikyti taip pat turi įtakos daugelis kitų aplinkybių.\n\nPataikymo tikimybės paaiškinimą bet kuriam šūviui gali pamatyti pasirinkus šaulį ir užvedus pelės žymeklį virš taikinio.</ShootingAccuracyPawn.description>
+  <!-- EN: shooting accuracy (people) -->
+  <ShootingAccuracyPawn.labelForFullStatList>šaudymo tikslumas (žmonės)</ShootingAccuracyPawn.labelForFullStatList>
+  
+</LanguageData>

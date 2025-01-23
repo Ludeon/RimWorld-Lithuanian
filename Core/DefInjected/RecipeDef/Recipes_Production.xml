@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: destroy apparel -->
+  <DestroyApparel.label>sunaikinti drabužius</DestroyApparel.label>
+  <!-- EN: Use heat to destroy unwanted apparels. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
+  <DestroyApparel.description>Naudok karštį, kad sunaikintum nepageidaujamus drabužius. Šis procesas yra greitesnis nei lydymas ir veikia su nelydomais daiktais, bet šiuo būdu negaunama išteklių.</DestroyApparel.description>
+  <!-- EN: Destroying apparel. -->
+  <DestroyApparel.jobString>Naikina drabužius.</DestroyApparel.jobString>
+  
+  <!-- EN: destroy weapon -->
+  <DestroyWeapon.label>sunaikinti ginklą</DestroyWeapon.label>
+  <!-- EN: Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
+  <DestroyWeapon.description>Naudok karštį, kad sunaikintum nepageidaujamus ginklus. Šis procesas yra greitesnis nei lydymas ir veikia su nelydomais daiktais, bet šiuo būdu negaunama išteklių.</DestroyWeapon.description>
+  <!-- EN: Destroying weapon. -->
+  <DestroyWeapon.jobString>Naikina ginklą.</DestroyWeapon.jobString>
+  
+  <!-- EN: smelt metal from slag -->
+  <ExtractMetalFromSlag.label>išlydyti metalą iš šlako</ExtractMetalFromSlag.label>
+  <!-- EN: Use heat and strong electromagnets to extract useful metal from slag chunks. -->
+  <ExtractMetalFromSlag.description>Naudok karštį ir stiprius elektromagnetus, kad iš šlako gabalų išgautum naudingą metalą.</ExtractMetalFromSlag.description>
+  <!-- EN: Smelting metal from slag. -->
+  <ExtractMetalFromSlag.jobString>Lydo metalą iš šlako.</ExtractMetalFromSlag.jobString>
+  
+  <!-- EN: make chemfuel from organics -->
+  <Make_ChemfuelFromOrganics.label>gaminti degalus iš organinių medžiagų</Make_ChemfuelFromOrganics.label>
+  <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
+  <Make_ChemfuelFromOrganics.description>Gamink degalų partiją išgaudamas biokurą iš organinių maistinių žaliavų.</Make_ChemfuelFromOrganics.description>
+  <!-- EN: feedstock -->
+  <Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>maistinės žaliavos</Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>
+  <!-- EN: Refining chemfuel from organics. -->
+  <Make_ChemfuelFromOrganics.jobString>Rafinuoja degalus iš organinių žaliavų.</Make_ChemfuelFromOrganics.jobString>
+  
+  <!-- EN: make chemfuel from wood -->
+  <Make_ChemfuelFromWood.label>gaminti degalus iš medienos</Make_ChemfuelFromWood.label>
+  <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
+  <Make_ChemfuelFromWood.description>Gamink degalų partiją iš rąstų išgaudamas ir kondensuodamas medienos dujas.</Make_ChemfuelFromWood.description>
+  <!-- EN: Refining chemfuel from wood. -->
+  <Make_ChemfuelFromWood.jobString>Rafinuoja degalus iš medienos.</Make_ChemfuelFromWood.jobString>
+  
+  <!-- EN: make component -->
+  <Make_ComponentIndustrial.label>gaminti komponentą</Make_ComponentIndustrial.label>
+  <!-- EN: Make a component. -->
+  <Make_ComponentIndustrial.description>Gamink komponentą.</Make_ComponentIndustrial.description>
+  <!-- EN: Making component. -->
+  <Make_ComponentIndustrial.jobString>Gamina komponentą.</Make_ComponentIndustrial.jobString>
+  
+  <!-- EN: make advanced component -->
+  <Make_ComponentSpacer.label>gaminti pažangų komponentą</Make_ComponentSpacer.label>
+  <!-- EN: Make an advanced component. -->
+  <Make_ComponentSpacer.description>Gamink pažangų komponentą.</Make_ComponentSpacer.description>
+  <!-- EN: Making advanced component. -->
+  <Make_ComponentSpacer.jobString>Gamina pažangų komponentą.</Make_ComponentSpacer.jobString>
+  
+  <!-- EN: make patchleather -->
+  <Make_Patchleather.label>gaminti odą iš lopinėlių</Make_Patchleather.label>
+  <!-- EN: Combine various types of leather to create weak patchleather. -->
+  <Make_Patchleather.description>Sujunk įvairių tipų odą, kad sukurtum silpną odą iš lopinėlių.</Make_Patchleather.description>
+  <!-- EN: Making patchleather. -->
+  <Make_Patchleather.jobString>Gamina odą iš lopinėlių.</Make_Patchleather.jobString>
+  
+  <!-- EN: make any stone blocks -->
+  <Make_StoneBlocksAny.label>gaminti bet kokio akmens blokus</Make_StoneBlocksAny.label>
+  <!-- EN: Cut rock chunks into usable stone blocks. -->
+  <Make_StoneBlocksAny.description>Skaldyk uolienų gabalus į tinkamus naudoti akmens blokus.</Make_StoneBlocksAny.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksAny.jobString>Skaldo akmens blokus iš gabalo.</Make_StoneBlocksAny.jobString>
+  
+  <!-- EN: smelt apparel -->
+  <SmeltApparel.label>išlydyti drabužius</SmeltApparel.label>
+  <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->
+  <SmeltApparel.description>Naudok karštį ir stiprius elektromagnetus, kad suskaidytum metalinius drabužius, pavyzdžiui, šarvus, į naudingus išteklius.</SmeltApparel.description>
+  <!-- EN: Smelting apparel. -->
+  <SmeltApparel.jobString>Lydo drabužius.</SmeltApparel.jobString>
+  
+  <!-- EN: smelt weapon -->
+  <SmeltWeapon.label>išlydyti ginklą</SmeltWeapon.label>
+  <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
+  <SmeltWeapon.description>Naudokite šilumą ir stiprius elektromagnetus, kad suskaidytum ginklus į naudingus išteklius.</SmeltWeapon.description>
+  <!-- EN: Smelting weapon. -->
+  <SmeltWeapon.jobString>Lydo ginklą.</SmeltWeapon.jobString>
+  
+</LanguageData>

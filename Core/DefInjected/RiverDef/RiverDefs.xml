@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: creek -->
+  <Creek.label>Upelis</Creek.label>
+  
+  <!-- EN: huge river -->
+  <HugeRiver.label>Milžiniška upė</HugeRiver.label>
+  
+  <!-- EN: large river -->
+  <LargeRiver.label>Didelė upė</LargeRiver.label>
+  
+  <!-- EN: river -->
+  <River.label>Upė</River.label>
+  
+</LanguageData>

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beer brewing -->
+  <Brewing.label>alaus virimas</Brewing.label>
+  <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
+  <Brewing.description>Statyk alaus daryklą ir fermentacijos statines, kad paverstum apynius skaniu, skaniu alumi.</Brewing.description>
+  
+  <!-- EN: carpet making -->
+  <CarpetMaking.label>kilimų gamyba</CarpetMaking.label>
+  <!-- EN: Weave beautiful carpets from cloth. -->
+  <CarpetMaking.description>Ausk gražius kilimus iš audinio.</CarpetMaking.description>
+  
+  <!-- EN: cocoa -->
+  <Cocoa.label>kakava</Cocoa.label>
+  <!-- EN: Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation, and it's valuable on the market too. -->
+  <Cocoa.description>Sėk kakavmedžius, kad padarytum skanų savos gamybos šokoladą. Šokolado valgymas patenkina pramogų poreikį, be to, jis yra ir vertingas rinkoje.</Cocoa.description>
+  
+  <!-- EN: complex clothing -->
+  <ComplexClothing.label>sudėtingi drabužiai</ComplexClothing.label>
+  <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
+  <ComplexClothing.description>Siūk sudėtingus drabužius, kaip kad kelnes, paltus ir kaubojiškas skrybėles.</ComplexClothing.description>
+  
+  <!-- EN: complex furniture -->
+  <ComplexFurniture.label>sudėtingi baldai</ComplexFurniture.label>
+  <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more. -->
+  <ComplexFurniture.description>Statyk sudėtingus baldus, tokius kaip lovos, naktinius staliukus, valgomojo kėdės, foteliai, komodos, įrankių spintos, biliardo ir pokerio stalai, ventiliacijos angos, sarkofagai ir kita.</ComplexFurniture.description>
+  
+  <!-- EN: devilstrand -->
+  <Devilstrand.label>velniagrybis</Devilstrand.label>
+  <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
+  <Devilstrand.description>Sodink velniagrybį – lėtai augantį grybą, iš kurio išgaunamas išskirtinai kietas, karščiui atsparus biologinis pluoštas.</Devilstrand.description>
+  
+  <!-- EN: drug production -->
+  <DrugProduction.label>medikamentų gamyba</DrugProduction.label>
+  <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
+  <DrugProduction.description>Statyk medikamentų laboratoriją pagrindinių medikamentų sintezei. Reikalingi tolimesni tyrimai konkretiems medikamentams gaminti.</DrugProduction.description>
+  
+  <!-- EN: go-juice production -->
+  <GoJuiceProduction.label>raketos gamyba</GoJuiceProduction.label>
+  <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
+  <GoJuiceProduction.description>Gamink raketą – sintetinį kovinį dopingą, kuris pagerina šaudymo, artimos kovos ir judėjimo sugebėjimus bei malšina skausmą.</GoJuiceProduction.description>
+  
+  <!-- EN: greatbow -->
+  <Greatbow.label>ilgasis lankas</Greatbow.label>
+  <!-- EN: Craft greatbows for killing enemies at great range. -->
+  <Greatbow.description>Gamink ilguosius lankus, skirtus žudyti priešams iš didelio atstumo.</Greatbow.description>
+  
+  <!-- EN: long blades -->
+  <LongBlades.label>ilgi ašmenys</LongBlades.label>
+  <!-- EN: Craft longswords and spears. -->
+  <LongBlades.description>Gamink kalavijus ir ietis.</LongBlades.description>
+  
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>pasyvus aušintuvas</PassiveCooler.label>
+  <!-- EN: Make passive coolers, to cool indoor spaces without using electricity. -->
+  <PassiveCooler.description>Daryk pasyvius aušintuvus, kad galėtum vėsinti vidines patalpas nenaudojant elektros.</PassiveCooler.description>
+  
+  <!-- EN: pemmican -->
+  <Pemmican.label>pemikanas</Pemmican.label>
+  <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
+  <Pemmican.description>Gamink pemikaną – konservuotą mėsos ir augalinių medžiagų mišinį, kuris ilgai negenda. Puikiai tinka kelionėms.</Pemmican.description>
+  
+  <!-- EN: penoxycyline production -->
+  <PenoxycylineProduction.label>penoksicilino gamyba</PenoxycylineProduction.label>
+  <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
+  <PenoxycylineProduction.description>Gamink penoksiciliną – ligų prevencijos vaistą, kuris blokuoja marą, maliariją ir kitas ligas, kol jos neprasidėjo.</PenoxycylineProduction.description>
+  
+  <!-- EN: plate armor -->
+  <PlateArmor.label>plokštiniai šarvai</PlateArmor.label>
+  <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
+  <PlateArmor.description>Gamink plokštinių šarvų kostiumus iš metalo ar medžio. Šie sunkūs šarvai pastebimai sulėtina judėjimą, tačiau saugo labai veiksmingai.</PlateArmor.description>
+  
+  <!-- EN: psychite refining -->
+  <PsychiteRefining.label>psichitino rafinavimas</PsychiteRefining.label>
+  <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
+  <PsychiteRefining.description>Perdirbk psichoido lapus į kaifą ir pudrą – skirtingas euforinio narkotiko psichitino formas.</PsychiteRefining.description>
+  
+  <!-- EN: psychoid brewing -->
+  <PsychoidBrewing.label>psichoido virimas</PsychoidBrewing.label>
+  <!-- EN: Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove. -->
+  <PsychoidBrewing.description>Iš psichoido lapų prie laužo ar viryklės gamink švelnią euforiją ir priklausomybę sukeliančią arbatą.</PsychoidBrewing.description>
+  
+  <!-- EN: recurve bow -->
+  <RecurveBow.label>lenktasis lankas</RecurveBow.label>
+  <!-- EN: Build the recurve bow, an effective and inexpensive ranged weapon. -->
+  <RecurveBow.description>Gamink lenktąjį lanką – veiksmingą ir nebrangų nuotolinį ginklą.</RecurveBow.description>
+  
+  <!-- EN: smithing -->
+  <Smithing.label>gamyba</Smithing.label>
+  <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
+  <Smithing.description>Statyk kalves metaliniams gaminti tokiems ginklams kaip peiliai, gladijai ir kuokos. Apdirbk metalą į švarias, gražias grindų plyteles.</Smithing.description>
+  
+  <!-- EN: stonecutting -->
+  <Stonecutting.label>akmens skaldymas</Stonecutting.label>
+  <!-- EN: Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways. -->
+  <Stonecutting.description>Skaldyk uolienų gabalus į akmens blokus naudojimui statybose. Pastatykite gražias akmens plytelių grindis arba negražius betoninius takus.</Stonecutting.description>
+  
+  <!-- EN: tree sowing -->
+  <TreeSowing.label>medžių sėjimas</TreeSowing.label>
+  <!-- EN: Sow the local biome's natural trees in your fields. -->
+  <TreeSowing.description>Savo laukuose sėk natūraliai esamame biome paplitusius medžius.</TreeSowing.description>
+  
+  <!-- EN: wake-up production -->
+  <WakeUpProduction.label>Spydo gamyba</WakeUpProduction.label>
+  <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
+  <WakeUpProduction.description>Sintetink spydą – dopingą darbui, kuris panaikina poreikį miegoti.</WakeUpProduction.description>
+  
+</LanguageData>

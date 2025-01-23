@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: stony soil -->
+  <Gravel.label>akmeninga dirva</Gravel.label>
+  <!-- EN: gravel -->
+  <Gravel.tools.gravel.label>žvyras</Gravel.tools.gravel.label>
+  
+  <!-- EN: Ice -->
+  <Ice.label>Ledas</Ice.label>
+  
+  <!-- EN: marshy soil -->
+  <MarshyTerrain.label>pelkėta dirva</MarshyTerrain.label>
+  <!-- EN: mud -->
+  <MarshyTerrain.tools.mud.label>purvas</MarshyTerrain.tools.mud.label>
+  
+  <!-- EN: lichen-covered soil -->
+  <MossyTerrain.label>kerpėmis padengta dirva</MossyTerrain.label>
+  
+  <!-- EN: mud -->
+  <Mud.label>purvas</Mud.label>
+  <!-- EN: mud -->
+  <Mud.tools.mud.label>purvas</Mud.tools.mud.label>
+  
+  <!-- EN: sand -->
+  <Sand.label>smėlis</Sand.label>
+  <!-- EN: sand -->
+  <Sand.tools.sand.label>smėlis</Sand.tools.sand.label>
+  
+  <!-- EN: soft sand -->
+  <SoftSand.label>minkštas smėlis</SoftSand.label>
+  <!-- EN: sand -->
+  <SoftSand.tools.sand.label>smėlis</SoftSand.tools.sand.label>
+  
+  <!-- EN: soil -->
+  <Soil.label>dirva</Soil.label>
+  <!-- EN: dirt -->
+  <Soil.tools.dirt.label>žemės</Soil.tools.dirt.label>
+  
+  <!-- EN: rich soil -->
+  <SoilRich.label>derlinga dirva</SoilRich.label>
+  <!-- EN: dirt -->
+  <SoilRich.tools.dirt.label>žemės</SoilRich.tools.dirt.label>
+  
+</LanguageData>

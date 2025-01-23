@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bridgeable -->
+  <Bridgeable.label>galima tiesti tiltą</Bridgeable.label>
+  
+  <!-- EN: diggable -->
+  <Diggable.label>galima kasti</Diggable.label>
+  
+  <!-- EN: growable -->
+  <GrowSoil.label>galima auginti</GrowSoil.label>
+  
+  <!-- EN: heavy -->
+  <Heavy.label>išlaiko sunkų</Heavy.label>
+  
+  <!-- EN: light -->
+  <Light.label>išlaiko lengvą</Light.label>
+  
+  <!-- EN: medium -->
+  <Medium.label>išlaiko vidutinį</Medium.label>
+  
+  <!-- EN: moving water -->
+  <MovingFluid.label>judantis vanduo</MovingFluid.label>
+  
+  <!-- EN: shallow water -->
+  <ShallowWater.label>seklus vanduo</ShallowWater.label>
+  
+  <!-- EN: smoothable -->
+  <SmoothableStone.label>nugludinamas</SmoothableStone.label>
+  
+</LanguageData>

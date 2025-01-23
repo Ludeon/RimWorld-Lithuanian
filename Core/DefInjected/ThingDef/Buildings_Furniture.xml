@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal bed -->
+  <AnimalBed.label>gyvūnų lova</AnimalBed.label>
+  <!-- EN: A soft bed for animals to sleep on. Fits any animal. -->
+  <AnimalBed.description>Minkšta lova gyvūnams miegoti. Tinka bet kokiam gyvūnui.</AnimalBed.description>
+  
+  <!-- EN: animal sleeping box -->
+  <AnimalSleepingBox.label>gyvūnų miegojimo dėžė</AnimalSleepingBox.label>
+  <!-- EN: A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
+  <AnimalSleepingBox.description>Maža dėžutė gyvūnams miegoti. Tinka mažesniems gyvūnams, kaip vištos, katės ar maži šunys.</AnimalSleepingBox.description>
+  
+  <!-- EN: animal sleeping spot -->
+  <AnimalSleepingSpot.label>gyvūnų miegojimo vieta</AnimalSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where animals should sleep. -->
+  <AnimalSleepingSpot.description>Pažymi vietą ant žemės, kurioje gyvūnai turėtų miegoti.</AnimalSleepingSpot.description>
+  
+  <!-- EN: armchair -->
+  <Armchair.label>fotelis</Armchair.label>
+  <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
+  <Armchair.description>Didelė, minkšta, patogi vieta atsisėsti. Puikiai tinka atsipalaidavimui. Galima naudoti prie stalų, darbo vietų ir kitur.</Armchair.description>
+  
+  <!-- EN: bed -->
+  <Bed.label>lova</Bed.label>
+  <!-- EN: A cozy mattress and sheets on a frame for resting. -->
+  <Bed.description>Jaukus čiužinys su patalyne ant rėmo poilsiui.</Bed.description>
+  
+  <!-- EN: bedroll -->
+  <Bedroll.label>miegmaišis</Bedroll.label>
+  <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <Bedroll.description>Paprastas guolis, kuris guli ant grindų, dažniausiai pagamintas iš audinio arba odos, dažnai išklotas kailiu. Miegmaišis yra lengvas ir gali būti susuktas, kad būtų patogu transportuoti, tačiau jis nėra toks patogus kaip paprasta lova. Norėdami geriau miegoti, karavanai gali naudotis miegmaišiais keliaudami.</Bedroll.description>
+  
+  <!-- EN: double bedroll -->
+  <BedrollDouble.label>dvivietis miegmaišis</BedrollDouble.label>
+  <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <BedrollDouble.description>Paprastas dvigulis guolis, kuris guli ant grindų, dažniausiai pagamintas iš audinio arba odos, dažnai išklotas kailiu. Miegmaišis yra lengvas ir gali būti susuktas, kad būtų patogu transportuoti, tačiau jis nėra toks patogus kaip paprasta lova. Norėdami geriau miegoti, karavanai gali naudotis miegmaišiais keliaudami.</BedrollDouble.description>
+  
+  <!-- EN: dining chair -->
+  <DiningChair.label>valgomojo kėdė</DiningChair.label>
+  <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
+  <DiningChair.description>Patogi ir patraukli kėdė. Galima naudoti prie stalų, darbo vietų ir kitur.</DiningChair.description>
+  
+  <!-- EN: double bed -->
+  <DoubleBed.label>dvigulė lova</DoubleBed.label>
+  <!-- EN: A simple double-wide bed that fits two people. -->
+  <DoubleBed.description>Paprasta dvigulė lova, kurioje telpa du žmonės.</DoubleBed.description>
+  
+  <!-- EN: double sleeping spot -->
+  <DoubleSleepingSpot.label>dvivietė miegojimo vieta</DoubleSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where two people should sleep together. Not comfortable. -->
+  <DoubleSleepingSpot.description>Pažymi vietą ant žemės, kur du žmonės turėtų miegoti kartu. Nepatogi.</DoubleSleepingSpot.description>
+  
+  <!-- EN: dresser -->
+  <Dresser.label>komoda</Dresser.label>
+  <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
+  <Dresser.description>Komoda. Suteikia nedidelį komforto priedą visoms šalia esančioms lovoms. Daugiau nei vienos komodos pastatymas šalia tos pačios lovos neturi jokio poveikio.</Dresser.description>
+  
+  <!-- EN: end table -->
+  <EndTable.label>naktinis staliukas</EndTable.label>
+  <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <EndTable.description>Mažas naktinis staliukas, kuris padaro šalia esančias lovas šiek tiek patogesnėmis. Turi būti pastatytas šalia lovos priekio. Daugiau nei vieno naktinio staliuko pastatymas šalia tos pačios lovos neturi jokio poveikio.</EndTable.description>
+  
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>ligoninės lova</HospitalBed.label>
+  <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
+  <HospitalBed.description>Lova specialiai sukurta naudoti ligoninėse. Reguliuojama pagal pacientą ir su papuošta įmontuota įranga, ji pagerina medicininius rezultatus, palyginus su paprastomis lovomis.</HospitalBed.description>
+  
+  <!-- EN: plant pot -->
+  <PlantPot.label>augalų vazonas</PlantPot.label>
+  <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
+  <PlantPot.description>Pasodink čia dekoratyvines gėles, kad pagerintum šalia esančių žmonių nuotaiką.</PlantPot.description>
+  
+  <!-- EN: royal bed -->
+  <RoyalBed.label>karališka lova</RoyalBed.label>
+  <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
+  <RoyalBed.description>Prabangi auksu inkrustuota lova, tinkanti kilmingiesiems. Labai patogi ir graži, yra meno kūrinys pati iš savęs. Telpa du.</RoyalBed.description>
+  
+  <!-- EN: shelf -->
+  <Shelf.label>lentyna</Shelf.label>
+  <!-- EN: A triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
+  <Shelf.description>Triguba lentyna, kurioje telpa tris kartus daugiau nei ant tuščios žemės. Viduje laikomi daiktai niekada nesuges ir neturės įtakos jų aplinkos grožiui.\n\nKadangi vieta lentynose yra ribota, jose negalima laikyti gabalų, statinių, augalų ir didelių lavonų.</Shelf.description>
+  
+  <!-- EN: small shelf -->
+  <ShelfSmall.label>maža lentyna</ShelfSmall.label>
+  <!-- EN: A small triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
+  <ShelfSmall.description>Maža triguba lentyna, kurioje telpa tris kartus daugiau nei ant tuščios žemės. Viduje laikomi daiktai niekada nesuges ir neturės įtakos jų aplinkos grožiui.\n\nKadangi vieta lentynose yra ribota, jose negalima laikyti gabalų, statinių, augalų ir didelių lavonų.</ShelfSmall.description>
+  
+  <!-- EN: sleeping spot -->
+  <SleepingSpot.label>miegojimo vieta</SleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where people should sleep. Not comfortable. -->
+  <SleepingSpot.description>Pažymi vietą ant žemės, kur žmonės turėtų miegoti. Nepatogi.</SleepingSpot.description>
+  
+  <!-- EN: standing lamp -->
+  <StandingLamp.label>pastatoma lempa</StandingLamp.label>
+  <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
+  <StandingLamp.description>Elektrinė pastatoma lempa, kuri apšviečia vietą aplink. Žmonėms reikia šviesos, kad galėtų judėti ir dirbti visu greičiu.</StandingLamp.description>
+  
+  <!-- EN: stool -->
+  <Stool.label>taburetė</Stool.label>
+  <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
+  <Stool.description>Paprasta vieta ant kurios galima atsisėsti. Nelabai patogi, bet daug geriau nei nieko. Galima naudoti prie stalų, darbo vietų ir kitur.</Stool.description>
+  
+  <!-- EN: sun lamp -->
+  <SunLamp.label>dienos šviesos lempa</SunLamp.label>
+  <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
+  <SunLamp.description>Pramoninė lempa, kuri pakankamai ryškiai apšviečia plotą, kad būtų galima auginti kultūrinius augalus, tačiau naudoja daug elektros energijos. Naktį automatiškai išsijungia.</SunLamp.description>
+  <!-- EN: Off for plant resting period -->
+  <SunLamp.comps.CompSchedule.offMessage>Išjungta augalų poilsio laikotarpiui</SunLamp.comps.CompSchedule.offMessage>
+  
+  <!-- EN: table (1x2) -->
+  <Table1x2c.label>stalas (1x2)</Table1x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table1x2c.description>Žmonės valgo nuo stalų, kai kėdės yra pastatytos priešais juos.</Table1x2c.description>
+  
+  <!-- EN: table (2x2) -->
+  <Table2x2c.label>stalas (2x2)</Table2x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x2c.description>Žmonės valgo nuo stalų, kai kėdės yra pastatytos priešais juos.</Table2x2c.description>
+  
+  <!-- EN: table (2x4) -->
+  <Table2x4c.label>stalas (2x4)</Table2x4c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x4c.description>Žmonės valgo nuo stalų, kai kėdės yra pastatytos priešais juos.</Table2x4c.description>
+  
+  <!-- EN: table (3x3) -->
+  <Table3x3c.label>stalas (3x3)</Table3x3c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table3x3c.description>Žmonės valgo nuo stalų, kai kėdės yra pastatytos priešais juos.</Table3x3c.description>
+  
+  <!-- EN: torch lamp -->
+  <TorchLamp.label>fakelas</TorchLamp.label>
+  <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
+  <TorchLamp.description>Medinis fakelas plotui apšviesti. Žmonėms reikia šviesos, kad galėtų judėti ir dirbti visu greičiu. Gali būti automatiškai papildytas mediena. Skleidžia nedidelį kiekį šilumos.</TorchLamp.description>
+  
+</LanguageData>

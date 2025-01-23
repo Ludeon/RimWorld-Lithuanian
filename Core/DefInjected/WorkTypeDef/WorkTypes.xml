@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Create beautiful works of art from raw materials. -->
+  <Art.description>Kurk gražius meno kūrinius iš žaliavų.</Art.description>
+  <!-- EN: art -->
+  <Art.gerundLabel>meno kūryba</Art.gerundLabel>
+  <!-- EN: art -->
+  <Art.labelShort>menas</Art.labelShort>
+  <!-- EN: Artist -->
+  <Art.pawnLabel>Menininkas</Art.pawnLabel>
+  <!-- EN: Do art at -->
+  <Art.verb>Kurti meną prie</Art.verb>
+  
+  <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
+  <BasicWorker.description>Įgūdžių nereikalaujančios ir lengvos veiklos. Paleisti kalinius ir paspausti mygtukus ant prietaisų.</BasicWorker.description>
+  <!-- EN: dealing with -->
+  <BasicWorker.gerundLabel>lengvi darbai</BasicWorker.gerundLabel>
+  <!-- EN: basic -->
+  <BasicWorker.labelShort>lengvi darbai</BasicWorker.labelShort>
+  <!-- EN: Worker -->
+  <BasicWorker.pawnLabel>Darbininkas</BasicWorker.pawnLabel>
+  <!-- EN: Deal with -->
+  <BasicWorker.verb>Susitvarkyti su</BasicWorker.verb>
+  
+  <!-- EN: Clear snow and clean the floor in the home area. -->
+  <Cleaning.description>Sniego kasimas ir grindų valymas namų srityje.</Cleaning.description>
+  <!-- EN: cleaning -->
+  <Cleaning.gerundLabel>valymas</Cleaning.gerundLabel>
+  <!-- EN: clean -->
+  <Cleaning.labelShort>valyti</Cleaning.labelShort>
+  <!-- EN: Cleaner -->
+  <Cleaning.pawnLabel>Valytojas</Cleaning.pawnLabel>
+  <!-- EN: Clean -->
+  <Cleaning.verb>Valyti</Cleaning.verb>
+  
+  <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
+  <Construction.description>Statyk dalykus kuriuos pažymėjai pastatyti ir sutaisyk pažeistus arba sulūžusius statinius.</Construction.description>
+  <!-- EN: constructing -->
+  <Construction.gerundLabel>statybos</Construction.gerundLabel>
+  <!-- EN: construct -->
+  <Construction.labelShort>statyti</Construction.labelShort>
+  <!-- EN: Constructor -->
+  <Construction.pawnLabel>Statybininkas</Construction.pawnLabel>
+  <!-- EN: Construct -->
+  <Construction.verb>Statyti</Construction.verb>
+  
+  <!-- EN: Prepare meals and butcher meat. -->
+  <Cooking.description>Ruošk patiekalus ir mėsinėk gyvūnus.</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.gerundLabel>maisto gaminimas</Cooking.gerundLabel>
+  <!-- EN: cook -->
+  <Cooking.labelShort>gaminti maistą</Cooking.labelShort>
+  <!-- EN: Cook -->
+  <Cooking.pawnLabel>Virėjas</Cooking.pawnLabel>
+  <!-- EN: Cook -->
+  <Cooking.verb>Gaminti maistą</Cooking.verb>
+  
+  <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
+  <Crafting.description>Daryk paprastas didelių įgūdžių nereikalaujančias užduotis darbo vietose. Į tai įeina akmens skaldymas, lydymas ir kita.</Crafting.description>
+  <!-- EN: crafting -->
+  <Crafting.gerundLabel>gaminimas</Crafting.gerundLabel>
+  <!-- EN: craft -->
+  <Crafting.labelShort>gaminti</Crafting.labelShort>
+  <!-- EN: Crafter -->
+  <Crafting.pawnLabel>Amatininkas</Crafting.pawnLabel>
+  <!-- EN: Craft at -->
+  <Crafting.verb>Gaminti prie</Crafting.verb>
+  
+  <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
+  <Doctor.description>Slaugyk sergančiuosius, maitink juos, pakelk jiems nuotaiką ir atlik priskirtas operacijas. Daktarai rūpinsis ir kolonistais ir kaliniais.</Doctor.description>
+  <!-- EN: doctoring -->
+  <Doctor.gerundLabel>gydymas</Doctor.gerundLabel>
+  <!-- EN: doctor -->
+  <Doctor.labelShort>gydyti</Doctor.labelShort>
+  <!-- EN: Doctor -->
+  <Doctor.pawnLabel>Daktaras</Doctor.pawnLabel>
+  <!-- EN: Care for -->
+  <Doctor.verb>Rūpintis</Doctor.verb>
+  
+  <!-- EN: Extinguish fires in the colony. -->
+  <Firefighter.description>Gesink gaisrus kolonijoje.</Firefighter.description>
+  <!-- EN: firefighting -->
+  <Firefighter.gerundLabel>gaisrų gesinimas</Firefighter.gerundLabel>
+  <!-- EN: firefight -->
+  <Firefighter.labelShort>gesinti</Firefighter.labelShort>
+  <!-- EN: Firefighter -->
+  <Firefighter.pawnLabel>Ugniagesys</Firefighter.pawnLabel>
+  <!-- EN: Extinguish -->
+  <Firefighter.verb>Gesinti</Firefighter.verb>
+  
+  <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
+  <Growing.description>Sėk, nuimk kultūrinių augalų derlių ir surink laukinius augalus.</Growing.description>
+  <!-- EN: growing -->
+  <Growing.gerundLabel>auginimas</Growing.gerundLabel>
+  <!-- EN: grow -->
+  <Growing.labelShort>auginti</Growing.labelShort>
+  <!-- EN: Grower -->
+  <Growing.pawnLabel>Augintojas</Growing.pawnLabel>
+  <!-- EN: Grow -->
+  <Growing.verb>Auginti</Growing.verb>
+  
+  <!-- EN: Tame, train, harvest resources from and slaughter animals. -->
+  <Handling.description>Jaukink, dresuok, išgauk išteklius iš gyvūnų ir papjauk juos.</Handling.description>
+  <!-- EN: handling -->
+  <Handling.gerundLabel>darbas su gyvūnais</Handling.gerundLabel>
+  <!-- EN: handle -->
+  <Handling.labelShort>gyvūnai</Handling.labelShort>
+  <!-- EN: Handler -->
+  <Handling.pawnLabel>Gyvūnų prižiūrėtojas</Handling.pawnLabel>
+  <!-- EN: Handle -->
+  <Handling.verb>Dirbti su gyvūnu</Handling.verb>
+  
+  <!-- EN: Carry things to where they need to be. -->
+  <Hauling.description>Nunešk daiktus ten kur jie turėtų būti.</Hauling.description>
+  <!-- EN: hauling -->
+  <Hauling.gerundLabel>gabenimas</Hauling.gerundLabel>
+  <!-- EN: haul -->
+  <Hauling.labelShort>gabenti</Hauling.labelShort>
+  <!-- EN: Hauler -->
+  <Hauling.pawnLabel>Gabentojas</Hauling.pawnLabel>
+  <!-- EN: Haul -->
+  <Hauling.verb>Gabenti</Hauling.verb>
+  
+  <!-- EN: Kill animals which are designated to be hunted. -->
+  <Hunting.description>Nužudyk gyvūnus kurie yra pažymėti medžiojimui.</Hunting.description>
+  <!-- EN: hunting -->
+  <Hunting.gerundLabel>medžioklė</Hunting.gerundLabel>
+  <!-- EN: hunt -->
+  <Hunting.labelShort>medžioti</Hunting.labelShort>
+  <!-- EN: Hunter -->
+  <Hunting.pawnLabel>Medžiotojas</Hunting.pawnLabel>
+  <!-- EN: Hunt -->
+  <Hunting.verb>Medžioti</Hunting.verb>
+  
+  <!-- EN: Digging and drilling. -->
+  <Mining.description>Kasimas ir gręžimas.</Mining.description>
+  <!-- EN: mining -->
+  <Mining.gerundLabel>kalnakasyba</Mining.gerundLabel>
+  <!-- EN: mine -->
+  <Mining.labelShort>kasti</Mining.labelShort>
+  <!-- EN: Miner -->
+  <Mining.pawnLabel>Kalnakasys</Mining.pawnLabel>
+  <!-- EN: Mine -->
+  <Mining.verb>Kasti</Mining.verb>
+  
+  <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->
+  <Patient.description>Eik į medicininę lovą gydymui jei turi gyvybei grėsmę keliančių sveikatos problemų.</Patient.description>
+  <!-- EN: patienting -->
+  <Patient.gerundLabel>gulėjimas ligoninėje</Patient.gerundLabel>
+  <!-- EN: patient -->
+  <Patient.labelShort>pacientas</Patient.labelShort>
+  <!-- EN: Patient -->
+  <Patient.pawnLabel>Pacientas</Patient.pawnLabel>
+  <!-- EN: Become patient -->
+  <Patient.verb>Tapti pacientu</Patient.verb>
+  
+  <!-- EN: Rest in bed to recuperate from not-immediately-life-threatening medical problems. -->
+  <PatientBedRest.description>Ilsėkis lovoje, kad atsigautum turėdamas gyvybei nepavojingų sveikatos problemų.</PatientBedRest.description>
+  <!-- EN: resting in bed -->
+  <PatientBedRest.gerundLabel>poilsis lovoje</PatientBedRest.gerundLabel>
+  <!-- EN: bed rest -->
+  <PatientBedRest.labelShort>ilsėtis</PatientBedRest.labelShort>
+  <!-- EN: Bed rester -->
+  <PatientBedRest.pawnLabel>Gulintis lovoje</PatientBedRest.pawnLabel>
+  <!-- EN: Become patient -->
+  <PatientBedRest.verb>Tapti pacientu</PatientBedRest.verb>
+  
+  <!-- EN: Cut or harvest plants as designated. -->
+  <PlantCutting.description>Nukirsk ar nuimk derlių iš pažymėtų augalų.</PlantCutting.description>
+  <!-- EN: plant cutting -->
+  <PlantCutting.gerundLabel>augalų kirtimas</PlantCutting.gerundLabel>
+  <!-- EN: plant cut -->
+  <PlantCutting.labelShort>kirsti</PlantCutting.labelShort>
+  <!-- EN: Plant cutter -->
+  <PlantCutting.pawnLabel>Augalų kirtėjas</PlantCutting.pawnLabel>
+  <!-- EN: Cut -->
+  <PlantCutting.verb>Kirsti</PlantCutting.verb>
+  
+  <!-- EN: Perform research work. -->
+  <Research.description>Atlikti tyrimą.</Research.description>
+  <!-- EN: researching -->
+  <Research.gerundLabel>tyrimų atlikimas</Research.gerundLabel>
+  <!-- EN: research -->
+  <Research.labelShort>mokslas</Research.labelShort>
+  <!-- EN: Researcher -->
+  <Research.pawnLabel>Tyrėjas</Research.pawnLabel>
+  <!-- EN: Research at -->
+  <Research.verb>Atlikti tyrimą prie</Research.verb>
+  
+  <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. -->
+  <Smithing.description>Gamink ginklus ir įrankius iš žaliavų kaip šaltkalvis, arba pasinaudok mechaniniu apdirbimu.</Smithing.description>
+  <!-- EN: smithing -->
+  <Smithing.gerundLabel>apdirbimas</Smithing.gerundLabel>
+  <!-- EN: smith -->
+  <Smithing.labelShort>apdirbti</Smithing.labelShort>
+  <!-- EN: Smith -->
+  <Smithing.pawnLabel>Kalvis</Smithing.pawnLabel>
+  <!-- EN: Smith at -->
+  <Smithing.verb>Apdirbti prie</Smithing.verb>
+  
+  <!-- EN: Create apparel from raw materials. -->
+  <Tailoring.description>Gamink aprangą iš žaliavų.</Tailoring.description>
+  <!-- EN: tailoring -->
+  <Tailoring.gerundLabel>siuvimas</Tailoring.gerundLabel>
+  <!-- EN: tailor -->
+  <Tailoring.labelShort>siūti</Tailoring.labelShort>
+  <!-- EN: Tailor -->
+  <Tailoring.pawnLabel>Siuvėjas</Tailoring.pawnLabel>
+  <!-- EN: Tailor at -->
+  <Tailoring.verb>Siūti prie</Tailoring.verb>
+  
+  <!-- EN: Manage, feed, chat with, and recruit prisoners. -->
+  <Warden.description>Būk atsakingas už kalinius, maitink juos, bendrauk ir įkalbėk juos prisijungti.</Warden.description>
+  <!-- EN: wardening -->
+  <Warden.gerundLabel>darbas kalėjimo prižiūrėtoju</Warden.gerundLabel>
+  <!-- EN: warden -->
+  <Warden.labelShort>kaliniai</Warden.labelShort>
+  <!-- EN: Warden -->
+  <Warden.pawnLabel>Kalėjimo prižiūrėtojas</Warden.pawnLabel>
+  <!-- EN: Handle -->
+  <Warden.verb>Prižiūrėti kalinį</Warden.verb>
+  
+</LanguageData>

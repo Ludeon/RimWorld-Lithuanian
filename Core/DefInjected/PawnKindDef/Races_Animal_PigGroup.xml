@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chinchilla -->
+  <Chinchilla.label>šinšila</Chinchilla.label>
+  
+  <!-- EN: deer -->
+  <Deer.label>elnias</Deer.label>
+  <!-- EN: doe -->
+  <Deer.labelFemale>elnė</Deer.labelFemale>
+  <!-- EN: buck -->
+  <Deer.labelMale>elnias</Deer.labelMale>
+  <!-- EN: deer -->
+  <Deer.labelPlural>elniai</Deer.labelPlural>
+  
+  <!-- EN: gazelle -->
+  <Gazelle.label>gazelė</Gazelle.label>
+  
+  <!-- EN: ibex -->
+  <Ibex.label>kalnų ožys</Ibex.label>
+  <!-- EN: ibex doe -->
+  <Ibex.labelFemale>kalnų ožka</Ibex.labelFemale>
+  <!-- EN: ibex ram -->
+  <Ibex.labelMale>kalnų ožys</Ibex.labelMale>
+  <!-- EN: ibexes -->
+  <Ibex.labelPlural>kalnų ožiai</Ibex.labelPlural>
+  
+  <!-- EN: pig -->
+  <Pig.label>kiaulė</Pig.label>
+  <!-- EN: sow -->
+  <Pig.labelFemale>kiaulė</Pig.labelFemale>
+  <!-- EN: pig -->
+  <Pig.labelMale>paršas</Pig.labelMale>
+  <!-- EN: piglet -->
+  <Pig.lifeStages.piglet.label>paršiukas</Pig.lifeStages.piglet.label>
+  
+  <!-- EN: wild boar -->
+  <WildBoar.label>šernas</WildBoar.label>
+  
+</LanguageData>

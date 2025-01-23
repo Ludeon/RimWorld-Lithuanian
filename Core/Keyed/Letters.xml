@@ -1,157 +1,591 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- Misc -->
+  <!-- EN: Jump to location -->
   <JumpToLocation>Nušokti į vietovę</JumpToLocation>
+  <!-- EN: Postpone -->
   <PostponeLetter>Atidėti</PostponeLetter>
+  <!-- EN: Reject -->
   <RejectLetter>Atmesti</RejectLetter>
-  
+  <!-- EN: Read more -->
+  <ReadMore>Skaityti daugiau</ReadMore>
+  <!-- EN: You have {0} more letters -->
+  <MoreLetters>TODO</MoreLetters>
+
+  <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>Vasara</LetterLabelFirstSummerWarning>
-  <FirstSummerWarning>Prasidėjo vasara! Bet žiema artėja.\n\nTavo maisto augalai neaugs žiemos šaltyje. Pasirūpink maistu, kol dar gali.\n\nTu gali pastatyti ieinamą šaldymo kambarį, kad neleistum maistui supūti .\n\nIr pabandyk pavogti ar nusipirkti kailinių.</FirstSummerWarning>
+  <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nTo prepare for winter, buy, steal, or make some parkas, or you'll freeze when you step outside. -->
+  <FirstSummerWarning>Prasidėjo vasara! Bet žiema artėja.\n\nTavo maistiniai augalai žiemos šaltyje neaugs. Pasirūpink, kad užtektų maisto išgyventi. Gali pastatyti įeinamą šaldytuvą, kad kad maistas nesugestų.\n\nKad pasiruoštum žiemai nusipirk, pasivok ar pasigamink striukių, kitaip žiemą lauke sušalsi.</FirstSummerWarning>
 
-  <RelationsBrokenDown>Santykiai su  {0} visiškai subyrėjo. Nuo šiol jie tau priešiški.</RelationsBrokenDown>
-  <RelationsWarmed>Santykiai su{0} atšiltėjo. Jie tau nebepriešiški</RelationsWarmed>
+  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
+  <LetterRelationsChange_Hostile>Santykiai su {0} visiškai sužlugo. Dabar jie yra tau priešiški.</LetterRelationsChange_Hostile>  
+  <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
+  <LetterRelationsChange_HostileGoodwillDescription>Jie vykdys reguliarius reidus į tavo koloniją ir puls tavo karavanus, prie to kad nebeprekiaus su tavim. Jei nori pagerinti santykius, vis dar gali dovanoti jiems dovanas naudodamas karavanus arba transportavimo kapsules.\n\nTai nutiko nes geranoriškumas ({0}) nukrito žemiau {1}. Kad atstatytum neutralius santykius, geranoriškumas turi vėl pasiekti {2}.</LetterRelationsChange_HostileGoodwillDescription>  
 
-  <RelationsBrokenCapture>Kadangi užėmei {0}, {1} yra tavo priešas.</RelationsBrokenCapture>
+  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
+  <LetterRelationsChange_NeutralFromHostile>Santykiai su {0} atšilo. Jie dabar tave laiko neutraliu ir daugiau nebepuls.</LetterRelationsChange_NeutralFromHostile>
+  <!-- EN: This happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>Tai nutiko nes geranoriškumas ({1}) pakilo virš {2}. Jei geranoriškumas nukris žemiau {3}, {0} vėl taps agresyviais. Jei geranoriškumas pakils virš {4}, jie taps sąjungininkais ir kausis už tave.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+  
+  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied. -->
+  <LetterRelationsChange_NeutralFromAlly>Santykiai su {0} atvėso. Jie dabar tave laiko neutraliais, nebe sąjungininkais.</LetterRelationsChange_NeutralFromAlly>
+  <!-- EN: While they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
+  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>Nors jie su tavim vis dar taikiai bendraus, jie nebesiūs savo kovotojų padėti kai tau iškils pavojus.\n\nTai nutiko nes geranoriškumas ({1}) nukrito žemiau {2}. Jei geranoriškumas nukris žemiau {3}, {0} taps agresyviais. Jei pakils virš {4}, jie vėl taps sąjungininkais.</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+  
+  <!-- EN: Relations with {0} have become very close. They now consider you an ally. -->
+  <LetterRelationsChange_Ally>Santykiai su {0} tapo labai artimi. Jie dabar tave laiko sąjungininku.</LetterRelationsChange_Ally>
+  <!-- EN: Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral. -->
+  <LetterRelationsChange_AllyGoodwillDescription>Sąjungininkai kartais atvyksta padėti kovoti su priešais kai esi užpultas. Taip pat gali juos iškviesti padėti bet kada, bet tai kainuos geranoriškumo.\n\nJūs tapote sąjungininkais nes geranoriškumas ({0}) pakilo virš {1}. Jei geranoriškumas nukris žemiau {2}, santykiai vėl grįš į neutralius.</LetterRelationsChange_AllyGoodwillDescription>
 
-  <ColonyGoodwill>Kolonijos geranoriškumas </ColonyGoodwill>
-  <Neutral>Neutralus</Neutral>
+  <!-- EN: goodwill -->
+  <goodwill>geranoriškumas</goodwill>
+  <!-- EN: Neutral -->
+  <Neutral>Neutralūs</Neutral>
+  <!-- EN: neutral -->
+  <NeutralLower>neutralūs</NeutralLower>
+  <!-- EN: Death -->
+  <Death>Mirtis</Death>
 
-  <ShortCircuitRain> {0} turėjo trumpą jungimą lietuje ir sukėlė gaisrą.</ShortCircuitRain>
+  <!-- EN: A {1_label} has short-circuited due to precipitation and started a fire. -->
+  <ShortCircuitRain>{1_label} dėl kritulių patyrė trumpą jungimą ir užsidegė.</ShortCircuitRain>
 
-  <LetterLabelAreaRevealed>Zona atskleista </LetterLabelAreaRevealed>
-  <AreaRevealed>Nauja zona buvo atskleista</AreaRevealed>
-  <AreaRevealedWithMechanoids>Nauja zona buvo atskleista, joje buvo senoviškų mechanoidų</AreaRevealedWithMechanoids>
+  <!-- EN: Area revealed -->
+  <LetterLabelAreaRevealed>Atidengta vieta</LetterLabelAreaRevealed>
+  <!-- EN: A new area has been revealed. -->
+  <AreaRevealed>Buvo atidengta nauja vieta.</AreaRevealed>
+  <!-- EN: A new area has been revealed. It contains ancient, hostile mechanoids. -->
+  <AreaRevealedWithMechanoids>Buvo atidengta nauja vieta. Joje yra senoviniai, agresyvūs mechanoidai.</AreaRevealedWithMechanoids>
 
-  <RoofCollapsed>Stogas nugriuvo, nes šis buvo per toli nuo atramos.</RoofCollapsed>
+  <!-- EN: A roof has collapsed because it was too far from any support. -->
+  <RoofCollapsed>Stogas sugriuvo nes jis buvo per toli nuo atramos.</RoofCollapsed>
+  <!-- EN: These things were crushed: -->
   <TheseThingsCrushed>Šie daiktai buvo sutraiškyti:</TheseThingsCrushed>
-  <NothingCrushed>Niekas nebuvo sutraiškytas.</NothingCrushed>
-  <LetterLabelRoofCollapsed>Stogo sugriuvimas</LetterLabelRoofCollapsed>
-  
-  <RecruitSuccess>{0} sekmingai užverbuoti {1} ({2} šansas).</RecruitSuccess>
-  <RecruitFail>{0} nepavyko užverbuoti {1} ({2} šansas).</RecruitFail>
+  <!-- EN: Nothing was crushed. -->
+  <NothingCrushed>Niekas nebuvo sutraiškyta.</NothingCrushed>
+  <!-- EN: Roof collapse -->
+  <LetterLabelRoofCollapsed>Stogo griūtis</LetterLabelRoofCollapsed>
 
+  <!-- EN: {0} successfully recruited {1} ({2} chance). -->
+  <RecruitSuccess>{0} pavyko įkalbėti prisijungti {1} ({2} tikimybė).</RecruitSuccess>
+  <!-- EN: {0} failed to recruit {1} ({2} chance). -->
+  <RecruitFail>{0} nepavyko įkalbėti prisijungti {1} ({2} tikimybė).</RecruitFail>
+
+  <!-- EN: {PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time. -->
+  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} yra {RELATIVE_labelShort} {1}. Jei {PAWN_nameDef} mirs, {RELATIVE_labelShort} kentės ilgai trunkantį gedulą. Bet jei pavyktų išgelbėti {PAWN_nameDef}, {RELATIVE_labelShort} bus ilgą laiką labai laimingas.</RelatedPawnInvolvedInQuest>
+
+  <!-- EN: Birthday -->
   <LetterLabelBirthday>Gimtadienis</LetterLabelBirthday>
-  <BirthdayChronological>Tai yra{0}'s chronologinis gimtadienis šiandien! Biologiškai, {1} yra {3} metų.\n\Chronologiškai, {1} ką tik pavirto {2}.\n\nPastaba kadangi žmonės nesensta kol yra kripto miege, chronologinis gimtadienis yra atskiras nuo biologinio.</BirthdayChronological>
-  <BirthdayBiologicalAgeInjuries>{0} pasiekė biologinį amžių {1}.\n\nDėjas, {0} įgavo šias ligas dėl senatvės:\n{2}</BirthdayBiologicalAgeInjuries>
+  <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
+  <BirthdayChronological>Šiandien yra {0} chronologinis gimtadienis! Biologiškai, {1} yra {3} metų.\n\nChronologiškai, {1} ką tik sukako {2}.\n\nKadangi žmonės nesensta kol yra kriptomiege, chronologinis gimtadienis yra atskiras nuo biologinio gimtadienio.</BirthdayChronological>
+  <!-- EN: {0_nameFull} has reached the biological age of {1}. -->
+  <LetterBirthdayBiological>{0_nameFull} biologiškai sulaukė {1} metų.</LetterBirthdayBiological>
+  <!-- EN: Unfortunately, {0_nameFull} has gained the following diseases due to aging -->
+  <BirthdayBiologicalAgeInjuries>Deja, {0_nameFull} dėl amžiaus susirgo sekančiomis ligomis</BirthdayBiologicalAgeInjuries>
 
+  <!-- EN: Disease -->
   <LetterLabelNewDisease>Liga</LetterLabelNewDisease>
-  <NewDisease>{0} susirgo nuo {1}.\n\nPasirūpink, jog turi medicininę lovą ir daktarą.Pasirūpink, kad {2} gautų geriausią gydymą ir kuo daugiau laiko praleistų lovoje.</NewDisease>
-  <NewPartDisease>{0} susirgo nuo {3}. Infekcija yra [PAWN_possessive] {1}.\n\nPasirūpink, kad turi medicininę lovą ir daktarą. Pasirūpink, jog {2} gautų geriausią gydymą ir kuo daugiau laiko praleistų lovoje.</NewPartDisease>
+  <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
+  <NewDisease>{PAWN} susirgo dėl {1}.\n\nPasirūpink kad turėtum medicininę lovą ir daktarą. Prižiūrėk kad {PAWN_definite} gautų tinkamą gydymą ir kad praleistų kiek įmanoma daugiau laiko lovoje.</NewDisease>
+  <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
+  <NewPartDisease>{PAWN} susirgo dėl {3}. Infekcija yra {PAWN_possessive} {1}.\n\nPasirūpink kad turėtum medicininę lovą ir daktarą. Prižiūrėk kad {PAWN_definite} gautų tinkamą gydymą ir kad praleistų kiek įmanoma daugiau laiko lovoje.</NewPartDisease>
+  <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
+  <NewDiseaseAnimal>{PAWN_labelShort} susirgo: {1}</NewDiseaseAnimal>
+  <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
+  <NewPartDiseaseAnimal>{PAWN_labelShort} susirgo: {3} {PAWN_possessive} {1}</NewPartDiseaseAnimal>
 
+  <!-- EN: {0} was formerly part of your faction. -->
+  <PawnWasFormerlyColonist>{0} anksčiau buvo tavo frakcijos dalis.</PawnWasFormerlyColonist>
+  <!-- EN: You previously hosted {0}. -->
+  <PawnWasFormerlyLodger>Anksčiau esi priėmęs {0} į svečius.</PawnWasFormerlyLodger>
+  <!-- EN: {1_labelShort} has these relationships with your colonists: -->
+  <PawnHasTheseRelationshipsWithColonists>{1_labelShort} turi šiuos santykius su tavo kolonistais:</PawnHasTheseRelationshipsWithColonists>
+
+  <!-- EN: Ancient danger -->
   <LetterLabelAncientShrineWarning>Senovinis pavojus</LetterLabelAncientShrineWarning>
-  <AncientShrineWarning>Kai {0} artinasi prie sienos, baimės jausmas apima [PAWN_pronoun]. [PAWN_pronoun] nėra tikras kodėl, bet [PAWN_pronoun] jaučia, kad apdulkyjusi struktūra slepia didį pavojų.</AncientShrineWarning>
+  <!-- EN: As {PAWN_nameDef} draws near the ancient wall, a sense of foreboding overcomes {PAWN_objective}. {PAWN_pronoun} isn't sure why, but {PAWN_pronoun} feels that this dusty structure may contain great danger. -->
+  <AncientShrineWarning>{PAWN_nameDef} artėjant prie senovinės sienos, {PAWN_objective} aplanko bloga nuojauta. {PAWN_pronoun} nėra tikras kodėl, bet {PAWN_pronoun} jaučia, kad šis dulkėtas statinys savyje gali slėpti didžiulį pavojų.</AncientShrineWarning>
 
-  <StruckMineable>Mes atradome {0}!</StruckMineable>
+  <!-- EN: We have struck {0}! -->
+  <StruckMineable>Mes radome {0}!</StruckMineable>
 
+  <!-- EN: {0} revenge -->
   <LetterLabelAnimalManhunterRevenge>{0} kerštas</LetterLabelAnimalManhunterRevenge>
-  <AnimalManhunterFromDamage> {0} puola po to kai nukentėjo!</AnimalManhunterFromDamage>
-  <AnimalManhunterFromTaming> {0} puola po prijaukinimo bandymo!</AnimalManhunterFromTaming>
-  <AnimalManhunterOthers>Kiti {0}s šalia irgi tapo suerzinti!</AnimalManhunterOthers>
+  <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
+  <AnimalManhunterFromDamage>{1_indefinite} puola po to kai buvo sužeistas!\n\nJis puls bet kokį humanoidą kokį tik pasieks. Nusiramins po to kai užmigs.</AnimalManhunterFromDamage>
+  <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
+  <AnimalManhunterFromTaming>{1_indefinite} puola dėl nepavykusio bandymo prijaukinti!</AnimalManhunterFromTaming>
+  <!-- EN: Other {1_kindBasePlural} nearby have also become enraged! -->
+  <AnimalManhunterOthers>Kiti {1_kindBasePlural} šalia taip pat įniršo!</AnimalManhunterOthers>
 
-  <LetterFriendlyTrapSprungLabel>{0} pataikė į spastą</LetterFriendlyTrapSprungLabel>
-  <LetterFriendlyTrapSprung>{0} netyčia paleido spastą ir buvo sužalotas.</LetterFriendlyTrapSprung>
+  <!-- EN: {1_labelShort} hit trap -->
+  <LetterFriendlyTrapSprungLabel>{1_labelShort} užmynė ant spąstų</LetterFriendlyTrapSprungLabel>
+  <!-- EN: {1_labelShort} has accidentally sprung a trap and taken damage from it. -->
+  <LetterFriendlyTrapSprung>{1_labelShort} netyčia užmynė ant spąstų ir buvo sužalotas.</LetterFriendlyTrapSprung>
 
-  <LetterHealthComplications>{0} išvystė sveikatos būklę:\n\n  {1}\n\nTai buvo sukelta:\n\n  {2}</LetterHealthComplications>
-  <LetterHealthComplicationsLabel>{0}: {1}</LetterHealthComplicationsLabel>
+  <!-- EN: {PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2} -->
+  <LetterHealthComplications>{PAWN_labelShort} išsivystė sveikatos būklė:\n\n  {1}\n\nTai sukėlė:\n\n  {2}</LetterHealthComplications>
+  <!-- EN: {PAWN_labelShort}: {1} -->
+  <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
   
-  <LetterHediffFromRandomHediffGiver>{0} išvystė sveikatos būklę: {1}.</LetterHediffFromRandomHediffGiver>
-  <LetterHediffFromRandomHediffGiverLabel>{0}: {1}</LetterHediffFromRandomHediffGiverLabel>
-  
+  <!-- EN: {PAWN_labelShort} has developed a health condition: {1}. -->
+  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort} išsivystė sveikatos būklė: {1}.</LetterHediffFromRandomHediffGiver>
+  <!-- EN: {PAWN_labelShort}: {1} -->
+  <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}: {1}</LetterHediffFromRandomHediffGiverLabel>
+
+  <!-- EN: {1} died: {0} -->
   <LetterLeadersDeathLabel>{1} mirė: {0}</LetterLeadersDeathLabel>
-  <LetterLeadersDeath>{0}, {3} iš {1}, mirė.\n\nNaujasis {3} yra {2}.</LetterLeadersDeath>
+  <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
+  <LetterLeadersDeath>{OLDLEADER_nameFull}, {1} iš {0}, mirė.</LetterLeadersDeath>
 
-	<LetterLeaderChangedLabel>New {1}: {0}</LetterLeaderChangedLabel>
-	<LetterLeaderChanged>{0} nebe {3} iš {1}.\n/nNaujasis {3} yra {2}.</LetterLeaderChanged>
-	
-  <MentalBreakLetterLabel>Psichinis palūžimas</MentalBreakLetterLabel>
-  <FinalStraw>Paskutinis lašas buvo: {0}.</FinalStraw>
-  
+  <!-- EN: New {1}: {0} -->
+  <LetterLeaderChangedLabel>Naujas {1}: {0}</LetterLeaderChangedLabel>
+  <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
+  <LetterLeaderChanged>{OLDLEADER_nameFull} nebėra {1} iš {0}.</LetterLeaderChanged>
+
+  <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
+  <LetterNewLeader>Naujas {0} yra {NEWLEADER_nameFull}.</LetterNewLeader>
+
+  <!-- EN: The final straw was: {0} -->
+  <FinalStraw>Paskutinis šiaudas buvo: {0}</FinalStraw>
+  <!-- EN: This happened because of poor mood. -->
+  <MentalStateReason_Mood>Tai nutiko dėl blogos nuotaikos.</MentalStateReason_Mood>
+  <!-- EN: This happened because of the trait: {0}. -->
+  <MentalStateReason_Trait>Tai nutiko dėl bruožo: {0}.</MentalStateReason_Trait>
+  <!-- EN: This happened because of: {0}. -->
+  <MentalStateReason_Hediff>Tai nutiko dėl: {0}.</MentalStateReason_Hediff>
+  <!-- EN: This happened because of {0_definite}'s death. -->
+  <MentalStateReason_BondedHumanDeath>Tai nutiko dėl {0_definite} mirties.</MentalStateReason_BondedHumanDeath>
+  <!-- EN: The last event was -->
+  <LastFactionRelationsEvent>Paskutinis įvykis buvo</LastFactionRelationsEvent>
+
+  <!-- EN: View related quest -->
+  <ViewRelatedQuest>Peržiūrėk susijusią užduotį</ViewRelatedQuest>
+  <!-- EN: View quest -->
+  <ViewQuest>Peržiūrėk užduotį</ViewQuest>
+  <!-- EN: The last events in {PAWN_definite}'s life -->
+  <LastEventsInLife>Paskutiniai įvykiai {PAWN_definite} gyvenime</LastEventsInLife>
+
+  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
+  <LetterInspirationBeginThanksToHighMoodPart>Dėl geros nuotaikos, [PAWN_nameIndef] patyrė įkvėpimą!</LetterInspirationBeginThanksToHighMoodPart>
+
   <!-- Related pawns -->
-  <LetterLabelNoticedRelatedPawns>Santykiai</LetterLabelNoticedRelatedPawns>
-  <LetterRelatedPawnsRaidEnemy>Toje grupelėje yra žmonių kurie turi santykių su tavo kolonistais ar kaliniais {0}.\n\nTurėk mintyje, jog jie vistiek puls vienas kitą dėl blogų frakcijų santkių.\n\nŠie žmonės yra:</LetterRelatedPawnsRaidEnemy>
-  <LetterRelatedPawnsRaidFriendly>Toje draugiškoje grupelėje yra žmonių kurie turi santykių su tavo kolonistais ar kaliniaisi {0}:</LetterRelatedPawnsRaidFriendly>
-  <LetterRelatedPawnsNeutralGroup>Atvykstančioje grupėje yra žmonių turinčių santykių su tavo kolonistais ar kaliniais:</LetterRelatedPawnsNeutralGroup>
-  <LetterRelatedPawnsTradeShip>Orbitos prekiautojas turi santykiu su vienu iš tavo kolonistu ar kalinių:</LetterRelatedPawnsTradeShip>
-  <LetterRelatedPawnsTradingWithSettlement>Gyvenvientė parduoda žmones kurie turi santykių su tavo kolonistais ar kaliniais:</LetterRelatedPawnsTradingWithSettlement>
-  <LetterRelatedPawnsTradingWithOtherCaravan>Karavanas parduoda žmones kurie turi santykių su tavo kolonistais ar kaliniais:</LetterRelatedPawnsTradingWithOtherCaravan>
-  
-  <RelationshipAppendedLetterSuffix>(santykiai)</RelationshipAppendedLetterSuffix>
-  <RelationshipAppendedLetterTextColonist>[PAWN_nameDef] turi santykių su kolonistu. [PAWN_pronoun] yra {0}'s {1}.</RelationshipAppendedLetterTextColonist>
-  <RelationshipAppendedLetterTextPrisoner>[PAWN_nameDef] turi santykiu su vienu iš tavo kalinių. [PAWN_pronoun] yra {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
-  
+  <!-- EN: Relationship -->
+  <LetterLabelNoticedRelatedPawns>Giminės</LetterLabelNoticedRelatedPawns>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are: -->
+  <LetterRelatedPawnsRaidEnemy>Atvykstančioje {1} grupėje yra žmonių kurie turi santykių su tavo {0} arba kaliniais.\n\nTurėk galvoj kad nors jie yra giminingi, dėl blogų frakcijų santykių jie vis tiek puls vienas kitą.\n\nTie žmonės yra:</LetterRelatedPawnsRaidEnemy>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}: -->
+  <LetterRelatedPawnsRaidFriendly>Atvykstančioje draugiškų {1} grupėje yra žmonių kurie turi santykių su tavo {0} arba kaliniais:</LetterRelatedPawnsRaidFriendly>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group: -->
+  <LetterRelatedPawnsNeutralGroup>Atvykstančioje grupėje yra žmonių kurie turi santykių su tavo {0} arba kaliniais:</LetterRelatedPawnsNeutralGroup>
+  <!-- EN: The orbital trader is selling people who have relationships with your {0} or prisoners: -->
+  <LetterRelatedPawnsTradeShip>Orbitinis prekeivis pardavinėja žmones kurie turi santykių su tavo {0} arba kaliniais:</LetterRelatedPawnsTradeShip>
+  <!-- EN: The settlement is selling people who have relationships with your {0} or prisoners: -->
+  <LetterRelatedPawnsTradingWithSettlement>Gyvenvietė pardavinėja žmones kurie turi santykių su tavo {0} arba kaliniais:</LetterRelatedPawnsTradingWithSettlement>
+  <!-- EN: The caravan is selling people who have relationships with your {0} or prisoners: -->
+  <LetterRelatedPawnsTradingWithOtherCaravan>Karavanas pardavinėja žmones kurie turi santykių su tavo {0} arba kaliniais:</LetterRelatedPawnsTradingWithOtherCaravan>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the group: -->
+  <LetterRelatedPawnsGroupGeneric>Grupėje yra žmonių kurie turi santykių su tavo {0} arba kaliniais:</LetterRelatedPawnsGroupGeneric>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the area where your {0} have landed. -->
+  <LetterRelatedPawnsInMapWherePlayerLanded>Vietovėje kur nusileido tavo {0} yra žmonių kurie turi santykių su tavo {0} arba kaliniais.</LetterRelatedPawnsInMapWherePlayerLanded>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in this settlement: -->
+  <LetterRelatedPawnsSettlement>Šioje gyvenvietėje yra žmonių kurie turi santykių su tavo {0} arba kaliniais:</LetterRelatedPawnsSettlement>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in this area: -->
+  <LetterRelatedPawnsSite>Šioje vietovėje yra žmonių kurie turi santykių su tavo {0} arba kaliniais:</LetterRelatedPawnsSite>
+
+  <!-- EN: relationship -->
+  <RelationshipAppendedLetterSuffix>santykiai</RelationshipAppendedLetterSuffix>
+  <!-- EN: {PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
+  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} turi santykių su kolonistu. {PAWN_pronoun} yra {RELATIVE_labelShort} {1}.</RelationshipAppendedLetterTextColonist>
+  <!-- EN: {PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
+  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef} turi santykių su vienu iš tavo kalinių. {PAWN_pronoun} yra {RELATIVE_labelShort} {1}.</RelationshipAppendedLetterTextPrisoner>
+
   <!-- Attempt romance / propose interaction -->
-  <LetterLabelAffair>Afera</LetterLabelAffair>
-  <LetterAffair>{0}, susituokė su {1}, pradėjo afera su {2}.</LetterAffair>
-  <LetterLabelNewLovers>Nauji įsimylėjeliai</LetterLabelNewLovers>
-  <LetterNewLovers>{0} ir {1} suėjo kartu ir tapo įsimylėjeliais.</LetterNewLovers>
-  <LetterNoLongerLovers>{0} ir {1} daugiau nebera santykiuose.</LetterNoLongerLovers>
+  <!-- EN: Affair -->
+  <LetterLabelAffair>Romanas</LetterLabelAffair>
+  <!-- EN: {PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}. -->
+  <LetterAffair>{PAWN1_labelShort}, susituokęs su {SPOUSE_labelShort}, užmezgė romaną su {PAWN2_labelShort}.</LetterAffair>
+  <!-- EN: New lovers -->
+  <LetterLabelNewLovers>Nauji meilužiai</LetterLabelNewLovers>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed. -->
+  <LetterNewLovers>{PAWN1_labelShort} ir {PAWN2_labelShort} dabar nori miegoti kartu. Gali paskirti jiems dvigubą lovą.</LetterNewLovers>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
+  <LetterNoLongerLovers>{PAWN1_labelShort} ir {PAWN2_labelShort} nutraukė savo santykius.</LetterNoLongerLovers>
+  <!-- EN: {PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name. -->
+  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} pasikeis {PAWN_possessive} pavardę atgal į {PAWN_possessive} mergautinę pavardę.</LetterNoLongerLovers_BackToBirthName>
+  <!-- EN: Breakup -->
   <LetterLabelBreakup>Išsiskyrimas</LetterLabelBreakup>
-  <LetterLabelAcceptedProposal>Sutuoktuvės vyksta!</LetterLabelAcceptedProposal>
-  <LetterLabelRejectedProposal>Atsisakė pasiūlymo</LetterLabelRejectedProposal>
-  <LetterAcceptedProposal>{1} priemė {0}'s santuokos pasiūlymą.\n\nKažkuriuo metu per ateinančias dienas, jie atliks savo santuokos ceremoniją ir pakvies visus kolonistus. Pagalvok kur padėti santuokos vietą jeigu nori kontroliuoti kur ceremonija įvyks.</LetterAcceptedProposal>
-  <LetterRejectedProposal>{1} atmmetė  {0}'s santuokos pasiūlymą. {0} bus nepatenkintas dėl to.</LetterRejectedProposal>
-  
+  <!-- EN: Marriage is on! -->
+  <LetterLabelAcceptedProposal>Vestuvės!</LetterLabelAcceptedProposal>
+  <!-- EN: Rejected proposal -->
+  <LetterLabelRejectedProposal>Atsakytas pasipiršimas</LetterLabelRejectedProposal>
+  <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
+  <LetterAcceptedProposal>Kažkada artimiausiomis dienomis ar ketvirčiais, jie surengs savo vestuvių ceremoniją ir pakvies visus kolonistus. Gali padėti vestuvių vietą jei nori kontroliuoti kur ceremonija įvyks.</LetterAcceptedProposal>
+  <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
+  <LetterAcceptedProposal_NameChange>{PAWN_label} pakeis {PAWN_possessive} pavardę į {1}.</LetterAcceptedProposal_NameChange>
+  <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
+  <LetterRejectedProposal>{INITIATOR_nameFull} dėl to bus nelaimingas.</LetterRejectedProposal>
+
   <!-- Generalized letter labels -->
-  <LetterLabelRelationsChangeGood>Geranoriškumas</LetterLabelRelationsChangeGood>
-  <LetterLabelRelationsChangeBad>Bloga valia</LetterLabelRelationsChangeBad>
-  <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
-  <LetterLabelMentalBreakdown>Psichinis palūžimas</LetterLabelMentalBreakdown>
-  
+  <!-- EN: Hostile: {0} -->
+  <LetterLabelRelationsChange_Hostile>Agresyvūs: {0}</LetterLabelRelationsChange_Hostile>
+  <!-- EN: Allied: {0} -->
+  <LetterLabelRelationsChange_Ally>Sąjungininkai: {0}</LetterLabelRelationsChange_Ally>
+  <!-- EN: Enemy now neutral: {0} -->
+  <LetterLabelRelationsChange_NeutralFromHostile>Priešas dabar neutralus: {0}</LetterLabelRelationsChange_NeutralFromHostile>
+  <!-- EN: Ally now neutral: {0} -->
+  <LetterLabelRelationsChange_NeutralFromAlly>Sąjungininkas dabar neutralus: {0}</LetterLabelRelationsChange_NeutralFromAlly>
+  <!-- EN: Zzztt... -->
+  <LetterLabelShortCircuit>Bzzzt...</LetterLabelShortCircuit>
+
   <!-- Bonded animals -->
-  <LetterLabelBondedAnimalDied>Prisirišusio gyvūno mirtis</LetterLabelBondedAnimalDied>
-  <LetterBondedAnimalDied>{0}, prisirišęs prie {1}, mirė. Tai paveiks {1}'s nuotaiką.</LetterBondedAnimalDied>
-  <LetterNamedBondedAnimalDied>{0} pavadintas {1}, prisirišęs prie {2}, mirė. Tai paveiks {2}'s nuotaiką.</LetterNamedBondedAnimalDied>
-  <LetterBondedAnimalDiedMulti>{0} mirė. Tai paveiks šių žmonių nuotaiką:\n\n{1}</LetterBondedAnimalDiedMulti>
-  <LetterNamedBondedAnimalDiedMulti>{0} pavadintas {1} mirė. Tai paveiks šių žmonių nuotaiką:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
+  <!-- EN: bonded -->
+  <LetterLabelSuffixBondedAnimalDied>turėjo emocinį ryšį</LetterLabelSuffixBondedAnimalDied>
+  <!-- EN: {ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood. -->
+  <LetterPartBondedAnimalDied>{ANIMAL_definite} turėjo emocinį ryšį su {HUMAN_labelShort}. Tai paveiks {HUMAN_labelShort} nuotaiką.</LetterPartBondedAnimalDied>
+  <!-- EN: It will affect mood of the following people:\n\n{0} -->
+  <LetterPartBondedAnimalDiedMulti>Tai paveiks šių žmonių nuotaiką:\n\n{0}</LetterPartBondedAnimalDiedMulti>
 
   <!-- Prison break -->
-  <LetterLabelPrisonBreak>Kalejimo pabėgimas</LetterLabelPrisonBreak>
-  <LetterPrisonBreak>Kaliniai suplanavo pabėgimą! Jie kažkaip įveikė durų užraktą ir dabar bando pabėgti. Jie gali siekti ginklų, kausis arba bandys pabėgti. Šie kaliniai dalyvauja pabėgime:\n\n{0}\n\nKaliniai bus labiau linkę suplanuoti pabėgimą kai jų yra daug ir kai jie yra sveiki.</LetterPrisonBreak>
-  
-  <!-- Party -->
-  <LetterLabelNewParty>Vakarėlis</LetterLabelNewParty>
-  <LetterNewParty>{0} kelia vakarėlį! Visi kas dalyvaus gau džiaugsmo ir socialinės energijos, ir ilgalaikį nuotaikos pagerinimą.</LetterNewParty>
+  <!-- EN: Prison break -->
+  <LetterLabelPrisonBreak>Pabėgimas iš kalėjimo</LetterLabelPrisonBreak>
+  <!-- EN: Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy. -->
+  <LetterPrisonBreak>Kaliniai surengė pabėgimą! Jie kažkaip įveikė durų užraktus ir išėjo. Jie gali ieškoti ginklų, kovoti arba bandyti ištrūkti. Dalyvauja šie kaliniai:\n\n{0}\n\nKaliniai yra labiau linkę pabėgti kai jų yra daug ir sveikų.</LetterPrisonBreak>
 
   <!-- Newly addicted -->
+  <!-- EN: {0} addiction -->
   <LetterLabelNewlyAddicted>{0} priklausomybė</LetterLabelNewlyAddicted>
-  <LetterNewlyAddicted>{0} išsivystė priklausomybę nuo {1}.\n\n[PAWN_pronoun] dabar turi  {1}, matomas  [PAWN_possessive] poreikių lentelėje. [PAWN_pronoun] automatiškai vartos šį svaigalą [PAWN_possessive] poreikiui. Jei [PAWN_pronoun] negali gauti svaigalų {1}, [PAWN_pronoun] pradės eiti per atsitraukimo stadiją .</LetterNewlyAddicted>
-  
+  <!-- EN: {PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal. -->
+  <LetterNewlyAddicted>{PAWN_labelShort} tapo priklausomas nuo {1}.\n\n{PAWN_pronoun} dabar turi poreikį {1}, matomą {PAWN_possessive} Poreikių lange. {PAWN_pronoun} automatiškai suvartos narkotiką kad patenkintų {PAWN_possessive} poreikį. Jei {PAWN_pronoun} negali gauti {1}, {PAWN_pronoun} prasidės abstinencija.</LetterNewlyAddicted>
+
   <!-- Drug binge -->
-  <LetterLabelDrugBinge>{0} besaikis vartojimas</LetterLabelDrugBinge>
-  <LetterDrugBinge>{0} besaikiai vartoja {1}.</LetterDrugBinge>
-  
-  <!-- Formed caravan -->
-  <LetterLabelFormedCaravan>Karavanas pasiruošęs</LetterLabelFormedCaravan>
-  <LetterFormedCaravan>Tavo karavanas suformuostas žemėlapyje ir laukia nurodymų.</LetterFormedCaravan>
-  
+  <!-- EN: {0} binge -->
+  <LetterLabelDrugBinge>besaikis {0}</LetterLabelDrugBinge>
+  <!-- EN: {2_label} is binging on {1}. -->
+  <LetterDrugBinge>{2_label} be saiko vartoja {1}.</LetterDrugBinge>
+
   <!-- Caravan destroyed -->
+  <!-- EN: Caravan destroyed -->
   <LetterLabelAllCaravanColonistsDied>Karavanas sunaikintas</LetterLabelAllCaravanColonistsDied>
-  <LetterAllCaravanColonistsDied>Visi karavano dalyviai mirė.</LetterAllCaravanColonistsDied>
-  
-  <!-- Caravan entered ambush map -->
-  <LetterLabelCaravanEnteredAmbushMap>Karavanas atvyko į pasalą</LetterLabelCaravanEnteredAmbushMap>
-  <LetterCaravanEnteredAmbushMap>{0} atvyko į pasalos vietą.</LetterCaravanEnteredAmbushMap>
-  
+  <!-- EN: All members of {0} have died. -->
+  <LetterAllCaravanColonistsDied>Visi {0} nariai mirė.</LetterAllCaravanColonistsDied>
+
+  <!-- Caravan entered map -->
+  <!-- EN: Caravan arrived at {0_label} -->
+  <LetterLabelCaravanEnteredMap>Karavanas atvyko į {0_label}</LetterLabelCaravanEnteredMap>
+  <!-- EN: {0} has arrived at {1_definite}. -->
+  <LetterCaravanEnteredMap>{0} atvyko į {1_definite}.</LetterCaravanEnteredMap>
+
   <!-- Caravan entered enemy base -->
+  <!-- EN: Attack begun -->
   <LetterLabelCaravanEnteredEnemyBase>Puolimas prasidėjo</LetterLabelCaravanEnteredEnemyBase>
-  <LetterCaravanEnteredEnemyBase>{0} atvyko į {1} ir yra pasiruošęs pradėti ataką.</LetterCaravanEnteredEnemyBase>
-  <LetterCaravanEnteredEnemyBaseBecameHostile>{0} atvyko į {1} ir yra pasiruošęs padėti ataką.\n\nDėl tavo priešiško atvykimo, {2} nuo šiol yra priešiški tau.</LetterCaravanEnteredEnemyBaseBecameHostile>
-  
+  <!-- EN: {0} has arrived at {1} and is ready to begin the attack. -->
+  <LetterCaravanEnteredEnemyBase>{0} atvyko į {1} ir yra pasirengę puolimui.</LetterCaravanEnteredEnemyBase>
+
+  <!-- Transport pods landed in enemy base -->
+  <!-- EN: Attack begun -->
+  <LetterLabelTransportPodsLandedInEnemyBase>Puolimas prasidėjo</LetterLabelTransportPodsLandedInEnemyBase>
+  <!-- EN: Your transport pods have arrived at {0}. -->
+  <LetterTransportPodsLandedInEnemyBase>Tavo transportavimo kapsulės atvyko į {0}.</LetterTransportPodsLandedInEnemyBase>
+  <!-- EN: The shuttle has arrived at {0}. -->
+  <LetterShuttleLandedInEnemyBase>Erdvėlaivis atvyko į {0}.</LetterShuttleLandedInEnemyBase>
+
   <!-- Faction base defeated -->
-  <LetterLabelFactionBaseDefeated>Stovklavietė sunaikinta </LetterLabelFactionBaseDefeated>
-  <LetterFactionBaseDefeated>Priešų stovyklavietė {0} buvo sunaikinta.\n\nTu turi {1} surinkti prieš tavo kolonistams performuojant karavaną.</LetterFactionBaseDefeated>
-  <LetterFactionBaseDefeated_FactionDestroyed>Čia buvo paskutinė {0} bazė, tai reiškia, jog frakcija daugiau nebe egzistuoja.</LetterFactionBaseDefeated_FactionDestroyed>
-  
-  <!-- Pawns lost due to map countdown -->
-  <LetterLabelPawnsLostDueToMapCountdown>Paliktas</LetterLabelPawnsLostDueToMapCountdown>
-  <LetterPawnsLostDueToMapCountdown>Kai kurie tavo gyvunai ar kaliniai buvo palikti laukymėje:\n\n{0}</LetterPawnsLostDueToMapCountdown>
+  <!-- EN: Base destroyed -->
+  <LetterLabelFactionBaseDefeated>Bazė sunaikinta</LetterLabelFactionBaseDefeated>
+  <!-- EN: The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
+  <LetterFactionBaseDefeated>Priešų gyvenvietė {0} buvo sunaikinta.\n\nUž {1}, Tavo karavanas bus užpultas priešų. Jie pradės siųsti pajėgas ir pulti karavaną, nebent jis persiformuos ir išvyks.</LetterFactionBaseDefeated>
+  <!-- EN: Since this was their last settlement, {0} has been defeated. -->
+  <LetterFactionBaseDefeated_FactionDestroyed>Kadangi tai buvo jų paskutinė gyvenvietė, {0} yra nugalėti.</LetterFactionBaseDefeated_FactionDestroyed>
 
   <!-- Quest completed -->
-  <LetterLabelDefeatAllEnemiesQuestCompleted>Užduotis įvygdyta</LetterLabelDefeatAllEnemiesQuestCompleted>
-  <LetterDefeatAllEnemiesQuestCompleted>Tu nugalėjai priešų stovyklavietę!\n\nMokestis iš {0} atvyko ir frakcijų santykiai pagerėjo {1}.</LetterDefeatAllEnemiesQuestCompleted>
+  <!-- EN: Quest completed -->
+  <LetterLabelDefeatAllEnemiesQuestCompleted>Užduotis įvykdyta</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <!-- EN: You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}. -->
+  <LetterDefeatAllEnemiesQuestCompleted>Tu nugalėjai priešų forpostą!\n\nUžmokestis iš {0} atvyko ir frakcijų santykiai pagerėjo {1}.</LetterDefeatAllEnemiesQuestCompleted>
 
-  <!-- Found lump of precious resources -->
-  <LetterLabelFoundPreciousLump>Brangūs mineralai rasti</LetterLabelFoundPreciousLump>
-  <LetterFoundPreciousLump>Tavo tolimo atstumo skaneris aptiko brangių mineralų netoliese.\n\nNežinome kas ir kaip gali juos saugoti.</LetterFoundPreciousLump>
+  <!-- Long-range mineral scanner -->
+  <!-- EN: Distant resource scanned -->
+  <LetterLabelFoundPreciousLump>Nuskenuoti tolimi ištekliai</LetterLabelFoundPreciousLump>
+  <!-- EN: Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} some distance away.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
+  <LetterFoundPreciousLump>Naudodamasis tavo ilgo nuotolio mineralų skeneriu, {WORKER_labelShort} truputį tolėliau rado {0} luitą.\n\nDeja, ilgai jis ten neužsilaikys - jei ne mes, tai už {1} dienų kiti jį iškas pirmi.\n\n{2}.</LetterFoundPreciousLump>
+
+  <!-- Ground penetrating scanner -->
+  <!-- EN: Scanned underground -->
+  <LetterLabelDeepScannerFoundLump>Nuskenuotas požemis</LetterLabelDeepScannerFoundLump>
+  <!-- EN: {FINDER_nameDef} has found a lump of buried {0} using the ground-penetrating scanner! -->
+  <LetterDeepScannerFoundLump>{FINDER_nameDef} naudodamasis grunto radaru po žeme rado {0} luitą!</LetterDeepScannerFoundLump>
+
+  <!-- Ambush -->
+  <!-- EN: Ambush -->
+  <LetterLabelAmbushInExistingMap>Pasala</LetterLabelAmbushInExistingMap>
+  <!-- EN: Your {0} have been ambushed! -->
+  <LetterAmbushInExistingMap>TAvo {0} buvo užpulti iš pasalų!</LetterAmbushInExistingMap>
+
+  <!-- Peace talks -->
+  <!-- EN: Peace talks disaster -->
+  <LetterLabelPeaceTalks_Disaster>Taikos derybos žlugo</LetterLabelPeaceTalks_Disaster>
+  <!-- EN: The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}. -->
+  <LetterPeaceTalks_Disaster>Taikos derybos sužlugo. Atstovams vos tik pasisveikinus diskusija perėjo į įžeidimus ir kaltinimus.\n\nPo to, kai tavo karavanas anksčiau laiko išvyko, {0} iš {1} jį pasivijo ir užpuolė!\n\nSantykiai su {1}: {2}.</LetterPeaceTalks_Disaster>
+  <!-- EN: Peace talks backfire -->
+  <LetterLabelPeaceTalks_Backfire>Taikos derybos atsisuko prieš tave</LetterLabelPeaceTalks_Backfire>
+  <!-- EN: The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}. -->
+  <LetterPeaceTalks_Backfire>Derybos atsisuko prieš tave. Nepaisant mandagumų apsikeitimų, atstovai nepadarė pažangos esminiais klausimais ir keletas pareiškimų buvo interpretuoti kaip įžeidimai.\n\nSantykiai su {0}: {1}.</LetterPeaceTalks_Backfire>
+  <!-- EN: Peace talks flounder -->
+  <LetterLabelPeaceTalks_TalksFlounder>Taikos derybos nepajudėjo</LetterLabelPeaceTalks_TalksFlounder>
+  <!-- EN: The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged. -->
+  <LetterPeaceTalks_TalksFlounder>Derybos baigėsi šnipštu. Atstovams pavyko bendrauti aiškiai ir pagarbiai, bet negalėjo padaryti pažangos jokiais svarbiais klausimais.\n\nSantykiai su {0} išlieka nepakitę.</LetterPeaceTalks_TalksFlounder>
+  <!-- EN: Peace talks success -->
+  <LetterLabelPeaceTalks_Success>Taikos derybos pavyko</LetterLabelPeaceTalks_Success>
+  <!-- EN: The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}. -->
+  <LetterPeaceTalks_Success>Derybos pavyko. Atstovai pasiekė naują bendrą sutarimą keliais reikšmingais klausimais.\n\nSantykiai su {0} pagerėjo {1}.</LetterPeaceTalks_Success>
+  <!-- EN: Peace talks triumph -->
+  <LetterLabelPeaceTalks_Triumph>Taikos derybose - pergalė</LetterLabelPeaceTalks_Triumph>
+  <!-- EN: The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2} -->
+  <LetterPeaceTalks_Triumph>Derybose pasiekta didelė pergalė! Atstovai greitai rado bendrą kalbą asmeniniame lygmenje ir jiems pavyko pamatyti sudėtingiausias dabartines problemas iš vienas kito pusės.\n\nSantykiai su {0} pagerėjo {1}.\n\nTavo karavanui išvykstant, {0} pasiūlė tau dovaną:\n\n{2}</LetterPeaceTalks_Triumph>
+  <!-- EN: {PAWN_labelShort}, your negotiator, has gained {1} social experience. -->
+  <PeaceTalksSocialXPGain>{PAWN_labelShort}, tavo derybininkas, gavo {1} socialinės patirties.</PeaceTalksSocialXPGain>
+
+  <!-- Run wild mental break -->
+  <!-- EN: {0} is fed up with civilization.\n\n{PAWN_pronoun} realized that wild creatures are always free. So, {PAWN_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back. -->
+  <LetterRunWildMentalBreak>{0} įgriso civilizacija.\n\n{PAWN_pronoun} Suprato, kad laukiniai padarai yra visada laisvi. Todėl, {PAWN_pronoun} nusprendė palikti tavo frakciją ir gyventi su gyvūnais.\n\nGali bandyti prisijaukinti arba areštuoti {PAWN_objective}, kad atgautum {PAWN_objective}.</LetterRunWildMentalBreak>
+
+  <!-- Catatonic mental break -->
+  <!-- EN: {0} has suffered a total mental breakdown and entered a catatonic state. {PAWN_pronoun} will recover in several days. -->
+  <LetterCatatonicMentalBreak>{0} patyrė visišką nervinį išsekimą ir perėjo į katatonino stuporo būseną. {PAWN_pronoun} atsigaus po kelių dienų.</LetterCatatonicMentalBreak>
+
+  <!-- EN: Persona Core Offer -->
+  <LetterLabelAICoreOffer>Personos Šerdies Pasiūlymas</LetterLabelAICoreOffer>
+  <!-- EN: {PAWN_definite} of {1} contacts you with an offer of information: the location of a persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested. -->
+  <LetterAICoreOffer>{PAWN_definite} iš {1} susisiekė su tavim su informacijos pasiūlymu: personos šerdies, kurios reikės norint pastatyti erdvėlaivį, vieta. Jie informuoja, kad šis dalykas yra gana retas ir įprastai jo savininkai jį stipriai saugo.\n\nJei susidomėjai, paskambink jiems naudodamasis savo radijo stotele.</LetterAICoreOffer>
+
+  <!-- Crafting letters -->
+  <!-- EN: Legendary Work -->
+  <LetterCraftedLegendaryLabel>Legendinis dirbinys</LetterCraftedLegendaryLabel>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world. -->
+  <LetterCraftedLegendaryMessage>{WORKER_labelShort} sukūrė {CRAFTED_labelShort}.\n\nŽinia apie šį vertinga artefaktą pasklis po visą pasaulį.</LetterCraftedLegendaryMessage>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0}\n\nNews of this valuable artifact will spread across the world. -->
+  <LetterCraftedLegendaryMessageArt>{WORKER_labelShort} sukūrė {CRAFTED_labelShort}.\n\n{0}\n\nŽinia apie šį vertinga artefaktą pasklis po visą pasaulį.</LetterCraftedLegendaryMessageArt>
+
+  <!-- EN: Masterwork -->
+  <LetterCraftedMasterworkLabel>Meistriškas dirbinys</LetterCraftedMasterworkLabel>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}. -->
+  <LetterCraftedMasterworkMessage>{WORKER_labelShort} sukūrė {CRAFTED_labelShort}.</LetterCraftedMasterworkMessage>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0} -->
+  <LetterCraftedMasterworkMessageArt>{WORKER_labelShort} sukūrė {CRAFTED_labelShort}.\n\n{0}</LetterCraftedMasterworkMessageArt>
+
+  <!-- Pawns lost because map closed -->
+  <!-- EN: Caravan lost -->
+  <LetterLabelPawnsLostBecauseMapClosed_Caravan>Karavanas prarastas</LetterLabelPawnsLostBecauseMapClosed_Caravan>
+  <!-- EN: Your caravan has been lost. The following people and animals have been lost with it -->
+  <LetterPawnsLostBecauseMapClosed_Caravan>Tavo karavanas buvo prarastas. Šie žmonės ir gyvūnai buvo prarasti su juo</LetterPawnsLostBecauseMapClosed_Caravan>
+  <!-- EN: Inhabitants abandoned -->
+  <LetterLabelPawnsLostBecauseMapClosed_Home>Palikti gyventojai</LetterLabelPawnsLostBecauseMapClosed_Home>
+  <!-- EN: The following people and animals have been abandoned -->
+  <LetterPawnsLostBecauseMapClosed_Home>Šie žmonės ir gyvūnai buvo palikti</LetterPawnsLostBecauseMapClosed_Home>
+
+  <!-- Hibernate complete -->
+  <!-- EN: Reactor ready -->
+  <LetterLabelHibernateComplete>Reaktorius paruoštas</LetterLabelHibernateComplete>
+  <!-- EN: (*Name)Charlon Whitestone(/Name) has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff. -->
+  <LetterHibernateComplete>(*Name)Charlon Whitestone(/Name) baigė hibernacijos atstatymo seką. Reaktorius dabar yra paruoštas pakilimui.</LetterHibernateComplete>
+  <!-- EN: The reactor's power up sequence is complete. It is now ready to power a liftoff. -->
+  <LetterHibernateCompleteStandalone>Reaktoriaus įjungimo seka baigta. Jis dabar yra paruoštas pakilimui.</LetterHibernateCompleteStandalone>
+
+  <!-- Visitors gave gift -->
+  <!-- EN: Gift from {0} -->
+  <LetterLabelVisitorsGaveGift>Dovana nuo {0}</LetterLabelVisitorsGaveGift>
+  <!-- EN: {0} from {PAWN_factionName} have left a gift:\n\n{1} -->
+  <LetterVisitorsGaveGift>{0} iš {PAWN_factionName} paliko tau dovaną:\n\n{1}</LetterVisitorsGaveGift>
+
+  <!-- Faction base proximity -->
+  <!-- EN: Faction base proximity -->
+  <LetterLabelFactionBaseProximity>Frakcijos bazės artimumas</LetterLabelFactionBaseProximity>
+  <!-- EN: Because you are so close to other factions, they feel you're encroaching on their territory.\n\nFor the last quadrum, faction relations have been reduced by: -->
+  <LetterFactionBaseProximity>Kadangi tu esi taip arti prie kitų frakcijų, jie mano, kad brauniesi į jų teritoriją.\n\nPaskutinį ketvirtį frakcijų santykiai pablogėjo:</LetterFactionBaseProximity>
+
+  <!-- Caravans battlefield victory -->
+  <!-- EN: Caravan battle won -->
+  <LetterLabelCaravansBattlefieldVictory>Karavanas laimėjo mūšį</LetterLabelCaravansBattlefieldVictory>
+  <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
+  <LetterCaravansBattlefieldVictory>Tavo karavanas laimėjo mūšį.\n\nDabar gali performuoti karavaną Pasaulio lange pasirinkdamas mūšio langelį ir paspausdamas "Performuoti karavaną".\n\nDaiktų pačiam surinkti nebūtina, karavano performavimo funkcija padarys tai pati.\n\nUž {0}, tavo karavaną užpuls priešai. Jie pradės siųsti pajėgas užpulti karavaną, nebent jis persiformuos ir išvyks.</LetterCaravansBattlefieldVictory>
+
+  <!-- Rescue quest -->
+  <!-- EN: Rescuee joins -->
+  <LetterLabelRescueQuestFinished>Išgelbėtasis prisijungia</LetterLabelRescueQuestFinished>
+  <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group.\n\nYou can take {PAWN_objective} with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option. -->
+  <LetterRescueQuestFinished>Tu išgelbėjai {PAWN_nameDef} ir {PAWN_pronoun} prisijungė prie tavo grupės.\n\nGali pasiimti {PAWN_objective} su savimi performuodamas karavaną Pasaulio lange pasirinkdamas šią vietovę ir paspausdamas "Performuoti karavaną".</LetterRescueQuestFinished>
+
+  <!-- Predator hunting colonist -->
+  <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
+  <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort} medžioja {PREY_definite}</LetterLabelPredatorHuntingColonist>
+  <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
+  <LetterPredatorHuntingColonist>{PREDATOR} medžioja {PREY_definite} maistui!</LetterPredatorHuntingColonist>
+
+  <!-- Disease -->
+  <!-- EN: {0} blocked {1} on -->
+  <LetterDisease_Blocked>{0} užblokavo {1} ant</LetterDisease_Blocked>
+  <!-- EN: Disease: {0} -->
+  <LetterLabelTraitDisease>Liga: {0}</LetterLabelTraitDisease>
+  <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
+  <LetterTraitDisease>{PAWN_label} susirgo {1}.\n\nPAsirūpink kad turėtum medicininę lovą ir daktarą. Pasirūpink kad {PAWN_pronoun} gautų tinkamą gydymą ir praleistų kuo daugiau laiko lovoje.</LetterTraitDisease>
+
+  <!-- Quests -->
+  <!-- EN: A new quest has become available. It is called '{0}'. -->
+  <LetterQuestBecameAvailable>Gauta nauja užduotis. Ji vadinasi '{0}'.</LetterQuestBecameAvailable>
+  <!-- EN: If you don't accept the quest within {0}, it will expire. -->
+  <LetterQuestRequiresAcceptance>Jei nepriimsi užduoties per {0}, ji baigs galioti.</LetterQuestRequiresAcceptance>
+  <!-- EN: A new quest has become active. It is called '{0}'. -->
+  <LetterQuestBecameActive>Nauja užduotis tapo aktyvi. Ji vadinasi '{0}'.</LetterQuestBecameActive>
+  <!-- EN: Quest active: {0} -->
+  <LetterQuestAutomaticallyAcceptedTitle>Aktyvi užduotis: {0}</LetterQuestAutomaticallyAcceptedTitle>
+  <!-- EN: It will expire in {0}. -->
+  <LetterQuestActiveNowTime>Baigs galioti už {0}.</LetterQuestActiveNowTime>
+
+  <!-- Quest drop pods arrived -->
+  <!-- EN: Pods arrived -->
+  <LetterLabelQuestDropPodsArrived>Transporto kapsulės atvyko</LetterLabelQuestDropPodsArrived>
+  <!-- EN: Transport pods with the following contents have arrived:\n\n{0} -->
+  <LetterQuestDropPodsArrived>Atvyko transportavimo kapsulės su šiuo turiniu:\n\n{0}</LetterQuestDropPodsArrived>
+
+  <!-- Quest items added to caravan inventory -->
+  <!-- EN: {CARAVAN_label} received items -->
+  <LetterLabelQuestItemsAddedToCaravanInventory>TODO</LetterLabelQuestItemsAddedToCaravanInventory>
+  <!-- EN: {CARAVAN_label} has received the following items:\n\n{THINGS} -->
+  <LetterQuestItemsAddedToCaravanInventory>TODO</LetterQuestItemsAddedToCaravanInventory>
+
+  <!-- Refugee joins -->
+  <!-- EN: {PAWN_nameDef} joins -->
+  <LetterLabelRefugeeJoins>{PAWN_nameDef} prisijungia</LetterLabelRefugeeJoins>
+  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony. -->
+  <LetterRefugeeJoins>A {PAWN_title} vardu {PAWN_nameDef} atvyko ir prisijungė prie kolonijos.</LetterRefugeeJoins>
   
+  <!-- Rescuee joins -->
+  <!-- EN: {PAWN_nameDef} joins -->
+  <LetterLabelRescueeJoins>{PAWN_nameDef} prisijungia</LetterLabelRescueeJoins>
+  <!-- EN: {PAWN_nameDef} is thankful that you rescued {PAWN_objective}. {PAWN_pronoun} has decided that {PAWN_pronoun} would rather stay than leave, and is joining your colony. -->
+  <LetterRescueeJoins>{PAWN_nameDef} yra dėkingas kad išgelbėjai {PAWN_objective}. {PAWN_pronoun} nusprendė kad {PAWN_pronoun} geriau pasiliks negu išvyks ir prisijungia prie kolonijos.</LetterRescueeJoins>
+
+  <!-- Pawns arrive and join -->
+  <!-- EN: People join -->
+  <LetterLabelPawnsArriveAndJoin>Žmonės prisijungia</LetterLabelPawnsArriveAndJoin>
+  <!-- EN: The following people have arrived and joined the colony:\n\n{0} -->
+  <LetterPawnsArriveAndJoin>Šie žmonės atvyko ir prisijungia prie kolonijos:\n\n{0}</LetterPawnsArriveAndJoin>
+
+  <!-- Pawns arrive -->
+  <!-- EN: People arrived -->
+  <LetterLabelPawnsArrive>Žmonės atvyko</LetterLabelPawnsArrive>
+  <!-- EN: The following people have arrived:\n\n{0} -->
+  <LetterPawnsArrive>Šie žmonės atvyko:\n\n{0}</LetterPawnsArrive>
+
+  <!-- Pawn leaving -->
+  <!-- EN: {0} leaving -->
+  <LetterLabelPawnLeaving>{0} išvyksta</LetterLabelPawnLeaving>
+  <!-- EN: {0} is leaving. -->
+  <LetterPawnLeaving>{0} išvyksta.</LetterPawnLeaving>
+
+  <!-- Pawns leaving -->
+  <!-- EN: {0} leaving -->
+  <LetterLabelPawnsLeaving>{0} išvyksta</LetterLabelPawnsLeaving>
+  <!-- EN: {0} are leaving. -->
+  <LetterPawnsLeaving>{0} išvyksta.</LetterPawnsLeaving>
+  
+  <!-- Colonist kidnapped -->
+  <!-- EN: {PAWN_nameDef} kidnapped -->
+  <LetterLabelPawnsKidnapped>{PAWN_nameDef} pagrobtas</LetterLabelPawnsKidnapped>
+  <!-- EN: {PAWN_nameDef} has been kidnapped by {FACTION_name}!
+\nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years. -->
+  <LetterPawnsKidnapped>{PAWN_nameDef} buvo pagrobtas {FACTION_name}!\n\nTačiau {PAWN_pronoun} nėra prarastas amžiams. Ateinančiomis dienomis ar metais gali atsirastų galimybė išgelbėti {PAWN_objective}.</LetterPawnsKidnapped>
+  
+  <!-- Techprints -->
+  <!-- EN: Techprint applied: {PROJECT_label} -->
+  <LetterTechprintAppliedLabel>Pritaikytas techninis brėžinys: {PROJECT_label}</LetterTechprintAppliedLabel>
+  <!-- EN: A techprint has been applied to the research project: {PROJECT_label}. -->
+  <LetterTechprintAppliedPartIntro>Techninis brėžinys buvo pritaikytas tyrimo projektui: {PROJECT_label}.</LetterTechprintAppliedPartIntro>
+  <!-- EN: You've completed the project's techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches. -->
+  <LetterTechprintAppliedPartJustUnlocked>Tu įvykdei projekto techninio brėžinio reikalavimus! Dabar tavo tyrėjai, naudodami mokslinių stalus, gali pradėti tirti kaip iš tikro tą technologiją panaudoti.</LetterTechprintAppliedPartJustUnlocked>
+  <!-- EN: This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total. -->
+  <LetterTechprintAppliedPartNotUnlockedYet>Šio projekto techninio brėžinio reikalavimai dar nėra išpildyti. {0} techniniai brėžiniai kol kas buvo panaudoti. Projektui reikia iš viso {1}.</LetterTechprintAppliedPartNotUnlockedYet>
+  <!-- EN: This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed. -->
+  <LetterTechprintAppliedPartAlreadyUnlocked>Šio projekto techninių brėžinių reikalavimai jau yra įvykdyti. Papildomi brėžiniai pagreitino tavo pastangas pabaigti {PROJECT_label}. Pusę likusio tyrimo, {0} taškai, buvo pabaigti.</LetterTechprintAppliedPartAlreadyUnlocked>
+  <!-- EN: This project is already fully researched, so the techprint didn't advance your knowledge at all. -->
+  <LetterTechprintAppliedPartAlreadyResearched>Šis projektas jau yra baigtas, todėl techniniai brėžiniai nei kiek nepagilino tavo žinių.</LetterTechprintAppliedPartAlreadyResearched>
+  <!-- EN: By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill. -->
+  <LetterTechprintAppliedPartExpAwarded>Pritaikydamas techninį brėžinį, {PAWN_labelShort} gavo {0} patirties {1} įgūdžiuose.</LetterTechprintAppliedPartExpAwarded>
+  
+  <!-- Quest Completed -->
+  <!-- EN: Quest completed -->
+  <LetterQuestCompletedLabel>Užduotis įvykdyta</LetterQuestCompletedLabel>
+  <!-- EN: Quest failed -->
+  <LetterQuestFailedLabel>Užduoties įvykdyti nepavyko</LetterQuestFailedLabel>
+  <!-- EN: Quest concluded -->
+  <LetterQuestConcludedLabel>Užduotis baigėsi</LetterQuestConcludedLabel>
+  <!-- EN: You have successfully completed the quest '{0}'! -->
+  <LetterQuestCompletedSuccess>Tau pavyko įvykdyti užduotį '{0}'!</LetterQuestCompletedSuccess>
+  <!-- EN: You have failed the quest '{0}'. -->
+  <LetterQuestCompletedFail>Tau nepavyko įvykdyti užduoties '{0}'.</LetterQuestCompletedFail>
+  <!-- EN: You have concluded the quest '{0}'. -->
+  <LetterQuestCompletedConcluded>Tu baigei užduotį '{0}'.</LetterQuestCompletedConcluded>
+
+  <!-- Bladelink -->
+  <!-- EN: Persona bond: {PAWN_labelShort} -->
+  <LetterBladelinkWeaponBondedLabel>Personos emocinis ryšys: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
+  <!-- EN: {PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
+\nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}. -->
+  <LetterBladelinkWeaponBonded>{PAWN_labelShort} užmezgė emocinį ryšį su {WEAPON_labelShort} persona.\n\nNuo šiol, {WEAPON_labelShort} atsisakys būti naudojamas bet kieno kito, išskyrus {PAWN_labelShort}.</LetterBladelinkWeaponBonded>
+  
+  <!-- Mech cluster -->
+  <!-- EN: Mechanoids arrived -->
+  <LetterLabelMechClusterArrived>Mechanoidai atvyko</LetterLabelMechClusterArrived>
+  <!-- EN: Mechanoids have arrived. -->
+  <LetterMechClusterArrived>Mechanoidai atvyko.</LetterMechClusterArrived>
+
+  <!-- EN: Caravan detected -->
+  <LetterLabelSiteCountdownStarted>Aptiktas karavanas</LetterLabelSiteCountdownStarted>
+  <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
+  <LetterTextSiteCountdownStarted>Tavo karavanas buvo aptiktas. Už {0}, pastiprinant {1} iš {2} pradės atvykti į vietovę.\n\nPerformuok karavaną ir pradėk judėti, kad išvengtum {1}. Dabar yra matomas laikmatis skaičiuojantis laiką iki jų atvykimo.</LetterTextSiteCountdownStarted>
+
+  <!-- EN: Unwavering prisoner -->
+  <LetterLabelUnrecruitablePawnCaptured>TODO</LetterLabelUnrecruitablePawnCaptured>
+  <!-- EN: {PAWN_nameDef} is unwaveringly loyal to their home and will refuse to be recruited entirely.\n\nYou can see whether someone is unwaveringly loyal by selecting them. -->
+  <LetterTextUnrecruitablePawnCaptured>TODO</LetterTextUnrecruitablePawnCaptured>
+  <!-- EN: enslave {PAWN_objective} -->
+  <OptionalEnslaveDesc>TODO</OptionalEnslaveDesc>
+
+  <!-- Lung rot -->
+  <!-- EN: {PAWN} has gotten sick from {1} due to long-term exposure to rot stink gas (which is given off by rotting corpses).\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment. -->
+  <LetterTextLungRot>TODO</LetterTextLungRot>
+
+  <!-- Join Offer -->
+  <!-- EN: Join offer: {PAWN_nameDef} -->
+  <LetterJoinOfferLabel>TODO</LetterJoinOfferLabel>
+  <!-- EN: {PAWN_nameDef} wishes to join your faction. -->
+  <LetterJoinOfferTitle>TODO</LetterJoinOfferTitle>
+  <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
+  <LetterJoinOfferText>TODO</LetterJoinOfferText>
+  <!-- EN: Accept -->
+  <LetterJoinOfferAccept>TODO</LetterJoinOfferAccept>
+
+  <!-- Speeches -->
+  <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
+  <LetterFinishedSpeech>TODO</LetterFinishedSpeech>
+  <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
+  <LetterTerribleSpeech>TODO</LetterTerribleSpeech>
+  <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
+  <LetterUninspiringSpeech>TODO</LetterUninspiringSpeech>
+  <!-- EN: It was encouraging and well-delivered. -->
+  <LetterEncouragingSpeech>TODO</LetterEncouragingSpeech>
+  <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
+  <LetterInspirationalSpeech>TODO</LetterInspirationalSpeech>
+  <!-- EN: The following people were particularly moved by the speech and are now inspired: -->
+  <LetterSpeechInspiredListeners>TODO</LetterSpeechInspiredListeners>
+  <!-- EN: Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration! -->
+  <LetterSpeechInspiration>TODO</LetterSpeechInspiration>
+  <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
+  <LetterSpeechInterrupted>TODO</LetterSpeechInterrupted>
+  <!-- EN: {0}'s speech was cancelled before reaching 50% completion. It had no effect. -->
+  <LetterSpeechCancelled>TODO</LetterSpeechCancelled>
+  <!-- EN: Speech cancelled -->
+  <LetterLabelSpeechCancelled>TODO</LetterLabelSpeechCancelled>
+
 </LanguageData>

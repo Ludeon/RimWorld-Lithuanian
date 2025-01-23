@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: d -->
+  <LetterDay>d</LetterDay>
+  <!-- EN: h -->
+  <LetterHour>val</LetterHour>
+  <!-- EN: m -->
+  <LetterMinute>min</LetterMinute>
+  <!-- EN: s -->
+  <LetterSecond>s</LetterSecond>
+  <!-- EN: y -->
+  <LetterYear>m</LetterYear>
+
+  <!-- EN: days -->
+  <DaysLower>dienų</DaysLower>
+  <!-- EN: hours -->
+  <HoursLower>valandų</HoursLower>
+  <!-- EN: seconds -->
+  <SecondsLower>sekundžių</SecondsLower>
+
+  <!-- EN: spring -->
+  <SeasonSpring>pavasaris</SeasonSpring>
+  <!-- EN: summer -->
+  <SeasonSummer>vasara</SeasonSummer>
+  <!-- EN: fall -->
+  <SeasonFall>ruduo</SeasonFall>
+  <!-- EN: winter -->
+  <SeasonWinter>žiema</SeasonWinter>
+  <!-- EN: permanent summer -->
+  <SeasonPermanentSummer>nuolatinė vasara</SeasonPermanentSummer>
+  <!-- EN: permanent winter -->
+  <SeasonPermanentWinter>nuolatinė žiema</SeasonPermanentWinter>
+
+  <!-- EN: Aprimay -->
+  <QuadrumAprimay>Kovandis</QuadrumAprimay>
+  <!-- EN: Jugust -->
+  <QuadrumJugust>Liepjūtis</QuadrumJugust>
+  <!-- EN: Septober -->
+  <QuadrumSeptober>Spalkritis</QuadrumSeptober>
+  <!-- EN: Decembary -->
+  <QuadrumDecembary>Sausaris</QuadrumDecembary>
+
+  <!-- EN: Apr -->
+  <QuadrumAprimay_Short>Kov</QuadrumAprimay_Short>
+  <!-- EN: Jug -->
+  <QuadrumJugust_Short>Lie</QuadrumJugust_Short>
+  <!-- EN: Sep -->
+  <QuadrumSeptober_Short>Spa</QuadrumSeptober_Short>
+  <!-- EN: Dec -->
+  <QuadrumDecembary_Short>Sau</QuadrumDecembary_Short>
+  
+  <!-- EN: Born: {0} -->
+  <Born>Gimė: {0}</Born>
+  <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
+  <AgeChronological>Chronologinis amžius: {0} metai, {1} ketvirčiai, {2} dienos</AgeChronological>
+  <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
+  <AgeBiological>Biologinis amžius: {0} metai, {1} ketvirčiai, {2} dienos</AgeBiological>
+
+  <!-- Date periods -->
+  <!-- EN: 1 year -->
+  <Period1Year>1 metai</Period1Year>
+  <!-- EN: {0} years -->
+  <PeriodYears>{0} metai</PeriodYears>
+  <!-- EN: 1 quadrum -->
+  <Period1Quadrum>1 ketvirtis</Period1Quadrum>
+  <!-- EN: {0} quadrums -->
+  <PeriodQuadrums>{0} ketvirčiai</PeriodQuadrums>
+  <!-- EN: 1 day -->
+  <Period1Day>1 diena</Period1Day>
+  <!-- EN: {0} days -->
+  <PeriodDays>{0} dienos</PeriodDays>
+  <!-- EN: 1 hour -->
+  <Period1Hour>1 valanda</Period1Hour>
+  <!-- EN: {0} hours -->
+  <PeriodHours>{0} valandos</PeriodHours>
+  <!-- EN: 1 second -->
+  <Period1Second>1 sekundė</Period1Second>
+  <!-- EN: {0} seconds -->
+  <PeriodSeconds>{0} sekundės</PeriodSeconds>
+
+  <!-- Misc -->
+  <!-- EN: Started -->
+  <Started>Prasidėjo</Started>
+  <!-- EN: Lasted -->
+  <Lasted>Truko</Lasted>
+  <!-- EN: occurred {0} ago -->
+  <OccurredTimeAgo>atsitiko prieš {0}</OccurredTimeAgo>
+  <!-- EN: {0} ago -->
+  <TimeAgo>prieš {0}</TimeAgo>
+  
+</LanguageData>

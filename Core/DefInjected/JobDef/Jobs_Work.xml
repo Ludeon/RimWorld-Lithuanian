@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arresting TargetA. -->
+  <Arrest.reportString>suima TargetA.</Arrest.reportString>
+  
+  <!-- EN: building roof. -->
+  <BuildRoof.reportString>stato stogą.</BuildRoof.reportString>
+  
+  <!-- EN: capturing TargetA. -->
+  <Capture.reportString>ima TargetA į nelaisvę.</Capture.reportString>
+  
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnDrafted.reportString>neša TargetA.</CarryDownedPawnDrafted.reportString>
+  
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnToExit.reportString>neša TargetA.</CarryDownedPawnToExit.reportString>
+  
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasket.reportString>neša TargetA į kriptomiego karstą.</CarryToCryptosleepCasket.reportString>
+  
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasketDrafted.reportString>neša TargetA į kriptomiego karstą.</CarryToCryptosleepCasketDrafted.reportString>
+  
+  <!-- EN: arresting TargetA. -->
+  <CarryToPrisonerBedDrafted.reportString>suima TargetA.</CarryToPrisonerBedDrafted.reportString>
+  
+  <!-- EN: cleaning TargetA. -->
+  <Clean.reportString>valo TargetA.</Clean.reportString>
+  
+  <!-- EN: cutting TargetA. -->
+  <CutPlant.reportString>kerta TargetA.</CutPlant.reportString>
+  
+  <!-- EN: cutting TargetA. -->
+  <CutPlantDesignated.reportString>kerta TargetA.</CutPlantDesignated.reportString>
+  
+  <!-- EN: deconstructing TargetA. -->
+  <Deconstruct.reportString>ardo TargetA.</Deconstruct.reportString>
+  
+  <!-- EN: feeding TargetA to TargetB. -->
+  <DeliverFood.reportString>maitina TargetA TargetB.</DeliverFood.reportString>
+  
+  <!-- EN: doing bill at TargetA. -->
+  <DoBill.reportString>vykdo užsakymą prie TargetA.</DoBill.reportString>
+  
+  <!-- EN: escorting prisoner TargetA. -->
+  <EscortPrisonerToBed.reportString>palydi kalinį TargetA.</EscortPrisonerToBed.reportString>
+  
+  <!-- EN: extracting TargetA. -->
+  <ExtractTree.reportString>iškasa TargetA.</ExtractTree.reportString>
+  
+  <!-- EN: feeding TargetA to TargetB. -->
+  <FeedPatient.reportString>maitina TargetA TargetB.</FeedPatient.reportString>
+  
+  <!-- EN: building TargetA. -->
+  <FinishFrame.reportString>stato TargetA.</FinishFrame.reportString>
+  
+  <!-- EN: replacing broken components in TargetA. -->
+  <FixBrokenDownBuilding.reportString>keičia sugedusį komponentą TargetA.</FixBrokenDownBuilding.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <GuiltyColonistExecution.reportString>vykdo egzekuciją TargetA.</GuiltyColonistExecution.reportString>
+  
+  <!-- EN: harvesting TargetA. -->
+  <Harvest.reportString>ima TargetA derlių.</Harvest.reportString>
+  
+  <!-- EN: harvesting TargetA. -->
+  <HarvestDesignated.reportString>ima TargetA derlių.</HarvestDesignated.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToCell.reportString>gabena TargetA.</HaulToCell.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToContainer.reportString>gabena TargetA.</HaulToContainer.reportString>
+  
+  <!-- EN: hunting TargetA. -->
+  <Hunt.reportString>medžioja TargetA.</Hunt.reportString>
+  
+  <!-- EN: kidnapping TargetA. -->
+  <Kidnap.reportString>pagrobia TargetA.</Kidnap.reportString>
+  
+  <!-- EN: milking TargetA. -->
+  <Milk.reportString>melžia TargetA.</Milk.reportString>
+  
+  <!-- EN: digging at TargetA. -->
+  <Mine.reportString>kasa prie TargetA.</Mine.reportString>
+  
+  <!-- EN: drilling at TargetA. -->
+  <OperateDeepDrill.reportString>gręžia prie TargetA.</OperateDeepDrill.reportString>
+  
+  <!-- EN: scanning at TargetA. -->
+  <OperateScanner.reportString>skenuoja prie TargetA.</OperateScanner.reportString>
+  
+  <!-- EN: painting TargetA. -->
+  <PaintBuilding.reportString>dažo TargetA.</PaintBuilding.reportString>
+  
+  <!-- EN: painting TargetA. -->
+  <PaintFloor.reportString>dažo TargetA.</PaintFloor.reportString>
+  
+  <!-- EN: building TargetA. -->
+  <PlaceNoCostFrame.reportString>stato TargetA.</PlaceNoCostFrame.reportString>
+  
+  <!-- EN: planting TargetA. -->
+  <PlantSeed.reportString>sodina TargetA.</PlantSeed.reportString>
+  
+  <!-- EN: attempting to recruit TargetA. -->
+  <PrisonerAttemptRecruit.reportString>bando įkalbėti TargetA prisijungti.</PrisonerAttemptRecruit.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <PrisonerExecution.reportString>vykdo egzekuciją TargetA.</PrisonerExecution.reportString>
+  
+  <!-- EN: releasing TargetA into the wild. -->
+  <ReleaseAnimalToWild.reportString>paleidžia TargetA į laukinę gamtą.</ReleaseAnimalToWild.reportString>
+  
+  <!-- EN: releasing TargetA. -->
+  <ReleasePrisoner.reportString>paleidžia TargetA.</ReleasePrisoner.reportString>
+  
+  <!-- EN: removing floor. -->
+  <RemoveFloor.reportString>šalina grindis.</RemoveFloor.reportString>
+  
+  <!-- EN: removing paint from TargetA. -->
+  <RemovePaintBuilding.reportString>šalina dažus nuo TargetA.</RemovePaintBuilding.reportString>
+  
+  <!-- EN: removing paint from TargetA. -->
+  <RemovePaintFloor.reportString>šalina dažus nuo TargetA.</RemovePaintFloor.reportString>
+  
+  <!-- EN: removing roof. -->
+  <RemoveRoof.reportString>šalina stogą.</RemoveRoof.reportString>
+  
+  <!-- EN: repairing TargetA. -->
+  <Repair.reportString>taiso TargetA.</Repair.reportString>
+  
+  <!-- EN: replanting TargetA. -->
+  <Replant.reportString>persodina TargetA.</Replant.reportString>
+  
+  <!-- EN: rescuing TargetA. -->
+  <Rescue.reportString>gelbėja TargetA.</Rescue.reportString>
+  
+  <!-- EN: researching. -->
+  <Research.reportString>vykdo tyrimą.</Research.reportString>
+  
+  <!-- EN: leading TargetA to hitching spot. -->
+  <RopeRoamerToHitchingPost.reportString>veda TargetA į sukinkymo vietą.</RopeRoamerToHitchingPost.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeRoamerToUnenclosedPen.reportString>veda TargetA į TargetC.</RopeRoamerToUnenclosedPen.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeToPen.reportString>veda TargetA į TargetC.</RopeToPen.reportString>
+  
+  <!-- EN: shearing TargetA. -->
+  <Shear.reportString>kerpa TargetA.</Shear.reportString>
+  
+  <!-- EN: slaughtering TargetA. -->
+  <Slaughter.reportString>pjauna TargetA.</Slaughter.reportString>
+  
+  <!-- EN: smoothing floor. -->
+  <SmoothFloor.reportString>gludina grindis.</SmoothFloor.reportString>
+  
+  <!-- EN: smoothing wall. -->
+  <SmoothWall.reportString>gludina sieną.</SmoothWall.reportString>
+  
+  <!-- EN: sowing TargetA. -->
+  <Sow.reportString>sėja TargetA.</Sow.reportString>
+  
+  <!-- EN: stealing TargetA. -->
+  <Steal.reportString>vagia TargetA.</Steal.reportString>
+  
+  <!-- EN: Studying TargetA. -->
+  <StudyBuilding.reportString>Studijuoja TargetA.</StudyBuilding.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeDownedPawnToBedDrafted.reportString>neša TargetA į lovą.</TakeDownedPawnToBedDrafted.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeToBedToOperate.reportString>neša TargetA į lovą.</TakeToBedToOperate.reportString>
+  
+  <!-- EN: taking wounded prisoner TargetA. -->
+  <TakeWoundedPrisonerToBed.reportString>neša sužeistą kalinį TargetA.</TakeWoundedPrisonerToBed.reportString>
+  
+  <!-- EN: taming TargetA. -->
+  <Tame.reportString>jaukina TargetA.</Tame.reportString>
+  
+  <!-- EN: tending to TargetA. -->
+  <TendPatient.reportString>gydo TargetA.</TendPatient.reportString>
+  
+  <!-- EN: training TargetA. -->
+  <Train.reportString>dresuoja TargetA.</Train.reportString>
+  
+  <!-- EN: uninstalling TargetA. -->
+  <Uninstall.reportString>išmontuoja TargetA.</Uninstall.reportString>
+  
+  <!-- EN: unroping TargetA. -->
+  <Unrope.reportString>atriša TargetA.</Unrope.reportString>
+  
+  <!-- EN: using comms console. -->
+  <UseCommsConsole.reportString>naudojasi radijo stotele.</UseCommsConsole.reportString>
+  
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal flap -->
+  <AnimalFlap.label>gyvūnų užuolaida</AnimalFlap.label>
+  <!-- EN: A doorway hung with thick overlapping strips of fabric or leather. It allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep. -->
+  <AnimalFlap.description>Praėjimas padarytas pakabinus persidengiančias medžiagines ar odines juostas. Jos leidžia gyvūnams praeiti, bet izoliuoja nuo temperatūros pokyčių. Gyvūnų užuolaidos dažnai naudojamos kaip tvarto durys, kad aptverti gyvūnai galėtų ateiti į užuovėją permiegoti.</AnimalFlap.description>
+  
+  <!-- EN: autodoor -->
+  <Autodoor.label>automatinės durys</Autodoor.label>
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
+  <Autodoor.description>Atskiria kambarius. Darinėjimasis variklio pagalba leidžia žmonėms judėti pro duris nesumažinant greičio.</Autodoor.description>
+  
+  <!-- EN: column -->
+  <Column.label>kolona</Column.label>
+  <!-- EN: A column capable of holding a roof. Does not block sight or movement and looks quite nice. -->
+  <Column.description>Kolona gali išlaikyti stogą. Netrukdo matymui ar judėjimui ir atrodo gana gražiai.</Column.description>
+  
+  <!-- EN: door -->
+  <Door.label>durys</Door.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <Door.description>Atskiria kambarius. Paprastos durys, turi būti atidaromos rankomis, kas žmones sulėtina. Kiek sulėtina priklauso nuo to iš ko durys padarytos.</Door.description>
+  
+  <!-- EN: fence -->
+  <Fence.label>tvora</Fence.label>
+  <!-- EN: A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside. -->
+  <Fence.description>Tvora padaryta iš kuolų sujungtų skersiniais, naudojama statant aptvarus tam tikros rūšies gyvūnams. Kai kurių rūšių gyvūnai gali praeiti pro tvoras. Plėšrūnai nesirinks medžioti būtybių kitoje tvoros pusėje, bet gali užklysti į vidų.</Fence.description>
+  
+  <!-- EN: fence gate -->
+  <FenceGate.label>tvoros vartai</FenceGate.label>
+  <!-- EN: A simple gate made of posts and crossbars. It blocks some animals like a fence. Handlers can lead animals in and out of the pen through these gates. -->
+  <FenceGate.description>paprasti vartai padaryti iš kuolų sujungtų skersiniais. Nepraleidžia kai kurių gyvūnų, kaip ir tvora. Gyvūnų prižiūrėtojai per vartus gali pravesti juos į ir iš aptvaro.</FenceGate.description>
+  
+  <!-- EN: wall -->
+  <Wall.label>siena</Wall.label>
+  <!-- EN: An impassable wall. Capable of holding up a roof. -->
+  <Wall.description>Nepraeinama siena. Gali išlaikyti stogą.</Wall.description>
+  
+</LanguageData>

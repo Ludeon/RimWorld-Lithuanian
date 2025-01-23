@@ -1,0 +1,792 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Sieging {0} from {1} are assaulting the colony. -->
+  <MessageSiegersAssaulting>{0} iš {1} pradeda kolonijos apgultį.</MessageSiegersAssaulting>
+
+  <!-- EN: {0} from {1} are beginning their assault. -->
+  <MessageRaidersBeginningAssault>{0} iš {1} pradeda savo puolimą.</MessageRaidersBeginningAssault>
+  <!-- EN: {0} from {1} have detected you and begun their assault early. -->
+  <MessageRaidersDetectedEarlyAssault>{0} iš {1} aptiko tave ir pradeda savo puolimą anksčiau.</MessageRaidersDetectedEarlyAssault>
+  <!-- EN: {0} from {1} have decided to kidnap who they can and leave. -->
+  <MessageRaidersKidnapping>{0} iš {1} nusprendė pagrobti ką gali ir išvykti.</MessageRaidersKidnapping>
+  <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
+  <MessageRaidersStealing>{0} iš {1} nusprendė pavogti ka gali ir išvykti.</MessageRaidersStealing>
+
+  <!-- EN: {0} from {1} have arrived and are attacking! More are on the way and will arrive in {2}. -->
+  <MessageCaravanDetectedRaidArrived>{0} iš {1} atvyko ir puola! Atvykstančių yra daugiau ir jie bus už {2}.</MessageCaravanDetectedRaidArrived>
+
+  <!-- EN: {0} from {1} are leaving. -->
+  <MessageRaidersLeaving>{0} iš {1} išvyksta.</MessageRaidersLeaving>
+  <!-- EN: {0} from {1} have given up and are leaving. -->
+  <MessageRaidersGivenUpLeaving>{0} iš {1} pasidavė ir išvyksta.</MessageRaidersGivenUpLeaving>
+  <!-- EN: {0} from {1} are satisfied with the damage done and are leaving. -->
+  <MessageRaidersSatisfiedLeaving>{0} iš {1} yra patenkinti padaryta žala ir išvyksta.</MessageRaidersSatisfiedLeaving>
+
+  <!-- EN: {0} from {1} are fleeing. -->
+  <MessageFightersFleeing>{0} iš {1} bėga.</MessageFightersFleeing>
+  <!-- EN: Friendly {0} from {1} are leaving. -->
+  <MessageFriendlyFightersLeaving>Draugiški {0} iš {1} išvyksta.</MessageFriendlyFightersLeaving>
+
+  <!-- EN: {0} from {1} are taking a wounded guest. -->
+  <MessageVisitorsTakingWounded>{0} iš {1} pasiima sužeistą svečią.</MessageVisitorsTakingWounded>
+  <!-- EN: {0} from {1} have been trapped and are digging out to escape. -->
+  <MessageVisitorsTrappedLeaving>{0} iš {1} yra užspęsti ir kasasi lauk, kad galėtų išvykti.</MessageVisitorsTrappedLeaving>
+  <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
+  <MessageVisitorsDangerousTemperature>{0} iš {1} išvyksta dėl pavojingos temperatūros.</MessageVisitorsDangerousTemperature>
+
+  <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
+  <MessageWornApparelDeterioratedAway>{1_nameFull} dėvėtas {0} visiškai sugedo.</MessageWornApparelDeterioratedAway>
+  <!-- EN: {0} has deteriorated away in storage. -->
+  <MessageDeterioratedAway>{0} saugykloje visiškai sugedo.</MessageDeterioratedAway>
+
+  <!-- EN: {0} has begun. -->
+  <MessageSeasonBegun>Prasidėjo {0}.</MessageSeasonBegun>
+
+  <!-- EN: {0} has left comms range. -->
+  <MessageShipHasLeftCommsRange>{0} paliko komunikacijų ryšio zoną.</MessageShipHasLeftCommsRange>
+
+  <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
+  <MessageNeedBeaconToTradeWithShip>Kad prekiautum su erdvėlaiviu tau reikia veikiančio orbitinio prekybos švyturio.</MessageNeedBeaconToTradeWithShip>
+  <!-- EN: Caller must have the title of {0_label} or higher. -->
+  <MessageNeedRoyalTitleToCallWithShip>Skambintojas turi turėti {0_label} ar aukštesnį titulą.</MessageNeedRoyalTitleToCallWithShip>
+
+  <!-- EN: {0} has been destroyed. -->
+  <MessageConditionCauserDespawned>{0} sunaikintas.</MessageConditionCauserDespawned>
+  
+  <!-- EN: Bill complete: {0}. -->
+  <MessageBillComplete>Užsakymas įvykdytas: {0}.</MessageBillComplete>
+
+  <!-- EN: {1_label} is fully healed. -->
+  <MessageFullyHealed>{1_label} pilnai pasveiko.</MessageFullyHealed>
+
+  <!-- EN: Prisoner {1_labelShort} is escaping. -->
+  <MessagePrisonerIsEscaping>Kalinys {1_labelShort} bėga iš kalėjimo.</MessagePrisonerIsEscaping>
+
+  <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
+  <MessageOutOfNearbyShellsFor>{PAWN_labelShort} nerado šalia nerezervuotų {GUN_label} sviedinių.</MessageOutOfNearbyShellsFor>
+  <!-- EN: {PAWN_labelShort} found no nearby unreserved {FUEL} for {GUN_label}. -->
+  <MessageOutOfNearbyFuelFor>{PAWN_labelShort} nerado šalia esančio nerezervuoto {FUEL}, skirto {GUN_label}.</MessageOutOfNearbyFuelFor>
+
+  <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
+  <MessageAnimalsGoPsychoHunted>Įspėjimas: {ANIMAL_kindBasePlural} turi {1} bazinę tikimybę pulti kai yra sužeistas. Tikimybė priklauso nuo nuotolio ir medžiotojo sėlinimo statistinio rodiklio.</MessageAnimalsGoPsychoHunted>
+  <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
+  <MessageAnimalManhuntsOnTameFailed>Įspėjimas: {ANIMAL_kindBasePlural} gali pulti jei nepavyks prijaukinti ({1} tikimybė).</MessageAnimalManhuntsOnTameFailed>
+  <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
+  <MessageInsectTameDesignated>Tik tie, kurie turi vabzdžių simpatijos bruožą gali prijaukinti {INSECT_indefinite}.</MessageInsectTameDesignated>
+
+  <!-- EN: Warning: The {PAWN_labelShort} is hostile and will attack while your colonist tries to tame it. -->
+  <MessageInsectsHostileOnTaming>Įspėjimas: {PAWN_labelShort} yra agresyvus ir puls kai tavo kolonistas bandys jį prijaukinti.</MessageInsectsHostileOnTaming>
+  
+  <!-- EN: New recruit -->
+  <LetterLabelMessageRecruitSuccess>Naujas narys</LetterLabelMessageRecruitSuccess>
+  <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull}. -->
+  <MessageRecruitSuccess>{RECRUITER_nameFull} pavyko įkalbėti prisijungti {RECRUITEE_nameFull}.</MessageRecruitSuccess>
+  <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. -->
+  <MessageTameSuccess>{RECRUITER_labelShort} pavyko prijaukinti {1}.</MessageTameSuccess>
+  <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. It is now called {RECRUITEE_nameFull}. -->
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort} pavyko prijaukinti {1}. Dabar jis vadinamas {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
+  <!-- EN: There is no suitable animal pen for {ANIMAL_labelShort}. It will eventually roam away. -->
+  <MessageTameNoSuitablePens>{ANIMAL_labelShort} nėra tinkamo gyvūnų aptvaro. Galų gale jis nuklys.</MessageTameNoSuitablePens>
+  <!-- EN: {RECRUITEE} has joined your colony. -->
+  <MessageRecruitJoinOfferAccepted>{RECRUITEE} prisijungė prie kolonijos.</MessageRecruitJoinOfferAccepted>
+
+  <!-- EN: The colony cannot afford this deal. -->
+  <MessageColonyCannotAfford>Kolonija negali sau leisti šio sandorio.</MessageColonyCannotAfford>
+  <!-- EN: You do not have enough silver ready to trade. -->
+  <MessageColonyNotEnoughSilver>Neturi pakankamai paruošto prekybai sidabro.</MessageColonyNotEnoughSilver>
+
+  <!-- EN: Critical alert: {0} -->
+  <MessageCriticalAlert>Kritiškai svarbus įspėjimas: {0}</MessageCriticalAlert>
+
+  <!-- EN: Must designate harvestable sufficiently-grown plants. -->
+  <MessageMustDesignateHarvestable>Reikia pažymėti pakankamai užaugusius augalus iš kurių galima nuimti derlių.</MessageMustDesignateHarvestable>
+  <!-- EN: Must designate wood-yielding, sufficiently-grown plants. -->
+  <MessageMustDesignateHarvestableWood>Reikia pažymėti medienos turinčius, pakankamai užaugusius augalus.</MessageMustDesignateHarvestableWood>
+  <!-- EN: Must designate plants. -->
+  <MessageMustDesignatePlants>Reikia pažymėti augalus.</MessageMustDesignatePlants>
+  <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
+  <MessageMustDesignateHaulable>Reikia pažymėti gabentinus daiktus. Kai kurie daiktai visada yra gabentini ir negali būti pažymėti.</MessageMustDesignateHaulable>
+  <!-- EN: Must designate impassable mineable rocks. -->
+  <MessageMustDesignateMineable>Reikia pažymėti nepraeinamus iškasamus akmenis.</MessageMustDesignateMineable>
+  <!-- EN: Must designate huntable animals. -->
+  <MessageMustDesignateHuntable>Reikia pažymėti gyvūnus.</MessageMustDesignateHuntable>
+  <!-- EN: Must designate tameable animals. -->
+  <MessageMustDesignateTameable>Reikia pažymėti prijaukinamus gyvūnus.</MessageMustDesignateTameable>
+  <!-- EN: Must designate abandoned claimable structures or items. -->
+  <MessageMustDesignateClaimable>Reikia pažymėti apleistus pasisavinamus pastatus ar daiktus.</MessageMustDesignateClaimable>
+  <!-- EN: Must designate paintable buildings not already painted {0_label}. -->
+  <MessageMustDesignatePaintableBuildings>Reikia pažymėti dažomus statinius, kurie dar nėra nudažyti {0_label}.</MessageMustDesignatePaintableBuildings>
+  <!-- EN: Must designate paintable floors which are not already painted {0_label}. -->
+  <MessageMustDesignatePaintableFloors>TODO</MessageMustDesignatePaintableFloors>
+  <!-- EN: Must designate painted buildings or floors. -->
+  <MessageMustDesignatePainted>TODO</MessageMustDesignatePainted>
+  <!-- EN: You must defeat a mech cluster before you can deconstruct it. -->
+  <MessageMustDesignateDeconstructibleMechCluster>Kad galėtum išardyti reikia iš pradžių sunaikinti mechanoidų telkinį.</MessageMustDesignateDeconstructibleMechCluster>
+  <!-- EN: Must designate rough stone surfaces. -->
+  <MessageMustDesignateSmoothableSurface>Reikia pažymėti netašytus akmeninius paviršius.</MessageMustDesignateSmoothableSurface>
+  <!-- EN: Nothing can remove thick roofs. -->
+  <MessageNothingCanRemoveThickRoofs>Niekas negali pašalinti storo stogo.</MessageNothingCanRemoveThickRoofs>
+  <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
+  <MessageAlreadyInStorage>Tai jau yra saugykloje ir, jei reikės, bus nugabentas į aukštesnio prioriteto saugyklą.</MessageAlreadyInStorage>
+  <!-- EN: Must designate corpse or downed character with strippable apparel. -->
+  <MessageMustDesignateStrippable>Reikia pažymėti lavoną arba numuštą veikėją su nurengiama apranga.</MessageMustDesignateStrippable>
+  <!-- EN: Must designate tame animal that belongs to the colony. -->
+  <MessageMustDesignateSlaughterable>Reikia pažymėti kolonijai priklausantį prijaukintą gyvūną.</MessageMustDesignateSlaughterable>
+  <!-- EN: Must designate full graves or containers. -->
+  <MessageMustDesignateOpenable>Reikia pažymėti užpildytus kapus arba talpyklas.</MessageMustDesignateOpenable>
+  <!-- EN: Must designate unforbidden items. -->
+  <MessageMustDesignateForbiddable>Reikia pažymėti neuždraustus daiktus.</MessageMustDesignateForbiddable>
+  <!-- EN: Must designate forbidden items. -->
+  <MessageMustDesignateUnforbiddable>Reikia pažymėti uždraustus daiktus.</MessageMustDesignateUnforbiddable>
+  <!-- EN: Cannot claim {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
+  <MessageCannotClaimWhenThreatsAreNear>TODO</MessageCannotClaimWhenThreatsAreNear>
+  <!-- EN: Cannot adopt {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
+  <MessageCannotAdoptWhileThreatsAreNear>TODO</MessageCannotAdoptWhileThreatsAreNear>
+
+  <!-- EN: {1_labelShort} has refused to be arrested! -->
+  <MessageRefusedArrest>{1_labelShort} atsisakė būti areštuotu!</MessageRefusedArrest>
+  
+  <!-- EN: There are no medical beds available. -->
+  <MessageNoMedicalBeds>Nėra laisvų medicininių lovų.</MessageNoMedicalBeds>
+  <!-- EN: There are no animal beds available. -->
+  <MessageNoAnimalBeds>Nėra laisvų gyvūnų lovų.</MessageNoAnimalBeds>
+  <!-- EN: Warning: {PAWN_nameDef}'s medicine restriction ({RESTRICTIONLABEL}) prevents doing this operation. Consider changing {PAWN_possessive} medicine restriction. -->
+  <MessageWarningNoMedicineForRestriction>TODO</MessageWarningNoMedicineForRestriction>
+  
+  <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
+  <PawnDiedBecauseOf>{PAWN_labelShort} mirė. Priežastis: {1}.</PawnDiedBecauseOf>
+  <!-- EN: {1_labelShort} has died. -->
+  <PawnDied>{1_labelShort} mirė.</PawnDied>
+
+  <!-- EN: {1_label} is no longer incapable of walking. -->
+  <MessageNoLongerDowned>{1_label} vėl gali vaikščioti.</MessageNoLongerDowned>
+
+  <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
+  <MessageInvoluntarySleep>{1_labelShort} prarado sąmonę dėl itin didelio išsekimo.</MessageInvoluntarySleep>
+
+  <!-- EN: This operation will anger {0}. -->
+  <MessageMedicalOperationWillAngerFaction>Ši operacija supykdys {0}.</MessageMedicalOperationWillAngerFaction>
+
+  <!-- EN: {PAWN_nameDef} is pregnant! -->
+  <MessageAnimalIsPregnant>TODO</MessageAnimalIsPregnant>
+  <!-- EN: {0} has miscarried due to starvation. -->
+  <MessageMiscarriedStarvation>{0} persileido dėl bado.</MessageMiscarriedStarvation>
+  <!-- EN: {0} has miscarried due to poor health. -->
+  <MessageMiscarriedPoorHealth>{0} persileido dėl prastos sveikatos.</MessageMiscarriedPoorHealth>
+  <!-- EN: {0} has given birth. -->
+  <MessageGaveBirth>{0} pagimdė.</MessageGaveBirth>
+  
+  <!-- EN: {PAWN_labelShort} won't be able to use the psylink while {PAWN_pronoun} has zero psychic sensitivity. -->
+  <MessagePsylinkNoSensitivity>{PAWN_labelShort} negalės naudoti psi ryšio kol {PAWN_pronoun} neturės psichinio jautrumo.</MessagePsylinkNoSensitivity>
+  <!-- EN: {PAWN_labelShort} has lost a {1} implant level due to {2}. -->
+  <MessageLostImplantLevelFromHediff>{PAWN_labelShort} prarado {1} implanto lygį dėl {2}.</MessageLostImplantLevelFromHediff>
+  <!-- EN: {PAWN_labelShort} has suffered {1} points of brain damage due to {2}. -->
+  <MessageReceivedBrainDamageFromHediff>{PAWN_labelShort} patyrė {1} taškus smegenų žalos dėl {2}.</MessageReceivedBrainDamageFromHediff>
+  <!-- EN: {PAWN_labelShort} has exceeded the normal limit of neural heat. -->
+  <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort} viršijo įprastines nauroninio karščio ribas.</MessageWentOverPsychicEntropyLimit>
+
+  <!-- EN: No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}). -->
+  <MessageNoHandlerSkilledEnough>Joks gyvūnų prižiūrėtojas negali jaukinti {ANIMAL_kindBase} (reikia {1} lygio {2}, geriausias gyvūnų prižiūrėtojas {HANDLER_labelShort} turi {4}).</MessageNoHandlerSkilledEnough>
+  
+  <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
+  <MessageEatenByPredator>{EATEN_labelShort} buvo suėstas {PREDATOR}.</MessageEatenByPredator>
+  <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
+  <MessageAttackedByPredator>{PREY_labelShort} yra puolamas {PREDATOR}!</MessageAttackedByPredator>
+
+  <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
+  <MessageRoamerLeaving>{PAWN_labelShort} pradėjo klajoti tolyn! {PAWN_pronoun} išeis iš žemėlapio, nebent gyvūnų prižiūrėtojas parves {PAWN_objective} atgal į aptvarą.</MessageRoamerLeaving>
+
+  <!-- EN: A bug hive has reproduced itself. -->
+  <MessageHiveReproduced>Vabzdžių lizdas pasidaugino.</MessageHiveReproduced>
+  
+  <!-- EN: The trade caravan from {0} is leaving. -->
+  <MessageTraderCaravanLeaving>Prekybos karavanas iš {0} išvyksta.</MessageTraderCaravanLeaving>
+  
+  <!-- EN: {1_labelShort} is dead. -->
+  <MessageCantSelectDeadPawn>{1_labelShort} mirė.</MessageCantSelectDeadPawn>
+  <!-- EN: {1_labelShort} is off the map. -->
+  <MessageCantSelectOffMapPawn>{1_labelShort} nėra žemėlapyje.</MessageCantSelectOffMapPawn>
+  
+  <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
+  <MessageSocialFight>{PAWN1_labelShort} pradėjo muštis su {PAWN2_labelShort}.</MessageSocialFight>
+  
+  <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}'s marriage. -->
+  <MessageNewMarriageCeremony>Kolonistai renkasi švęsti {PAWN1_labelShort} ir {PAWN2_labelShort} vestuvių.</MessageNewMarriageCeremony>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
+  <MessageMarriageCeremonyStarts>{PAWN1_labelShort} ir {PAWN2_labelShort} pradeda savo vestuvių ceremoniją!</MessageMarriageCeremonyStarts>
+  <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off. -->
+  <MessageMarriageCeremonyCalledOff>{PAWN1_labelShort} ir {PAWN2_labelShort} vestuvių ceremonija buvo atšaukta.</MessageMarriageCeremonyCalledOff>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion. -->
+  <MessageNewlyMarried>{PAWN1_labelShort} ir {PAWN2_labelShort} susituokė. Kolonistai dabar švenčia vestuves.</MessageNewlyMarried>
+  <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished. -->
+  <MessageMarriageCeremonyAfterPartyFinished>{PAWN1_labelShort} ir {PAWN2_labelShort} vestuvių ceremonija baigėsi.</MessageMarriageCeremonyAfterPartyFinished>
+  
+  <!-- EN: {HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond. -->
+  <MessageNewBondRelation>{ANIMAL_labelShort} tapo {HUMAN_labelShort} augintiniu.</MessageNewBondRelation>
+  <!-- EN: {HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}. -->
+  <MessageNewBondRelationNewName>{1} tapo {HUMAN_labelShort} augintiniu. {HUMAN_labelShort} pavadino {ANIMAL_objective} {ANIMAL_nameFull}.</MessageNewBondRelationNewName>
+  
+  <!-- EN: {ANIMAL} has had a mental break because of {HUMAN_labelShort}'s death. -->
+  <MessageBondedAnimalMentalBreak>{ANIMAL} pakriko nervai dėl {HUMAN_labelShort} mirties.</MessageBondedAnimalMentalBreak>
+  <!-- EN: {ANIMAL_kindIndef} named {ANIMAL_label} has had a mental break because of {HUMAN_labelShort}'s death. -->
+  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindIndef} vardu {ANIMAL_label} pakriko nervai dėl {HUMAN_labelShort} mirties.</MessageNamedBondedAnimalMentalBreak>
+  <!-- EN: {0} animals have a mental break because of {HUMAN_labelShort}'s death. -->
+  <MessageBondedAnimalsMentalBreak>{0} gyvūnams pakriko nervai dėl {HUMAN_labelShort} mirties.</MessageBondedAnimalsMentalBreak>
+  
+  <!-- EN: {SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}. -->
+  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} pavyko pašalinti {PATIENT_labelShort} {HEDIFF}.</MessageSuccessfullyRemovedHediff>
+  
+  <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
+  <MessageShipChunkDrop>Šalia nukrito erdvėlaivio gabalų. Gali juos išardyti ir gauti išteklių.</MessageShipChunkDrop>
+
+  <!-- EN: Some items cannot be traded because of:  -->
+  <MessageCannotSellItemsReason>Kai kurie daiktai negali būti parduoti dėl: </MessageCannotSellItemsReason>
+
+  <!-- EN: {WORKER_labelShort} failed while constructing a {0}. Some resources have been wasted. -->
+  <MessageConstructionFailed>{WORKER_labelShort} nepavyko pastatyti {0}. Dalis išteklių buvo iššvaistyta.</MessageConstructionFailed>
+
+  <!-- EN: Screenshot saved as: {0} -->
+  <MessageScreenshotSavedAs>Ekrano paveiksliukas išsaugotas kaip: {0}</MessageScreenshotSavedAs>
+  
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting. -->
+  <MessageNoLongerSocialFighting>{PAWN1_labelShort} ir {PAWN2_labelShort} nebesimuša.</MessageNoLongerSocialFighting>
+  
+  <!-- EN: {2_labelShort} is no longer binging on {1}. -->
+  <MessageNoLongerBingingOnDrug>{2_labelShort} nebevartoja be saiko {1}.</MessageNoLongerBingingOnDrug>
+
+  <!-- EN: {PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}. -->
+  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort} baigė įžeidinėti {TARGET_label}.</MessageNoLongerOnTargetedInsultingSpree>
+
+  <!-- EN: {1_label} has rotted away in storage. -->
+  <MessageRottedAwayInStorage>{1_label} supuvo saugykloje.</MessageRottedAwayInStorage>
+  
+  <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
+  <MessageFoodPoisoning>{PAWN_labelShort} apsinuodijo maistu nuo: {FOOD_labelShort}. Priežastis: {2}.</MessageFoodPoisoning>
+  
+  <!-- EN: {0} has been removed from the caravan. -->
+  <MessagePawnLostWhileFormingCaravan>{0} buvo pašalintas iš karavano.</MessagePawnLostWhileFormingCaravan>
+  <!-- EN: The caravan formation process has been terminated. -->
+  <MessagePawnLostWhileFormingCaravan_AllLost>Karavano formavimas yra nutrauktas..</MessagePawnLostWhileFormingCaravan_AllLost>
+  <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
+  <MessageCaravanFormationPaused>Karavanas bus formuojamas toliau kai visi atsigaus nuo savo nervų pakrikimo.</MessageCaravanFormationPaused>
+  <!-- EN: Your colonists will now continue forming a caravan. -->
+  <MessageCaravanFormationUnpaused>Dabar tavo kolonistai tęs karavano formavimą.</MessageCaravanFormationUnpaused>
+  
+  <!-- EN: One of the caravan members has had a mental break. -->
+  <MessageCaravanMemberHasExtremeMentalBreak>Vienam iš karavano narių pakriko nervai.</MessageCaravanMemberHasExtremeMentalBreak>
+  
+  <!-- EN: Warning: It can take a very long time to generate an entire planet. -->
+  <MessageMaxPlanetCoveragePerformanceWarning>Įspėjimas: Visos planetos kūrimas gali ilgai užtrukti.</MessageMaxPlanetCoveragePerformanceWarning>
+
+  <!-- EN: {0} has died because of cold. -->
+  <MessagePlantDiedOfCold>{0} nušalo.</MessagePlantDiedOfCold>
+  <!-- EN: {0} has died from rotting due to being left unharvested. -->
+  <MessagePlantDiedOfRot_LeftUnharvested>{0} supuvo nes nebuvo nuimtas derlius.</MessagePlantDiedOfRot_LeftUnharvested>
+  <!-- EN: {0} has died due to being exposed to light. -->
+  <MessagePlantDiedOfRot_ExposedToLight>{0} žuvo dėl buvimo šviesoje.</MessagePlantDiedOfRot_ExposedToLight>
+  <!-- EN: {0} has died from rotting. -->
+  <MessagePlantDiedOfRot>{0} žuvo dėl puvinio.</MessagePlantDiedOfRot>
+  <!-- EN: {0} has died because of poison. -->
+  <MessagePlantDiedOfPoison>{0} žuvo dėl nuodų.</MessagePlantDiedOfPoison>
+  <!-- EN: {1_label} has died because of blight. -->
+  <MessagePlantDiedOfBlight>{1_label} žuvo dėl kūlių.</MessagePlantDiedOfBlight>
+
+  <!-- EN: {1_labelShort} is being burned by superheated air! -->
+  <MessagePawnBeingBurned>{1_labelShort} yra deginamas labai karšto oro!</MessagePawnBeingBurned>
+
+  <!-- EN: {INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}! -->
+  <MessageAccidentalOverdose>{INGESTER} netyčia perdozavo vartodamas {DRUG_labelShort}!</MessageAccidentalOverdose>
+  
+  <!-- EN: {0} has arrived at its destination. -->
+  <MessageCaravanArrivedAtDestination>{0} atvyko į kelionės tikslą.</MessageCaravanArrivedAtDestination>
+  
+  <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
+  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort} suformavo karavaną ir išvyko iš vietovės.</MessagePawnLeftMapAndCreatedCaravan>
+  <!-- EN: Your animals are moving to join it. -->
+  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>Tavo gyvūnai eina, kad prie jo prisijungtų.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+  
+  <!-- EN: You have successfully settled in a new area. -->
+  <MessageSettledInExistingMap>Tau pavyko įsikurti naujoje vietovėje.</MessageSettledInExistingMap>
+  
+  <!-- EN: {PAWN_labelShort}'s {2} has healed. Cause: {0} -->
+  <MessagePermanentWoundHealed>{PAWN_labelShort} {2} pagijo. Priežastis: {0}</MessagePermanentWoundHealed>
+  
+  <!-- EN: [PAWN_nameDef] has recovered and decided to leave. -->
+  <MessageRescueeDidntJoin>[PAWN_nameDef] atsigavo ir nusprendė išvykti.</MessageRescueeDidntJoin>
+  
+  <!-- EN: Some transport pods are unreachable. -->
+  <MessageTransporterUnreachable>Kai kurios transportavimo kapsulės yra nepasiekiamos.</MessageTransporterUnreachable>
+  <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
+  <MessageTransportersNotAdjacent>Visos kapsulių svaidyklės turi būti greta pasirinktų transportavimo kapsulių su kuriomis jos yra sujungtos.</MessageTransportersNotAdjacent>
+  
+  <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
+  <MessageTransportersLoadCanceled_TransporterDestroyed>Pakrovimas atšauktas nes viena iš transportavimo kapsulių buvo sunaikinta.</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <!-- EN: The loading process has been canceled because the shuttle has been destroyed. -->
+  <MessageTransporterSingleLoadCanceled_TransporterDestroyed>Pakrovimas atšauktas nes erdvėlaivis buvo sunaikintas.</MessageTransporterSingleLoadCanceled_TransporterDestroyed>
+  <!-- EN: The loading process has been canceled because one of the pod launchers has been destroyed. -->
+  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>Pakrovimas atšauktas nes kapsulių svaidyklės buvo sunaikintos.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+  
+  <!-- EN: Assigned items and people will now be loaded into the transport pods. -->
+  <MessageTransportersLoadingProcessStarted>Pažymėti daiktai ir žmonės dabar bus pakrauti į transportavimo kapsules.</MessageTransportersLoadingProcessStarted>
+  <!-- EN: Assigned items and people will now be loaded into the shuttle. -->
+  <MessageTransporterSingleLoadingProcessStarted>Pažymėti daiktai ir žmonės dabar bus pakrauti į erdvėlaivį.</MessageTransporterSingleLoadingProcessStarted>
+  
+  <!-- EN: Your transport pods have arrived. -->
+  <MessageTransportPodsArrived>Tavo transportavimo kapsulės atvyko.</MessageTransportPodsArrived>
+  <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
+  <MessageTransportPodsArrivedAndLost>Transportavimo kapsulės atvyko, bet kadangi jose nebuvo nė vieno kolonisto, jų turinys buvo prarastas.</MessageTransportPodsArrivedAndLost>
+  <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
+  <MessageTransportPodsArrivedAndAddedToCaravan>Transportavimo kapsulės atvyko. Jų turinys įdėtas į {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
+  
+  <!-- EN: Transport pod loading complete. Launch when ready. -->
+  <MessageFinishedLoadingTransporters>Transportavimo kapsulės pakrautos. Paleisk jas kai būsi pasiruošęs.</MessageFinishedLoadingTransporters>
+  <!-- EN: Shuttle is loaded with required cargo and can launch when ready. -->
+  <MessageFinishedLoadingTransporterSingle>Erdvėlaivis pakrautas reikiamu kroviniu ir, kai pasiruoši, gali būti paleistas.</MessageFinishedLoadingTransporterSingle>
+
+  <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
+  <MessageCantLoadMoreIntoTransporters>Tavo {1} negali baigti pakrauti transportavimo kapsulės nes kai kurie daiktai ar žmonės yra nepasiekiami ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
+  
+  <!-- EN: Selected destination is invalid. -->
+  <MessageTransportPodsDestinationIsInvalid>Pasirinktas kelionės tikslas negalimas.</MessageTransportPodsDestinationIsInvalid>
+  <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
+  <MessageTransportPodsDestinationIsTooFar>Tiek toli nusiųsti transportavimo kapsulėms kiekvienai kapsulių svaidyklei reikia bent {0}x degalų.</MessageTransportPodsDestinationIsTooFar>
+  
+  <!-- EN: The caravan has been reformed. -->
+  <MessageReformedCaravan>Karavanas suformuotas.</MessageReformedCaravan>
+  
+  <!-- EN: You can't banish the last colonist. -->
+  <MessageCantBanishLastColonist>Negali ištremti paskutinio kolonisto.</MessageCantBanishLastColonist>
+
+  <!-- EN: Cannot equip: {0}. -->
+  <MessageCantEquipCustom>Negali ekipuoti: {0}.</MessageCantEquipCustom>
+  <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
+  <MessageCantEquipIncapableOfViolence>Negali ekipuoti: {1_labelShort} negalintis smurtauti.</MessageCantEquipIncapableOfViolence>
+  <!-- EN: Cannot equip: {1_labelShort} is incapable of shooting. -->
+  <MessageCantEquipIncapableOfShooting>Negali ekipuoti: {1_labelShort} negalintis šaudyti.</MessageCantEquipIncapableOfShooting>
+  <!-- EN: Cannot equip: Incapable. -->
+  <MessageCantEquipIncapableOfManipulation>Negali ekipuoti: Negalintis.</MessageCantEquipIncapableOfManipulation>
+  <!-- EN: Cannot wear: {1_labelShort} is missing required body parts. -->
+  <MessageCantWearApparelMissingBodyParts>Negali dėvėti: {1_labelShort} trūksta reikalingų kūno dalių.</MessageCantWearApparelMissingBodyParts>
+  <!-- EN: This person refuses to remove this. -->
+  <MessageCantUnequipLockedApparel>Šis asmuo atsisako tai pašalinti.</MessageCantUnequipLockedApparel>
+  <!-- EN: Cannot wear: This would replace apparel {1_labelShort} refues to remove. -->
+  <MessageWouldReplaceLockedApparel>Negali dėvėti: Tai pakeistų drabužį {1_labelShort} kurį jis atsisako pašalinti.</MessageWouldReplaceLockedApparel>
+  
+  <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
+  <MessageSlaughteringBondedAnimal>Kadangi jis yra augintinis, {DESIGNATED_labelShort} papjovimas padarys {BONDED_labelShort} nelaimingu.</MessageSlaughteringBondedAnimal>
+  <!-- EN: Because they are bonded, releasing {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
+  <MessageReleaseBondedAnimal>Kadangi jis yra augintinis, {DESIGNATED_labelShort} paleidimas padarys {BONDED_labelShort} nelaimingu.</MessageReleaseBondedAnimal>
+  
+  <!-- EN: {0} has run out of food. -->
+  <MessageCaravanRanOutOfFood>{0} baigėsi maistas.</MessageCaravanRanOutOfFood>
+  <!-- EN: {PAWN_definite}'s corpse has been picked up by the caravan. It is heavy and may immobilize the caravan, but can be left behind in the caravan items tab. -->
+  <MessageCaravanDeathCorpseAddedToInventory>{PAWN_definite} lavoną pasiėmė karavanas. Jis sunkus ir stabdo karavaną, bet karavano daiktų lange galima pasirinkti, kad jis būtų paliktas.</MessageCaravanDeathCorpseAddedToInventory>
+
+  <!-- EN: To form a caravan, select your own colony or a site where you have people. -->
+  <MessageSelectOwnBaseToFormCaravan>Kad suformuotum karavaną pasirink savo koloniją arba vietovę kur turi savo žmonių.</MessageSelectOwnBaseToFormCaravan>
+
+  <!-- EN: At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution. -->
+  <MessageScreenResTooSmallForUIScale>Su šia rezoliucija ir sąsajos dydžiu, žaidimo sąsaja netilps ekrane. Prašome sumažinti sąsajos dydį arba padidinti rezoliuciją.</MessageScreenResTooSmallForUIScale>
+  
+  <!-- EN: You have to reform the caravan now. Everyone left behind will be abandoned. -->
+  <MessageYouHaveToReformCaravanNow>Dabar tau reikia suformuoti karavaną. Visi kurių nepasiimsi bus palikti ir apleisti.</MessageYouHaveToReformCaravanNow>
+  
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <MessageDefendersAttacking>{0} iš {1} puola tavo {2}.</MessageDefendersAttacking>
+  <!-- EN: Mechanoids have been assembled and will defend their cluster. -->
+  <MessageMechanoidsAssembled>Mechanoidai susirinko ir gins savo telkinį.</MessageMechanoidsAssembled>
+  <!-- EN: Remaining mechanoids to assemble -->
+  <MessageMechanoidsLeftToAssemble>Liko mechanoidų susirinkti</MessageMechanoidsLeftToAssemble>
+  <!-- EN: Mech drop beacon has summoned reinforcements in drop pods nearby. -->
+  <MessageMechanoidsReinforcementsDrop>Mechanoidų numetimo švyturys iškvietė pastiprinimus kurie atvyks transporto kapsulėse netoliese.</MessageMechanoidsReinforcementsDrop>
+
+  <!-- EN: To self-tend, {1_labelShort} must also be assigned to Doctor work. -->
+  <MessageSelfTendUnsatisfied>Kad gydytų save, {1_labelShort} turi turėti priskirtą Daktaro darbą.</MessageSelfTendUnsatisfied>
+  <!-- EN: {1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend. -->
+  <MessageCannotSelfTendEver>{1_labelShort} yra negalintis dirbti Daktaro darbo, todėl niekada pats nepasigydys.</MessageCannotSelfTendEver>
+  
+  <!-- EN: This tile is impassable. -->
+  <MessageCantAddWaypointBecauseImpassable>Šis langelis yra nepraeinamas.</MessageCantAddWaypointBecauseImpassable>
+  <!-- EN: It's not possible to reach this tile from the last waypoint. -->
+  <MessageCantAddWaypointBecauseUnreachable>Neįmanoma pasiekti šio langelio iš paskutinio kelionės taško.</MessageCantAddWaypointBecauseUnreachable>
+  <!-- EN: You can't add more than {0} waypoints. -->
+  <MessageCantAddWaypointBecauseLimit>Negali pridėti daugiau nei {0} kelionės taškus.</MessageCantAddWaypointBecauseLimit>
+  <!-- EN: You can't remove this waypoint. -->
+  <MessageCantRemoveWaypointBecauseFirst>Šio kelionės taško pašalinti negali.</MessageCantRemoveWaypointBecauseFirst>
+  
+  <!-- EN: None of your wardens is capable of violence. The execution won't be performed. -->
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Nei vienas iš tavo kalėjimo prižiūrėtojų nesugeba smurtauti. Egzekucija nebus įvykdyta.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  
+  <!-- EN: Area is now safe. You can reform the caravan on the world map. -->
+  <MessageCanReformCaravanNowNoMoreEnemies>TODO</MessageCanReformCaravanNowNoMoreEnemies>
+  <!-- EN: Area is now safe, but some unexplored rooms remain. You can explore further or reform the caravan on the world map. -->
+  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>TODO</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
+
+  <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
+  <MessageCantBanishDownedPawn>Negalima ištremti {1_labelShort} nes {1_pronoun} negali paeiti.</MessageCantBanishDownedPawn>
+
+  <!-- EN: {0} have woken up. -->
+  <MessageSleepingPawnsWokenUp>{0} atsibudo.</MessageSleepingPawnsWokenUp>
+  <!-- EN: Mech cluster buildings have been defeated. -->
+  <MessageMechClusterDefeated>Mechanoidų telkinio statiniai įveikti.</MessageMechClusterDefeated>
+
+  <!-- EN: Item produced: {0}. -->
+  <MessageCompSpawnerSpawnedItem>Pagamintas daiktas: {0}.</MessageCompSpawnerSpawnedItem>
+
+  <!-- EN: Health condition healed: {0}. -->
+  <MessageHediffCuredByItem>Išgijo: {0}.</MessageHediffCuredByItem>
+  <!-- EN: Body part restored: {0}. -->
+  <MessageBodyPartCuredByItem>Atkurta kūno dalis: {0}.</MessageBodyPartCuredByItem>
+  <!-- EN: Technology given: {0}. -->
+  <MessageResearchProjectFinishedByItem>Duota technologija: {0}.</MessageResearchProjectFinishedByItem>
+
+  <!-- EN: {0} has been brought back to life! -->
+  <MessagePawnResurrected>{0} sugrąžintas į gyvenimą!</MessagePawnResurrected>
+
+  <!-- EN: You have failed to rescue {PAWN_labelShort}. This will make {RELATIVE_labelShort} sad. -->
+  <MessageFailedToRescueRelative>Tau nepavyko išgelbėti {PAWN_labelShort}. Tai privers {RELATIVE_labelShort} liūdėti.</MessageFailedToRescueRelative>
+  <!-- EN: You have rescued {PAWN_labelShort}. This will make {RELATIVE_labelShort} happy. -->
+  <MessageRescuedRelative>Išgelbėjai {PAWN_labelShort}. Tai padarys {RELATIVE_labelShort} laimingu.</MessageRescuedRelative>
+
+  <!-- EN: The tornado has left the map. -->
+  <MessageTornadoLeftMap>Uraganas paliko žemėlapį.</MessageTornadoLeftMap>
+  <!-- EN: The tornado has dissipated. -->
+  <MessageTornadoDissipated>Uraganas nurimo.</MessageTornadoDissipated>
+
+  <!-- EN: No conscious, capable diplomat. -->
+  <MessagePeaceTalksNoDiplomat>Nėra sąmoningo, gebančio diplomato.</MessagePeaceTalksNoDiplomat>
+
+  <!-- EN: Warning: {0} cannot live when exposed to light. -->
+  <MessageWarningCavePlantsExposedToLight>Įspėjimas: {0} negali gyventi šviesoje.</MessageWarningCavePlantsExposedToLight>
+
+  <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
+  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} negali pasiekti {OLDTARGET_label}, todėl {PAWN_pronoun} nusprendė nukreipti {PAWN_possessive} pyktį į {TARGET_label}.</MessageTargetedTantrumChangedTarget>
+
+  <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
+  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} negali pasiekti {OLDTARGET_label}, todėl {PAWN_pronoun} nusprendė nukreipti {PAWN_possessive} pyktį į {TARGET_label}.</MessageTargetedInsultingSpreeChangedTarget>
+
+  <!-- EN: {PAWN_labelShort} has decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
+  <MessageMurderousRageChangedTarget>{PAWN_labelShort} nusprendė nukreipti {PAWN_possessive} pyktį į {TARGET_label}.</MessageMurderousRageChangedTarget>
+
+  <!-- EN: {0} cannot grow underneath a roof. -->
+  <MessagePlantIncompatibleWithRoof>{0} negali augti po stogu.</MessagePlantIncompatibleWithRoof>
+  <!-- EN: Cannot build a roof over {0}. -->
+  <MessageRoofIncompatibleWithPlant>Negalima statyti stogo virš {0}.</MessageRoofIncompatibleWithPlant>
+
+  <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>Kad išvyktum iš vietovės naudok 'performuoti karavaną' mygtuką esantį pasaulio lange.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <!-- EN: You can't leave the map now. -->
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>Dabar negali išvykti iš žemėlapio.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
+
+  <!-- EN: Relations with {0} have changed from {1} to {2}. -->
+  <MessageGoodwillChanged>Santykiai su {0} pasikeitė iš {1} į {2}.</MessageGoodwillChanged>
+  <!-- EN: Relations with {0} have changed from {1} to {2} ({3}). -->
+  <MessageGoodwillChangedWithReason>Santykiai su {0} pasikeitė iš {1} į {2} ({3}).</MessageGoodwillChangedWithReason>
+  <!-- EN: attacked {1_labelShort} -->
+  <GoodwillChangedReason_AttackedPawn>atakavo {1_labelShort}</GoodwillChangedReason_AttackedPawn>
+  <!-- EN: used {ITEM_labelShort} on {TARGET_labelShort} -->
+  <GoodwillChangedReason_UsedItem>panaudojo {ITEM_labelShort} ant {TARGET_labelShort}</GoodwillChangedReason_UsedItem>
+  <!-- EN: used {0} on {1} -->
+  <GoodwillChangedReason_UsedAbility>panaudojo {0} ant {1}</GoodwillChangedReason_UsedAbility>
+  <!-- EN: harvested {0} -->
+  <GoodwillChangedReason_RemovedBodyPart>išėmė {0}</GoodwillChangedReason_RemovedBodyPart>
+  <!-- EN: removed {0} -->
+  <GoodwillChangedReason_RemovedImplant>pašalino {0}</GoodwillChangedReason_RemovedImplant>
+  <!-- EN: downgraded {0} -->
+  <GoodwillChangedReason_DowngradedImplant>pablogino {0}</GoodwillChangedReason_DowngradedImplant>
+  <!-- EN: needlessly installed {0} -->
+  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>bereikalingai įstatė {0}</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+  <!-- EN: captured {1_labelShort} -->
+  <GoodwillChangedReason_CapturedPawn>paėmė į nelaisvę {1_labelShort}</GoodwillChangedReason_CapturedPawn>
+  <!-- EN: {1_labelShort} crushed -->
+  <GoodwillChangedReason_PawnCrushed>sutraiškė {1_labelShort}</GoodwillChangedReason_PawnCrushed>
+  <!-- EN: {1_labelShort} died -->
+  <GoodwillChangedReason_PawnDied>mirė {1_labelShort}</GoodwillChangedReason_PawnDied>
+  <!-- EN: {0_labelShort} stripped -->
+  <GoodwillChangedReason_PawnStripped>nurengė {0_labelShort}</GoodwillChangedReason_PawnStripped>
+  <!-- EN: traded -->
+  <GoodwillChangedReason_Traded>prekiauta</GoodwillChangedReason_Traded>
+  <!-- EN: attacked a caravan -->
+  <GoodwillChangedReason_AttackedCaravan>užpuolė karavaną</GoodwillChangedReason_AttackedCaravan>
+  <!-- EN: {1_labelShort} exited the map healthy -->
+  <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} išvyko iš žemėlapio sveikas</GoodwillChangedReason_ExitedMapHealthy>
+  <!-- EN: tended to {1_labelShort} -->
+  <GoodwillChangedReason_Tended>pagydė {1_labelShort}</GoodwillChangedReason_Tended>
+  <!-- EN: received a gift -->
+  <GoodwillChangedReason_ReceivedGift>gavo dovaną</GoodwillChangedReason_ReceivedGift>
+  <!-- EN: fulfilled a trade offer -->
+  <GoodwillChangedReason_FulfilledTradeRequest>išpildė prekybinį pasiūlymą</GoodwillChangedReason_FulfilledTradeRequest>
+  <!-- EN: finished a quest -->
+  <GoodwillChangedReason_FinishedQuest>pabaigė užduotį</GoodwillChangedReason_FinishedQuest>
+  <!-- EN: {PAWN_labelShort} used {CULPRIT} -->
+  <GoodwillChangedReason_UsedForbiddenThing>{PAWN_labelShort} panaudojo {CULPRIT}</GoodwillChangedReason_UsedForbiddenThing>
+  <!-- EN: sold {0_labelShort} -->
+  <GoodwillChangedReason_SoldPawn>pardavė {0_labelShort}</GoodwillChangedReason_SoldPawn>
+  <!-- EN: euthanized {PAWN_labelShort} -->
+  <GoodwillChangedReason_EuthanizedPawn>įvykdė eutanaziją {PAWN_labelShort}</GoodwillChangedReason_EuthanizedPawn>
+  <!-- EN: requested military aid -->
+  <GoodwillChangedReason_RequestedMilitaryAid>paprašė karinės pagalbos</GoodwillChangedReason_RequestedMilitaryAid>
+  <!-- EN: requested trader caravan -->
+  <GoodwillChangedReason_RequestedTrader>paprašė prekybos karavano</GoodwillChangedReason_RequestedTrader>
+  <!-- EN: caused neuroquake echo -->
+  <GoodwillChangedReason_CausedNeuroquakeEcho>sukėlė neurodrebėjimo aidą</GoodwillChangedReason_CausedNeuroquakeEcho>
+  <!-- EN: caused berserk on {PAWN_labelShort} -->
+  <GoodwillChangedReason_CausedBerserk>sukėlė {PAWN_labelShort} nevaldomą įniršį</GoodwillChangedReason_CausedBerserk>
+  <!-- EN: attacked {0_name} -->
+  <GoodwillChangeReason_AttackedFaction>užpuolė {0_name}</GoodwillChangeReason_AttackedFaction>
+  <!-- EN: shuttle destroyed -->
+  <GoodwillChangeReason_ShuttleDestroyed>sunaikintas erdvėlaivis</GoodwillChangeReason_ShuttleDestroyed>
+  <!-- EN: civilians lost -->
+  <GoodwillChangeReason_CiviliansLost>prarasti civiliai</GoodwillChangeReason_CiviliansLost>
+  <!-- EN: commander lost -->
+  <GoodwillChangeReason_CommanderLost>prarastas viršininkas</GoodwillChangeReason_CommanderLost>
+
+  <!-- EN: {0} accept your gift but they don't appreciate it. -->
+  <MessageGiftGivenButNotAppreciated>{0} priima tavo dovaną, bet jos nevertina.</MessageGiftGivenButNotAppreciated>
+
+  <!-- EN: The caravan is already encumbered and can't carry anything else. -->
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>Karavanas jau perkrautas ir nieko kito nebegali nešti.</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <!-- EN: The caravan can't carry that much. The gifts weigh {0} but the caravan can only carry {1} more. -->
+  <MessageCantGiveGiftBecauseCantCarry>Karavanas negali tiek panešti. Dovanos sveria {0} bet karavanas gali nešti tik dar {1}.</MessageCantGiveGiftBecauseCantCarry>
+
+  <!-- EN: {0} has formed and is now traveling on the world map. -->
+  <MessageFormedCaravan>{0} susiformavo ir keliauja pasaulio žemėlapiu.</MessageFormedCaravan>
+  <!-- EN: Orders -->
+  <MessageFormedCaravan_Orders>Nurodymai</MessageFormedCaravan_Orders>
+
+  <!-- EN: {1}'s "{0}" can no longer deliver to deleted stockpile {2}. -->
+  <MessageBillValidationStoreZoneDeleted>{1} "{0}" nebegali pristatyti į ištrintą sandėliavimo vietą {2}.</MessageBillValidationStoreZoneDeleted>
+  <!-- EN: {1}'s "{0}" can no longer deliver to unavailable stockpile {2}. -->
+  <MessageBillValidationStoreZoneUnavailable>{1} "{0}" nebegali pristatyti į nepasiekiamą sandėliavimo vietą {2}.</MessageBillValidationStoreZoneUnavailable>
+  <!-- EN: {0} can no longer work on "{1}" at {2}. The restriction has been removed. -->
+  <MessageBillValidationPawnUnavailable>{0} nebegali dirbti su "{1}" {2}. Tas apribojimas yra pašalintas.</MessageBillValidationPawnUnavailable>
+  <!-- EN: {1}'s "{0}" can no longer count items in deleted stockpile {2}. -->
+  <MessageBillValidationIncludeZoneDeleted>{1} "{0}" nebegali skaičiuoti daiktų ištrintoje sandėliavimo vietoje {2}.</MessageBillValidationIncludeZoneDeleted>
+  <!-- EN: {1}'s "{0}" can no longer count items in unavailable stockpile {2}. -->
+  <MessageBillValidationIncludeZoneUnavailable>{1} "{0}" nebegali skaičiuoti daiktų nepasiekiamoje sandėliavimo vietoje {2}.</MessageBillValidationIncludeZoneUnavailable>
+  <!-- EN: {1}'s "{0}" can no longer deliver all products to stockpile {2}. -->
+  <MessageBillValidationStoreZoneInsufficient>{1} "{0}" nebegali pristatyti visų produktų į sandėliavimo vietą {2}.</MessageBillValidationStoreZoneInsufficient>
+
+  <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
+  <MessageAnimalReturnedWild>Dėl nepakankamo gyvūno jaukinimo išlaikymo {1_labelShort} sugrįžo į laukinę gamtą.</MessageAnimalReturnedWild>
+  <!-- EN: {1_labelShort} has been returned to the wild. -->
+  <MessageAnimalReturnedWildReleased>{1_labelShort} buvo grąžintas į laukinę gamtą.</MessageAnimalReturnedWildReleased>
+  <!-- EN: Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1} -->
+  <MessageAnimalLostSkill>Dėl nepakankamo gyvūno dresavimo išlaikymo, {ANIMAL_labelShort} prarado įgūdžius: {1}</MessageAnimalLostSkill>
+
+  <!-- EN: Translation report written to {0} -->
+  <MessageTranslationReportSaved>Vertimo ataskaita įrašyta į {0}</MessageTranslationReportSaved>
+
+  <!-- EN: {0} couldn't reach its destination. -->
+  <MessageCaravanArrivalActionNoLongerValid>{0} negalėjo pasiekti kelionės tikslo.</MessageCaravanArrivalActionNoLongerValid>
+
+  <!-- EN: Too dangerous to re-enter for {0}. -->
+  <MessageEnterCooldownBlocksEntering>{0} įeiti per daug pavojinga.</MessageEnterCooldownBlocksEntering>
+
+  <!-- EN: {0_labelShort} can now freely use "{1}". -->
+  <MessagePermitCooldownFinished>{0_labelShort} dabar gali laisvai naudoti "{1}".</MessagePermitCooldownFinished>
+
+  <!-- EN: {PREDATOR} is hunting {PREY_definite} ({PREY_kindBase}) for food! -->
+  <MessagePredatorHuntingPlayerAnimal>{PREDATOR} medžioja {PREY_definite} ({PREY_kindBase}) maistui!</MessagePredatorHuntingPlayerAnimal>
+
+  <!-- EN: Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}. -->
+  <MessagePrisonerResistanceBroken>{WARDEN_labelShort} palaužė kalinio {PRISONER_labelShort} pasipriešinimą.</MessagePrisonerResistanceBroken>
+  <!-- EN: Recruitment attempts will begin. -->
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>Prasidės įkalbinėjimas prisijungti.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+
+  <!-- EN: Another mod with the package ID {0} is already active. Deactivate {1} before trying to activate this. -->
+  <MessageModWithPackageIdAlreadyEnabled>Kita žaidimo modifikacija su package ID {0} jau yra aktyvus. Išjunk {1} prieš bandydamas tai aktyvuoti.</MessageModWithPackageIdAlreadyEnabled>
+  <!-- EN: Disable all mods before using this tool. -->
+  <MessageDisableModsBeforeCleaningTranslationFiles>Prieš naudodamas šį įrankį išjunk visas žaidimo modifikacijas.</MessageDisableModsBeforeCleaningTranslationFiles>
+  <!-- EN: Unpack and then delete all compressed translation files for this language before using this tool. -->
+  <MessageUnpackBeforeCleaningTranslationFiles>Išpakuok ir tada ištrink visas suspaustas vertimo bylas šiai kalbai prieš naudodamas šį įrankį.</MessageUnpackBeforeCleaningTranslationFiles>
+  <!-- EN: Done. Affected folders: {0} -->
+  <MessageTranslationFilesCleanupDone>Padaryta. Paveikti katalogai: {0}</MessageTranslationFilesCleanupDone>
+
+  <!-- EN: One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first. -->
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>Nepavyko užkrauti vienas iš vertimo failų ({0}). Pirmiausia turi būti ištaisytos visos XML klaidos.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+
+  <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
+  <MessageCapturingWillAngerFaction>Įspėjimas: {PAWN_possessive} paėmimas į nelaisvę supykdys {PAWN_possessive} frakciją {PAWN_factionName}.</MessageCapturingWillAngerFaction>
+
+  <!-- EN: Warning: Stripping {PAWN_nameDef} will anger {PAWN_factionName}. -->
+  <MessageStrippingWillAngerFaction>Įspėjimas: {PAWN_possessive} nurengimas supykdys {PAWN_factionName}.</MessageStrippingWillAngerFaction>
+
+  <!-- EN: Cannot shoot in melee. -->
+  <MessageCantShootInMelee>Negalima šauti iš arti.</MessageCantShootInMelee>
+
+  <!-- EN: None of your {0} can accept this quest now. -->
+  <MessageNoColonistCanAcceptQuest>Nei vienas iš tavo {0} negali priimti šios užduoties.</MessageNoColonistCanAcceptQuest>
+  <!-- EN: Cannot accept this quest. -->
+  <MessageCannotAcceptQuest>Negalima priimti šios užduoties.</MessageCannotAcceptQuest>
+  <!-- EN: {0_definite} has accepted a quest: {1} -->
+  <MessageQuestAccepted>{0_definite} priėmė užduotį: {1}</MessageQuestAccepted>
+  <!-- EN: {0} is leaving. -->
+  <MessagePawnLeaving>{0} išvyksta.</MessagePawnLeaving>
+  <!-- EN: {0} are leaving. -->
+  <MessagePawnsLeaving>{0} išvyksta.</MessagePawnsLeaving>
+
+  <!-- EN: The monument has been destroyed because you've built a disallowed building inside. -->
+  <MessageMonumentDestroyedBecauseOfDisallowedBuilding>Paminklas buvo sunaikintas nes pastatei jame neleidžiamą statinį.</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
+
+  <!-- EN: Cannot apply: No reachable, un-reserved research bench available. -->
+  <MessageNoResearchBenchForTechprint>Negali pritaikyti: Nėra pasiekiamo, nerezervuoto tyrimų stalo.</MessageNoResearchBenchForTechprint>
+
+  <!-- EN: No valid destination found for {0} -->
+  <NoValidDestinationFound>Nerasta jokio kelionės tikslo {0}</NoValidDestinationFound>
+
+  <!-- EN: An extracted tree just died. -->
+  <MessageMinifiedTreeDied>TODO</MessageMinifiedTreeDied>
+  
+  <!-- Research -->
+  <!-- EN: Warning: Research will not begin until you build a research bench. -->
+  <MessageResearchMenuWithoutBench>Įspėjimas: Mokslinis tyrimas neprasidės kol nepastatysi tyrimų stalo.</MessageResearchMenuWithoutBench>
+
+  <!-- EN: {0_indefinite} has triggered a proximity activator. -->
+  <MessageActivatorProximityTriggered>{0_indefinite} aktyvavo atstumo daviklį.</MessageActivatorProximityTriggered>
+
+  <!-- EN: {0_label} is currently hidden. -->
+  <MessageCannotSelectInvisibleStat>{0_label} dabar yra paslėptas.</MessageCannotSelectInvisibleStat>
+
+  <!-- EN: {PAWN_nameDef} is a prisoner -->
+  <MessagePrisonerCannotEquipWeapon>{PAWN_nameDef} yra kalinys</MessagePrisonerCannotEquipWeapon>
+
+  <!-- EN: Warning: {0_nameDef}'s beliefs oppose {1} work. {0_pronoun} may become unhappy. -->
+  <MessageIdeoOpposedWorkTypeSelected>TODO</MessageIdeoOpposedWorkTypeSelected>
+
+  <!-- EN: {0} is no longer assigned to {1_nameDef}. -->
+  <MessageBedLostAssignment>TODO</MessageBedLostAssignment>
+  <!-- EN: {0} assigned to {1_nameDef} was destroyed. -->
+  <MessageBedDestroyed>TODO</MessageBedDestroyed>
+
+  <!-- Rituals -->
+  <!-- EN: spectate -->
+  <Spectate>TODO</Spectate>
+  <!-- EN: Assign to {0} -->
+  <AssignToRole>TODO</AssignToRole>
+  <!-- EN: {0} has begun. -->
+  <RitualBegun>TODO</RitualBegun>
+  <!-- EN: The maximum number of {0}s is {1}. -->
+  <MaxPawnsPerRole>TODO</MaxPawnsPerRole>
+  <!-- EN: Role of {0} is locked. -->
+  <RoleIsLocked>TODO</RoleIsLocked>
+  <!-- EN: You need at least one participant. -->
+  <MessageRitualNeedsAtLeastOnePerson>TODO</MessageRitualNeedsAtLeastOnePerson>
+  <!-- EN: You need at least one spectator. -->
+  <MessageRitualNeedsAtLeastOneSpectator>TODO</MessageRitualNeedsAtLeastOneSpectator>
+  <!-- EN: You need a {0}. -->
+  <MessageRitualNeedsAtLeastOneRolePawn>TODO</MessageRitualNeedsAtLeastOneRolePawn>
+  <!-- EN: You need at least {1} {0}. -->
+  <MessageRitualNeedsAtLeastNumRolePawn>TODO</MessageRitualNeedsAtLeastNumRolePawn>
+  <!-- EN: {0_labelShort} is downed. -->
+  <MessageRitualPawnDowned>TODO</MessageRitualPawnDowned>
+  <!-- EN: {0_labelShort} is currently escaping. -->
+  <MessageRitualPawnPrisonerNotSecured>TODO</MessageRitualPawnPrisonerNotSecured>
+  <!-- EN: {0_labelShort} is currently rebelling. -->
+  <MessageRitualPawnSlaveNotSecured>TODO</MessageRitualPawnSlaveNotSecured>
+  <!-- EN: {0_labelShort} is being released. -->
+  <MessageRitualPawnReleased>TODO</MessageRitualPawnReleased>
+  <!-- EN: {0_labelShort} is injured. -->
+  <MessageRitualPawnInjured>TODO</MessageRitualPawnInjured>
+  <!-- EN: {0_labelShort} must hold one of these roles -->
+  <MessageRitualRoleRequired>TODO</MessageRitualRoleRequired>
+  <!-- EN: {0} must be a prisoner. -->
+  <MessageRitualRoleMustBePrisoner>TODO</MessageRitualRoleMustBePrisoner>
+  <!-- EN: {0} must be an animal. -->
+  <MessageRitualRoleMustBeAnimal>TODO</MessageRitualRoleMustBeAnimal>
+  <!-- EN: {0} must be a human. -->
+  <MessageRitualRoleMustBeHumanlike>TODO</MessageRitualRoleMustBeHumanlike>
+  <!-- EN: {0} cannot be a baby. -->
+  <MessageRitualRoleCannotBeABaby>TODO</MessageRitualRoleCannotBeABaby>
+  <!-- EN: No roles available for {0_labelShort}. -->
+  <MessageRitualNoRolesAvailable>TODO</MessageRitualNoRolesAvailable>
+  <!-- EN: {0_labelShort} is not a member of any colony ideoligion. -->
+  <MessageRitualNotOfPlayerIdeo>TODO</MessageRitualNotOfPlayerIdeo>
+  <!-- EN: {0} must have eyes -->
+  <MessageRitualRoleMustHaveEyes>TODO</MessageRitualRoleMustHaveEyes>
+  <!-- EN: {0_labelShort} does not require further scarification. -->
+  <MessageRitualRoleMustRequireScarification>TODO</MessageRitualRoleMustRequireScarification>
+  <!-- EN: {0_labelShort} does not require blinding. -->
+  <MessageRitualRoleMustRequireBlinding>TODO</MessageRitualRoleMustRequireBlinding>
+  <!-- EN: {0} must be a prisoner or slave. -->
+  <MessageRitualRoleMustBePrisonerOrSlave>TODO</MessageRitualRoleMustBePrisonerOrSlave>
+  <!-- EN: {0_labelShort} must be capable of fighting. -->
+  <MessageRitualRoleMustBeCapableOfFighting>TODO</MessageRitualRoleMustBeCapableOfFighting>
+  <!-- EN: this role cannot be played by someone else. -->
+  <MessageRitualRoleCannotReplaceRequiredPawn>TODO</MessageRitualRoleCannotReplaceRequiredPawn>
+  <!-- EN: {0_labelShort} cannot connect to a Gauranlen tree because {0_possessive} connection was recently torn. -->
+  <MessageRitualRolePawnRecentlyTornConnection>TODO</MessageRitualRolePawnRecentlyTornConnection>
+  <!-- EN: {0_labelShort} has the same ideoligion as the converter. -->
+  <MessageRitualRolePawnHasSameIdeo>TODO</MessageRitualRolePawnHasSameIdeo>
+  <!-- EN: {0_labelShort} must be capable of wardening. -->
+  <MessageRitualRoleMustBeCapableOfWardening>TODO</MessageRitualRoleMustBeCapableOfWardening>
+  <!-- EN: {0} must be capable of {1}. -->
+  <MessageRitualRoleMustBeCapableOfGeneric>TODO</MessageRitualRoleMustBeCapableOfGeneric>
+  <!-- EN: prisoners cannot {0}. -->
+  <MessageRitualRoleMustNotBePrisonerToSpectate>TODO</MessageRitualRoleMustNotBePrisonerToSpectate>
+  <!-- EN: only {0} can {1}. -->
+  <MessageRitualRoleMustHaveIdeoToSpectate>TODO</MessageRitualRoleMustHaveIdeoToSpectate>
+  <!-- EN: only {0} can fill the role of {1}. -->
+  <MessageRitualRoleMustHaveIdeoToDoRole>TODO</MessageRitualRoleMustHaveIdeoToDoRole>
+  <!-- EN: must be colonist for the {0} role. -->
+  <MessageRitualRoleMustBeColonist>TODO</MessageRitualRoleMustBeColonist>
+  <!-- EN: {0_labelShort} won't attend due to extreme temperature in the ritual area. -->
+  <MessageRitualWontAttendExtremeTemperature>TODO</MessageRitualWontAttendExtremeTemperature>
+  <!-- EN: must be colonist and not enslaved for the {0} role. -->
+  <MessageRitualRoleMustBeFreeColonist>TODO</MessageRitualRoleMustBeFreeColonist>
+  <!-- EN: {0} must have an animal with min body size of {1}. -->
+  <MessageRitualRoleMustHaveLargerBodySize>TODO</MessageRitualRoleMustHaveLargerBodySize>
+  <!-- EN: {0_labelShort} is in a mental state. -->
+  <MessageRitualPawnMentalState>TODO</MessageRitualPawnMentalState>
+  <!-- EN: {0_labelShort} is already {1}. -->
+  <MessageRitualPawnIsAlreadyBelievingIdeo>TODO</MessageRitualPawnIsAlreadyBelievingIdeo>
+  <!-- EN: {0_labelShort} cannot take any other role than spectator. -->
+  <MessageRitualCannotAssignAnyRoleFromSpectating>TODO</MessageRitualCannotAssignAnyRoleFromSpectating>
+  <!-- EN: {0} cannot be an imprisoned wild man/woman. -->
+  <MessageRitualRoleMustNotBeImprisonedWildMan>TODO</MessageRitualRoleMustNotBeImprisonedWildMan>
+  <!-- EN: {0} must be free. -->
+  <MessageRitualRoleMustNotBeImprisoned>TODO</MessageRitualRoleMustNotBeImprisoned>
+  <!-- EN: {0} cannot be a child. -->
+  <MessageRitualRoleCannotBeChild>TODO</MessageRitualRoleCannotBeChild>
+  <!-- EN: {0} cannot be a baby. -->
+  <MessageRitualRoleCannotBeBaby>TODO</MessageRitualRoleCannotBeBaby>
+
+  <!-- EN: You must select a site to continue. -->
+  <MessagePlayerMustSelectTile>TODO</MessagePlayerMustSelectTile>
+
+  <!-- EN: Cannot plant {0_labelShort} -->
+  <CannotPlantThing>TODO</CannotPlantThing>
+  <!-- EN: Need more fertile terrain. -->
+  <MessageWarningNotEnoughFertility>TODO</MessageWarningNotEnoughFertility>
+  <!-- EN: blocked by {0_label}. -->
+  <BlockedBy>TODO</BlockedBy>
+  <!-- EN: Cannot be planted next to {0_label}. -->
+  <AdjacentSowBlocker>TODO</AdjacentSowBlocker>
+  <!-- EN: Too close to {0_label}. -->
+  <TooCloseToOtherPlant>TODO</TooCloseToOtherPlant>
+  <!-- EN: Too close to {0}'s planting location. -->
+  <TooCloseToOtherSeedPlantCell>TODO</TooCloseToOtherSeedPlantCell>
+
+  <!-- EN: Warning: {0} has been marked for cutting. -->
+  <MessageWarningCutImportantPlant>TODO</MessageWarningCutImportantPlant>
+
+  <!-- EN: {0_labelShort} is incapable of manipulation. -->
+  <MessageIncapableOfManipulation>TODO</MessageIncapableOfManipulation>
+
+  <!-- EN: {0_labelShort} activation canceled -->
+  <MessageActivationCanceled>TODO</MessageActivationCanceled>
+
+  <!-- EN: Nothing is currently buildable in category -->
+  <NothingAvailableInCategory>TODO</NothingAvailableInCategory>
+
+  <!-- EN: Storage settings linked for {0} buildings. -->
+  <SettingsLinkedFor>TODO</SettingsLinkedFor>
+  <!-- EN: Storage settings unlinked for {0} buildings. -->
+  <SettingsUnlinkedFor>TODO</SettingsUnlinkedFor>
+  <!-- EN: Storage settings copied to clipboard. -->
+  <StorageSettingsCopiedToClipboard>TODO</StorageSettingsCopiedToClipboard>
+  <!-- EN: Storage settings pasted from clipboard. -->
+  <StorageSettingsPastedFromClipboard>TODO</StorageSettingsPastedFromClipboard>
+
+</LanguageData>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hay -->
+  <Hay.label>šienas</Hay.label>
+  <!-- EN: Nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is good animal feed, but inedible for humans. -->
+  <Hay.description>Pilna maistinių medžiagų žolė ir ūgliai, nupjauti ir suspausti laikymui. Šienas yra geras gyvūnų maistas, bet žmonėms nevalgomas.</Hay.description>
+  
+  <!-- EN: psychoid leaves -->
+  <PsychoidLeaves.label>psichoido lapai</PsychoidLeaves.label>
+  <!-- EN: Raw cut leaves of a psychoid plant. Can be refined into various form of the stimulant drug psychite. -->
+  <PsychoidLeaves.description>Šviežiai nukirpti psichoido augalo lapai. Gali būti perdirbti į įvairias stimuliuojančio narkotiko psichitino formas.</PsychoidLeaves.description>
+  
+  <!-- EN: agave fruit -->
+  <RawAgave.label>agavos vaisius</RawAgave.label>
+  <!-- EN: Raw agave fruit. -->
+  <RawAgave.description>Žalias agavos vaisius.</RawAgave.description>
+  
+  <!-- EN: berries -->
+  <RawBerries.label>uogos</RawBerries.label>
+  <!-- EN: Assorted berries. Nice to eat, even when raw. -->
+  <RawBerries.description>Įvairios uogos. Skanios valgyti, net ir žalios.</RawBerries.description>
+  
+  <!-- EN: corn -->
+  <RawCorn.label>kukurūzai</RawCorn.label>
+  <!-- EN: Raw corn. -->
+  <RawCorn.description>Žali kukurūzai.</RawCorn.description>
+  
+  <!-- EN: raw fungus -->
+  <RawFungus.label>žali grybai</RawFungus.label>
+  <!-- EN: Raw fungus. -->
+  <RawFungus.description>Žali grybai.</RawFungus.description>
+  
+  <!-- EN: hops -->
+  <RawHops.label>apyniai</RawHops.label>
+  <!-- EN: Raw hops. A flavoring and preserving agent that is necessary for making beer. -->
+  <RawHops.description>Žali apyniai. Skonio ir konservavimo priemonė būtina gaminant alų.</RawHops.description>
+  
+  <!-- EN: potatoes -->
+  <RawPotatoes.label>bulvės</RawPotatoes.label>
+  <!-- EN: Raw potatoes. -->
+  <RawPotatoes.description>Žalios bulvės.</RawPotatoes.description>
+  
+  <!-- EN: rice -->
+  <RawRice.label>ryžiai</RawRice.label>
+  <!-- EN: Raw rice. -->
+  <RawRice.description>Žali ryžiai.</RawRice.description>
+  
+  <!-- EN: smokeleaf leaves -->
+  <SmokeleafLeaves.label>dūmlapio lapai</SmokeleafLeaves.label>
+  <!-- EN: Raw cut leaves of a smokeleaf plant. Can be rolled into smokeable joints at a crafting spot. -->
+  <SmokeleafLeaves.description>Žali nukirpti dūmlapio augalo lapai. Meistravimo vietoje gali būti susukti į rūkomas suktines.</SmokeleafLeaves.description>
+  
+</LanguageData>

@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: air conditioning -->
+  <AirConditioning.label>oro kondicionavimas</AirConditioning.label>
+  <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
+  <AirConditioning.description>Įmontuok kondicionierius kad žmonės jaustųsi komfortiškai karštyje, arba pastatyk šaldiklius, kuriuose galima saugoti gendančius daiktus.</AirConditioning.description>
+  
+  <!-- EN: autodoor -->
+  <Autodoors.label>automatinės durys</Autodoors.label>
+  <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
+  <Autodoors.description>Statyk duris kurios automatiškai atsidaro kai kažkas eina pro šalį ir jų nesulėtina.</Autodoors.description>
+  
+  <!-- EN: battery -->
+  <Batteries.label>baterija</Batteries.label>
+  <!-- EN: Build batteries for storing electricity. -->
+  <Batteries.description>Statyk elektros energiją kaupiančias baterijas.</Batteries.description>
+  
+  <!-- EN: biofuel refining -->
+  <BiofuelRefining.label>biokuro perdirbimas</BiofuelRefining.label>
+  <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
+  <BiofuelRefining.description>Statyk degalų perdirbimo gamyklas, skirtas gaminti degalus iš biologinių žaliavų, kaip mediena ar maistas.</BiofuelRefining.description>
+  
+  <!-- EN: blowback operation -->
+  <BlowbackOperation.label>tiesioginis automatinis užtaisymas</BlowbackOperation.label>
+  <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
+  <BlowbackOperation.description>Gamink mažos galios automatiškai užsitaisančius ginklus kaip automatinis pistoletas ar lengvasis automatas.</BlowbackOperation.description>
+  
+  <!-- EN: advanced lights -->
+  <ColoredLights.label>pažangios šviesos</ColoredLights.label>
+  <!-- EN: Change the color of standard electric lamps, and reduce their power consumption by half. This does not affect sun lamps. -->
+  <ColoredLights.description>Keisk standartinių elektrinių lempų spalvą ir sumažink elektros energijos suvartojimą perpus. Tai nepaveikia dienos šviesos lempų.</ColoredLights.description>
+  
+  <!-- EN: electricity -->
+  <Electricity.label>elektra</Electricity.label>
+  <!-- EN: Harness the power of electricity for a hundred different tasks. -->
+  <Electricity.description>Pažabok elektros energiją ir panaudok šimtams skirtingų veiklų.</Electricity.description>
+  <!-- EN: Your colony has harnessed the power which outsiders call "electricity". It has the potential to transform every aspect of your people's way of life.\n\nYou have now unlocked the Power tab in the Architect menu from which you may build electric generators, power conduits, and other mechanisms to control this new force. The Power tab also displays the electric grid which connects electric generators and appliances. -->
+  <Electricity.discoveredLetterText>Tavo kolonija pažabojo energiją, kurią pašaliniai vadina „elektra“. Ji gali pakeisti kiekvieną tavo žmonių gyvenimo būdo aspektą.\n\nDabar atrakinai Elektros langą, esantį Architekto meniu, iš kurio gali statyti elektros generatorius, elektros kabelius ir kitus mechanizmus, skirtus valdyti šią naują jėgą. Elektros langas taip pat rodo elektros tinklą, kuris jungia elektros generatorius ir prietaisus.</Electricity.discoveredLetterText>
+  <!-- EN: About: Electricity -->
+  <Electricity.discoveredLetterTitle>Apie: Elektra</Electricity.discoveredLetterTitle>
+  
+  <!-- EN: firefoam -->
+  <Firefoam.label>gaisro gesinimo putos</Firefoam.label>
+  <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
+  <Firefoam.description>Statyk priešgaisrinius purkštuvus, automatinius įrenginius kurie gaisro atveju skleidžia ugnį slopinančias putas į besiveržiančią liepsną.</Firefoam.description>
+  
+  <!-- EN: flak armor -->
+  <FlakArmor.label>neperšaunami šarvai</FlakArmor.label>
+  <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
+  <FlakArmor.description>Gamink aprangą su įsiūtomis metalo plokštelėmis saugančiomis nuo kulkų ir sprogimų. Šie šarvai yra sunkūs ir šiek tiek sulėtina judėjimą.</FlakArmor.description>
+  
+  <!-- EN: foam turret -->
+  <FoamTurret.label>gesintuvo bokštas</FoamTurret.label>
+  <!-- EN: Produce a turret which can be activated to spray fire-extinguishing foam. -->
+  <FoamTurret.description>Pasigamink bokštą kuris gali būti aktyvuotas kad purkštų gesintuvo putas.</FoamTurret.description>
+  
+  <!-- EN: gas operation -->
+  <GasOperation.label>automatinis dujinis užtaisymas</GasOperation.label>
+  <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
+  <GasOperation.description>Gamink didelės galios ginklus kaip grandininis šratinis šautuvas, lengvasis ir sunkusis kulkosvaidžiai.</GasOperation.description>
+  
+  <!-- EN: geothermal power -->
+  <GeothermalPower.label>geoterminė energija</GeothermalPower.label>
+  <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
+  <GeothermalPower.description>nenutrūkstamam elektros energijos tiekimui statyk geotermines elektrines ant karštųjų versmių geizerių.</GeothermalPower.description>
+  
+  <!-- EN: gunsmithing -->
+  <Gunsmithing.label>ginklų gamyba</Gunsmithing.label>
+  <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
+  <Gunsmithing.description>Gamink paprastus rankiniu būdu valdomus ginklus kaip revolveriai, pompiniai šautuvai, graižtviniai šautuvai ir padegamųjų prietaisų svaidyklės.</Gunsmithing.description>
+  
+  <!-- EN: gun turrets -->
+  <GunTurrets.label>ginkluotieji bokštai</GunTurrets.label>
+  <!-- EN: Produce simple automated gun turrets. -->
+  <GunTurrets.description>Statyk paprastus automatizuotus ginkluotuosius bokštus.</GunTurrets.description>
+  
+  <!-- EN: hydroponics -->
+  <Hydroponics.label>hidroponika</Hydroponics.label>
+  <!-- EN: Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
+  <Hydroponics.description>Statyk hidroponikos indus greitam kultūrinių augalų auginimui viduje nepriklausomai nuo grunto ar oro lauke.</Hydroponics.description>
+  
+  <!-- EN: IEDs -->
+  <IEDs.label>improvizuoti sprogmenys</IEDs.label>
+  <!-- EN: Build improvised traps from any kind of mortar shell. -->
+  <IEDs.description>Statyk improvizuotus spąstus iš bet kokių minosvaidžio sviedinių.</IEDs.description>
+  
+  <!-- EN: machining -->
+  <Machining.label>mechaninis apdirbimas</Machining.label>
+  <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to shred dead mechanoids for resources. -->
+  <Machining.description>Statyk mechaninio apdirbimo stalus ir gamink ginklus, granatas, neperšaunamus šarvus arba gauk išteklių iš mechanoidų smulkinimo.</Machining.description>
+  
+  <!-- EN: mortars -->
+  <Mortars.label>minosvaidžiai</Mortars.label>
+  <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
+  <Mortars.description>Statyk minosvaidžius kurie gali iššauti sviedinius ilgus atstumus - net per sienas.</Mortars.description>
+  
+  <!-- EN: nutrient paste -->
+  <NutrientPaste.label>maistinė pasta</NutrientPaste.label>
+  <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
+  <NutrientPaste.description>Statyk maistinės pastos dozatorius kurie, nereikalaudami jokio žmonių darbo, efektyviai perdirba žalias maisto medžiagas į valgomus patiekalus.</NutrientPaste.description>
+  
+  <!-- EN: packaged survival meal -->
+  <PackagedSurvivalMeal.label>supakuotas kelioninis maistas</PackagedSurvivalMeal.label>
+  <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
+  <PackagedSurvivalMeal.description>Gamink supakuotus kelioninius maisto davinius kurie niekada nesugenda.</PackagedSurvivalMeal.description>
+  
+  <!-- EN: prosthetics -->
+  <Prosthetics.label>protezai</Prosthetics.label>
+  <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
+  <Prosthetics.description>Gamink nebrangius protezus pakeičiančius prarastas kūno dalis. Pritvirtinimui reikia įgudusio daktaro.</Prosthetics.description>
+  
+  <!-- EN: smokepop packs -->
+  <SmokepopBelt.label>dūmų užtaiso paketai</SmokepopBelt.label>
+  <!-- EN: Build smokepop packs which allow the wearer to deploy a defensive smokescreen. -->
+  <SmokepopBelt.description>Gamink dūmų užtaiso paketus, kuriuos panaudojus galima pasislėpti dūmų uždangoje.</SmokepopBelt.description>
+  
+  <!-- EN: solar panel -->
+  <SolarPanels.label>saulės kolektoriai</SolarPanels.label>
+  <!-- EN: Build solar panels for electricity generation. -->
+  <SolarPanels.description>Statyk saulės kolektorius elektros gamybai.</SolarPanels.description>
+  
+  <!-- EN: sterile materials -->
+  <SterileMaterials.label>sterilios medžiagos</SterileMaterials.label>
+  <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
+  <SterileMaterials.description>Statyk sterilias plyteles ir įsirenk švarius kambarius veiksmingesniam medicininiam gydymui, tyrimams ir maisto gaminimui.</SterileMaterials.description>
+  
+  <!-- EN: tube television -->
+  <TubeTelevision.label>kineskopiniai televizoriai</TubeTelevision.label>
+  <!-- EN: Produce tube televisions for recreational watching. -->
+  <TubeTelevision.description>Gamink kineskopinius televizorius laisvalaikio žiūrėjimui.</TubeTelevision.description>
+  
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>vandens malūno generatorius</WatermillGenerator.label>
+  <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
+  <WatermillGenerator.description>Statyk vandens malūno generatorius ant upių kurie stabiliai tieks elektros energiją.</WatermillGenerator.description>
+  
+</LanguageData>

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Animals will attack doors -->
+  <AnimalsDontAttackDoors.label>Gyvūnai atakuos duris</AnimalsDontAttackDoors.label>
+  <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
+  <AnimalsDontAttackDoors.helpText>Žmones puolantys gyvūnai atakuos duris jei jie pamatys vieną iš tavo kolonistų einantį pro jas. Jie taip pat atakuos neįjungtus bokštus.</AnimalsDontAttackDoors.helpText>
+  
+  <!-- EN: Bills tab -->
+  <BillsTab.label>Užsakymų langas</BillsTab.label>
+  <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
+  <BillsTab.helpText>Kad kolonistai dirbtų prie stalo, pasirink stalą ir atidaryk Užsakymų langą. Ten gali nurodyti kokius patiekalus ar daiktus gaminti, ar kurias būtybes mėsinėti.</BillsTab.helpText>
+  
+  <!-- EN: Build orbital trade beacon -->
+  <BuildOrbitalTradeBeacon.label>Pastatyk orbitinį prekybos švyturį</BuildOrbitalTradeBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <BuildOrbitalTradeBeacon.helpText>Kad nusiųstum daiktus ar sidabrą orbitiniams prekeiviams tau reikia pastatyti ORBITINĮ PREKĮBOS ŠVYTURĮ ir šalia jo padaryti sandėliavimo vietą daiktams.</BuildOrbitalTradeBeacon.helpText>
+  
+  <!-- EN: Capturing -->
+  <Capturing.label>Paėmimas į nelaisvę</Capturing.label>
+  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
+  <Capturing.helpText>Kai priešas yra numuštas ir guli ant žemės, bet dar nėra miręs, gali jį PAIMTI Į NELAISVĘ.\n\nKad paimtum į nelaisvę, pasirink kolonistą, paspausk dešiniu pelės klavišu ant numušto neveiksnaus priešo ir pasirink 'Paimti į nelaisvę'.\n\nTau reikės papildomos specialiai pažymėtos lovos kaliniams.</Capturing.helpText>
+  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, press the left trigger button on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
+  <Capturing.helpTextController>TODO</Capturing.helpTextController>
+  
+  <!-- EN: Door opening speeds -->
+  <DoorOpenSpeed.label>Durų atidarymo greičiai</DoorOpenSpeed.label>
+  <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
+  <DoorOpenSpeed.helpText>Durys atsidaro skirtingu greičiu priklausomai nuo to iš ko jos yra padarytos.\n\nĮspėjimas: Akmeninės durys atsidaro labai lėtai. Bet kas einantis pro tokias duris bus labai sulėtintas.</DoorOpenSpeed.helpText>
+  
+  <!-- EN: Drafting for combat -->
+  <Drafting.label>Mobilizavimas kovai</Drafting.label>
+  <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
+  <Drafting.helpText>Kad kovose galėtum tiesiogiai kontroliuoti kolonistus, mobilizuok juos pasirinkdamas kolonistą ir paspausdamas MOBILIZUOTI mygtuką.\n\nMobilizuotas kolonistas darys tik tai, ką jam liepsi daryti ir užsiims tik su kova susijusiais veiksmais. Turintieji ginklus kiek įmanoma juos ir naudos.\n\nNepalik kolonistų Mobilizuotų visam laikui - jie pradės badauti ir taps nelaimingais.</Drafting.helpText>
+  
+  <!-- EN: Drug addiction -->
+  <DrugAddiction.label>Priklausomybė nuo narkotikų</DrugAddiction.label>
+  <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
+  <DrugAddiction.helpText>Gali peržiūrėti savo kolonistų norą vartoti narkotikus jų Poreikių lange.\n\nTol, kol jų poreikio lygis yra nulinis, jų priklausomybė pasikeičia į "abstinencijos" būseną, kuri gali tureti įvairių neigiamų šalutinių poveikių.\n\nBet, po pakankamai ilgos abstinencijos, jų priklausomybė dings ir nebebus narkotikų poreikio.</DrugAddiction.helpText>
+  
+  <!-- EN: Drug burning -->
+  <DrugBurning.label>Narkotikų deginimas</DrugBurning.label>
+  <!-- EN: Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire. -->
+  <DrugBurning.helpText>Narkotikai gali būti naudingi, bet taip pat gali privesti prie kenksmingų priklausomybių.\n\nJei nenori narkotikų savo kolonijoje, gali juos sudeginti lauže.</DrugBurning.helpText>
+  
+  <!-- EN: Drug policies -->
+  <DrugPolicies.label>Medikamentų vartojimo tvarkos</DrugPolicies.label>
+  <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
+  <DrugPolicies.helpText>Gali kolonistams sudaryti tvarkaraštį medikamentų vartojimui. Pavyzdžiui, gali paskirti jiems reguliariai išgerti vaistus nuo infekcijų ar išgerti alaus kartą per dieną, kad būtų laimingesni.\n\nAtidaryk PRISKIRTI langą ir paspausk "Keisti medikamentų vartojimo tvarkas" mygtuką. Sukurk naują medikamentų vartojimo tvarką. Tada gali priskirti šią tvarką kolonistams.\n\nKolonistai vis tiek gali vartoti medikamentus kurių nėra jų vartojimo tvarkoje. Tu gali jiems liepti kažką daryti, bet jie taip pat siekia savų troškimų!</DrugPolicies.helpText>
+  
+  <!-- EN: Positioning fighters -->
+  <GroupGotoHereDragging.label>Kovotojų pozicijų užėmimas</GroupGotoHereDragging.label>
+  <!-- EN: Right-click and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpText>Dešiniuoju pelės mygtuku paspausk ir tempk, kad mobilizuoti kovotojai sudarytų liniją.\n\nIšsiskirstyk – į susikaupusius taikinius lengva pataikyti!</GroupGotoHereDragging.helpText>
+  <!-- EN: Hold the left trigger button and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpTextController>TODO</GroupGotoHereDragging.helpTextController>
+  
+  <!-- EN: Interacting with traders -->
+  <InteractingWithTraders.label>Bendravimas su prekeiviais</InteractingWithTraders.label>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to their head. -->
+  <InteractingWithTraders.helpText>Gali kalbėtis su žmonėmis turinčiais ? simbolį virš savo galvos.\n\nPasirink kolonistą ir paspausk dešinį pelės klavišą ant veikėjo su ? simboliu virš jo galvos.</InteractingWithTraders.helpText>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and press the left trigger button on the character with ? attached to their head. -->
+  <InteractingWithTraders.helpTextController>TODO</InteractingWithTraders.helpTextController>
+  
+  <!-- EN: Using the comms console -->
+  <OpeningComms.label>Radijo stotelės naudojimas</OpeningComms.label>
+  <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
+  <OpeningComms.helpText>Pasirink kolonistą ir paspausk dešinį pelės klavišą ant radijo stotelės.</OpeningComms.helpText>
+  <!-- EN: To communicate, select a colonist and press the left trigger button on the comms console. -->
+  <OpeningComms.helpTextController>TODO</OpeningComms.helpTextController>
+  
+  <!-- EN: Prisoner tab -->
+  <PrisonerTab.label>Kalinių langas</PrisonerTab.label>
+  <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
+  <PrisonerTab.helpText>Peržiūrėk kalinių 'Kalinys' langą kad nurodytum kaip su jais bus elgiamasi.\n\nGali nurodyti ar jie bus įkalbinėjami prisijungti, ignoruojami, ar jiems vykdoma egzekucija, ar jie valgys ir kokią sveikatos priežiūrą gaus.\n\nSu kaliniu bendraus kolonistai turintys Kalėjimo prižiūrėtojo darbo rūšį.</PrisonerTab.helpText>
+  
+  <!-- EN: Order queueing -->
+  <QueueOrders.label>Nurodymų eilė</QueueOrders.label>
+  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
+  <QueueOrders.helpText>Kai žmonėms duodi komandas, gali sudėti keletą nurodymų į eilę laikydamas paspaustą "shift" mygtuką. Taip pat veikia ir kai duodi darbus nepašauktiems žmonėms.</QueueOrders.helpText>
+  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding {Key:QueueOrder}. This also works when giving jobs to undrafted pawns. -->
+  <QueueOrders.helpTextController>TODO</QueueOrders.helpTextController>
+  
+  <!-- EN: Reforming caravans -->
+  <ReformCaravan.label>Karavano performavimas</ReformCaravan.label>
+  <!-- EN: After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view. -->
+  <ReformCaravan.helpText>Po susidūrimo su priešais gali lengvai performuoti karavaną naudodamasis PERFORMUOTI KARAVANĄ mygtuku esančiu Pasaulio lange.</ReformCaravan.helpText>
+  
+  <!-- EN: Rescuing -->
+  <Rescuing.label>Išgelbėjimas</Rescuing.label>
+  <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <Rescuing.helpText>Kad išgelbėtum sužeistą asmenį, pasirink sveiką kolonistą ir paspausk dešiniu pelės klavišu ant sužeistojo.\n\nJei išgelbėsi ne savo kolonistą, jie nebūtinai prisijungs prie tavo kolonijos. Kai pasveiks jie paprasčiausiai gali išeiti. Jei nori kad garantuotai prisijungtų, paimk juos į nelaisvę ir įkalbėk juos prisijungti.</Rescuing.helpText>
+  <!-- EN: To rescue a wounded person, select a healthy colonist and then press the left trigger button on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <Rescuing.helpTextController>TODO</Rescuing.helpTextController>
+  
+  <!-- EN: Set what plant to grow -->
+  <SetGrowingZonePlant.label>Nustatyk kokius augalus auginti</SetGrowingZonePlant.label>
+  <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
+  <SetGrowingZonePlant.helpText>Gali nustatyti ką reikia sodinti auginimo zonoje. Gali auginti net medžius!\n\nTiesiog pasirink auginimo zoną, atidaryk Auginimo langą ir paspausk 'Sodinti' mygtuką.</SetGrowingZonePlant.helpText>
+  
+  <!-- EN: Shelves -->
+  <Shelves.label>Lentynos</Shelves.label>
+  <!-- EN: Shelves store three times as much as empty ground. Items on shelves will also never deteriorate and don't affect the beauty of their surroundings.\n\nYou can link shelves into groups and configure them as one. First, select two or more shelves, then click 'Link storage settings'. -->
+  <Shelves.helpText>Lentynose telpa tris kartus daugiau nei ant tuščios žemės. Lentynose esantys daiktai taip pat niekada nesuges ir neturės įtakos jų aplinkos grožiui.\n\nGali susieti lentynas į grupes ir sukonfigūruoti jas kaip vieną. Pirmiausia pasirink dvi ar daugiau lentynų, tada paspausk „Susieti saugyklos nustatymus“.</Shelves.helpText>
+  
+  <!-- EN: Shield belts -->
+  <ShieldBelts.label>Skydiniai diržai</ShieldBelts.label>
+  <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
+  <ShieldBelts.helpText>Skydiniai diržai sustabdo nuotolines atakas nuo praėjimo, tiek į tiek iš veikimo zonos. Neturi jokio efekto atakoms artimoje kovoje.\n\nKad nugalėtum skydinius diržus, arba sukoncentruok į juos daug ugnies, arba kovok iš arti.</ShieldBelts.helpText>
+  
+  <!-- EN: TV for sick people -->
+  <TVForSickPeople.label>Televizija sergantiems</TVForSickPeople.label>
+  <!-- EN: Sick people can watch TV while laying in bed. -->
+  <TVForSickPeople.helpText>Sergantieji gulėdami lovoje gali žiūrėti televizorių.</TVForSickPeople.helpText>
+  
+</LanguageData>

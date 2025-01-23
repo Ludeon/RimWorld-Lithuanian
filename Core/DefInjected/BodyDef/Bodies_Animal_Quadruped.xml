@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: monkey -->
+  <Monkey.label>beždžionė</Monkey.label>
+  <!-- EN: left clavicle -->
+  <Monkey.corePart.parts.left_clavicle.customLabel>kairysis raktikaulis</Monkey.corePart.parts.left_clavicle.customLabel>
+  <!-- EN: right clavicle -->
+  <Monkey.corePart.parts.right_clavicle.customLabel>dešinysis raktikaulis</Monkey.corePart.parts.right_clavicle.customLabel>
+  <!-- EN: left lung -->
+  <Monkey.corePart.parts.left_lung.customLabel>kairysis plautis</Monkey.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Monkey.corePart.parts.right_lung.customLabel>dešinysis plautis</Monkey.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Monkey.corePart.parts.left_kidney.customLabel>kairysis inkstas</Monkey.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Monkey.corePart.parts.right_kidney.customLabel>dešinysis inkstas</Monkey.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Monkey.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>kairė akis</Monkey.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Monkey.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>dešinė akis</Monkey.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <Monkey.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>kairė ausis</Monkey.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <Monkey.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>dešinė ausis</Monkey.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left shoulder -->
+  <Monkey.corePart.parts.left_shoulder.customLabel>kairysis petys</Monkey.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left arm -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.customLabel>kairė ranka</Monkey.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left humerus -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>kairysis žastikaulis</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>kairysis stipinkaulis</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!-- EN: left hand -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>kairė plaštaka</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>kairysis pirštas mažylis</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left ring finger -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>kairysis bevardis pirštas</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <!-- EN: left middle finger -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>kairysis didysis pirštas</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>kairysis smilius</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>kairysis nykštys</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <Monkey.corePart.parts.right_shoulder.customLabel>dešinysis petys</Monkey.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right arm -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.customLabel>dešinė ranka</Monkey.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right humerus -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>dešinysis žastikaulis</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>dešinysis stipinkaulis</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!-- EN: right hand -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>dešinė plaštaka</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>dešinysis pirštas mažylis</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right ring finger -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>dešinysis bevardis pirštas</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <!-- EN: right middle finger -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>dešinysis didysis pirštas</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>dešinysis smilius</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>dešinysis nykštys</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <Monkey.corePart.parts.left_leg.customLabel>kairė koja</Monkey.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>kairysis šlaunikaulis</Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>kairysis blauzdikaulis</Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.customLabel>kairė pėda</Monkey.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left little toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>kairysis mažasis kojos pirštas</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!-- EN: left fourth toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>kairysis ketvirtasis kojos pirštas</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!-- EN: left middle toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>kairysis didysis kojos pirštas</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!-- EN: left second toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>kairysis antrasis kojos pirštas</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!-- EN: left big toe -->
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>kairysis kojos nykštys</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!-- EN: right leg -->
+  <Monkey.corePart.parts.right_leg.customLabel>dešinė koja</Monkey.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>dešinysis šlaunikaulis</Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>dešinysis blauzdikaulis</Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>dešinė pėda</Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right little toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>dešinysis mažasis kojos pirštas</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!-- EN: right fourth toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>dešinysis ketvirtasis kojos pirštas</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!-- EN: right middle toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>dešinysis didysis kojos pirštas</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!-- EN: right second toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>dešinysis antrasis kojos pirštas</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!-- EN: right big toe -->
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>dešinysis kojos nykštys</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithClawsTailAndJowl.label>keturkojis gyvūnas</QuadrupedAnimalWithClawsTailAndJowl.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>kairysis plautis</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_lung.customLabel>dešinysis plautis</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_kidney.customLabel>kairysis inkstas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_kidney.customLabel>dešinysis inkstas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>kairė akis</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>dešinė akis</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>kairė ausis</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>dešinė ausis</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>priekinė kairė koja</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left leg first claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>priekinės kairės kojos pirmas nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
+  <!-- EN: front left leg second claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>priekinės kairės kojos antrasis nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
+  <!-- EN: front left leg third claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>priekinės kairės kojos trečiasis nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
+  <!-- EN: front left leg fourth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>priekinės kairės kojos ketvirtasis nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>
+  <!-- EN: front left leg fifth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>priekinės kairės kojos penktasis nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>priekinė dešinė koja</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right leg first claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>priekinės dešinės kojos pirmas nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
+  <!-- EN: front right leg second claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>priekinės dešinės kojos antrasis nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
+  <!-- EN: front right leg third claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>priekinės dešinės kojos trečiasis nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
+  <!-- EN: front right leg fourth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>priekinės dešinės kojos ketvirtasis nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>
+  <!-- EN: front right leg fifth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>priekinės dešinės kojos penktasis nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>galinė kairė koja</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left leg first claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>galinės kairės kojos pirmas nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
+  <!-- EN: rear left leg second claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>galinės kairės kojos antrasis nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
+  <!-- EN: rear left leg third claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>galinės kairės kojos trečiasis nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
+  <!-- EN: rear left leg fourth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>galinės kairės kojos ketvirtasis nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>
+  <!-- EN: rear left leg fifth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>galinės kairės kojos penktasis nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>galinė dešinė koja</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right leg first claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>galinės dešinės kojos pirmas nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
+  <!-- EN: rear right leg second claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>galinės dešinės kojos antrasis nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
+  <!-- EN: rear right leg third claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>galinės dešinės kojos trečiasis nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
+  <!-- EN: rear right leg fourth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>galinės dešinės kojos ketvirtasis nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>
+  <!-- EN: rear right leg fifth claw -->
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>galinės dešinės kojos penktasis nagas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHooves.label>keturkojis gyvūnas</QuadrupedAnimalWithHooves.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHooves.corePart.parts.left_lung.customLabel>kairysis plautis</QuadrupedAnimalWithHooves.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHooves.corePart.parts.right_lung.customLabel>dešinysis plautis</QuadrupedAnimalWithHooves.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHooves.corePart.parts.left_kidney.customLabel>kairysis inkstas</QuadrupedAnimalWithHooves.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHooves.corePart.parts.right_kidney.customLabel>dešinysis inkstas</QuadrupedAnimalWithHooves.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>kairė akis</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>dešinė akis</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>kairė ausis</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>dešinė ausis</QuadrupedAnimalWithHooves.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.customLabel>priekinė kairė koja</QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>priekinė kairė kanopa</QuadrupedAnimalWithHooves.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.customLabel>priekinė dešinė koja</QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>priekinė dešinė kanopa</QuadrupedAnimalWithHooves.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.customLabel>galinė kairė koja</QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>galinė kairė kanopa</QuadrupedAnimalWithHooves.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.customLabel>galinė dešinė koja</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>galinė dešinė kanopa</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesAndHorn.label>keturkojis gyvūnas</QuadrupedAnimalWithHoovesAndHorn.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_lung.customLabel>kairysis plautis</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_lung.customLabel>dešinysis plautis</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_kidney.customLabel>kairysis inkstas</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_kidney.customLabel>dešinysis inkstas</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>kairė akis</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>dešinė akis</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>kairė ausis</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>dešinė ausis</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.customLabel>priekinė kairė koja</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>priekinė kairė kanopa</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.customLabel>priekinė dešinė koja</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>priekinė dešinė kanopa</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.customLabel>galinė kairė koja</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>galinė kairė kanopa</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>galinė dešinė koja</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>galinė dešinė kanopa</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesAndHump.label>keturkojis gyvūnas</QuadrupedAnimalWithHoovesAndHump.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_lung.customLabel>kairysis plautis</QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_lung.customLabel>dešinysis plautis</QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_kidney.customLabel>kairysis inkstas</QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_kidney.customLabel>dešinysis inkstas</QuadrupedAnimalWithHoovesAndHump.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>kairė akis</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>dešinė akis</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>kairė ausis</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>dešinė ausis</QuadrupedAnimalWithHoovesAndHump.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.customLabel>priekinė kairė koja</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>priekinė kairė kanopa</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.customLabel>priekinė dešinė koja</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>priekinė dešinė kanopa</QuadrupedAnimalWithHoovesAndHump.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.customLabel>galinė kairė koja</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>galinė kairė kanopa</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>galinė dešinė koja</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>galinė dešinė kanopa</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesAndTusks.label>keturkojis gyvūnas</QuadrupedAnimalWithHoovesAndTusks.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_lung.customLabel>kairysis plautis</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_lung.customLabel>dešinysis plautis</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_kidney.customLabel>kairysis inkstas</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_kidney.customLabel>dešinysis inkstas</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>kairė akis</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>dešinė akis</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>kairė ausis</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>dešinė ausis</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left tusk -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>kairė iltis</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>
+  <!-- EN: right tusk -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>dešinė iltis</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.customLabel>priekinė kairė koja</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>priekinė kairė kanopa</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.customLabel>priekinė dešinė koja</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>priekinė dešinė kanopa</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.customLabel>galinė kairė koja</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>galinė kairė kanopa</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.customLabel>galinė dešinė koja</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>galinė dešinė kanopa</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>keturkojis gyvūnas</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_lung.customLabel>kairysis plautis</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_lung.customLabel>dešinysis plautis</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_kidney.customLabel>kairysis inkstas</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_kidney.customLabel>dešinysis inkstas</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>kairė akis</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>dešinė akis</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>kairė ausis</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>dešinė ausis</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left tusk -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>kairė iltis</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>
+  <!-- EN: right tusk -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>dešinė iltis</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.customLabel>priekinė kairė koja</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left hoof -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>priekinė kairė kanopa</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.customLabel>priekinė dešinė koja</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right hoof -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>priekinė dešinė kanopa</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.customLabel>galinė kairė koja</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left hoof -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>galinė kairė kanopa</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>galinė dešinė koja</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right hoof -->
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>galinė dešinė kanopa</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithPaws.label>keturkojis gyvūnas</QuadrupedAnimalWithPaws.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>kairysis plautis</QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithPaws.corePart.parts.right_lung.customLabel>dešinysis plautis</QuadrupedAnimalWithPaws.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithPaws.corePart.parts.left_kidney.customLabel>kairysis inkstas</QuadrupedAnimalWithPaws.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithPaws.corePart.parts.right_kidney.customLabel>dešinysis inkstas</QuadrupedAnimalWithPaws.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>kairė akis</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>dešinė akis</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>kairė ausis</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>dešinė ausis</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>priekinė kairė koja</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left paw -->
+  <QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>priekinė kairė letena</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>priekinė dešinė koja</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right paw -->
+  <QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>priekinė dešinė letena</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>galinė kairė koja</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left paw -->
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>galinė kairė letena</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>galinė dešinė koja</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right paw -->
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>galinė dešinė letena</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithPawsAndTail.label>keturkojis gyvūnas</QuadrupedAnimalWithPawsAndTail.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.left_lung.customLabel>kairysis plautis</QuadrupedAnimalWithPawsAndTail.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.right_lung.customLabel>dešinysis plautis</QuadrupedAnimalWithPawsAndTail.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.left_kidney.customLabel>kairysis inkstas</QuadrupedAnimalWithPawsAndTail.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.right_kidney.customLabel>dešinysis inkstas</QuadrupedAnimalWithPawsAndTail.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>kairė akis</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>dešinė akis</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>kairė ausis</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>dešinė ausis</QuadrupedAnimalWithPawsAndTail.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.customLabel>priekinė kairė koja</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left paw -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>priekinė kairė letena</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.customLabel>priekinė dešinė koja</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right paw -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>priekinė dešinė letena</QuadrupedAnimalWithPawsAndTail.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.customLabel>galinė kairė koja</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left paw -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>galinė kairė letena</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.customLabel>galinė dešinė koja</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right paw -->
+  <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>galinė dešinė letena</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+  
+  <!-- EN: turtle-like -->
+  <TurtleLike.label>vėžliškas</TurtleLike.label>
+  <!-- EN: left lung -->
+  <TurtleLike.corePart.parts.left_lung.customLabel>kairysis plautis</TurtleLike.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <TurtleLike.corePart.parts.right_lung.customLabel>dešinysis plautis</TurtleLike.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <TurtleLike.corePart.parts.left_kidney.customLabel>kairysis inkstas</TurtleLike.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <TurtleLike.corePart.parts.right_kidney.customLabel>dešinysis inkstas</TurtleLike.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <TurtleLike.corePart.parts.Head.parts.left_eye.customLabel>kairė akis</TurtleLike.corePart.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>dešinė akis</TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: front left leg -->
+  <TurtleLike.corePart.parts.front_left_leg.customLabel>priekinė kairė koja</TurtleLike.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front right leg -->
+  <TurtleLike.corePart.parts.front_right_leg.customLabel>priekinė dešinė koja</TurtleLike.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: rear left leg -->
+  <TurtleLike.corePart.parts.rear_left_leg.customLabel>galinė kairė koja</TurtleLike.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear right leg -->
+  <TurtleLike.corePart.parts.rear_right_leg.customLabel>galinė dešinė koja</TurtleLike.corePart.parts.rear_right_leg.customLabel>
+  
+</LanguageData>

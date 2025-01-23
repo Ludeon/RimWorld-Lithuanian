@@ -1,0 +1,1824 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Various -->
+  <!-- EN: hit points -->
+  <HitPointsBasic>gyvybės taškai</HitPointsBasic>
+  <!-- EN: Work left -->
+  <WorkLeft>Liko darbo</WorkLeft>
+  <!-- EN: Contents -->
+  <Contents>Turinys</Contents>
+  <!-- EN: Contained resources -->
+  <ContainedResources>Viduje esantys ištekliai</ContainedResources>
+  <!-- EN: For prisoner use -->
+  <ForPrisonerUse>Kaliniams</ForPrisonerUse>
+  <!-- EN: In prison cell: For prisoner use -->
+  <InPrisonCell>Kalėjimo kameroje: Kaliniams</InPrisonCell>
+  <!-- EN: For colonist use -->
+  <ForColonistUse>Kolonistams</ForColonistUse>
+  <!-- EN: Medical -->
+  <MedicalBed>Medicininė</MedicalBed>
+  <!-- EN: Owner -->
+  <Owner>Savininkas</Owner>
+  <!-- EN: Owners -->
+  <Owners>Savininkai</Owners>
+  <!-- EN: Assigned colonist -->
+  <AssignedColonist>Priskirtas kolonistas</AssignedColonist>
+  <!-- EN: Uncomfortable room temperature -->
+  <BedUncomfortableTemperature>Nekomfortiška kambario temperatūra</BedUncomfortableTemperature>
+  <!-- EN: Unsafe room temperature -->
+  <BedUnsafeTemperature>Nesaugi kambario temperatūra</BedUnsafeTemperature>
+  <!-- EN: Died on the {0} -->
+  <DiedOn>Mirė {0}</DiedOn>
+  <!-- EN: Nobody -->
+  <Nobody>Niekas</Nobody>
+  <!-- EN: Unowned -->
+  <Unowned>Be savininko</Unowned>
+  <!-- EN: Dead for {0} -->
+  <DeadTime>Miręs {0}</DeadTime>
+  <!-- EN: walk speed {0} -->
+  <WalkSpeed>ėjimo greitis {0}</WalkSpeed>
+  <!-- EN: fert. -->
+  <FertShort>derl.</FertShort>
+  <!-- EN: dying -->
+  <DyingLower>miršta</DyingLower>
+  <!-- EN: Filth on feet: -->
+  <FilthOnFeet>Nešvarumai ant pėdų:</FilthOnFeet>
+  <!-- EN: not enough stored -->
+  <NotEnoughStoredLower>nepakanka atsargų</NotEnoughStoredLower>
+  <!-- EN: nothing -->
+  <NothingLower>niekas</NothingLower>
+  <!-- EN: Nothing -->
+  <Nothing>Niekas</Nothing>
+  <!-- EN: Adapted -->
+  <Adapted>Adaptuotas</Adapted>
+  <!-- EN: fresh -->
+  <FreshMissingBodyPart>šviežiai</FreshMissingBodyPart>
+  <!-- EN: developed immunity -->
+  <DevelopedImmunityLower>išsivystė atsparumas</DevelopedImmunityLower>
+  <!-- EN: Needs tending now -->
+  <NeedsTendingNow>Reikia gydymo dabar</NeedsTendingNow>
+  <!-- EN: Can tend now -->
+  <CanTendNow>Gali gydyti dabar</CanTendNow>
+  <!-- EN: Tending expires in {0} -->
+  <TreatmentExpiresIn>Gydymas baigia galioti už {0}</TreatmentExpiresIn>
+  <!-- EN: Can be tended in {0} -->
+  <NextTendIn>Galima gydyti už {0}</NextTendIn>
+  <!-- EN: Tend quality -->
+  <TendQuality>Gydymo kokybė</TendQuality>
+  <!-- EN: Total tend quality -->
+  <DisappearsAtTotalTendQuality>Visa gydymo kokybė</DisappearsAtTotalTendQuality>
+  <!-- EN: no {0} -->
+  <MissingMedicalBillIngredient>nėra {0}</MissingMedicalBillIngredient>
+  <!-- EN: Immunity -->
+  <Immunity>Atsparumas</Immunity>
+  <!-- EN: {0} days to recover -->
+  <DaysToRecover>{0} dienos kol atsigaus</DaysToRecover>
+  <!-- EN: Ineffective -->
+  <Ineffective>Neefektyvus</Ineffective>
+  <!-- EN: illegal -->
+  <Illegal>nelegalus</Illegal>
+  <!-- EN: detection chance -->
+  <DetectionChance>aptikimo tikimybė</DetectionChance>
+  <!-- EN: Race -->
+  <Race>Rasė</Race>
+  <!-- EN: Description -->
+  <Description>Aprašymas</Description>
+  <!-- EN: Equipment -->
+  <Equipment>Ekipuotė</Equipment>
+  <!-- EN: Apparel -->
+  <Apparel>Apranga</Apparel>
+  <!-- EN: Inventory -->
+  <Inventory>Inventorius</Inventory>
+  <!-- EN: Information -->
+  <ThingInfo>Informacija</ThingInfo>
+  <!-- EN: Drop -->
+  <DropThing>Numesti</DropThing>
+  <!-- EN: Temporary faction members will not drop their items. -->
+  <DropThingLodger>Laikini frakcijos nariai nenumes savo daiktų.</DropThingLodger>
+  <!-- EN: This person refuses to drop this. -->
+  <DropThingLocked>Šis asmuo atsisako tai numesti.</DropThingLocked>
+  <!-- EN: Rename -->
+  <Rename>Pervadinti</Rename>
+  <!-- EN: Rename animal -->
+  <RenameAnimal>Pervadinti gyvūną</RenameAnimal>
+  <!-- EN: Rename colonist -->
+  <RenameColonist>Pervadinti kolonistą</RenameColonist>
+  <!-- EN: Renounce title -->
+  <RenounceTitle>Išsižadėti titulo</RenounceTitle>
+  <!-- EN: Execute -->
+  <Execute>Egzekucija</Execute>
+  <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
+  <ExecuteColonist>Įvykdyti egzekuciją kaltam kolonistui\n\nJei tai įjungsi, kalėjimo prižiūrėtojas įvykdys šiam asmeniui egzekuciją.</ExecuteColonist>
+  <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
+  <MessageColonistMarkedForExecution>{0_labelShort} yra pažymėtas egzekucijai. Sekantis neužimtas kalėjimo prižiūrėtojas įvykdys {0_objective} egzekuciją.</MessageColonistMarkedForExecution>
+  <!-- EN: {0} of {1} -->
+  <TitleOfFaction>{0} iš {1}</TitleOfFaction>
+  <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
+  <RenounceTitleDescription>Šiuo veiksmu {PAWN_nameDef} praras {PAWN_possessive} {TITLE} titulą. Tu negausi jokios kompensacijos už titulo išsižadėjimą.\n\nTai turės šį poveikį:\n\n{EFFECTS}</RenounceTitleDescription>
+  <!-- EN: {PAWN_pronoun} will lose these permissions -->
+  <RenounceTitleWillLoosePermits>{PAWN_pronoun} praras šiuos leidimus</RenounceTitleWillLoosePermits>
+  <!-- EN: {PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}. -->
+  <RenounceTitleWillLosePermitPoints>{PAWN_nameDef} praras {POINTS} neišnaudotus leidimo taškus su {FACTION_name}.</RenounceTitleWillLosePermitPoints>
+  <!-- EN: {PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts. -->
+  <RenounceTitleWillKeepPsylinkLevels>{PAWN_pronoun} išlaikys visus {PAWN_possessive} psiryšio lygius ir psi smūgius.</RenounceTitleWillKeepPsylinkLevels>
+  <!-- EN: unknown -->
+  <UnknownLower>nežinoma</UnknownLower>
+  <!-- EN: On -->
+  <On>Įjungta</On>
+  <!-- EN: Off -->
+  <Off>Išjungta</Off>
+  <!-- EN: Power -->
+  <PowerSwitch_Power>Elektros energijos tiekimas</PowerSwitch_Power>
+  <!-- EN: Recreation type tolerances -->
+  <JoyTolerances>Pramogų rūšies toleravimas</JoyTolerances>
+  <!-- EN: Milk fullness -->
+  <MilkFullness>Pieno pilnumas</MilkFullness>
+  <!-- EN: Wool growth -->
+  <WoolGrowth>Vilnos augimas</WoolGrowth>
+  <!-- EN: Egg progress -->
+  <EggProgress>Kiaušinio progresas</EggProgress>
+  <!-- EN: Fertilized -->
+  <Fertilized>Apvaisintas</Fertilized>
+  <!-- EN: Progress stopped until fertilized -->
+  <ProgressStoppedUntilFertilized>Progresas sustojo kol bus apvaisintas</ProgressStoppedUntilFertilized>
+  <!-- EN: Hatches in -->
+  <HatchesIn>Išsiris už</HatchesIn>
+  <!-- EN: need {0} level {2}, have {1} -->
+  <SkillTooLow>reikia  {2} lygio {0}, turi {1}</SkillTooLow>
+  <!-- EN: Freezing -->
+  <Freezing>Šąla</Freezing>
+  <!-- EN: Overheating -->
+  <Overheating>Perkaista</Overheating>
+  <!-- EN: Ruined by temperature. -->
+  <RuinedByTemperature>Sugadintas temperatūros.</RuinedByTemperature>
+  <!-- EN: Missing body parts -->
+  <CorpsePercentMissing>Trūkstamos kūno dalys</CorpsePercentMissing>
+  <!-- EN: Reproduces in -->
+  <HiveReproducesIn>Dauginsis už</HiveReproducesIn>
+  <!-- EN: Dormant: Not reproducing. -->
+  <DormantHiveNotReproducing>Ramybės būsenoje: Nesidaugina.</DormantHiveNotReproducing>
+  <!-- EN: Next {0} in -->
+  <NextSpawnedItemIn>Sekantis {0} už</NextSpawnedItemIn>
+  <!-- EN: Next resource in -->
+  <NextSpawnedResourceIn>Sekantys ištekliai už</NextSpawnedResourceIn>
+  <!-- EN: Broken down -->
+  <BrokenDown>Sulūžęs</BrokenDown>
+  <!-- EN: (bond) -->
+  <BondBrackets>(emocinis ryšys)</BondBrackets>
+  <!-- EN: Fuel -->
+  <Fuel>Kuras</Fuel>
+  <!-- EN: Fuel -->
+  <FuelLevelGizmoLabel>Kuras</FuelLevelGizmoLabel>
+  <!-- EN: Set target fuel level to {0} -->
+  <SetTargetFuelLevel>Nustatyti kuro lygio tikslą į {0}</SetTargetFuelLevel>
+  <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
+  <SetPodLauncherTargetFuelLevel>Nustatyti kuro lygio tikslą į {0}\nMaksimalus atstumas: {1} langeliai</SetPodLauncherTargetFuelLevel>
+  <!-- EN: Target fuel level: {0} -->
+  <ConfiguredTargetFuelLevel>Kuro lygio tikslas: {0}</ConfiguredTargetFuelLevel>
+  <!-- EN: enemies -->
+  <Enemies>priešai</Enemies>
+  <!-- EN: people -->
+  <People>žmonės</People>
+  <!-- EN: time passed -->
+  <TimePassed>praėjo laiko</TimePassed>
+  <!-- EN: current radius -->
+  <CurrentRadius>dabartinis spindulys</CurrentRadius>
+  <!-- EN: radius expands in -->
+  <RadiusExpandsIn>spindulys baigia galioti už</RadiusExpandsIn>
+  <!-- EN: permanent -->
+  <Permanent>nuolatinis</Permanent>
+  <!-- EN: Resting -->
+  <CaravanResting>Ilsisi</CaravanResting>
+  <!-- EN: using 1 bedroll -->
+  <UsingBedroll>naudoja 1 miegmaišį</UsingBedroll>
+  <!-- EN: using {0} bedrolls -->
+  <UsingBedrolls>naudoja {0} miegmaišius</UsingBedrolls>
+  <!-- EN: Est. time to destination: {0} days -->
+  <CaravanEstimatedTimeToDestination>Planuojamas atvykimo laikas: {0} dienos</CaravanEstimatedTimeToDestination>
+  <!-- EN: Route travel time: {0} days -->
+  <CaravanEstimatedDaysToDestination>Maršruto kelionės laikas: {0} dienos</CaravanEstimatedDaysToDestination>
+  <!-- EN: Immobilized: Too much weight. -->
+  <CaravanImmobilizedByMass>Nejudantis: Per daug svorio.</CaravanImmobilizedByMass>
+  <!-- EN: Out of food. -->
+  <CaravanOutOfFood>Baigėsi maistas.</CaravanOutOfFood>
+  <!-- EN: Days of food: {0} -->
+  <CaravanDaysOfFood>Maisto: {0} dienoms</CaravanDaysOfFood>
+  <!-- EN: Days of food: {0} (rot in {1} days) -->
+  <CaravanDaysOfFoodRot>Maisto: {0} dienoms (supus už {1} dienų)</CaravanDaysOfFoodRot>
+  <!-- EN: Stopped because: Everyone is downed. -->
+  <AllCaravanMembersDowned>Sustojo nes: Visi numušti.</AllCaravanMembersDowned>
+  <!-- EN: Stopped because: Everyone is in a mental break. -->
+  <AllCaravanMembersMentalBreak>Sustojo nes: Visiems pakrikę nervai.</AllCaravanMembersMentalBreak>
+  <!-- EN: {0} {1} -->
+  <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
+  <!-- EN: 1 animal -->
+  <CaravanAnimal>1 gyvūnas</CaravanAnimal>
+  <!-- EN: {0} animals -->
+  <CaravanAnimalsCount>{0} gyvūnai</CaravanAnimalsCount>
+  <!-- EN: 1 prisoner -->
+  <CaravanPrisoner>1 kalinys</CaravanPrisoner>
+  <!-- EN: {0} prisoners -->
+  <CaravanPrisonersCount>{0} kaliniai</CaravanPrisonersCount>
+  <!-- EN: {0} in mental state -->
+  <CaravanPawnsInMentalState>{0} yra psichinėje būsenoje</CaravanPawnsInMentalState>
+  <!-- EN: {0} downed -->
+  <CaravanPawnsDowned>{0} numušti</CaravanPawnsDowned>
+  <!-- EN: Traveling. -->
+  <CaravanTraveling>Keliauja.</CaravanTraveling>
+  <!-- EN: Waiting. -->
+  <CaravanWaiting>Laukia.</CaravanWaiting>
+  <!-- EN: Being carried due to illness -->
+  <BeingCarriedDueToIllness>Nešamas dėl negalavimų</BeingCarriedDueToIllness>
+  <!-- EN: Using bedrolls due to illness -->
+  <UsingBedrollsDueToIllness>Naudoja miegmaišius dėl negalavimų</UsingBedrollsDueToIllness>
+  <!-- EN: Current tile movement time -->
+  <CurrentTileMovementTime>Dabartinio langelio judėjimo laikas</CurrentTileMovementTime>
+  <!-- EN: Visibility -->
+  <Visibility>Matomumas</Visibility>
+  <!-- EN: Temperature -->
+  <Temperature>Temperatūra</Temperature>
+  <!-- EN: bad temperature -->
+  <BadTemperature>bloga temperatūra</BadTemperature>
+  <!-- EN: Ideal fermenting temperature -->
+  <IdealFermentingTemperature>Ideali fermentavimo temperatūra</IdealFermentingTemperature>
+  <!-- EN: {0} effect multiplier: {1} -->
+  <DrugEffectMultiplier>{0} poveikio daugiklis: {1}</DrugEffectMultiplier>
+  <!-- EN: Visiting {0}. -->
+  <CaravanVisiting>Lanko {0}.</CaravanVisiting>
+  <!-- EN: Entering {0}. -->
+  <CaravanEntering>Įeina į {0}.</CaravanEntering>
+  <!-- EN: Attacking {0}. -->
+  <CaravanAttacking>Puola {0}.</CaravanAttacking>
+  <!-- EN: Offering gifts to {0}. -->
+  <CaravanOfferingGifts>Siūlo dovanas {0}.</CaravanOfferingGifts>
+  <!-- EN: Trading with {0}. -->
+  <CaravanTrading>Prekiauja su {0}.</CaravanTrading>
+  <!-- EN: Tainted from being worn by a corpse. -->
+  <WasWornByCorpse>Suteptas nes dėvėtas lavono.</WasWornByCorpse>
+  <!-- EN: T -->
+  <WornByCorpseChar>S</WornByCorpseChar>
+  <!-- EN: unroofed -->
+  <DeterioratingUnroofed>be pastogės</DeterioratingUnroofed>
+  <!-- EN: outdoors -->
+  <DeterioratingOutdoors>lauke</DeterioratingOutdoors>
+  <!-- EN: raining -->
+  <DeterioratingRaining>lyja</DeterioratingRaining> 
+  <!-- EN: protected -->
+  <Protected>apsaugota</Protected>
+  <!-- EN: Deteriorating -->
+  <DeterioratingBecauseOf>Genda nes</DeterioratingBecauseOf>
+  <!-- EN: Will deteriorate in {0}. -->
+  <DeteriorateInDuration>Pradės gesti už {0}.</DeteriorateInDuration>
+  <!-- EN: Map -->
+  <Map>Žemėlapis</Map>
+  <!-- EN: {0} until enemies arrive -->
+  <CaravanDetectedRaidCountdown>{0} kol atvyks priešai</CaravanDetectedRaidCountdown>
+  <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
+  <CaravanDetectedRaidCountdownTip>Priešų pastiprinimai į šią vietą atvyks už {0}.</CaravanDetectedRaidCountdownTip>
+  <!-- EN: Room -->
+  <Room>Kambarys</Room>
+  <!-- EN: Beauty here -->
+  <BeautyHere>Grožis čia</BeautyHere>
+  <!-- EN: no power -->
+  <NoPower>nėra elektros energijos tiekimo</NoPower>
+  <!-- EN: Work speed -->
+  <WorkSpeedPenalty>Darbo greitis</WorkSpeedPenalty>
+  <!-- EN: Disabled -->
+  <DisabledCommand>Išjungta</DisabledCommand>
+  <!-- EN: Ready for launch. -->
+  <ReadyForLaunch>Pasiruošę išvykimui.</ReadyForLaunch>
+  <!-- EN: Not ready for launch -->
+  <NotReadyForLaunch>Nepasiruošę išvykimui</NotReadyForLaunch>
+  <!-- EN: no fueling port -->
+  <NotAllInGroupConnectedToFuelingPort>nėra kuro pylimo jungties</NotAllInGroupConnectedToFuelingPort>
+  <!-- EN: no fuel -->
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>nėra kuro</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <!-- EN: loading in progress -->
+  <TransportPodInGroupHasSomethingLeftToLoad>pakrovimas vyksta</TransportPodInGroupHasSomethingLeftToLoad>
+  <!-- EN: Beyond maximum range -->
+  <TransportPodDestinationBeyondMaximumRange>Už maksimalaus nuotolio</TransportPodDestinationBeyondMaximumRange>
+  <!-- EN: Not enough fuel -->
+  <TransportPodNotEnoughFuel>Nepakanka kuro</TransportPodNotEnoughFuel>
+  <!-- EN: {0} of {1} -->
+  <SettlementTrader>{0} iš {1}</SettlementTrader>
+  <!-- EN: Surgery success chance multiplier from room -->
+  <RoomSurgerySuccessChanceFactor>Pavykusios operacijos tikimybės daugiklis iš kambario</RoomSurgerySuccessChanceFactor>
+  <!-- EN: Infection chance multiplier from room -->
+  <RoomInfectionChanceFactor>Infekcijos tikimybės daugiklis iš kambario</RoomInfectionChanceFactor>
+  <!-- EN: Closed -->
+  <VentClosed>Uždaryta</VentClosed>
+  <!-- EN: worn by {1_labelShort} -->
+  <WornBy>dėvi {1_labelShort}</WornBy>
+  <!-- EN: equipped by {1_labelShort} -->
+  <EquippedBy>TODO ekipuotas iš {1_labelShort}</EquippedBy>
+  <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
+  <QuestTargetDestroyInspectString>{0} nori, kad tai būtų sunaikinta.\n    Atlygis: {1} ({2})</QuestTargetDestroyInspectString>
+  <!-- EN: {0} wants this destroyed. -->
+  <QuestTargetDestroyInspectStringShort>{0} nori, kad tai būtų sunaikinta.</QuestTargetDestroyInspectStringShort>
+  <!-- EN: Departing on shuttle in {0} -->
+  <ShuttleDelayInspectString>Išvyksta erdvėlaiviu už {0}</ShuttleDelayInspectString>
+  <!-- EN: Departing in {0} -->
+  <ShuttleLeaveDelayInspectString>Išvyksta už {0}</ShuttleLeaveDelayInspectString>
+  <!-- EN: Should depart on shuttle -->
+  <ShouldDepartOnShuttleInspectString>Turėtų išvykti erdvėlaiviu</ShouldDepartOnShuttleInspectString>
+  <!-- EN: Time left: {0} -->
+  <WorldObjectTimeout>Liko laiko: {0}</WorldObjectTimeout>
+  <!-- EN: Click to sort by this column. -->
+  <ClickToSortByThisColumn>Paspausk kad išrūšiuotum šį stulpelį.</ClickToSortByThisColumn>
+  <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
+  <WorkPriorityShiftClickTip>Shift + paspausk: Paaukštink prioritetą\nShift + paspausk su dešiniu: Sumažink prioritetą</WorkPriorityShiftClickTip>
+  <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
+  <WorkPriorityShiftClickEnableDisableTip>Shift + paspausk: Įjungti visus\nShift + paspausk su dešiniu: Išjungti visus</WorkPriorityShiftClickEnableDisableTip>
+  <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
+  <AllowedAreaShiftClickTip>Shift + paspausk: Nustatyti visus į namus\nShift + paspausk su dešiniu: Nustatyti visus į neapribotą</AllowedAreaShiftClickTip>
+  <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
+  <CheckboxShiftClickTip>Shift + paspausk: Pažymėti visus\nShift + paspausk su dešiniu: Atžymėti visus</CheckboxShiftClickTip>
+  <!-- EN: {0} {1} -->
+  <KnownSiteThreatEnemyCountAppend>{0} {1}</KnownSiteThreatEnemyCountAppend>
+  <!-- EN: Skill Requirements -->
+  <SkillRequirements>Įgūdžių Reikalavimai</SkillRequirements>
+  <!-- EN: Products -->
+  <Products>Produktai</Products>
+  <!-- EN: Requires -->
+  <Requires>Reikia </Requires>
+  <!-- EN: {0}x any of -->
+  <NumAnyOf>{0}x bet kokių iš</NumAnyOf>
+  <!-- EN: {0} of {1} -->
+  <Relationship>{0} iš {1}</Relationship>
+  <!-- EN: Prisoner -->
+  <Prisoner>Kalinys</Prisoner>
+  <!-- EN: Refugee -->
+  <Refugee>Pabėgėlis</Refugee>
+  <!-- EN: Terrain movement difficulty -->
+  <TileMovementDifficulty>Grunto judėjimo sudėtingumas</TileMovementDifficulty>
+  <!-- EN: Impassable -->
+  <Impassable>Nepraeinama</Impassable>
+  <!-- EN: Caravan movement speed -->
+  <CaravanMovementSpeedFull>Karavano judėjimo greitis</CaravanMovementSpeedFull>
+  <!-- EN: downed -->
+  <DownedLower>numuštas</DownedLower>
+  <!-- EN: resting -->
+  <Carried>ilsisi</Carried>
+  <!-- EN: Rideable animals / people -->
+  <RideableAnimalsPerPeople>Jodinėjami gyvūnai / žmonės</RideableAnimalsPerPeople>
+  <!-- EN: Multiplier from ridden animals -->
+  <MultiplierFromRiddenAnimals>Daugiklis iš jodinėjamų gyvūnų</MultiplierFromRiddenAnimals>
+  <!-- EN: Multiplier for carried mass: {0} -->
+  <MultiplierForCarriedMass>Nešamo svorio daugiklis: {0}</MultiplierForCarriedMass>
+  <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
+  <RideableAnimalTip>Šis gyvūnas yra jodinėjamas. Žmonės karavane jos ant greičiausių prieinamų gyvūnų taip padidindami viso karavano greitį.</RideableAnimalTip>
+  <!-- EN: This caravan can't move because it carries too much. -->
+  <EncumberedCaravanTilesPerDayTip>Šis karavanas negali pajudėti, nes jis neša per daug.</EncumberedCaravanTilesPerDayTip>
+  <!-- EN: Caravan members speed -->
+  <FinalCaravanPawnsMovementSpeed>Karavano narių greitis</FinalCaravanPawnsMovementSpeed>
+  <!-- EN: Final speed -->
+  <FinalCaravanMovementSpeed>Galutinis greitis</FinalCaravanMovementSpeed>
+  <!-- EN: Winter -->
+  <Winter>Žiema</Winter>
+  <!-- EN: {0} in winter -->
+  <MovementDifficultyOffsetInWinter>{0} žiemą</MovementDifficultyOffsetInWinter>
+  <!-- EN: to -->
+  <RangeTo>iki</RangeTo>
+  <!-- EN: No letter -->
+  <NoDietCategoryLetter>Nėra pranešimų</NoDietCategoryLetter>
+  <!-- EN: Expires in -->
+  <ExpiresIn>Baigia galioti už</ExpiresIn>
+  <!-- EN: {1_labelShort}'s caravan -->
+  <CaravanLeaderCaravanName>{1_labelShort} karavanas</CaravanLeaderCaravanName>
+  <!-- EN: Reason -->
+  <Reason>Priežastis</Reason>
+  <!-- EN: Relations with {0} -->
+  <RelationsWith>Santykiai su {0}</RelationsWith>
+  <!-- EN: captured by {0} -->
+  <capturedBy>{0} paimtas į nelaisvę</capturedBy>
+  <!-- EN: your caravan -->
+  <yourCaravan>tavo karavanas</yourCaravan>
+  <!-- EN: {0} wildness -->
+  <CreatureWildness>Laukiniškumas</CreatureWildness>
+  <!-- EN: {0} trainability -->
+  <CreatureTrainability>Dresuojamumas</CreatureTrainability>
+  <!-- EN: Follow master while drafted -->
+  <CreatureFollowDrafted>Sekti šeimininką kai jis mobilizuotas</CreatureFollowDrafted>
+  <!-- EN: Follow master while doing field work -->
+  <CreatureFollowFieldwork>Sekti šeimininką kai jis dirba lauke</CreatureFollowFieldwork>
+  <!-- EN: {0} with {1} -->
+  <ProximitySingleGoodwillChange>{0} su {1}</ProximitySingleGoodwillChange>
+  <!-- EN: Too dangerous to re-enter for {0}. -->
+  <EnterCooldown>Per daug pavojinga įeiti vėl {0}.</EnterCooldown>
+  <!-- EN: Caravan -->
+  <Caravan>Karavanas</Caravan>
+  <!-- EN: there may be danger there. -->
+  <HiddenOrNoSitePartDescription>ten gali būti pavojinga.</HiddenOrNoSitePartDescription>
+  <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
+  <PreciousLumpHostileThreat>Skeneris fiksuoja judėjimą aplink tą luitą. Galimai agresyvų.</PreciousLumpHostileThreat>
+  <!-- EN: lump of {0} -->
+  <PreciousLumpLabel>{0} luitas</PreciousLumpLabel>
+  <!-- EN: no active research project -->
+  <NoActiveResearchProjectToFinish>nėra aktyvaus tyrimo projekto</NoActiveResearchProjectToFinish>
+  <!-- EN: turret -->
+  <Turret>bokštas</Turret>
+  <!-- EN: turrets -->
+  <Turrets>bokštai</Turrets>
+  <!-- EN: mortar -->
+  <Mortar>minosvaidis</Mortar>
+  <!-- EN: mortars -->
+  <Mortars>minosvaidžiai</Mortars>
+  <!-- EN: enemy -->
+  <Enemy>priešas</Enemy>
+  <!-- EN: location -->
+  <Location>vieta</Location>
+  <!-- EN: animals -->
+  <AnimalsLower>gyvūnas</AnimalsLower>
+  <!-- EN: items -->
+  <ItemsLower>daiktai</ItemsLower>
+  <!-- EN: {0} x{1} -->
+  <FilthLabel>{0} x{1}</FilthLabel>
+  <!-- EN: {0} of {1} x{2} -->
+  <FilthLabelWithSource>{0} iš {1} x{2}</FilthLabelWithSource>
+  <!-- EN: Required -->
+  <Required>Reikia</Required>
+  <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
+  <GiveGiftViaTransportPodsTradeRequestWarning>Įspėjimas: Negali įvykdyti prekybos užklausos naudodamas transportavimo kapsules.\nJei išsiūsi krovinį, gyvenvietė priims jį kaip dovaną, bet neduos atlygio.\n\nNorėdamas prekiauti, ateik į gyvenvietę su karavanu!\n\nAr tikrai nori dovanoti pakrautą krovinį tai frakcijai?</GiveGiftViaTransportPodsTradeRequestWarning>
+  <!-- EN: prisoner -->
+  <PrisonerLower>kalinys</PrisonerLower>
+  <!-- EN: prisoners -->
+  <PrisonersLower>kaliniai</PrisonersLower>
+  <!-- EN: Click to view this quest in quests tab -->
+  <ClickToViewInQuestsTab>Paspausk, kad peržiūrėtum šią užduotį užduočių lange</ClickToViewInQuestsTab>
+  <!-- EN: Mood -->
+  <Mood>Nuotaika</Mood>
+  <!-- EN: Quest -->
+  <Quest>Užduotis</Quest>
+  <!-- EN: Brings raids every {0} -->
+  <BringsRaidsEvery>Prišauks reidus kas {0}</BringsRaidsEvery>
+  <!-- EN: Generates {0} every {1} -->
+  <GeneratesResourcesEvery>Sukurs {0} kas {1}</GeneratesResourcesEvery>
+  <!-- EN: Foliage kill radius -->
+  <FoliageKillRadius>Augmenijos žudymo spindulys</FoliageKillRadius>
+  <!-- EN: Radius expand rate -->
+  <RadiusExpandRate>Spindulio augimo greitis</RadiusExpandRate>
+  <!-- EN: View: {0} -->
+  <ViewHyperlink>Žiūrėti: {0}</ViewHyperlink>
+  <!-- EN: Detonates in {0} days -->
+  <DetonationCountdown>Sprogs už {0} dienų</DetonationCountdown>
+  <!-- EN: Large fire explosion if damaged. -->
+  <ExplosionOnDamageWarning>Pažeidus įvyks didžiulis ugnies sprogimas.</ExplosionOnDamageWarning>
+  <!-- EN: Mech cluster -->
+  <MechCluster>Mechanoidų telkinys</MechCluster>
+  <!-- EN: Spawning in {0} -->
+  <SpawningNextPawnIn>Atsiras už {0}</SpawningNextPawnIn>
+  <!-- EN: {0} assembly completes in {1}. -->
+  <MechAssemblyCompleteIn>{0} baigs surinkti už {1}.</MechAssemblyCompleteIn>
+  <!-- EN: Will assemble -->
+  <MechAssemblyNextType>Susirinks</MechAssemblyNextType>
+  <!-- EN: produced -->
+  <ThingsProduced>pagaminta</ThingsProduced>
+  <!-- EN: harvested -->
+  <PlantsHarvested>nuimta derliaus</PlantsHarvested>
+  <!-- EN: {0} killed -->
+  <PawnsKilled>{0} nužudyta</PawnsKilled>
+  <!-- EN: Sent {0}, will return in {1} -->
+  <PawnsLent>Išsiųsta {0}, grįš už {1}</PawnsLent>
+  <!-- EN: Dormant -->
+  <DormantCompInactive>Ramybės būsenoje</DormantCompInactive>
+  <!-- EN: Sealed -->
+  <DormantCompSealed>Užplombuota</DormantCompSealed>
+  <!-- EN: Ready to drop mechanoids -->
+  <DormantCompBeacon>Pasiruošęs numesti mechanoidus</DormantCompBeacon>
+  <!-- EN: Expired -->
+  <DormantCompExpired>Baigėsi galiojimas</DormantCompExpired>
+  <!-- EN: Initiates in -->
+  <InitiatesIn>Prasidės už</InitiatesIn>
+  <!-- EN: Activates in {0} -->
+  <SendSignalOnCountdownCompTime>Aktyvuosis už {0}</SendSignalOnCountdownCompTime>
+  <!-- EN: Neural heat -->
+  <PsychicEntropy>Neuroninis karštis</PsychicEntropy>
+  <!-- EN: Heat -->
+  <PsychicEntropyShort>Karštis</PsychicEntropyShort>
+  <!-- EN: {0} pain boost -->
+  <PsychicEntropyPainFocus>{0} skausmo padidinimas</PsychicEntropyPainFocus>
+  <!-- EN: radius {0} -->
+  <ConditionCauserRadius>spindulys {0}</ConditionCauserRadius>
+  <!-- EN: low psyfocus -->
+  <LowPsyfocus>žemas psifokusas</LowPsyfocus>
+  <!-- EN: {0} left -->
+  <DurationLeft>liko {0}</DurationLeft>
+  <!-- EN: Any of -->
+  <AnyOf>Bet kas iš</AnyOf>
+  <!-- EN: Requires {0} trait -->
+  <TraitRequired>Reikia {0} bruožo</TraitRequired>
+  <!-- EN: Goodwill -->
+  <Goodwill>Geranoriškumas</Goodwill>
+  <!-- EN: Natural goodwill -->
+  <NaturalGoodwill>Savaiminis geranoriškumas</NaturalGoodwill>
+  <!-- EN: Natural goodwill range -->
+  <NaturalGoodwillRange>Savaiminio geranoriškumo ribos</NaturalGoodwillRange>
+  <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
+  <NaturalGoodwillDescription>Savaiminis geranoriškumas yra pagrįstas frakcijos identitetais ir įsitikinimais. Jei dabartinis geranoriškumas labai skiriasi nuo savaiminio, jis per laiką lėtai judės link savaiminio lygio.\n\nVisi geranoriškumo poveikiai yra padauginti iš {0} kai judama link savaiminio geranoriškumo.</NaturalGoodwillDescription>
+  <!-- EN: reducing resistance of {0_nameIndef} -->
+  <JobReport_ReduceResistance>mažina {0_nameIndef} pasipriešinimą</JobReport_ReduceResistance>
+  <!-- EN: Too large -->
+  <TooLargeForBed>Per didelis.</TooLargeForBed>
+  <!-- EN: Warning -->
+  <Warning>Įspėjimas</Warning>
+  <!-- EN: Has subquest -->
+  <HasSubquest>Turi smulkesnę užduotį</HasSubquest>
+  <!-- EN: Subquest of -->
+  <SubquestOf>Smulkesnė užduotis iš</SubquestOf>
+  <!-- EN: Raid -->
+  <Raid>Reidas</Raid>
+  <!-- EN: Disabled by -->
+  <ApparelRequirementDisabledLabel>Išjungta dėl</ApparelRequirementDisabledLabel>
+  <!-- EN: Nudism -->
+  <Nudism>Nudizmas</Nudism>
+  <!-- EN: Study progress -->
+  <StudyProgress>Studijavimo pažanga</StudyProgress>
+  <!-- EN: completed -->
+  <StudyCompleted>pabaigta</StudyCompleted>
+  <!-- EN: Attack this to destroy it. -->
+  <AttackToDestroy>Atakuok kad sunaikintum tai.</AttackToDestroy>
+  <!-- EN: Remove this by attacking it. -->
+  <RemoveByAttackingTooltip>Pašalink atakuodamas tai.</RemoveByAttackingTooltip>
+  <!-- EN: Food -->
+  <ThoughtFoodEatenFood>Maistas</ThoughtFoodEatenFood>
+  <!-- EN: Ingredients -->
+  <ThoughtFoodEatenIngredients>Ingredientai</ThoughtFoodEatenIngredients>
+  <!-- EN: Shield pack -->
+  <ShieldInbuilt>Skydo paketas</ShieldInbuilt>
+  <!-- EN: Punctured - will explode soon. -->
+  <PuncturedWillExplode>Pradurtas - tuoj sprogs.</PuncturedWillExplode>
+  <!-- EN: Click to open research window -->
+  <ClickToOpenResearchTab>Paspausk atidaryti tyrimų langą</ClickToOpenResearchTab>
+  <!-- EN: Target belongs to another faction. -->
+  <TargetBelongsToNPCFaction>Taikinys priklauso kitai frakcijai.</TargetBelongsToNPCFaction>
+  <!-- EN: more -->
+  <MoreLower>daugiau</MoreLower>
+  <!-- EN: Requires -->
+  <RequiredTechprintTip>Reikia</RequiredTechprintTip>
+  <!-- EN: size -->
+  <Size>dydis</Size>
+  <!-- EN: cost -->
+  <Cost>kaina</Cost>
+  <!-- EN: Title -->
+  <BackstoryTitle>Titulas</BackstoryTitle><!-- text_todo -->
+  <!-- EN: person -->
+  <Person>asmuo</Person>
+
+  <!-- Scanning -->
+  <!-- EN: User scanning speed -->
+  <UserScanAbility>Naudotojo skenavimo greitis</UserScanAbility>
+  <!-- EN: Random find interval -->
+  <ScanAverageInterval>Atsitiktinio radimo intervalas</ScanAverageInterval>
+  <!-- EN: Progress to guaranteed find -->
+  <ScanningProgressToGuaranteedFind>Progresas iki garantuoto radimo</ScanningProgressToGuaranteedFind>
+  
+  <!-- Meditation -->
+  <!-- EN: meditating at -->
+  <MeditatingAt>medituoja</MeditatingAt>
+
+  <!-- Fermentation barrel -->
+  <!-- EN: Contains {0} / {1} wort. -->
+  <ContainsWort>Turi {0} / {1} misos.</ContainsWort>
+  <!-- EN: Contains {0} / {1} beer. -->
+  <ContainsBeer>Turi {0} / {1} alaus.</ContainsBeer>
+  <!-- EN: Contains -->
+  <Contains>Savyje turi</Contains>
+  <!-- EN: Fermented -->
+  <Fermented>Fermentuotas</Fermented>
+  <!-- EN: Progress: {0} ({1} left) -->
+  <FermentationProgress>Pažanga: {0} (liko {1})</FermentationProgress>
+  <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
+  <FermentationBarrelOutOfIdealTemperature>Neideali temperatūra. Fermentavimosi greitis: {0}</FermentationBarrelOutOfIdealTemperature>
+
+  <!-- TextMotes -->
+  <!-- EN: Headshot -->
+  <Headshot>Šūvis į galvą</Headshot>
+  <!-- EN: Treatment success!\n{0} chance -->
+  <TextMote_TreatSuccess>Gydymas pavyko!\n{0} tikimybė</TextMote_TreatSuccess>
+  <!-- EN: Treatment failed\n{0} chance -->
+  <TextMote_TreatFailed>Gydymas nepavyko\n{0} tikimybė</TextMote_TreatFailed>
+  <!-- EN: Harvest\nbotched -->
+  <TextMote_HarvestFailed>Derlius nuėmimas \nnepavyko</TextMote_HarvestFailed>
+  <!-- EN: Yield\nwasted -->
+  <TextMote_YieldWasted>Derlius\niššvaistytas</TextMote_YieldWasted>
+  <!-- EN: Product\nwasted -->
+  <TextMote_ProductWasted>Produktas\niššvaistytas</TextMote_ProductWasted>
+  <!-- EN: Recruit failed!\n{0} chance -->
+  <TextMote_RecruitFail>Nepavyko įkalbėti prisijungti!\n{0} tikimybė</TextMote_RecruitFail>
+  <!-- EN: Resistance\n{0} to {1} -->
+  <TextMote_ResistanceReduced>Priešinimasis\nnuo {0} iki {1}</TextMote_ResistanceReduced>
+  <!-- EN: Tame failed\n{0} chance -->
+  <TextMote_TameFail>Prijaukinimas nepavyko\n{0} tikimybė</TextMote_TameFail>
+  <!-- EN: Tamed! -->
+  <TextMote_TameSuccess>Prijaukino!</TextMote_TameSuccess>
+  <!-- EN: Failed training: {0}\n{1} chance -->
+  <TextMote_TrainFail>Nepavyko išdresuoti: {0}\n{1} tikimybė</TextMote_TrainFail>
+  <!-- EN: Trained: {0}\n{1} chance -->
+  <TextMote_TrainSuccess>Išdresavo: {0}\n{1} tikimybė</TextMote_TrainSuccess>
+  <!-- EN: Repair\nbotched -->
+  <TextMote_FixBrokenDownBuildingFail>Taisymas\nnepavyko</TextMote_FixBrokenDownBuildingFail>
+  <!-- EN: Construction\nbotched -->
+  <TextMote_ConstructionFail>Statymas\nnepavyko</TextMote_ConstructionFail>
+  <!-- EN: Dodge -->
+  <TextMote_Dodge>Išsisuko</TextMote_Dodge>
+  <!-- EN: Immune -->
+  <TextMote_Immune>Atsparus</TextMote_Immune>
+  <!-- EN: {0} tended -->
+  <TextMote_Tended>{0} pagydė</TextMote_Tended>
+  <!-- EN: level {0} -->
+  <TextMote_SkillUp>lygis {0}</TextMote_SkillUp>
+  <!-- EN: low mood -->
+  <lowMood>bloga nuotaika</lowMood>
+  <!-- EN: low opinion -->
+  <lowOpinion>bloga nuomonė</lowOpinion>
+
+  <!-- Areas -->
+  <!-- EN: Home -->
+  <Home>Namai</Home>
+  <!-- EN: Build roof -->
+  <BuildRoof>Statyti stogą</BuildRoof>
+  <!-- EN: No roof -->
+  <NoRoof>Be stogo</NoRoof>
+  <!-- EN: Snow clear -->
+  <SnowClear>Valyti sniegą</SnowClear>
+  <!-- EN: Area {0} -->
+  <AreaDefaultLabel>Sritis {0}</AreaDefaultLabel>
+  <!-- EN: Unrestricted -->
+  <NoAreaAllowed>Neribota</NoAreaAllowed>
+  <!-- EN: New area -->
+  <NewArea>Nauja sritis</NewArea>
+  <!-- EN: Invert -->
+  <InvertArea>Invertuoti</InvertArea>
+
+  <!-- Animal pens -->
+  <!-- EN: Unenclosed -->
+  <PenUnenclosedLabel>Neaptverti</PenUnenclosedLabel>
+  <!-- EN: open door -->
+  <PenOpenDoorLabel>atidaryti duris</PenOpenDoorLabel>
+  <!-- EN: Rename pen -->
+  <RenameAnimalPen>Pervadinti aptvarą</RenameAnimalPen>
+  <!-- EN: Pen marker {0} -->
+  <AnimalPenMarkerDefaultLabel>Aptvaro žymeklis {0}</AnimalPenMarkerDefaultLabel>
+  <!-- EN: In pen -->
+  <InPen>Aptvare</InPen>
+  <!-- EN: not in a pen -->
+  <Unpenned>Ne aptvare</Unpenned>
+  <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
+  <UnpennedTooltip>Gyvūnų aptvarai gali būti padaryti viduje uždaros teritorijos pastatant aptvaro žymeklį. Tavo gyvūnų prižiūrėtojai atves gyvūnus į atitinkamus aptvarus. Aptvarai gali būti aptverti tvoromis, barikadomis, sienomis ir durimis.</UnpennedTooltip>
+  <!-- EN: Roped by -->
+  <RopedByPawn>Pririšo</RopedByPawn>
+  <!-- EN: Roped to -->
+  <RopedToThing>Pririštas prie</RopedToThing>
+  <!-- EN: Roped to spot. -->
+  <RopedToSpot>Pririštas prie vietos.</RopedToSpot>
+  <!-- EN: Pen size -->
+  <PenSizeLabel>Aptvaro dydis</PenSizeLabel>
+  <!-- EN: Very small pen -->
+  <PenSizeDesc_VerySmall>Labai mažas aptvaras</PenSizeDesc_VerySmall>
+  <!-- EN: Small pen -->
+  <PenSizeDesc_Small>Mažas aptvaras</PenSizeDesc_Small>
+  <!-- EN: Medium-sized pen -->
+  <PenSizeDesc_Medium>Vidutinio dydžio aptvaras</PenSizeDesc_Medium>
+  <!-- EN: Large pen -->
+  <PenSizeDesc_Large>Didelis aptvaras</PenSizeDesc_Large>
+  <!-- EN: Not enclosed - build fences -->
+  <PenSizeDesc_Unenclosed>Ne aptvertas - pastatyk tvoras</PenSizeDesc_Unenclosed>
+  <!-- EN: {ANIMALDEF_label} capacity -->
+  <PenCapacityDesc>{ANIMALDEF_label} talpa</PenCapacityDesc>
+  <!-- EN: Example animals -->
+  <PenExampleAnimals>Pavyzdiniai gyvūnai</PenExampleAnimals>
+  <!-- EN: No exterior access - Animals cannot be moved in or out. -->
+  <NoExteriorAccess>Nėra prieigos iš išorės - Gyvūnai negali būti atvesti ar išvesti.</NoExteriorAccess>
+
+  <!-- Cell Inspector -->
+  <!-- EN: Beauty -->
+  <Beauty_Label>Grožis</Beauty_Label>
+  <!-- EN: Zone -->
+  <Zone_Label>Zona</Zone_Label>
+  <!-- EN: Roof -->
+  <Roof_Label>Stogas</Roof_Label>
+  <!-- EN: Terrain -->
+  <Terrain_Label>Gruntas</Terrain_Label>
+  <!-- EN: Snow -->
+  <Snow_Label>Sniegas</Snow_Label>
+  <!-- EN: Walk speed -->
+  <WalkSpeed_Label>Ėjimo greitis</WalkSpeed_Label>
+  <!-- EN: Fertility -->
+  <Fertility_Label>Derlingumas</Fertility_Label>
+  <!-- EN: Temperature -->
+  <Temperature_Label>Temperatūra</Temperature_Label>
+  <!-- EN: Light level -->
+  <LightLevel_Label>Šviesos lygis</LightLevel_Label>
+  <!-- EN: Biome -->
+  <Biome_Label>Biomas</Biome_Label>
+  <!-- EN: Hilliness -->
+  <Hilliness_Label>Kalnuotumas</Hilliness_Label>
+  <!-- EN: Road -->
+  <Road_Label>Kelias</Road_Label>
+  <!-- EN: River -->
+  <River_Label>Upė</River_Label> 
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty_Label>Judėjimo sudėtingumas</MovementDifficulty_Label>
+  <!-- EN: Pollution -->
+  <Pollution_Label>Tarša</Pollution_Label>
+  <!-- EN: Filth -->
+  <Filth_Label>Nešvara</Filth_Label>
+  
+  <!-- EN: Faction -->
+  <Faction_Label>Frakcija</Faction_Label>
+  <!-- EN: Relationship -->
+  <Relationship_Label>Santykiai</Relationship_Label>
+  <!-- EN: Colonists -->
+  <CaravanColonists_Label>Kolonistas</CaravanColonists_Label>
+  <!-- EN: Status -->
+  <CaravanStatus_Label>Būsena</CaravanStatus_Label>
+  <!-- EN: Time to destination -->
+  <CaravanTTD_Label>Likęs laikas iki kelionės tikslo</CaravanTTD_Label>
+  
+
+  <!-- Control -->
+  <!-- EN: Cannot order characters you do not control. -->
+  <CannotOrderNonControlled>Negalima nurodyti veikėjams kurių nekontroliuoji.</CannotOrderNonControlled>
+  <!-- EN: {1_labelShort} is incapable of violence. -->
+  <IsIncapableOfViolence>{1_labelShort} negalintis smurtauti.</IsIncapableOfViolence>
+  <!-- EN: incapable of violence -->
+  <IsIncapableOfViolenceShort>negalintis smurtauti</IsIncapableOfViolenceShort>
+  <!-- EN: {1_labelShort} is not drafted. -->
+  <IsNotDrafted>{1_labelShort} nėra mobilizuotas.</IsNotDrafted>
+  <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
+  <ApparelPreventsShooting>{PAWN_nameDef} negali naudoti nuotolinio ginklo nes {PAWN_possessive} turi {APPAREL_label}.</ApparelPreventsShooting>
+
+  <!-- Snow -->
+  <!-- EN: Snow -->
+  <Snow>Sniegas</Snow>
+  <!-- EN: No snow -->
+  <SnowNone>Nėra sniego</SnowNone>
+  <!-- EN: dusting -->
+  <SnowDusting>kelios snaigės</SnowDusting>
+  <!-- EN: thin -->
+  <SnowThin>plonai</SnowThin>
+  <!-- EN: medium -->
+  <SnowMedium>vidutiniškai</SnowMedium>
+  <!-- EN: thick -->
+  <SnowThick>storai</SnowThick>
+
+  <!-- Turrets -->
+  <!-- EN: Installed -->
+  <GunInstalled>Įrengtas</GunInstalled>
+  <!-- EN: Minimum range -->
+  <MinimumRange>Minimalus nuotolis</MinimumRange>
+  <!-- EN: Can fire in -->
+  <CanFireIn>Gali šauti už</CanFireIn>
+  <!-- EN: Cannot fire -->
+  <CannotFire>Negali šauti</CannotFire>
+  <!-- EN: roofed -->
+  <Roofed>apdengta</Roofed>
+  <!-- EN: Shell loaded: {1_label} -->
+  <ShellLoaded>Sviedinys užtaisytas: {1_label}</ShellLoaded>
+  <!-- EN: Not loaded -->
+  <ShellNotLoaded>Neužtaisyta</ShellNotLoaded>
+  <!-- EN: Already active -->
+  <AlreadyActive>Jau aktyvus</AlreadyActive>
+  <!-- EN: Order activation -->
+  <OrderActivation>Nurodymo aktyvavimas</OrderActivation>
+  <!-- EN: Order a colonist to activate {THING_definite}. -->
+  <OrderActivationDesc>Nurodyti kolonistui aktyvuoti {THING_definite}.</OrderActivationDesc>
+  <!-- EN: Must be activated by a colonist. -->
+  <MustBeActivatedByColonist>Turi būti aktyvuota kolonisto.</MustBeActivatedByColonist>
+  <!-- EN: No nearby fire -->
+  <NoNearbyFire>Nėra gretimos ugnies.</NoNearbyFire>
+  <!-- EN: No nearby fire. No fuel was used. -->
+  <NoNearbyFireNoFuelUsed>Nėra gretimos ugnies. Nebuvo panaudota kuro.</NoNearbyFireNoFuelUsed>
+  <!-- EN: Choose who should activate this. -->
+  <ChooseWhoShouldActivate>Pasirink kas turėtų tai aktyvuoti.</ChooseWhoShouldActivate>
+  <!-- EN: No fuel -->
+  <NoFuel>Nėra kuro</NoFuel>
+
+  <!-- Job reports -->
+  <!-- EN: hauling {THING_label} to {DESTINATION}. -->
+  <ReportHaulingTo>gabeda {THING_label} į {DESTINATION}.</ReportHaulingTo>
+  <!-- EN: burying {THING_label} in {DESTINATION}. -->
+  <ReportHaulingToGrave>laidoja {THING_label} į {DESTINATION}.</ReportHaulingToGrave>
+  <!-- EN: hauling {1_label}. -->
+  <ReportHauling>gabena {1_label}.</ReportHauling>
+  <!-- EN: hauling. -->
+  <ReportHaulingUnknown>gabena.</ReportHaulingUnknown>
+  <!-- EN: sleeping. -->
+  <ReportSleeping>miega.</ReportSleeping>
+  <!-- EN: resting. -->
+  <ReportResting>ilsisi.</ReportResting>
+  <!-- EN: laying down. -->
+  <ReportLayingDown>guli.</ReportLayingDown>
+  <!-- EN: watching the sunrise. -->
+  <WatchingSunrise>žiūri saulėtekį.</WatchingSunrise>
+  <!-- EN: cloudwatching. -->
+  <CloudWatching>žiūri į debesis.</CloudWatching>
+  <!-- EN: watching the sunset. -->
+  <WatchingSunset>žiūri saulėlydį.</WatchingSunset>
+  <!-- EN: stargazing. -->
+  <Stargazing>žiūri į žvaigždes.</Stargazing>
+  <!-- EN: watching the eclipse. -->
+  <WatchingEclipse>žiūri užtemimą.</WatchingEclipse>
+  <!-- EN: watching the aurora. -->
+  <WatchingAurora>žiūri į šiaurės pašvaistę.</WatchingAurora>
+  <!-- EN: using {0} on {1}. -->
+  <UsingVerb>naudoja {0} {1}.</UsingVerb>
+  <!-- EN: using {0}. -->
+  <UsingVerbNoTarget>naudoja {0}.</UsingVerbNoTarget>
+  <!-- EN: area -->
+  <AreaLower>sritis</AreaLower>
+  <!-- EN: cowering. -->
+  <ReportCowering>gūžiasi.</ReportCowering>
+  <!-- EN: standing. -->
+  <ReportStanding>stovi.</ReportStanding>
+  <!-- EN: extinguishing fire. -->
+  <ReportExtinguishingFire>gesina gaisrą.</ReportExtinguishingFire>
+  <!-- EN: extinguishing fire on {TARGET_label}. -->
+  <ReportExtinguishingFireOn>gesina ugnį nuo {TARGET_label}.</ReportExtinguishingFireOn>
+  <!-- EN: digging up corpse. -->
+  <ReportDiggingUpCorpse>iškasa lavoną.</ReportDiggingUpCorpse>
+  <!-- EN: being carried by {0_labelShort}. -->
+  <CarriedBy>yra nešamas {0_labelShort}.</CarriedBy> 
+  <!-- EN: inside {0_labelShort}. -->
+  <InContainer>viduje {0_labelShort}.</InContainer> 
+
+  <!-- Lord job reports -->
+  <!-- EN: Attending marriage ceremony -->
+  <LordReportAttendingMarriageCeremony>Lanko vestuvių ceremoniją</LordReportAttendingMarriageCeremony>
+  <!-- EN: Attending party -->
+  <LordReportAttendingParty>Lanko vakarėlį</LordReportAttendingParty>
+  <!-- EN: Attending concert -->
+  <LordReportAttendingConcert>Lanko koncertą</LordReportAttendingConcert>
+  <!-- EN: Holding a concert -->
+  <LordReportHoldingConcert>Rengia koncertą</LordReportHoldingConcert>
+  <!-- EN: Giving a speech -->
+  <LordReportGivingSpeech>Sako kalbą</LordReportGivingSpeech>
+  <!-- EN: Listening to {ORGANIZER_labelShort}'s speech -->
+  <LordReportListeningSpeech>Klausosi {ORGANIZER_labelShort} kalbos</LordReportListeningSpeech>
+  <!-- EN: Forming caravan -->
+  <LordReportFormingCaravan>Formuoja karavaną</LordReportFormingCaravan>
+
+  <!-- Shooting report -->
+  <!-- EN: Weapon miss radius -->
+  <WeaponMissRadius>Ginklo prašovimo spindulys</WeaponMissRadius>
+  <!-- EN: Shooter -->
+  <ShootReportShooterAbility>Šaulys</ShootReportShooterAbility>
+  <!-- EN: Weapon -->
+  <ShootReportWeapon>Ginklas</ShootReportWeapon>
+  <!-- EN: Darkness -->
+  <Darkness>Tamsa</Darkness>
+  <!-- EN: Target lying down -->
+  <TargetProne>Taikinys yra atsigulęs</TargetProne>
+  <!-- EN: Target size -->
+  <TargetSize>Taikinio dydis</TargetSize>
+  <!-- EN: Weather -->
+  <Weather>Oro sąlygos</Weather>
+  <!-- EN: Cover -->
+  <ShootingCover>Priedanga</ShootingCover>
+  <!-- EN: {COVER_label} stops {1} -->
+  <CoverThingBlocksPercentOfShots>{COVER_label} sustabdo {1}</CoverThingBlocksPercentOfShots>
+  <!-- EN: no cover -->
+  <NoCoverLower>nėra priedangos</NoCoverLower>
+  <!-- EN: Execution -->
+  <Execution>Egzekucija</Execution>
+
+  <!-- Generated recipes -->
+  <!-- EN: make {0} -->
+  <RecipeMake>gaminti {0}</RecipeMake>
+  <!-- EN: Make {0}. -->
+  <RecipeMakeDescription>Gaminti {0}.</RecipeMakeDescription>
+  <!-- EN: Making {0}. -->
+  <RecipeMakeJobString>Gamina {0}.</RecipeMakeJobString>
+  <!-- EN: administer {0} -->
+  <RecipeAdminister>suduoti {0}</RecipeAdminister>
+  <!-- EN: Administering {0}. -->
+  <RecipeAdministerJobString>Suduoda {0}.</RecipeAdministerJobString>
+  <!-- EN: teetotaler will be unhappy -->
+  <TeetotalerUnhappy>blaivininkas bus nelaimingas</TeetotalerUnhappy>
+  <!-- EN: body purist will be unhappy -->
+  <ProsthophobeUnhappy>tyro kūno šalininkas bus nelaimingas</ProsthophobeUnhappy>
+
+  <!-- Thoughts -->
+  <!-- EN: Expires in: {0} -->
+  <ThoughtExpiresIn>Baigiasi už: {0}</ThoughtExpiresIn>
+  <!-- EN: thought disabled by -->
+  <ThoughtNullifiedBy>minties neleidžia</ThoughtNullifiedBy>
+  <!-- EN: Starts expiring in: {0} -->
+  <ThoughtStartsExpiringIn>Pradės baigti galioti už: {0}</ThoughtStartsExpiringIn>
+  <!-- EN: Finishes expiring in: {0} -->
+  <ThoughtFinishesExpiringIn>Baigs baigti galioti už: {0}</ThoughtFinishesExpiringIn>
+  <!-- EN: Extreme break threshold -->
+  <MentalBreakThresholdExtreme>Aukščiausio laipsnio pakrikimo riba</MentalBreakThresholdExtreme>
+  <!-- EN: Major break threshold -->
+  <MentalBreakThresholdMajor>Sunkaus pakrikimo riba</MentalBreakThresholdMajor>
+  <!-- EN: Minor break threshold -->
+  <MentalBreakThresholdMinor>Lengvo pakrikimo riba</MentalBreakThresholdMinor>
+
+  <!-- Pawn info readout -->
+  <!-- EN: {PAWN_gender} {1} -->
+  <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
+  <!-- EN: {0} of {1} -->
+  <PawnMainDescFactionedWrap>{0} iš {1}</PawnMainDescFactionedWrap>
+  <!-- EN: {0} in {1} -->
+  <PawnTitleDescWrap>{0} {1}</PawnTitleDescWrap>
+  <!-- EN: {0} under {1} -->
+  <PawnMainDescUnderFactionedWrap>{0} po {1}</PawnMainDescUnderFactionedWrap>
+  <!-- EN: {2_lifeStageAdjective} {0} -->
+  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
+  <!-- EN: Faction -->
+  <Faction>Frakcija</Faction>
+  <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
+  <FactionDesc>Frakcija kuriai dabar priklauso {PAWN_labelShort}.</FactionDesc>
+  <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
+  <ExtraFactionDesc>Frakcija kuriai anksčiau priklausė {PAWN_labelShort}.</ExtraFactionDesc>
+  <!-- EN: Equipped -->
+  <Equipped>Ekipuotas</Equipped>
+  <!-- EN: nothing -->
+  <EquippedNothing>nieko</EquippedNothing>
+  <!-- EN: Dead -->
+  <Dead>Miręs</Dead>
+  <!-- EN: Unconscious -->
+  <Unconscious>Be sąmonės</Unconscious>
+  <!-- EN: In shock due to pain -->
+  <PainShock>Šoke dėl skausmo</PainShock>
+  <!-- EN: Pain shock -->
+  <PainShockShort>Skausmo šokas</PainShockShort>
+  <!-- EN: Incapacitated -->
+  <Incapacitated>Neveiksnus</Incapacitated>
+  <!-- EN: In restraints (slowed) -->
+  <InRestraints>Surakintas (sulėtintas)</InRestraints>
+  <!-- EN: Carrying -->
+  <Carrying>Neša</Carrying>
+  <!-- EN: Affected by: -->
+  <AffectedBy>Paveiktas:</AffectedBy>
+  <!-- EN: Queued -->
+  <Queued>Eilėje</Queued>
+  <!-- EN: State -->
+  <State>Būsena</State>
+  <!-- EN: stun -->
+  <StunLower>apsvaiginimas</StunLower>
+  <!-- EN: Slowed by damage -->
+  <SlowedByDamage>Sulėtintas dėl žalos</SlowedByDamage>
+
+  <!-- Inspector general stuff -->
+  <!-- EN: Select next thing in same square.\n\n(*SectionTitle)Shortcut key:(/SectionTitle) {0}\n\nYou can also do this by slowly clicking the same square again. -->
+  <SelectNextInSquareTip>Pasirink sekantį dalyką tame pačiame langelyje.\n\n(*SectionTitle)Spartusis klavišas:(/SectionTitle) {0}\n\nTaip pat gali tai padaryti ir lėtai paspausdamas tą patį langelį dar kartą.</SelectNextInSquareTip>
+  <!-- EN: View information. -->
+  <DefInfoTip>Peržiūrėti informaciją.</DefInfoTip>
+  <!-- EN: Select next thing in same square.\n\nYou can also do this by slowly clicking the same square again. -->
+  <SelectNextInSquareTipController>Pasirink sekantį dalyką tame pačiame langelyje.\n\nTaip pat gali tai padaryti lėtai paspausdamas tą patį langelį dar kartą.</SelectNextInSquareTipController>
+
+  <!-- Hostility response -->
+  <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
+  <HostilityReponseTip>Pakeisk kaip šis asmuo reaguos į netoliese esančius priešus kai jis nėra mobilizuotas.</HostilityReponseTip>
+  <!-- EN: Current mode -->
+  <HostilityResponseCurrentMode>Dabartinis režimas</HostilityResponseCurrentMode>
+
+  <!-- like 'Blood of John' -->
+  <!-- EN: of -->
+  <OfLower>iš</OfLower>
+
+  <!-- Power readout -->
+  <!-- EN: Not connected to power. -->
+  <PowerNotConnected>Neprijungtas prie elektros.</PowerNotConnected>
+  <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
+  <PowerConnectedRateStored>Tinklo perteklius/sukaupta: {0} W / {1} Wd</PowerConnectedRateStored>
+  <!-- EN: Power needed -->
+  <PowerNeeded>Reikia elektros energijos</PowerNeeded>
+  <!-- EN: Power output -->
+  <PowerOutput>Elektros energijos produkcija</PowerOutput>
+  <!-- EN: {0} W when active -->
+  <PowerActiveNeeded>{0} W kaip aktyvus</PowerActiveNeeded>
+  <!-- EN: Stored -->
+  <PowerBatteryStored>Sukaupta</PowerBatteryStored>
+  <!-- EN: Efficiency -->
+  <PowerBatteryEfficiency>Efektyvumas</PowerBatteryEfficiency>
+  <!-- EN: Self-discharging -->
+  <SelfDischarging>Savaime išsikraunantis</SelfDischarging>
+
+  <!-- Temperature control -->
+  <!-- EN: Target temperature -->
+  <TargetTemperature>Temperatūros tikslas</TargetTemperature>
+  <!-- EN: Current power use -->
+  <PowerConsumptionMode>Dabartinis elektros energijos naudojimas</PowerConsumptionMode>
+  <!-- EN: high -->
+  <PowerConsumptionHigh>didelis</PowerConsumptionHigh>
+  <!-- EN: low -->
+  <PowerConsumptionLow>žemas</PowerConsumptionLow>
+
+  <!-- Temperature readout -->
+  <!-- EN: Indoors -->
+  <Indoors>Viduje</Indoors>
+  <!-- EN: Unroofed -->
+  <IndoorsUnroofed>Be pastogės</IndoorsUnroofed>
+  <!-- EN: outdoors -->
+  <Outdoors>lauke</Outdoors>
+
+  <!-- Rotting -->
+  <!-- EN: Fresh -->
+  <RotStateFresh>Šviežias</RotStateFresh>
+  <!-- EN: Rotting -->
+  <RotStateRotting>Pūva</RotStateRotting>
+  <!-- EN: Dessicated -->
+  <RotStateDessicated>Išsausėjęs</RotStateDessicated>
+  <!-- EN: Frozen (won't spoil) -->
+  <CurrentlyFrozen>Sušalęs (nesuges)</CurrentlyFrozen>
+  <!-- EN: Refrigerated (spoils in {0}) -->
+  <CurrentlyRefrigerated>Atšaldytas (suges už {0})</CurrentlyRefrigerated>
+  <!-- EN: Not refrigerated (spoils in {0}) -->
+  <NotRefrigerated>Neatšaldytas (suges už {0})</NotRefrigerated>
+  <!-- EN: over a decade -->
+  <OverADecade>virš dešimtmečio</OverADecade>
+  <!-- EN: less than a day -->
+  <LessThanADay>mažiau nei diena</LessThanADay>
+
+  <!-- Shooting tooltip -->
+  <!-- EN: Shot by {1_labelShort} -->
+  <ShotBy>Pašautas {1_labelShort}</ShotBy>
+  <!-- EN: Cannot hit target. -->
+  <CannotHit>Negali pataikyti į taikinį.</CannotHit>
+  <!-- EN: Manhunter chance per hit -->
+  <ManhunterPerHit>Žmogaus užpuolimo tikimybė su kiekvienu pataikymu</ManhunterPerHit>
+
+  <!-- Meal -->
+  <!-- EN: Ingredients -->
+  <Ingredients>Ingredientai</Ingredients>
+  <!-- EN: The ingredients used to make this meal. -->
+  <IngredientsDesc>Ingredientai panaudoti gaminant šį patiekalą.</IngredientsDesc>
+  <!-- EN: Dietary type -->
+  <DietaryType>Mitybos rūšis</DietaryType>
+  <!-- EN: The type of meal produced. Some people have preferences for specific types of meals. -->
+  <DietaryTypeDesc>Pagaminto patiekalo rūšis. Kai kurie žmonės teikia pirmenybę specifinės rūšies patiekalams.</DietaryTypeDesc>
+  <!-- EN: only stacks with similar meals -->
+  <OnlyStacksWithCompatibleMeals>susideda į krūvą tik su panašiais patiekalais</OnlyStacksWithCompatibleMeals>
+
+  <!-- Plants -->
+  <!-- EN: {0} grown -->
+  <PercentGrowth>{0} užaugęs</PercentGrowth>
+  <!-- EN: Growth rate -->
+  <GrowthRate>Augimo greitis</GrowthRate>
+  <!-- EN: Fully grown in {0} of growth. -->
+  <FullyGrownIn>Pilnai užaugs būdamas {0} augimo.</FullyGrownIn>
+  <!-- EN: Needs light level -->
+  <PlantNeedsLightLevel>Reikia šviesos lygio</PlantNeedsLightLevel>
+  <!-- EN: Resting -->
+  <PlantResting>Ilsisi</PlantResting>
+  <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
+  <OutOfIdealTemperatureRange>Neideali temperatūra. Temperatūros augimo daugiklis: {0}%</OutOfIdealTemperatureRange>
+  <!-- EN: Non-ideal temperature. Not growing. -->
+  <OutOfIdealTemperatureRangeNotGrowing>Neideali temperatūra. Neauga.</OutOfIdealTemperatureRangeNotGrowing>
+  <!-- EN: Ready to harvest. -->
+  <ReadyToHarvest>Pasiruošęs derliaus nuėmimui.</ReadyToHarvest>
+  <!-- EN: Mature. -->
+  <Mature>Suaugęs.</Mature>
+  <!-- EN: Average plant age -->
+  <AveragePlantAge>Vidutinis augalo amžius</AveragePlantAge>
+  <!-- EN: Oldest plant age -->
+  <OldestPlantAge>Seniausio augalo amžius</OldestPlantAge>
+  <!-- EN: Growing period -->
+  <OutdoorGrowingPeriod>Augimo laikotarpis</OutdoorGrowingPeriod>
+  <!-- EN: Never -->
+  <NoGrowingPeriod>Niekada</NoGrowingPeriod>
+  <!-- EN: Year-round -->
+  <GrowYearRound>Visus metus</GrowYearRound>
+  <!-- EN: Growing season here now. -->
+  <GrowSeasonHereNow>Dabar čia auginimo sezonas.</GrowSeasonHereNow>
+  <!-- EN: Cannot grow (bad seasonal temperature). -->
+  <CannotGrowBadSeasonTemperature>Negalima auginti (bloga metų laiko temperatūra).</CannotGrowBadSeasonTemperature>
+  <!-- EN: Blighted -->
+  <Blighted>Apėjęs kenkėjais</Blighted>
+  <!-- EN: Dying because exposed to light -->
+  <DyingBecauseExposedToLight>Miršta nes yra paveiktas šviesos.</DyingBecauseExposedToLight>
+  <!-- EN: Cut now -->
+  <AutoCutNow>Kirsti dabar</AutoCutNow>
+  <!-- EN: harvesting -->
+  <HarvestGerund>renka</HarvestGerund>
+  <!-- EN: cutting -->
+  <CutGerund>kerta</CutGerund>
+  <!-- EN: Cut all blight -->
+  <CutAllBlight>Nukirsti visus kūlėtus</CutAllBlight>
+  <!-- EN: Mark all blighted plants to be destroyed. Blighted plants will not yield any food or resources and should be destroyed before the blight spreads. -->
+  <CutAllBlightDesc>Pažymėti visus kūlėtus augalus sunaikinimui. Iš kūlėtų augalų negausi jokio maisto ar kitų išteklių, todėl jie turėtų būti sunaikinti prieš kūlėms išplintant.</CutAllBlightDesc>
+
+  <!-- Zones -->
+  <!-- EN: Zone -->
+  <Zone>Zona</Zone>
+  <!-- EN: Growing zone -->
+  <GrowingZone>Auginimo zona</GrowingZone>
+  <!-- EN: Stockpile zone -->
+  <Stockpile>Sandėliavimo zona</Stockpile>
+  <!-- EN: Dumping stockpile zone -->
+  <DumpingStockpile>Atliekų sandėliavimo zona</DumpingStockpile>
+  <!-- EN: Priority -->
+  <Priority>Prioritetas</Priority>
+  <!-- EN: Clear all -->
+  <ClearAll>Neleisti nieko</ClearAll>
+  <!-- EN: Allow all -->
+  <AllowAll>Leisti visus</AllowAll>
+
+  <!-- ThingFilter -->
+  <!-- EN: {0} hit points -->
+  <HitPoints>{0} gyvybės taškai</HitPoints>
+  <!-- EN: any quality -->
+  <AnyQuality>bet kokios kokybės</AnyQuality>
+  <!-- EN: {0} only -->
+  <OnlyQuality>tik {0}</OnlyQuality>
+
+  <!-- Mouseover indicator -->
+  <!-- EN: Undiscovered -->
+  <Undiscovered>Neatrasta</Undiscovered>
+
+  <!-- Buttons -->
+  <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
+  <ShowLearningHelperWhenEmptyToggleButton>Perjungti mokymosi padėjėjo matomumą kai jis yra tuščias.\n\nMokymosi padėjėjas visada yra matomas jei yra aktyvuota koncepcija kurią galima išmokti. Šis jungiklis padaro kad jis dingtų kai nėra jokios aktyvios koncepcijos.</ShowLearningHelperWhenEmptyToggleButton>
+  <!-- EN: Toggle visiblity of zones. -->
+  <ZoneVisibilityToggleButton>Perjungti zonų matomumą.</ZoneVisibilityToggleButton>
+  <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the cursor is pointing. -->
+  <ShowBeautyToggleButton>Perjungti gražumo rodymą.\n\nRodo pasaulio gražumą kokį veikėjas matytų jei stovėtų ten kur rodo žymeklis.</ShowBeautyToggleButton>
+  <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the cursor is pointing. -->
+  <ShowRoomStatsToggleButton>Perjungti kambarių statistikos rodymą.\n\nRodo to kambario, į kurį rodo žymeklis, statistiką.</ShowRoomStatsToggleButton>
+  <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
+  <ShowColonistBarToggleButton>Perjungti kolonistų juostą.\n\nEkrano viršuje rodo visų kolonistų ikonas ir pagrindines būsenas.\n\nGali perrūšiuoti kolonistus juostoje paspausdamas ant jų ikonų dešiniu pelės klavišu ir tempdamas.</ShowColonistBarToggleButton>
+  <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by pressing the left trigger button and dragging them. -->
+  <ShowColonistBarToggleButtonController>TODO</ShowColonistBarToggleButtonController>
+  <!-- EN: Toggle automatically expanding the home area around new constructions. -->
+  <AutoHomeAreaToggleButton>Perjungti automatinį namų srities plėtimą aplink naujus statinius.</AutoHomeAreaToggleButton>
+  <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
+  <AutoRebuildButton>Perjungti automatinį sunaikintų statinių atstatymą namų srityje.</AutoRebuildButton>
+  <!-- EN: Toggle categorized mode on the resource readout. -->
+  <CategorizedResourceReadoutToggleButton>Perjungti išteklių rodymo kategorijomis režimą.</CategorizedResourceReadoutToggleButton>
+  <!-- EN: Toggle displaying animal names for tame named animals. -->
+  <ShowAnimalNamesToggleButton>Perjungti gyvūnų vardų rodymą prijaukintiems gyvūnams turintiems vardus.</ShowAnimalNamesToggleButton>
+  <!-- EN: Toggle visibility of roofs. -->
+  <ShowRoofOverlayToggleButton>Perjungti stogų matomumą.</ShowRoofOverlayToggleButton>
+  <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
+  <ShowFertilityOverlayToggleButton>Perjungti derlingumo rodymą.\n\nTai rodo kokia žemė yra derlinga, kas turi įtakos kokie augalai gali augti ir kaip greit jie auga.</ShowFertilityOverlayToggleButton>
+  <!-- EN: Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water. -->
+  <ShowTerrainAffordanceOverlayToggleButton>Perjungti grunto tvirtumo rodymą.\n\nTai rodo kokius statinius galima pastatyti kokiose vietose.\n\nPavyzdžiui kai kurios gruntų rūšys išlaiko tik lengvus ar vidutinio sunkumo statinius, bet ne sunkius. Tiltai gali būti statomi tik ant vandens.</ShowTerrainAffordanceOverlayToggleButton>
+  <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
+  <LockNorthUpToggleButton>Užrakinti kameros sukiojimą taip, kad šiaurė visada būtų viršuje.</LockNorthUpToggleButton>
+  <!-- EN: Toggle day/night lighting on the planet view. -->
+  <UsePlanetDayNightSystemToggleButton>Perjungti dienos/nakties apšvietimą planetos apžvalgoje.</UsePlanetDayNightSystemToggleButton>
+  <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
+  <ShowExpandingIconsToggleButton>Perjungti didėjančių ikonų rodymą vietoj paprastų ikonų rodymo tolimiems objektams.</ShowExpandingIconsToggleButton>
+  <!-- EN: Toggle visibility of names of landforms. -->
+  <ShowWorldFeaturesToggleButton>Perjungti geografinių vietovardžių matomumą.</ShowWorldFeaturesToggleButton>
+  <!-- EN: Toggle heat overlay. This shows the air temperature in each room and outdoors.\n\nColonists will be unhappy if the temperature is too high or too low. Exposure to extreme temperatures can lead to hypothermia, frostbite, heatstroke, burns, and death. -->
+  <ShowTemperatureOverlayToggleButton>Perjungti šilumos rodymą. Tai rodo oro temperatūrą kiekviename kambaryje ir lauke.\n\nKolonistai bus nelaimingi jei temperatūra bus per aukšta ar per žema. Ekstremalios temperatūros poveikis gali privesti prie hipotermijos, nušalimo, šilumos smūgio, nudegimų ir mirties.</ShowTemperatureOverlayToggleButton>
+
+  <!-- Fire -->
+  <!-- EN: fire on {1_label} -->
+  <FireOn>dega {1_label}</FireOn>
+  <!-- EN: Burning -->
+  <Burning>Dega</Burning>
+  <!-- EN: fire size {0} -->
+  <FireSizeLower>ugnies dydis {0}</FireSizeLower>
+
+  <!-- Game conditions -->
+  <!-- EN: Special conditions affecting the area right now. -->
+  <GameConditionsTip>Ypatingos sąlygos, darančios įtaką šiai vietovei.</GameConditionsTip>
+  <!-- EN: time left -->
+  <TimeLeft>liko laiko</TimeLeft>
+  <!-- EN: impact date -->
+  <ImpactDate>nukritimo data</ImpactDate>
+  <!-- EN: Source unknown. -->
+  <SourceUnknown>Šaltinis nežinomas.</SourceUnknown>
+  <!-- EN: Click to jump to the source. -->
+  <ClickToJumpToSource>Paspausk, kad nušoktum į šaltinį.</ClickToJumpToSource>
+  <!-- EN: Click to jump to the flashstorm. -->
+  <ClickToJumpToFlashstorm>Paspausk, kad nušoktum į žaibavimų audrą.</ClickToJumpToFlashstorm>
+  <!-- EN: Caused by quest: {0} -->
+  <CausedByQuest>Sukeltas užduoties: {0}</CausedByQuest>
+
+  <!-- Building placement -->
+  <!-- EN: You have no usable materials from which to build this. -->
+  <NoStuffsToBuildWith>Neturi tinkamos naudoti medžiagos kad tai pastatytum.</NoStuffsToBuildWith>
+
+  <!-- Building placement restricters -->
+  <!-- EN: {0} will have work speed penalty -->
+  <WillGetWorkSpeedPenalty>{0} turės darbo greičio baudą</WillGetWorkSpeedPenalty>
+  <!-- EN: Cannot be placed under a roof. -->
+  <MustPlaceUnroofed>Negalima padėti po stogu.</MustPlaceUnroofed>
+  <!-- EN: Must be placed under thick roof. -->
+  <MustPlaceUnderThickRoof>Turi būti padėtas to storu stogu.</MustPlaceUnderThickRoof>
+  <!-- EN: Must place with head attached to ship structural beam. -->
+  <MustPlaceHeadOnShipBeam>Reikia padėti, kad galva būtų prijungta prie erdvėlaivio atraminio stulpo.</MustPlaceHeadOnShipBeam>
+  <!-- EN: Must be placed next to something that needs a hopper. -->
+  <MustPlaceNextToHopperAccepter>Turi būti padėtas šalia kažko kam reikia piltuvo.</MustPlaceNextToHopperAccepter>
+  <!-- EN: Must be placed directly on a steam geyser. -->
+  <MustPlaceOnSteamGeyser>Turi būti pastatytas tiesiai ant karštūjų versmių geizerio.</MustPlaceOnSteamGeyser>
+  <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
+  <MustPlaceCoolerWithFreeSpaces>Ir karša, ir šalta kondicionieriaus pusės turi siektis su oru.</MustPlaceCoolerWithFreeSpaces>
+  <!-- EN: Both the sides must be exposed for air to pass through. -->
+  <MustPlaceVentWithFreeSpaces>Abi pusės turi siektis su oru, kad jis galėtų praeiti.</MustPlaceVentWithFreeSpaces>
+  <!-- EN: Must be placed with standable space on all sides. -->
+  <MustPlaceAdjacentStandable>Turi būti stovimos vietos visose pusėse.</MustPlaceAdjacentStandable>
+  <!-- EN: Must be placed next to a pod launcher's fueling port. -->
+  <MustPlaceNearFuelingPort>Turi būti padėtas prie kapsulės svaidyklės kuro pylimo angos.</MustPlaceNearFuelingPort>
+  <!-- EN: Must be placed on drillable resources. -->
+  <MustPlaceOnDrillable>Turi būti padėtas ant gręžiamų išteklių.</MustPlaceOnDrillable>
+  <!-- EN: Cannot be placed next to traps. -->
+  <CannotPlaceAdjacentTrap>Negali būti padėtas šalia spąstų.</CannotPlaceAdjacentTrap>
+  <!-- EN: Cannot be placed next to another building of the same type. -->
+  <CannotPlaceAdjacentSameDef>Negali būti padėtas šalia kito tos pačios rūšies statinio.</CannotPlaceAdjacentSameDef>
+
+  <!-- Wind Turbine -->
+  <!-- EN: Blocked by -->
+  <WindTurbine_WindPathIsBlockedBy>Blokuojamas</WindTurbine_WindPathIsBlockedBy>
+  <!-- EN: Blocked by roof -->
+  <WindTurbine_WindPathIsBlockedByRoof>Blokuojamas stogo</WindTurbine_WindPathIsBlockedByRoof>
+
+  <!-- Watermill generator -->
+  <!-- EN: Flow reduced: Turbulence from other watermill -->
+  <Watermill_WaterUsedTwice>Oro srovė sumažėjusi: Turbulencija iš kitos vėjo jėgainės</Watermill_WaterUsedTwice>
+
+  <!-- Cryptosleep casket -->
+  <!-- EN: Contains -->
+  <CasketContains>Talpina</CasketContains>
+  <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
+  <CasketWarning>Įspėjimas!\n\n{PAWN_nameDef} yra tavo paskutinis pats stovintis kolonistas! Jei leisi {PAWN_objective} įžengti į karstą, gali nebegalėti žaisti toliau. Ar tikrai nori tęsti?</CasketWarning>
+
+  <!-- Ship launch report -->
+  <!-- EN: Cannot launch. -->
+  <ShipReportCannotLaunch>Negalima paleisti.</ShipReportCannotLaunch>
+  <!-- EN: Ready for launch. -->
+  <ShipReportCanLaunch>Pasiruošęs paleidimui.</ShipReportCanLaunch>
+  <!-- EN: Missing critical component -->
+  <ShipReportMissingPart>Trūksta kritiškai svarbaus komponento</ShipReportMissingPart>
+  <!-- EN: requires -->
+  <ShipReportMissingPartRequires>reikia</ShipReportMissingPartRequires>
+  <!-- EN: No full cryptosleep caskets -->
+  <ShipReportNoFullPods>Negalima pilnų kriptomiego karstų</ShipReportNoFullPods>
+  <!-- EN: Hibernating component -->
+  <ShipReportHibernating>Hibernavimosi komponentas</ShipReportHibernating>
+  <!-- EN: Component not yet ready -->
+  <ShipReportNotReady>Komponentas dar neparuoštas</ShipReportNotReady>
+  <!-- EN: No settlement to return to. Form a settlement first. -->
+  <ShipNoSettlementToReturnTo>Nėra gyvenvietės į kurią grįžti. Pirmiausia įkurk gyvenvietę.</ShipNoSettlementToReturnTo> <!-- text_todo -->
+  <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarning>(*Name)Charlon Whitestone(/Name) yra pasiruošęs pradėti reaktoriaus hibernavimosi atstatymo seką.\n\nJis tave įspėja, kad procesas užtruks apie 15 dienų ir energijos signalas bus aptinkamas iš labai toli.\n\nŠios rūšies energijos signalas rodo tarpžvaigždinio skrydžio pajėgumus ir pritrauks gaujas desperatiškų užpuolikų ir spiečius mirtinų mechanoidų.\n\nTu būsi puolamas su tokiu intensyvumu kokio dar niekada neregėjai. Pirmiau pasirūpink kad gynyba būtų parengta.</HibernateWarning>
+  <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarningStandalone>Reaktorius yra pasiruošęs užsikūrimui.\n\nProcesas užtruks apie 15 dienų ir energijos signalas bus aptinkamas iš labai toli. Šios rūšies energijos signalas rodo tarpžvaigždinio skrydžio pajėgumus ir pritrauks gaujas desperatiškų užpuolikų ir spiečius mirtinų mechanoidų.\n\nTu būsi puolamas su tokiu intensyvumu kokio dar niekada neregėjai. Pirmiau pasirūpink kad gynyba būtų parengta.</HibernateWarningStandalone>
+  <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
+  <HibernateWarningPacifist>(*Name)Charlon Whitestone(/Name) yra pasiruošęs pradėti reaktoriaus hibernavimosi atstatymo seką. Jis tave įspėja, kad procesas užtruks apie 15 dienų.</HibernateWarningPacifist>
+  <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
+  <HibernateWarningStandalonePacifist>Reaktorius paruoštas užkūrimui. Procesas truks apie 15 dienų.</HibernateWarningStandalonePacifist>
+
+  <!-- Neurotrainer -->
+  <!-- EN: skilltrainer ({0}) -->
+  <SkillNeurotrainerLabel>įgūdžių treniruoklis ({0})</SkillNeurotrainerLabel>
+  <!-- EN: Use skilltrainer to learn {0} -->
+  <SkillNeurotrainerUseLabel>Panaudok įgūdžių treniruoklį kad išlavintum {0}</SkillNeurotrainerUseLabel>
+  <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
+  <SkillNeurotrainerDescription>TODO Vienkartinė mechanitų, kurie išmokys specifinio įgūdžio, super dozė.\n\nDozė suduodama per regos nervą. Mechanitai, patekę į smegenis, greitai pagerina subjekto įgūdžius specifinėje srityje, kur to reikia paversdami save į neuroninį audinį.</SkillNeurotrainerDescription>
+  <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
+  <SkillNeurotrainerUsed>{USER_labelShort} panaudojo {1} įgūdžių treniruoklį kad iš {2} lygio pereitų į {3}.</SkillNeurotrainerUsed>
+
+  <!-- Minification -->
+  <!-- EN: Installed -->
+  <Installed>Įrengta</Installed>
+  <!-- EN: Not installed -->
+  <NotInstalled>Neįrengta</NotInstalled>
+  <!-- EN: Extracted tree will die in {time} unless replanted. -->
+  <MinifiedTreeWillDieIn>Iškasti medžiai mirs už {time} nebent bus persodinti</MinifiedTreeWillDieIn>
+
+  <!-- Art -->
+  <!-- EN: Title -->
+  <Title>Pavadinimas</Title>
+  <!-- EN: Untitled -->
+  <Untitled>Be pavadinimo</Untitled>
+
+  <!-- Unfinished thing -->
+  <!-- EN: Unfinished {0} -->
+  <UnfinishedItem>Nebaigtas {0}</UnfinishedItem>
+  <!-- EN: Unfinished {0} {1} -->
+  <UnfinishedItemWithStuff>Nebaigtas {0} {1}</UnfinishedItemWithStuff>
+
+  <!-- Quality -->
+  <!-- EN: Quality -->
+  <Quality>Kokybė</Quality>
+  <!-- EN: quality -->
+  <quality>kokybė</quality>
+  <!-- EN: An item's quality is how well-made it is. -->
+  <QualityDescription>Daikto kokybė yra tai, kaip gerai jis yra padarytas.</QualityDescription>
+  <!-- EN: Quality: {0} -->
+  <QualityIs>Kokybė: {0}</QualityIs>
+
+  <!-- Mood descriptions -->
+  <!-- EN: mental state -->
+  <Mood_MentalState>psichinė būsena</Mood_MentalState>
+  <!-- EN: about to break -->
+  <Mood_AboutToBreak>tuoj pakriks</Mood_AboutToBreak>
+  <!-- EN: on edge -->
+  <Mood_OnEdge>ant ribos</Mood_OnEdge>
+  <!-- EN: stressed -->
+  <Mood_Stressed>strese</Mood_Stressed>
+  <!-- EN: neutral -->
+  <Mood_Neutral>neutrali</Mood_Neutral>
+  <!-- EN: content -->
+  <Mood_Content>patenkintas</Mood_Content>
+  <!-- EN: happy -->
+  <Mood_Happy>laimingas</Mood_Happy>
+
+  <!-- Game over -->
+  <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
+  <GameOverEveryoneDead>Visi yra mirę arba pradingę. Šis pasakojimas baigtas.\n\nGalbūt kažkas dar ras panaudojimą šiems griuvėsiams.</GameOverEveryoneDead>
+  <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
+  <GameOverPlanetkillerImpact>Beveik šviesos greičiu, planetos naikinimo ginklas tėškėsi į žemę su jėga prilystančia trilijonui vandenilinių bombų. Kaip vandens balionas peršautas šautuvo, šis pasaulis išsilydė nuo susidūrimo ir ištaškė po kosmosą savo išsilydžiusius vidurius.\n\nDalis {0} planetos dabar sudaro mažą asteroidų žiedą. Likusi dalis yra išsilydęs, radioaktyvus pragaras, nuolat banguojantis nuo kilometrų aukščio žemės drebėjimų.\n\nTu neišgyvenai.</GameOverPlanetkillerImpact>
+  <!-- EN: You've launched the ship! -->
+  <GameOverShipLaunchedIntro>Tu paleidai erdvėlaivį!</GameOverShipLaunchedIntro>
+  <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
+  <GameOverShipLaunchedEnding>Tavo kompiuterinė persona dabar bandys skraidinti šį erdvėlaivį į saugią vietą. Galbūt ji ras klestinčią planetą šioje sistemoje. O gal išsirengs šimtmečių ilgumo kelionei į kitą žvaigždę. Ji net gali nuspręsti pasislėpti asteroide po ledu keletui tūkstančių metų, laukdama kol kas nors ten pastatys naują ultramodernų pasaulį.\n\nTu sužinosi kai pabusi.</GameOverShipLaunchedEnding>
+  <!-- EN: These colonists escaped:\n\n{0} -->
+  <GameOverColonistsEscaped>Šie kolonistai ištrūko:\n\n{0}</GameOverColonistsEscaped>
+  <!-- EN: These colonists were left behind:\n\n{0} -->
+  <GameOverColonistsLeft>Šie kolonistai pasiliko:\n\n{0}</GameOverColonistsLeft>
+  <!-- EN: In memory of:\n -->
+  <GameOverInMemoryOf>Atminimui:\n</GameOverInMemoryOf>
+  <!-- EN: Keep playing -->
+  <GameOverKeepPlaying>Žaisti toliau</GameOverKeepPlaying>
+  <!-- EN: Main menu -->
+  <GameOverMainMenu>Pagrindinis meniu</GameOverMainMenu>
+
+  <!-- Generic lifespan -->
+  <!-- EN: Expires in: -->
+  <LifespanExpiry>Baigiasi už:</LifespanExpiry>
+
+  <!-- Facilities -->
+  <!-- EN: inactive -->
+  <InactiveFacility>neaktyvus</InactiveFacility>
+  <!-- EN: Links to -->
+  <FacilityPotentiallyLinkedTo>Turi ryšį su</FacilityPotentiallyLinkedTo>
+  <!-- EN: Not linked to a building -->
+  <FacilityNoPotentialLinks>Neturi ryšio su statiniu</FacilityNoPotentialLinks>
+
+  <!-- Hediffs growth modes -->
+  <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
+  <DiseaseGrowthModeChanged_Growing>Dabar {PAWN_labelShort} {1} auga.</DiseaseGrowthModeChanged_Growing>
+  <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
+  <DiseaseGrowthModeChanged_Stable>Dabar {PAWN_labelShort} {1} yra stabilus.</DiseaseGrowthModeChanged_Stable>
+  <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
+  <DiseaseGrowthModeChanged_Remission>Dabar {PAWN_labelShort} {1} nyksta.</DiseaseGrowthModeChanged_Remission>
+
+  <!-- Marriage spot -->
+  <!-- EN: Usable now. -->
+  <MarriageSpotUsable>Tinkama naudoti dabar.</MarriageSpotUsable>
+  <!-- EN: Not usable: {0}. -->
+  <MarriageSpotNotUsable>Netinkama naudoti: {0}.</MarriageSpotNotUsable>
+  <!-- EN: blocked -->
+  <MarriageSpotNotStandable>užblokuota</MarriageSpotNotStandable>
+  <!-- EN: too dangerous for {1_labelShort} -->
+  <MarriageSpotDangerous>per pavojinga {1_labelShort}</MarriageSpotDangerous>
+  <!-- EN: forbidden for {1_labelShort} -->
+  <MarriageSpotForbidden>uždrausta {1_labelShort}</MarriageSpotForbidden>
+  <!-- EN: reserved -->
+  <MarriageSpotReserved>rezervuota</MarriageSpotReserved>
+  <!-- EN: unreachable for {1_labelShort} -->
+  <MarriageSpotUnreachable>nepasiekiama {1_labelShort}</MarriageSpotUnreachable>
+  <!-- EN: in prison cell -->
+  <MarriageSpotInPrisonCell>kalėjimo kameroje</MarriageSpotInPrisonCell>
+  <!-- EN: uncomfortable temperature -->
+  <NotEnjoyableOutsideTemperature>nekomfortiška temperatūra</NotEnjoyableOutsideTemperature>
+
+  <!-- Colonist bar -->
+  <!-- EN: Medical rest -->
+  <ActivityIconMedicalRest>Medicininis poilsis</ActivityIconMedicalRest>
+  <!-- EN: Sleeping -->
+  <ActivityIconSleeping>Miega</ActivityIconSleeping>
+  <!-- EN: Fleeing -->
+  <ActivityIconFleeing>Bėga</ActivityIconFleeing>
+  <!-- EN: Fighting -->
+  <ActivityIconAttacking>Kovoja</ActivityIconAttacking>
+  <!-- EN: Idle -->
+  <ActivityIconIdle>Dykinėja</ActivityIconIdle>
+  <!-- EN: Burning -->
+  <ActivityIconBurning>Dega</ActivityIconBurning>
+  <!-- EN: Forming a caravan -->
+  <ActivityIconFormingCaravan>Formuoja karavaną</ActivityIconFormingCaravan>
+
+  <!-- Maintainable -->
+  <!-- EN: Due for maintenance. -->
+  <DueForMaintenance>Laikas priežiūrai.</DueForMaintenance>
+  <!-- EN: Deteriorating due to lack of maintenance. -->
+  <DeterioratingDueToLackOfMaintenance>Prastėja dėl priežiūros stokos.</DeterioratingDueToLackOfMaintenance>
+
+  <!-- Deep drill -->
+  <!-- EN: Progress to next lump -->
+  <ProgressToNextLump>Pažanga iki sekančio luito</ProgressToNextLump>
+  <!-- EN: Resource below -->
+  <ResourceBelow>Ištekliai apačioje</ResourceBelow>
+  <!-- EN: Progress to next portion -->
+  <ProgressToNextPortion>Pažanga iki sekančios porcijos</ProgressToNextPortion>
+  <!-- EN: No resources below. -->
+  <DeepDrillNoResources>Apačioje išteklių nėra.</DeepDrillNoResources>
+  <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
+  <DeepDrillExhausted>Giluminio gręžinio ištekliai išseko, grąžtas automatiškai uždraustas. Vėl leisk kad pradėtum kasti {0}.</DeepDrillExhausted>
+  <!-- EN: Deep drill resources exhausted. -->
+  <DeepDrillExhaustedNoFallback>Giluminio gręžinio ištekliai išseko.</DeepDrillExhaustedNoFallback>
+
+  <!-- reloading ammo -->
+  <!-- EN: Remaining charges -->
+  <ChargesRemaining>Likę užtaisai</ChargesRemaining>
+  
+  <!-- Learning helper -->
+  <!-- EN: Learning helper -->
+  <LearningHelper>Mokymosi padėjėjas</LearningHelper>
+  <!-- EN: In-game tutor that aims to teach you information about topics relevant to your colony's current state -->
+  <LearningHelperTooltip>Kuratorius žaidimo viduje kuris stengiasi mokyti tave apie dalykus kurie yra aktualūs tavo kolonijai tuo metu.</LearningHelperTooltip>
+  <!-- EN: Mark as learned -->
+  <MarkLearned>Žymėti kaip išmoktą</MarkLearned>
+  <!-- EN: Already learned -->
+  <AlreadyLearned>Jau išmoktas</AlreadyLearned>
+  <!-- EN: Filter -->
+  <Filter>Filtruoti</Filter>
+
+  <!-- Compass -->
+  <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
+  <CompassTip>Rodo šiaurę. Paspausk kad pasuktum kamerą taip, kad šiaurė būtų viršuje.</CompassTip>
+
+  <!-- World route planner -->
+  <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
+  <RoutePlannerButtonTip>Paspausk kad įeitum į planavimo režimą kur gali susiplanuoti kelionę ir suskaičiuoti atstumą tarp kelionės taškų.</RoutePlannerButtonTip>
+  <!-- EN: Add two or more waypoints. -->
+  <RoutePlannerAddTwoOrMoreWaypoints>Pridėti du ar daugiau kelionės taškų.</RoutePlannerAddTwoOrMoreWaypoints>
+  <!-- EN: Add one or more waypoints. -->
+  <RoutePlannerAddOneOrMoreWaypoints>Pridėti vieną ar daugiau kelionės taškų.</RoutePlannerAddOneOrMoreWaypoints>
+  <!-- EN: Total route time: {0} -->
+  <RoutePlannerEstTimeToFinalDest>Viso maršruto trukmė: {0}</RoutePlannerEstTimeToFinalDest>
+  <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
+  <RoutePlannerUsingAverageTicksPerMoveWarning>Planavimo režimas naudoja numatytąjį karavano greitį. Tavo greitis gali skirtis.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <!-- EN: Calculating for: {0} -->
+  <RoutePlannerUsingTicksPerMoveOfCaravan>Skaičiuojama: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <!-- EN: Right mouse button: Add/remove waypoints. -->
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>Dešinys pelės klavišas: Pridėti/ištrinti kelionės taškus.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <!-- EN: Left trigger button: Add/remove waypoints. -->
+  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>TODO</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
+  <!-- EN: ESC: Exit planning mode. -->
+  <RoutePlannerPressEscapeToExit>ESC: Išeiti iš planavimo režimo.</RoutePlannerPressEscapeToExit>
+  <!-- EN: {Key:Cancel}: Exit planning mode. -->
+  <RoutePlannerPressEscapeToExitController>TODO</RoutePlannerPressEscapeToExitController>
+  <!-- EN: ESC: Return to the caravan formation dialog. -->
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Grįžti į karavano formavimo dialogą.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <!-- EN: {Key:Cancel}: Return to the caravan formation dialog. -->
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>TODO</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
+  <!-- EN: Est. travel time: {0} -->
+  <EstimatedTimeToWaypoint>Numatoma kelionės trukmė: {0}</EstimatedTimeToWaypoint>
+  <!-- EN: Est. travel time (from previous waypoint): {0} -->
+  <EstimatedTimeToWaypointFromPrevious>Numatoma kelionės trukmė (nuo praeito kelionės taško): {0}</EstimatedTimeToWaypointFromPrevious>
+  <!-- EN: Est. travel time: {0} -->
+  <EstimatedTimeToTile>Numatoma kelionės trukmė: {0}</EstimatedTimeToTile>
+  <!-- EN: Foraged food amount -->
+  <ForagedFoodAmount>Gamtoje surinkto maisto kiekis</ForagedFoodAmount>
+
+  <!-- Outfits -->
+  <!-- EN: Anything -->
+  <OutfitAnything>Bet kas</OutfitAnything>
+  <!-- EN: Worker -->
+  <OutfitWorker>Darbuotojas</OutfitWorker>
+  <!-- EN: Soldier -->
+  <OutfitSoldier>Kareivis</OutfitSoldier>
+  <!-- EN: Nudist -->
+  <OutfitNudist>Nudistas</OutfitNudist>
+
+  <!-- Hibernatable -->
+  <!-- EN: Hibernating -->
+  <HibernatableHibernating>Hibernuojasi</HibernatableHibernating>
+  <!-- EN: Starting up -->
+  <HibernatableStartingUp>Įsijungia</HibernatableStartingUp>
+
+  <!-- Transport pods -->
+  <!-- EN: {0}: See available orders... -->
+  <ClickToSeeAvailableOrders_WorldObject>TODO {0}: Peržiūrėti prieinamus užsakymus...</ClickToSeeAvailableOrders_WorldObject>
+  <!-- EN: See available orders... -->
+  <ClickToSeeAvailableOrders_Empty>TODO Peržiūrėti prieinamus užsakymus...</ClickToSeeAvailableOrders_Empty>
+  
+  <!-- Pawn tooltips -->
+  <!-- EN: {0} ({1})\n{2}\n{3} -->
+  <PawnTooltipWithDescAndPrimaryEquip>{0} ({1})\n{2}\n{3}</PawnTooltipWithDescAndPrimaryEquip>
+  <!-- EN: {0} ({1})\n{2} -->
+  <PawnTooltipWithDescNoPrimaryEquip>{0} ({1})\n{2}</PawnTooltipWithDescNoPrimaryEquip>
+  <!-- EN: {0}\n{1}\n{2} -->
+  <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
+  <!-- EN: {0}\n{1} -->
+  <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
+  <!-- EN: Fall rate: {0} / s ({1}s until zero) -->
+  <PawnTooltipPsychicEntropyStats>Mažėjimo greitis: {0} / s ({1}s iki nulio)</PawnTooltipPsychicEntropyStats>
+  <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
+  <PawnTooltipPsychicEntropyDesc>Neuroninis karštis padidėja panaudojus psichinę galią. Peržengus įprastas ribas galimas nervų pakrikimas kuris tęsis dienomis.\n\nNeuroninis karštis praeina per laiką savaime. Šis procesas gali būti pagreitintas dėvint eltex aprangą arba kenčiant skausmą</PawnTooltipPsychicEntropyDesc>
+  <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
+  <PawnTooltipPsychicEntropyPainFocus>Skausmo padidinimas\n\nSkausmas sukoncentruoja protą ir pagreitina neuroninio karščio išsisklaidymą.\n\nSkausmo lygis: {0}\nPriedas prie karščio atsistatymo: {1}</PawnTooltipPsychicEntropyPainFocus>
+  <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
+  <PawnTooltipPsychicEntropyLimit>Perjungti nauroninio karščio ribotuvą. Ribos peržengimas gali sukelti psichinį pakrikimą kuris tęsis dienomis. Negrįžtamų pasekmių nesukels.</PawnTooltipPsychicEntropyLimit>
+  <!-- EN: Psyfocus: {0} -->
+  <PawnTooltipPsyfocus>Psifokusas: {0}</PawnTooltipPsyfocus>
+  
+  <!-- Pawn tooltip description -->
+  <!-- EN: {0} {1} -->
+  <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
+
+  <!-- Rewards -->
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
+  <Reward_Pawn_DropPod>{0_age} metų {0_title} vardu {0_nameDef} atvyks transportavimo kapsulėje {0_relationInfoInParentheses}</Reward_Pawn_DropPod>
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
+  <Reward_Pawn_WalkIn>{0_age} metų {0_title} vardu {0_nameDef} atvyks ir prisijungs prie tavęs {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
+  <Reward_Pawn_Caravan>{0_age} metų {0_title} vardu {0_nameDef} prisijungs prie tavęs {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
+  <!-- EN: transport pods with the following resources will arrive (total value {1}):
+\n{0} -->
+  <Reward_Items>atvyks transportavimo kapsulės su šiais ištekliais (bendra vertė {1}):\n\n{0}</Reward_Items>
+  <!-- EN: you will receive (total value {1}):
+\n{0} -->
+  <Reward_Items_Caravan>tu gausi (bendra vertė {1}):\n\n{0}</Reward_Items_Caravan>
+  <!-- EN: your faction relations with {0_name} will improve by {1} -->
+  <Reward_Goodwill>tavo frakcijos santykiai su {0_name} pagerės {1} taškais</Reward_Goodwill>
+  <!-- EN: you will be taken to the stars -->
+  <Reward_PassageOffworld>tu būsi išgabentas į žvaigždes</Reward_PassageOffworld>
+  <!-- EN: Passage offworld -->
+  <Reward_PassageOffworld_Label>Praėjimas už šio pasaulio</Reward_PassageOffworld_Label>
+  <!-- EN: you can loot everything from the camp -->
+  <Reward_CampLoot>iš šios stovyklos gali pagrobti viską</Reward_CampLoot>
+  <!-- EN: Camp loot -->
+  <Reward_CampLoot_Label>Stovyklos grobis</Reward_CampLoot_Label>
+  <!-- EN: the visitors will work and fight for you -->
+  <Reward_VisitorsHelp>lankytojai dirbs tau ir kovos su tavimi</Reward_VisitorsHelp>
+  <!-- EN: Visitors' help -->
+  <Reward_VisitorsHelp_Label>Lankytojų pagalba</Reward_VisitorsHelp_Label>
+  <!-- EN: New psylink level -->
+  <Reward_BestowingCeremony_Label>Naujas psiryšio lygis</Reward_BestowingCeremony_Label>
+  <!-- EN: {PAWNNAME} gains psylink -->
+  <Reward_BestowingCeremony>{PAWNNAME} gauna psiryšį</Reward_BestowingCeremony>
+  <!-- EN: Shuttle loot -->
+  <Reward_ShuttleLoot_Label>Erdvėlaivio grobis</Reward_ShuttleLoot_Label>
+  <!-- EN: you can deconstruct and loot the shuttle -->
+  <Reward_ShuttleLoot>gali išardyti erdvėlaivį ir grobti iš jo</Reward_ShuttleLoot>
+  <!-- EN: Possible future reward -->
+  <Reward_PossibleFutureReward_Label>Ateityje galimas atlygis</Reward_PossibleFutureReward_Label>
+  <!-- EN: a reward possibly granted in the future -->
+  <Reward_PossibleFutureReward>atlygis galimai suteiktas ateityje</Reward_PossibleFutureReward>
+  <!-- EN: {TITLE} title -->
+  <Reward_Title_Label>{TITLE} titulas</Reward_Title_Label>
+  <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
+  <Reward_Title>{PAWNNAME} gauna {TITLE} titulą iš {FACTION}</Reward_Title>
+  <!-- EN: value {0} -->
+  <TotalValue>vertė {0}</TotalValue>
+  
+  <!-- Bladelink -->
+  <!-- EN: Bonded to: {0} -->
+  <BondedWith>Turi emocinį ryšį su: {0}</BondedWith>
+  <!-- EN: Not yet bonded -->
+  <NotBonded>Dar neturi emocinio ryšio</NotBonded>
+  <!-- EN: bonded to someone else -->
+  <BladelinkBondedToSomeoneElse>turi emocinį ryšį su kažkuo kitu</BladelinkBondedToSomeoneElse>
+  <!-- EN: (existing bond) -->
+  <BladelinkAlreadyBonded>(esamas emocinis ryšys)</BladelinkAlreadyBonded>
+  <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
+  <BladelinkAlreadyBondedDialog>Asmuo gali turėti emocinį ryšį tik su vienu personos ginklu vienu metu.\n\nNorint naudoti ir sukurti emocinį ryšį su {WEAPON_labelShort}, pirmiausia {PAWN_nameDef} dabartinis ginklas {BONDEDWEAPON_labelShort} turi būti sunaikintas.</BladelinkAlreadyBondedDialog>
+  <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
+  <BladelinkAlreadyBondedMessage>{PAWN_nameDef} jau turi emocinį ryšį su {BONDEDWEAPON_labelShort}</BladelinkAlreadyBondedMessage>
+
+  <!-- Biocoded weapons -->
+  <!-- EN: biocoded {0} -->
+  <Biocoded>biokoduotas {0}</Biocoded>
+  <!-- EN: Biocoding: {0} -->
+  <CodedFor>Biokodavimas: {0}</CodedFor>
+  <!-- EN: biocoded -->
+  <BiocodedCodedForSomeoneElse>biokoduotas</BiocodedCodedForSomeoneElse>
+
+  <!-- Projectile interceptor -->
+  <!-- EN: Intercepts {0} every {1} -->
+  <InterceptsProjectilesEvery>Užkerta {0} kas {1}</InterceptsProjectilesEvery>
+  <!-- EN: Intercepts {0} -->
+  <InterceptsProjectiles>Užkerta {0}</InterceptsProjectiles>
+  <!-- EN: ground projectiles -->
+  <InterceptsProjectiles_GroundProjectiles>antžeminius šovinius</InterceptsProjectiles_GroundProjectiles>
+  <!-- EN: aerial projectiles -->
+  <InterceptsProjectiles_AerialProjectiles>orinius šovinius</InterceptsProjectiles_AerialProjectiles>
+
+  <!-- Condition causers -->
+  <!-- EN: Affected gender -->
+  <AffectedGender>Paveikta lytis</AffectedGender>
+
+  <!-- Hediff misc -->
+  <!-- EN: Caused by: {0} -->
+  <CausedByHediff>Sukelta dėl: {0}</CausedByHediff>
+  
+  <!-- Healing -->
+  <!-- EN: {0_nameDef}'s {1} was cured. -->
+  <HealingCureHediff>{0_nameDef} {1} buvo išgydytas.</HealingCureHediff>
+  <!-- EN: {0_nameDef}'s {1} was restored. -->
+  <HealingRestoreBodyPart>{0_nameDef} {1} buvo atstatytas.</HealingRestoreBodyPart>
+
+  <!-- EN: Caution: Placing a building here will anger {FACTION_name}! -->
+  <WarningBuildingCausesHostility>Atsargiai: Statymas šioje vietoje supykdys {FACTION_name}!</WarningBuildingCausesHostility>
+
+  <!-- EN: Choose landing site -->
+  <ChooseLandingSite>Pasirink nusileidimo vietą</ChooseLandingSite>
+  
+  <!-- Rituals -->
+  <!-- EN: ritual -->
+  <Ritual>ritualai</Ritual>
+
+  <!-- EN: Takes place at -->
+  <RitualTakesPlaceAt>TODO</RitualTakesPlaceAt>
+  <!-- EN: Any {0} -->
+  <RitualTargetThingDefsInfo>TODO</RitualTargetThingDefsInfo>
+  <!-- EN: Attending {0} -->
+  <LordReportAttending>TODO</LordReportAttending>
+  <!-- EN: {0} has been canceled. -->
+  <RitualCalledOff>TODO</RitualCalledOff>
+  <!-- EN: {0} was not completed because of lack of attendance. -->
+  <RitualNobodyAttended>TODO</RitualNobodyAttended>
+  <!-- EN: {0} has been completed. -->
+  <RitualFinished>TODO</RitualFinished>
+  <!-- EN: ends in {0} -->
+  <RitualEndsIn>TODO</RitualEndsIn>
+  <!-- EN: Can start any time -->
+  <RitualStartAnyTime>TODO</RitualStartAnyTime>
+  <!-- EN: Can start after event -->
+  <RitualStartEvent>TODO</RitualStartEvent>
+  <!-- EN: Focus objects -->
+  <RitualFocusObjects>TODO</RitualFocusObjects>
+  <!-- EN: Participating roles -->
+  <RitualParticipatingRoles>TODO</RitualParticipatingRoles>
+  <!-- EN: Organizers -->
+  <Organizers>TODO</Organizers>
+  <!-- EN: Quality factors -->
+  <QualityFactors>TODO</QualityFactors>
+  <!-- EN: This condition may be fulfilled, depending on how things play out.\n\nIf it is fulfilled, the quality bonus will apply. -->
+  <QualityFactorTooltipUncertain>TODO</QualityFactorTooltipUncertain>
+  <!-- EN: This condition is not fulfilled.\n\nThe quality bonus will not apply. -->
+  <QualityFactorTooltipNotFulfilled>TODO</QualityFactorTooltipNotFulfilled>
+  <!-- EN: Spectators -->
+  <Spectators>TODO</Spectators>
+  <!-- EN: Not participating -->
+  <NotParticipating>TODO</NotParticipating>
+  <!-- EN: Drag and drop or left/right click to move people. -->
+  <DragPawnsToRolesInfo>TODO</DragPawnsToRolesInfo>
+  <!-- EN: Drag and drop or click to move people. -->
+  <DragPawnsToRolesInfoController>TODO</DragPawnsToRolesInfoController>
+  <!-- EN: A slave. The human property of others. -->
+  <RitualBeginSlaveDesc>TODO</RitualBeginSlaveDesc>
+  <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
+  <RitualBeginSleepingDesc>TODO</RitualBeginSleepingDesc>
+  <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the ritual. -->
+  <RitualBeginSleepingWarning>TODO</RitualBeginSleepingWarning>
+  <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
+  <RitualRoleRequiresSocialRole>TODO</RitualRoleRequiresSocialRole>
+  <!-- EN: No substitute available for the role of {0}. -->
+  <RitualRoleCantSubstitute>TODO</RitualRoleCantSubstitute>
+  <!-- EN: {0} progress -->
+  <RitualOutcomeProgress>TODO</RitualOutcomeProgress>
+  <!-- EN: {0} quality depends on -->
+  <RitualOutcomeQualityAbstract>TODO</RitualOutcomeQualityAbstract>
+  <!-- EN: {0} total quality was {1}, determined by these factors -->
+  <RitualOutcomeQualitySpecific>TODO</RitualOutcomeQualitySpecific>
+  <!-- EN: Outcome chances at {0} quality -->
+  <RitualOutcomeChances>TODO</RitualOutcomeChances>
+  <!-- EN: Performed recently -->
+  <RitualOutcomePerformedRecently>TODO</RitualOutcomePerformedRecently>
+  <!-- EN: {0} expectations -->
+  <RitualQualityExpectations>TODO</RitualQualityExpectations>
+  <!-- EN: Ritual ambience sound -->
+  <RitualAmbienceSound>TODO</RitualAmbienceSound>
+  <!-- EN: Total {0} quality is below {1}. Proceeding will most likely negatively impact your colony.\n\nAre you sure? -->
+  <RitualQualityLowWarning>TODO</RitualQualityLowWarning>
+  <!-- EN: No reachable appropriate place to speak. -->
+  <AbilitySpeechDisabledNoSpot>TODO</AbilitySpeechDisabledNoSpot>
+  <!-- EN: {0_labelShort} is incapable of {1}. -->
+  <AbilityDisabledNoCapacity>TODO</AbilityDisabledNoCapacity>
+  <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
+  <RitualOutcomeExtraDesc_Mood>TODO</RitualOutcomeExtraDesc_Mood>
+  <!-- EN: This ritual has no quality offsets, so the best outcome is always expected -->
+  <RitualOutcomeNoQuality>TODO</RitualOutcomeNoQuality>
+  
+  <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
+  <ChooseParticipants>TODO</ChooseParticipants>
+  <!-- EN: Begin -->
+  <Begin>TODO</Begin>
+  <!-- EN: Begin {0} -->
+  <BeginRitual>TODO</BeginRitual>
+  <!-- EN: Begin {0} for {1} -->
+  <BeginRitualFor>TODO</BeginRitualFor>
+  <!-- EN: {0} (out of {1}) -->
+  <QualityOutOf>TODO</QualityOutOf>
+  <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
+  <DateRitualNoObligation>TODO</DateRitualNoObligation>
+
+  <!-- EN: Replace with -->
+  <PreceptReplaceWith>TODO</PreceptReplaceWith>
+  <!-- EN: Ritual seat of {IDEOS} -->
+  <RitualSeatOf>TODO</RitualSeatOf>
+  <!-- EN: Expected quality -->
+  <ExpectedRitualQuality>TODO</ExpectedRitualQuality>
+  <!-- EN: Starting quality -->
+  <StartingQuality>TODO</StartingQuality>
+  <!-- EN: Expected duration -->
+  <ExpectedRitualDuration>TODO</ExpectedRitualDuration>
+  
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <RitualPredictedOutcomeDescPawnStat>TODO</RitualPredictedOutcomeDescPawnStat>
+  <!-- EN: Room beauty -->
+  <RitualPredictedOutcomeDescRoomBeauty>TODO</RitualPredictedOutcomeDescRoomBeauty>
+  <!-- EN: Participants -->
+  <RitualPredictedOutcomeDescParticipantCount>TODO</RitualPredictedOutcomeDescParticipantCount>
+  <!-- EN: {PAWN_labelShort}'s expectations -->
+  <RitualPredictedOutcomeDescPawnExpectations>TODO</RitualPredictedOutcomeDescPawnExpectations>
+  <!-- EN: Loved one present -->
+  <RitualOutcomeLovedOnePresentLabel>TODO</RitualOutcomeLovedOnePresentLabel>
+  <!-- EN: Any person that {PAWN_labelShort} considers their friend or more. -->
+  <RitualOutcomeLovedOnePresentTip>TODO</RitualOutcomeLovedOnePresentTip>
+
+  <!-- EN: Any of these -->
+  <RitualOutcomeLabelAnyOfThese>TODO</RitualOutcomeLabelAnyOfThese>
+  <!-- EN: Replaces {PAWN_labelShort} -->
+  <RitualRoleReplaces>TODO</RitualRoleReplaces>
+
+  <!-- EN: present -->
+  <Present>TODO</Present>
+  <!-- EN: {0} used -->
+  <Used>TODO</Used>
+  <!-- EN: {0} starting quality -->
+  <StartingRitualQuality>TODO</StartingRitualQuality>
+
+  <!-- EN: up to {0} quality -->
+  <OutcomeBonusDesc_Quality>TODO</OutcomeBonusDesc_Quality>
+  <!-- EN: {0} quality -->
+  <OutcomeBonusDesc_QualitySingleOffset>TODO</OutcomeBonusDesc_QualitySingleOffset>
+  <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
+  <OutcomeLetterLabel>TODO</OutcomeLetterLabel>
+  <!-- EN: {0} max -->
+  <MaxValue>TODO</MaxValue>
+
+  <!-- EN: {0} of -->
+  <ThingOf>{0} iš</ThingOf>
+  <!-- EN: {0} of {1} -->
+  <ThingOfSource>{0} iš {1}</ThingOfSource>
+  <!-- EN: {0} of {1} and {2} -->
+  <ThingOfTwoSources>{0} iš {1} ir {2}</ThingOfTwoSources>
+
+  <!-- Gas types -->
+  <!-- EN: blind smoke -->
+  <BlindSmoke>TODO</BlindSmoke>
+  <!-- EN: tox gas -->
+  <ToxGas>nuodingos dujos</ToxGas>
+  <!-- EN: rot stink -->
+  <RotStink>TODO</RotStink>
+
+  <!-- Abilities -->
+  <!-- EN: must be drafted. -->
+  <AbilityDisabledUndrafted>turi būti mobilizuotas</AbilityDisabledUndrafted>
+  <!-- EN: ability on cooldown. It will be available in {0}. -->
+  <AbilityOnCooldown>TODO</AbilityOnCooldown>
+  <!-- EN: ability already queued. -->
+  <AbilityAlreadyQueued>TODO</AbilityAlreadyQueued>
+  <!-- EN: Ability ready: {0} -->
+  <AbilityReadyLabel>TODO</AbilityReadyLabel>
+  <!-- EN: {0_nameDef} is ready to use {1}. -->
+  <AbilityReadyText>TODO</AbilityReadyText>
+  <!-- EN: {0_labelShort} is participating in {1}. -->
+  <AbilityDisabledInRitual>TODO</AbilityDisabledInRitual>
+  <!-- EN: Charges -->
+  <Charges>TODO</Charges>
+
+  <!-- EN: {0_nameDef} is in an aggressive mental state. -->
+  <PawnIsInMentalState>TODO</PawnIsInMentalState>
+
+  <!-- EN: Disabled work -->
+  <DisabledWorkLabel>TODO</DisabledWorkLabel>
+
+  <!-- Glowers -->
+  <!-- EN: change color -->
+  <GlowerChangeColor>TODO</GlowerChangeColor>
+  <!-- EN: Change the color of the light. -->
+  <GlowerChangeColorDescription>TODO</GlowerChangeColorDescription>
+  <!-- EN: You must research {0} to change light color. -->
+  <GlowerChangeColorNeedsResearch>TODO</GlowerChangeColorNeedsResearch>
+
+  <!-- Shields -->
+  <!-- EN: A personal shield that will attempt to stop incoming projectiles or shrapnel. It prevents the wearer from firing out, and shuts down instantly if hit by an EMP. -->
+  <ShieldPersonalTip>TODO</ShieldPersonalTip>
+
+  <!-- EN: {PAWN_nameDef} is so loyal to {PAWN_possessive} home that {PAWN_pronoun} will refuse to be recruited if taken prisoner. -->
+  <UnrecruitableDesc>{PAWN_nameDef} yra toks ištikimas {PAWN_possessive} namams, kad {PAWN_pronoun} atsisakys prisijungti, jei bus paimtas į nelaisvę.</UnrecruitableDesc>
+
+  <!-- EN: Random -->
+  <Random>Atsitiktinis</Random>
+
+  <!-- EN: Plant {0_label} -->
+  <PlantThing>Pasodinti {0_label}</PlantThing>
+  <!-- EN: Plant a {0_label} in a chosen area. -->
+  <PlantThingDesc>Pasodinti {0_label} pasirinktoje vietoje</PlantThingDesc>
+  <!-- EN: Cancel planting {0_label} -->
+  <CancelPlantThing>Atšaukti {0_label} sodinimą</CancelPlantThing>
+  <!-- EN: Cancel planting the {0_label}. -->
+  <CancelPlantThingDesc>Atšaukti {0_label} sodinimą.</CancelPlantThingDesc>
+
+  <!-- EN: another gathering is in progress. -->
+  <AbilitySpeechDisabledAnotherGatheringInProgress>TODO</AbilitySpeechDisabledAnotherGatheringInProgress>
+  <!-- EN: Next speech ready in -->
+  <AbilitySpeechCooldown>TODO</AbilitySpeechCooldown>
+  <!-- EN: Initiated at -->
+  <AbilitySpeechTargetsLabel>TODO</AbilitySpeechTargetsLabel>
+
+</LanguageData>

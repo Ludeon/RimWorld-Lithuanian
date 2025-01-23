@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal gather speed -->
+  <AnimalGatherSpeed.label>rinkimo iš gyvūnų greitis</AnimalGatherSpeed.label>
+  <!-- EN: The speed at which this person milks, shears, and otherwise gathers resources from animals. -->
+  <AnimalGatherSpeed.description>Greitis, kuriuo šis žmogus melžia, kerpa ir kitaip renka išteklius iš gyvūnų.</AnimalGatherSpeed.description>
+  
+  <!-- EN: animal gather yield -->
+  <AnimalGatherYield.label>rinkimo iš gyvūnų našumas</AnimalGatherYield.label>
+  <!-- EN: The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal.\n\nHigher percentages reduce the chance of wasting the product. -->
+  <AnimalGatherYield.description>Procentinis kiekis, kurį žmogus gauna kerpant, melžiant ar kitaip renkant išteklius iš gyvo gyvūno.\n\nDidesnis procentas sumažina tikimybę iššvaistyti produktą.</AnimalGatherYield.description>
+  
+  <!-- EN: cleaning speed multiplier -->
+  <CleaningSpeed.label>valymo greičio daugiklis</CleaningSpeed.label>
+  <!-- EN: A multiplier on how fast this cleans up filth from the ground. -->
+  <CleaningSpeed.description>Daugiklis greičiui, kuriuo šis asmuo išvalo nešvarumus nuo žemės.</CleaningSpeed.description>
+  
+  <!-- EN: construction speed -->
+  <ConstructionSpeed.label>statymo greitis</ConstructionSpeed.label>
+  <!-- EN: The speed at which this person constructs and repairs buildings. -->
+  <ConstructionSpeed.description>Greitis, kuriuo šis asmuo stato ir taiso statinius.</ConstructionSpeed.description>
+  
+  <!-- EN: construct success chance -->
+  <ConstructSuccessChance.label>pavykusio pastatymo tikimybė</ConstructSuccessChance.label>
+  <!-- EN: The chance that this person will succeed in constructing something.\nFailing means wasting time and resources. -->
+  <ConstructSuccessChance.description>Tikimybė, kad šiam žmogui pavyks ką nors pastatyti.\nNepavykus bus iššvaistytas laikas ir ištekliai.</ConstructSuccessChance.description>
+  
+  <!-- EN: deep drilling speed -->
+  <DeepDrillingSpeed.label>giluminio gręžimo greitis</DeepDrillingSpeed.label>
+  <!-- EN: A speed at which this person uses a deep drill to extract underground resources. -->
+  <DeepDrillingSpeed.description>Greitis, kuriuo šis asmuo naudoja giluminį grąžtą požeminiams ištekliams išgauti.</DeepDrillingSpeed.description>
+  
+  <!-- EN: drug crop harvest yield -->
+  <DrugHarvestYield.label>narkotinių kultūrinių augalų derliaus našumas</DrugHarvestYield.label>
+  <!-- EN: The yield this person gets when harvesting drug crops.\n\nLow yields give a chance that this person will accidentally waste the harvest. High yields increase the yield from each plant. -->
+  <DrugHarvestYield.description>Derliaus kiekis, kurį šis asmuo gauna nuimdamas narkotinių kultūrinių augalų derlių.\n\nMažas našumas turi tikimybę, kad šis asmuo netyčia iššvaistys derlių. Didelis našumas padidina derliaus kiekį iš kiekvieno augalo.</DrugHarvestYield.description>
+  
+  <!-- EN: repair success chance -->
+  <FixBrokenDownBuildingSuccessChance.label>pavykusio sutaisymo tikimybė</FixBrokenDownBuildingSuccessChance.label>
+  <!-- EN: The chance that this person will successfully repair a broken down building using a component.\n\nFailing means wasting time and resources.\nNote that this only applies to repairing breakdowns, which is different from repairing damage. -->
+  <FixBrokenDownBuildingSuccessChance.description>Tikimybė, kad šiam asmeniui pavyks sutaisys sugedusį statinį naudodamas komponentą.\n\nNesėkmė reiškia iššvaistytus laiką ir išteklius.\nAtkreipk dėmesį, kad tai taikoma tik gedimų taisymui, kuris skiriasi nuo žalos taisymo.</FixBrokenDownBuildingSuccessChance.description>
+  
+  <!-- EN: hunting stealth -->
+  <HuntingStealth.label>sėlinimas medžiojant</HuntingStealth.label>
+  <!-- EN: This stat reduces the chance of hunted animals attacking the hunter.\n\nA 0% score means no reduction.\nA 100% score means animals never attack. -->
+  <HuntingStealth.description>Šis statistinis rodiklis sumažina tikimybę, kad medžiojami gyvūnai užpuls medžiotoją.\n\n0% reiškia, kad nesumažina.\n100% reiškia, kad gyvūnai niekada nepuola.</HuntingStealth.description>
+  
+  <!-- EN: mining speed -->
+  <MiningSpeed.label>kasimo greitis</MiningSpeed.label>
+  <!-- EN: A speed at which this person mines away walls. -->
+  <MiningSpeed.description>Greitis, kuriuo šis asmuo iškasa akmenines sienas.</MiningSpeed.description>
+  
+  <!-- EN: mining yield -->
+  <MiningYield.label>kasimo našumas</MiningYield.label>
+  <!-- EN: The percentage of mined resources a miner will produce.\n\nThis applies to both wall mining and deep drill mining.\nThis doesn't affect the production rate of rock chunks from deep drills. -->
+  <MiningYield.description>Iškasamų išteklių procentas, kurį pagamins kalnakasys.\n\nTai taikoma ir akmeninių sienų kasimui, ir kasimui giluminiu grąžtu.\nTai neturi įtakos uolienos gabalų gamybos greičiui iš giluminių gręžinių.</MiningYield.description>
+  
+  <!-- EN: plant harvest yield -->
+  <PlantHarvestYield.label>augalų derliaus našumas</PlantHarvestYield.label>
+  <!-- EN: The yield this person gets when harvesting plants.\n\nLow yields give a chance that this person will accidentally waste the harvest. -->
+  <PlantHarvestYield.description>Derliaus kiekis, kurį šis asmuo gauna nuimdamas augalų derlių.\n\nMažas našumas turi tikimybę, kad šis asmuo netyčia iššvaistys derlių.</PlantHarvestYield.description>
+  
+  <!-- EN: plant work speed -->
+  <PlantWorkSpeed.label>darbo su augalais greitis</PlantWorkSpeed.label>
+  <!-- EN: The speed at which this person sows and harvests plants. -->
+  <PlantWorkSpeed.description>Greitis, kuriuo šis asmuo sėja ir nuima derlių iš augalų.</PlantWorkSpeed.description>
+  
+  <!-- EN: research speed -->
+  <ResearchSpeed.label>tyrimo greitis</ResearchSpeed.label>
+  <!-- EN: How fast this person performs research and how quickly they can find things using scanning equipment. -->
+  <ResearchSpeed.description>Kaip greitai šis asmuo atlieka tyrimus ir kaip greitai gali rasti dalykus naudodamasis radarais.</ResearchSpeed.description>
+  
+  <!-- EN: smoothing speed -->
+  <SmoothingSpeed.label>gludinimo greitis</SmoothingSpeed.label>
+  <!-- EN: A multiplier on the speed at which this person smooths rough stone floors and walls. -->
+  <SmoothingSpeed.description>Daugiklis greičiui, kuriuo šis asmuo nugludina netašytas akmenines grindis ir sienas.</SmoothingSpeed.description>
+  
+  <!-- EN: global work speed -->
+  <WorkSpeedGlobal.label>bendras darbo greitis</WorkSpeedGlobal.label>
+  <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
+  <WorkSpeedGlobal.description>Daugiklis veikėjo greičiui atliekant bet kokį darbą.</WorkSpeedGlobal.description>
+  
+</LanguageData>

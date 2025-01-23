@@ -1,153 +1,248 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <LetterLabelAnimalInsanitySingle>Pakvaišės gyvūnas</LetterLabelAnimalInsanitySingle>
-  <AnimalInsanitySingle>Vietinis {0} pakvaišo. Jis puls visus kuriuos mato.</AnimalInsanitySingle>
-  <LetterLabelAnimalInsanityMultiple>Pakvaišę gyvūnai!</LetterLabelAnimalInsanityMultiple>
-  <AnimalInsanityMultiple>Kažkokia psichinė banga prabėgo pro kraštovaizdį. Tavo kolonistams viskas gerai, bet...\n\nIt Atrodo, jog daug {0}ų šioje teritorijoje išprotėjo.</AnimalInsanityMultiple>
+  <!-- EN: Mad {ANIMAL_labelShort} -->
+  <LetterLabelAnimalInsanitySingle>Įsiutęs {ANIMAL_labelShort}</LetterLabelAnimalInsanitySingle>
+  <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
+  <AnimalInsanitySingle>Vietinis {ANIMAL_label} įsiuto. Jis puls visus, kuriuos pamatys.</AnimalInsanitySingle>
+  <!-- EN: Mad {0} -->
+  <LetterLabelAnimalInsanityMultiple>Įsiutę {0}</LetterLabelAnimalInsanityMultiple>
+  <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
+  <AnimalInsanityMultiple>Per planetos paviršių nuvilnijo kažkokia psichinė banga. Tavo kolonistams viskas gerai, bet...\n\nAtrodo, kad daugelis iš {0} vietovėje buvo privesti iki beprotybės.</AnimalInsanityMultiple>
 
-  <LetterLabelCropBlight>Amaras</LetterLabelCropBlight>
-  <CropBlight>Keistas amaras sunaikino visus tavo augalus.</CropBlight>
+  <!-- EN: Blight: {PLANTDEF_labelPlural} -->
+  <LetterLabelCropBlight>Kūlės: {PLANTDEF_labelPlural}</LetterLabelCropBlight>
+  <!-- EN: Blight has been discovered on the {PLANTDEF_labelPlural}!
+\nYou should cut or burn the affected plants before the blight spreads. -->
+  <LetterCropBlight>Aptiktos kūlės ant {PLANTDEF_labelPlural}!\n\nPažeistus augalus reikia nupjauti arba sudeginti, kol kūlės neišplito.</LetterCropBlight>
 
-  <LetterLabelMiracleHeal>Miracle</LetterLabelMiracleHeal>
-  <MiracleHeal>{0} patyrė stebuklingą atsigavimą!</MiracleHeal>
+  <!-- EN: Miracle -->
+  <LetterLabelMiracleHeal>Stebuklas</LetterLabelMiracleHeal>
+  <!-- EN: {0} has experienced a miraculous recovery! -->
+  <MiracleHeal>{0} patyrė stebuklingą pasveikimą!</MiracleHeal>
 
   <!-- Enemy raids -->
-  <EnemyRaidWalkIn>Grupelė {0} iš {1} atvyko netoliese.</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>Grupelė{0} iš {1} atvyko krentančiais kokonais.</EnemyRaidEdgeDrop>
-  <EnemyRaidCenterDrop>Grupelė {0} iš {1} nukrito tiesiai ant jūsų!</EnemyRaidCenterDrop>
-  <EnemyRaidLeaderPresent>Vienas iš {0} - {1}, Yra šios frakcijos lyderis.</EnemyRaidLeaderPresent>
+  <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
+  <EnemyRaidLeaderPresent>Vienas iš {LEADER_factionPawnsPlural} – {LEADER_labelShort} yra frakcijos lyderis.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
-  <FriendlyRaidWalkIn>Grupelė draugiškų {0} iš {1} atvyko netoliese.</FriendlyRaidWalkIn>
-  <FriendlyRaidEdgeDrop>Grupelė draugiškų {0} iš {1} nuskrito iš orbitos netoliese.</FriendlyRaidEdgeDrop>
-  <FriendlyRaidCenterDrop>Grupelė draugiškų {0} iš {1} nukrito iš orbitos tiesiai ant jūsų!</FriendlyRaidCenterDrop>
-  <FriendlyRaidLeaderPresent>Vienas iš {0} - {1}, Yra šios frakcijos lyderis.</FriendlyRaidLeaderPresent>
+  <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
+  <FriendlyRaidLeaderPresent>Vienas iš {LEADER_factionPawnsPlural} – {LEADER_labelShort} yra frakcijos lyderis.</FriendlyRaidLeaderPresent>
 
-  <LetterLabelRefugeePodCrash>Išsigelbėjimo kokonas</LetterLabelRefugeePodCrash>
-  <RefugeePodCrash>Tu aptikai išsigelbejimo kokoną nukritusį netoliese.\n\nJei kažkas išgyveno smūgį bus sunkiai sužeisti.\n\nTu gali juos išgelbėti ir paleisti arba sugauti juos ir verbuoti arba pasilikti vegovės tikslais.</RefugeePodCrash>
+  <!-- EN: Transport pod crash -->
+  <LetterLabelRefugeePodCrash>Transportavimo kapsulės avarija</LetterLabelRefugeePodCrash>
+  <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
+  <RefugeePodCrash>{PAWN_titleIndef}, vardu {PAWN_nameDef}, krenta netoliese transportavimo kapsulėje. Jei {PAWN_pronoun} išgyvens po smūgio, {PAWN_pronoun} bus sunkiai sužeistas.</RefugeePodCrash>
+  <!-- EN: {PAWN_nameDef} is a child of {AGE}. -->
+  <RefugeePodCrash_Child>{PAWN_nameDef} yra {AGE} metų vaikas.</RefugeePodCrash_Child>
+  <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
+  <RefugeePodCrash_Factionless>{PAWN_nameDef} nėra susijęs su jokia frakcija. Gali išgelbėti {PAWN_objective} ir tikėtis, kad {PAWN_pronoun} prisijungs savo valia, arba paimti {PAWN_objective} į nelaisvę, kad įkalbėtum prisijungti, arba vergijai.</RefugeePodCrash_Factionless>
+  <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
+  <RefugeePodCrash_Hostile>{PAWN_nameDef} yra iš tavo priešų frakcijos {PAWN_factionName}. Galite paimti {PAWN_objective} į nelaisvę, kad įkalbėtum prisijungti, ar vergijai.</RefugeePodCrash_Hostile>
+  <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
+  <RefugeePodCrash_NonHostile>{PAWN_nameDef} yra iš {PAWN_factionName}. Jei išgelbėsi {PAWN_objective}, {PAWN_pronoun} gali prisijungti laisva valia. Jei ne, {PAWN_pronoun} grįš namo ir tarp jūsų frakcijų paskleis geranoriškumą.\n\nTaip pat gali paimti {PAWN_objective} į nelaisvę, kad įkalbėtum prisijungti, ar vergijai, bet tai supykdys {PAWN_possessive} frakciją.</RefugeePodCrash_NonHostile>
 
-  <LetterLabelCargoPodCrash>Krovinių kokonai</LetterLabelCargoPodCrash>
-  <CargoPodCrash>Tu aptikai spiečių krovinių kokonų sudužusių šalia.\n\nGal rasi kažką naudingo nuolaužose.</CargoPodCrash>
+  <!-- EN: Wanderer joins: {PAWN_nameDef} -->
+  <LetterLabelWandererJoins>Klajūnas prisijungia: {PAWN_nameDef}</LetterLabelWandererJoins>
+  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and wants to join the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily, claiming to have nowhere else to go. You can choose to turn {PAWN_objective} down and send {PAWN_objective} away. However, your colonists will be disturbed at sending someone away in need. -->
+  <LetterWandererJoins>{PAWN_title}, vardu {PAWN_nameDef}, atvyko ir nori prisijungti prie kolonijos.\n\n[PAWN_pronoun] nori prisidėti, bet savo noru neišvyks, teigdamas, kad neturi kur daugiau eiti. Gali pasirinkti atmesti {PAWN_objective} ir išsiųsti {PAWN_objective} keliauti toliau. Tačiau tavo kolonistai bus sutrikę, jei kažkas, kam reikia pagalbos, būtų atstumtas.</LetterWandererJoins>
 
-  <AnElectricalConduit>Elektrinis kanalas</AnElectricalConduit>
-  <ShortCircuit>Klaida viduje {0} sukėlė trupmą jungimą.\n\nVisi {1} Wd energijos sujungtose baterijose išsikrovė per didelį sprogimą.</ShortCircuit>
-  <ShortCircuitWasLarge>Didelis kiekis elektros sukelė galingą sprogimą.</ShortCircuitWasLarge>
-  <ShortCircuitWasHuge> Tai labai didelis sprogimas. Wow.</ShortCircuitWasHuge>
+  <!-- EN: Cargo pods -->
+  <LetterLabelCargoPodCrash>krovininės kapsulės</LetterLabelCargoPodCrash>
+  <!-- EN: You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage. -->
+  <CargoPodCrash>Netoliese aptikai keletą krentančių krovinių kapsulių.\n\nGalbūt nuolaužose rasi ką nors naudingo.</CargoPodCrash>
 
-  <TraderArrival>Prekiautojų laivas skrenda pro šalį.\n\nJie žinomi kaip {0}. Jie yra {1}.</TraderArrival>
+  <!-- EN: an electrical conduit -->
+  <AnElectricalConduit>elektros kabeliai</AnElectricalConduit>
+  <!-- EN: A fault in {0} has caused a short circuit. -->
+  <ShortCircuit>Dėl {0} gedimo įvyko trumpasis jungimas.</ShortCircuit>
+  <!-- EN: A fault in {0} has caused a short circuit which started a fire. -->
+  <ShortCircuitStartedFire>Dėl {0} gedimo įvyko trumpasis jungimas, dėl kurio kilo gaisras.</ShortCircuitStartedFire>
+  <!-- EN: All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion. -->
+  <ShortCircuitDischargedEnergy>Prijungti akumuliatoriai su visais {0} Wd elektros energijos patyrė iškrovą elektros sprogimo pavidalu.</ShortCircuitDischargedEnergy>
+  <!-- EN: This large amount of power has created an explosion of considerable size. -->
+  <ShortCircuitWasLarge>Šis didelis elektros energijos kiekis sukėlė nemažą sprogimą.</ShortCircuitWasLarge>
+  <!-- EN: That really is a huge explosion. Wow. -->
+  <ShortCircuitWasHuge>Tai yra tikrai didelis sprogimas. Oho.</ShortCircuitWasHuge>
 
-  <SingleTravelerPassing> {0} iš{1} keliauja pro šali. [PAWN_pronoun] is named {2}.</SingleTravelerPassing>
-  <GroupTravelersPassing>Grupelė keliautojų {0} keliauja pro šalį</GroupTravelersPassing>
+  <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
+  <TraderArrival>Netoliese pro šalį keliauja prekybinis erdvėlaivis.\n\nJie žinomi kaip {0}. Jie yra {1}.\n\n{2}</TraderArrival>
+  <!-- EN: They're affiliated with {FACTION_name}. -->
+  <TraderArrivalFromFaction>Jie yra susiję su {FACTION_name}.</TraderArrivalFromFaction>
+  <!-- EN: They are not affiliated with any faction. -->
+  <TraderArrivalNoFaction>Jie nėra susiję su jokia frakcija.</TraderArrivalNoFaction>
 
+  <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
+  <SingleTravelerPassing>Pro šalį keliauja {PAWN_title} iš {1}. {PAWN_possesive} vardas yra {PAWN_nameFull}.</SingleTravelerPassing>
+  <!-- EN: A group of travelers from {0} are passing by. -->
+  <GroupTravelersPassing>Keliautojų grupė iš {0} eina pro šalį.</GroupTravelersPassing>
+
+  <!-- EN: Visitor -->
   <LetterLabelSingleVisitorArrives>Lankytojas</LetterLabelSingleVisitorArrives>
-  <SingleVisitorArrives> {0} iš {1} lanko koloniją.\n\n[PAWN_pronoun] is named {2}.{3}{4}</SingleVisitorArrives>
-  <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] atrodo, kad jis turi kelis daiktus kuriuos nori parduoti.</SingleVisitorArrivesTraderInfo>
-  <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] yra frakcijoslyderis.</SingleVisitorArrivesLeaderInfo>
+  <!-- EN: {PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4} -->
+  <SingleVisitorArrives>{PAWN_titleIndef} iš {1} lankosi kolonijoje.\n\n{PAWN_possesive} vardas yra {PAWN_nameFull}.{3}{4}</SingleVisitorArrives>
+  <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
+  <SingleVisitorArrivesTraderInfo>Atrodo, kad {PAWN_pronoun} turi keletą daiktų kuriais gali prekiauti.</SingleVisitorArrivesTraderInfo>
+  <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
+  <SingleVisitorArrivesLeaderInfo>{PAWN_pronoun} yra frakcijos lyderis.</SingleVisitorArrivesLeaderInfo>
+  <!-- EN: Visitors -->
   <LetterLabelGroupVisitorsArrive>Lankytojai</LetterLabelGroupVisitorsArrive>
-  <GroupVisitorsArrive>Grupelė iš {0} lanko koloniją.{1}{2}</GroupVisitorsArrive>
-  <GroupVisitorsArriveTraderInfo>\n\nAtrodom kad jie turi kelis daiktus kuriuos nori parduoti.</GroupVisitorsArriveTraderInfo>
-  <GroupVisitorsArriveLeaderInfo>\n\nei vienas iš lankytojų - {0}, yra frakcijos lyderis.</GroupVisitorsArriveLeaderInfo>
-  <VisitorsLeaving>:ankytojai iš {0} išeina.</VisitorsLeaving>
+  <!-- EN: A group from {0} are visiting the colony.{1}{2} -->
+  <GroupVisitorsArrive>Kolonijoje lankosi grupė iš {0}.{1}{2}</GroupVisitorsArrive>
+  <!-- EN: They seem to have a few items to trade. -->
+  <GroupVisitorsArriveTraderInfo>Atrodo, kad jie turi keletą daiktų kuriais gali prekiauti.</GroupVisitorsArriveTraderInfo>
+  <!-- EN: One of the visitors - {1_labelShort}, is the leader of the faction. -->
+  <GroupVisitorsArriveLeaderInfo>Vienas iš lankytojų – {1_labelShort}, yra frakcijos lyderis.</GroupVisitorsArriveLeaderInfo>
+  <!-- EN: Visitors from {0} are leaving. -->
+  <VisitorsLeaving>Lankytojai iš {0} išvyksta.</VisitorsLeaving>
 
-  <LetterLabelWandererJoin>Keliautojas prisijungia</LetterLabelWandererJoin>
-  <WandererJoin> {0} pavadinti [PAWN_nameDef] atvyko ir prisijungia prie tavo kolonijos. [PAWN_pronoun] yra {1}.</WandererJoin>
-
-  <LetterLabelManhunterPackArrived>Žmonių medžiotojų būrys</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>Burys žmones medžiojančiš {0}ų įžengė į teritoriją. Jie klaidžios po regijoną, medžiodami žmones.\n\nJie negali praeiti pro duris, taigi jeigu paliksi kolonistus už durų turėtum būti saugus. Jie nepuls neaktyvių šaudomūjų bokštelių, Taigi išjunk savo šaudomiuosius bokštus jeigu nori išsaugoti juos.\n\nJie paliks teritoriją už kelių dienų.</ManhunterPackArrived>
+  <!-- EN: Manhunter pack -->
+  <LetterLabelManhunterPackArrived>Žmones puolančių gyvūnų būrys</LetterLabelManhunterPackArrived>
+  <!-- EN: A pack of man-hunting {0} have entered the area! Driven insane by the disease known as scaria, they will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack powered-off turrets, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
+  <ManhunterPackArrived>Į vietovę įėjo būrys žmones puolančių {0}! Ligos, vadinamos pasiutlige, privesti iki išprotėjimo, jie klajoja ieškodami humanoidų mėsos.\n\nJie durų neatakuos, nebent pamatys ką nors įeinant pro duris. Pasislėpk viduje ir būsi saugus. Jie taip pat nepuls išjungtų bokštų, todėl bokštus išjunk, kad išsaugotum juos.\n\n{0} išeis iš vietovės po vienos ar dviejų dienų. Gali paslėpti ir juos išlaukti, arba gali su jais kovoti.</ManhunterPackArrived>
   
   <!-- Crashed ship part-->
-  <MessageAnimalInsanityPulse>Senovinė struktūra sudužo netoliese ir išmetė psichinį pulsą kuris vietinius gyvunus išvedė iš proto.</MessageAnimalInsanityPulse>
-  <LetterShipPartDroveColonistInsane>Sudužęs laivas išmetė fokusuotą fizinį kuris išvedė kolonistą {0} iš proto.</LetterShipPartDroveColonistInsane>
-  <AwokeDaysAgo>Pabudęs prieš {0} dienų</AwokeDaysAgo>
-  <PsychicDroneLevel>Psichinio zvimbimo lygis: {0}</PsychicDroneLevel>
-  <PsychicDroneLevelLow>Žemas</PsychicDroneLevelLow>
-  <PsychicDroneLevelMedium>Vidutinis</PsychicDroneLevelMedium>
-  <PsychicDroneLevelHigh>Aukštas</PsychicDroneLevelHigh>
-  <PsychicDroneLevelExtreme>Extremalus</PsychicDroneLevelExtreme>
-  <LetterLabelPsychicDroneLevelIncreased>Žyzimas sustiprėja</LetterLabelPsychicDroneLevelIncreased>
-  <LetterPsychicDroneLevelIncreased>Sudužusi laivo dalis dabar siunčia dar stipresnį psichinį zvimbimą.Kiekvienas žmogus teritorijoje jaučiasi labiau sutrikęs, išsigandęs ir paranojiškas.</LetterPsychicDroneLevelIncreased>
+  <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
+  <MessageAnimalInsanityPulse>{SOURCE_label} paleido psichinį impulsą, kuris privedė netoliese esančius gyvūnus iki išprotėjimo.</MessageAnimalInsanityPulse>
+  <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
+  <LetterShipPartDroveColonistInsane>Sudužusio erdvėlaivio dalis paleido koncentruotą psichinį impulsą, dėl kurio kolonistas {0} išprotėjo.</LetterShipPartDroveColonistInsane>
+  <!-- EN: Awoke {0} days ago -->
+  <AwokeDaysAgo>Pabudęs prieš {0} dienas</AwokeDaysAgo>
+  <!-- EN: Activated {0} days ago -->
+  <ActivatedDaysAgo>Aktyvuotas prieš {0} dienas</ActivatedDaysAgo>
+  <!-- EN: Opened {0} days ago -->
+  <OpenedDaysAgo>Atidarytas prieš {0} dienas</OpenedDaysAgo>
+  <!-- EN: Psychic drone level: {0} -->
+  <PsychicDroneLevel>Psichinio ūžesio lygis: {0}</PsychicDroneLevel>
+  <!-- EN: Drone intensifies -->
+  <LetterLabelPsychicDroneLevelIncreased>Ūžesys intensyvėja</LetterLabelPsychicDroneLevelIncreased>
+  <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
+  <LetterPsychicDroneLevelIncreased>Sudužusio erdvėlaivio dalis dabar skleidžia galingesnį psichinį ūžesį. Kiekviena {0} žmogiška būtybė šioje vietovėje dabar jaučiasi labiau sutrikusi, išsigandusi ir paranojiška.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
+  <!-- EN: Agent -->
   <LetterLabelAgentRevealed>Agentas</LetterLabelAgentRevealed>
-  <LetterAgentRevealed>{0} atsiskleidė kaip tavo priešų agentas {1}.\n\nJie dabar bandys pabėgti.</LetterAgentRevealed>
-
-  <!-- Distant psychic drone -->
-  <LetterLabelPsychicDrone>Psichinis zvimbimas</LetterLabelPsychicDrone>
-  <LetterIncidentPsychicDrone>Kiekvienas kolonistas {0} lyties kenčia iš skausmo!\n\nKažkoks tolimas neapykantos variklis suaktyvėjo. Jis siunčia stiprų psichologinį zvimbimą per šį regioną, tokiu dažnius kuris paveikia tik {0} lytį. Kelias dienas, kai kurių žmonių nuotaika bus kur kas blogesnė.</LetterIncidentPsychicDrone>
-
-  <LetterLabelPsychicSoothe>Psichinis raminimas</LetterLabelPsychicSoothe>
-  <LetterIncidentPsychicSoothe>Kiekvienas kolonistas {0} lyties šypsosi iš ramesio!\n\nKažkoks tolimas laimės variklis suaktyvėjo. Jis daro stiprų psichinį poveikį tokiu dažniu kuris paveikia tik  {0} lytį.Kelias dienas kai kurių žmonių nuotaika bus kur kas geresnė.</LetterIncidentPsychicSoothe>
+  <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
+  <LetterAgentRevealed>{0} buvo atskleistas kaip tavo priešų frakcijos {1} agentas.\n\nDabar jis bando pabėgti.</LetterAgentRevealed>
 
   <!-- Beavers -->
+  <!-- EN: Beavers! -->
   <LetterLabelBeaversArrived>Bebrai!</LetterLabelBeaversArrived>
-  <BeaversArrived>Grupelė išalkusių alfa bebrų atkeliavo į šia teritoriją.\n\nPabandyk juos pašalinti kol jie nesuvalgė visų medžių.</BeaversArrived>
+  <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
+  <BeaversArrived>Ką tik atvyko alkanų alfa bebrų grupė.\n\nPabandyk juos pašalinti, kol jie šioje vietovėje nesugriaužė visus iki paskutinio medienos šaltinius.</BeaversArrived>
   
-  <!-- Refugee chased -->
-	<RefugeeChasedTitle>Pabėgelis nusivytas iš {0}</RefugeeChasedTitle>
-  <RefugeeChasedInitial> {1} pavadintas {0} skambina tau netoliese. [PAWN_pronoun] jis yra persekiojamas piratų {2} iš {3}!\n\n[PAWN_pronoun] maldauja apsaugos ir prisijunks prie tavo kolonijos. Biologiškai, jis yra {4} metų.\n\nBūk ispėtas - jeigu priimsi , turėsi atbaidyti  {2} nuo jo.</RefugeeChasedInitial>
-  <RefugeeChasedInitial_Accept>Pasiūlyti apsaugą</RefugeeChasedInitial_Accept>
-  <RefugeeChasedInitial_Reject>Ignoruoti šią žinutę</RefugeeChasedInitial_Reject>
-  <RefugeeChasedRejected>{0} rėkia iš panikos per mažą garsiakalbį iki tol kol tu išjungi transliaciją.</RefugeeChasedRejected>
-
   <!-- Self-tame -->
-  <LetterLabelAnimalSelfTame>{0} pats-prisijaukino</LetterLabelAnimalSelfTame>
-  <LetterAnimalSelfTame>{0} tapo prijaukintas.</LetterAnimalSelfTame>
-  <LetterAnimalSelfTameAndNameNumerical>{0} tapo prijaukintas. jis dabar pavadintas  {1}.</LetterAnimalSelfTameAndNameNumerical>
-  <LetterAnimalSelfTameAndName>{0} Tapo prijaukintas. Kolonistai nusprendė jį pavadinti {1}.</LetterAnimalSelfTameAndName>
+  <!-- EN: {1_kind} self-tamed -->
+  <LetterLabelAnimalSelfTame>{1_kind} prisijaukino pats</LetterLabelAnimalSelfTame>
+  <!-- EN: {0} has become tame. -->
+  <LetterAnimalSelfTame>{0} prisijaukino.</LetterAnimalSelfTame>
+  <!-- EN: {0} has become tame. It is now designated {ANIMAL_nameFull}. -->
+  <LetterAnimalSelfTameAndNameNumerical>{0} prisijaukino. Jis dabar pavadintas {ANIMAL_nameFull}.</LetterAnimalSelfTameAndNameNumerical>
+  <!-- EN: {0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}. -->
+  <LetterAnimalSelfTameAndName>{0} prisijaukino. Kolonistai nusprendė jį pavadinti {ANIMAL_nameFull}..</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
-  <LetterLabelFarmAnimalsWanderIn>{0}i prisijungia</LetterLabelFarmAnimalsWanderIn>
-  <LetterFarmAnimalsWanderIn>Grupelė{0}s, palikti arba pamesti , atklydo į šią teritoriją.\n\nJie atrodo pripratę prie žmonių ir prisijungia.</LetterFarmAnimalsWanderIn>
+  <!-- EN: {0} join -->
+  <LetterLabelFarmAnimalsWanderIn>Prisijungė {0}</LetterLabelFarmAnimalsWanderIn>
+  <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
+  <LetterFarmAnimalsWanderIn>Grupė {0}, palikta arba pasiklydusi, užklydo į vietovę.\n\nAtrodo, kad jie pripratę prie žmonių kontakto ir prisijungia prie kolonijos.</LetterFarmAnimalsWanderIn>
   
   <!-- Thrumbo passes -->
-  <LetterLabelThrumboPasses>Reti dinozaurai</LetterLabelThrumboPasses>
-  <LetterThrumboPasses>Maža grupelė retų dinozaurų atklydo į šia teritoriją .\n\nPNatūraliai taikūs, šie reti gyvūnai yra labai pavojingi kai jaučia pavojų. Kai kurie prekiautojai pasiryžę sumokėti didelius pinigus už odą ir ragus.\n\nDinozaurai išvyks po kelių dienų.</LetterThrumboPasses>
+  <!-- EN: Rare thrumbos -->
+  <LetterLabelThrumboPasses>Reti trumbai</LetterLabelThrumboPasses>
+  <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
+  <LetterThrumboPasses>Į vietovę užklydo maža trumbų banda.\n\nNors iš prigimties taikūs, šie reti padarai supykę gali būti itin pavojingi. Kai kurie prekeiviai už jų vertingą odą ir ragus yra pasirengę sumokėti labai daug.\n\nTrumbai paliks vietovę po kelių dienų.</LetterThrumboPasses>
   
   <!-- Trader caravan -->
+  <!-- EN: {1} from {0} -->
   <LetterLabelTraderCaravanArrival>{1} iš {0}</LetterLabelTraderCaravanArrival>
-  <LetterTraderCaravanArrival>Karavanas iš {0} artinasi. jie yra {1}.\n\nJie pabūs kolonijoje kelias dienas prieš išvykstant. Tu gali juos užpulti, tačiau tai supygdis jų frakciją!</LetterTraderCaravanArrival>
-  
-  <!-- Building breaks down -->
-  <LetterLabelBuildingBrokenDown>Avarija: {0}</LetterLabelBuildingBrokenDown>
-  <LetterBuildingBrokenDown>Viena iš tavo mašinų ({0}) sulūžo. Ji neveiks kol kolonistas su pataisymo įsakymų jos nesutvarkys.</LetterBuildingBrokenDown>
-  
+  <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
+  <LetterTraderCaravanArrival>Atkeliauja karavanas iš {0}. Jie yra {1}.</LetterTraderCaravanArrival>
+  <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
+  <LetterCaravanArrivalCommonWarning>Prieš išvykdami, jie kurį laiką pabuvos kolonijoje. Gali juos pulti, bet tai supykdys jų frakciją!</LetterCaravanArrivalCommonWarning>
+    
   <!-- Ransom demand -->
-	<RansomDemandTitle>Išpirkos prašymas ties {0}</RansomDemandTitle>
-	<RansomDemand>{1} kontaktuoja su tavim per radiją. Jie laiko buvusį kolonistą {0} už išpirką.\n\nJie jį pales atgal mainais į {2} sidabro.</RansomDemand>
-  <RansomDemand_Accept>Sutikti</RansomDemand_Accept>
-  <RansomDemand_Reject>Atsisakyti</RansomDemand_Reject>
+  <!-- EN: Ransom demand at {0} -->
+  <RansomDemandTitle>Išpirkos reikalavimas {0}</RansomDemandTitle>
+  <!-- EN: {1} contacts you on radio. They are holding former colonist {PAWN_labelShort} for ransom.\n\nThey're willing to release {PAWN_objective} back to you in exchange for {2} silver. -->
+  <RansomDemand>{1} susisiekia su tavim per radiją. Jie laiko buvusį kolonistą {PAWN_labelShort} už išpirką.\n\nJie paleistų ir grąžintų {PAWN_objective} atgal mainais į {2} sidabro.</RansomDemand>
+  <!-- EN: Accept -->
+  <RansomDemand_Accept>Priimti</RansomDemand_Accept>
+  <!-- EN: Reject -->
+  <RansomDemand_Reject>Atmesti</RansomDemand_Reject>
   
-  <!-- Journey -->
-  <JourneyOffer>Draugiškas AI iš tavo praeities tau atsiuntė žinutę!\n\nJis atskleidžia erdvėlaivį paslėptą šioje planetoje ir siunčia tau jo koordinates.\n\nJei keliausi iki laivo, Charlonas perkels tave iš šio Rim pasaulio, į žvaigždes.</JourneyOffer>
+  <!-- Journey-related -->
+  <!-- EN: Ship found -->
+  <EscapeShipFoundLabel>Rastas erdvėlaivis</EscapeShipFoundLabel>
+  <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <EscapeShipFound>Pasiekei (*Name)Charlon Whitestone(/Name) atsiųstas koordinates ir atradai paslėptą erdvėlaivį.\n\nErdvėlaivio reaktorius vis dar veikia gilaus miego režimu, todėl jis dar negali skristi. Gali jį paleisti naudodamasis kompiuterio branduoliu.\n\n(*Name)Charlon Whitestone(/Name) perspėja, kad paleidimo procesas užtruks apie 15 dienų, o energijos signalas bus aptinkamas dideliu atstumo. Toks energijos signalas rodo tarpžvaigždinio skrydžio pajėgumus ir pritrauks desperatiškų užpuolikų gaujas bei mirtinų mechanoidų spiečius.\n\nBūsi užpultas tokiu intensyvumu, kokio dar nesi matęs. Pirmiausia įsitikink, kad tavo gynyba yra paruošta.</EscapeShipFound>
+  <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
+  <EscapeShipFoundPeaceful>Pasiekei (*Name)Charlon Whitestone(/Name) atsiųstas koordinates ir atradai paslėptą erdvėlaivį.\n\nErdvėlaivio reaktorius vis dar veikia gilaus miego režimu, todėl jis dar negali skristi. Gali jį paleisti naudodamasis kompiuterio branduoliu.\n\n(*Name)Charlon Whitestone(/Name) perspėja, kad paleidimo procesas užtruks apie 15 dienų.</EscapeShipFoundPeaceful>
 
   <!-- Caravan meeting -->
-	<CaravanMeetingTitle>Karavanų susitikimas ties {0}</CaravanMeetingTitle>
-	<CaravanMeeting>Tavo karavanas susitiko taikiai su karavanu iš  {0}. Kitas karavanas sudarytas iš:\n\n{1}</CaravanMeeting>
-  <CaravanMeeting_Trade>Mainytis</CaravanMeeting_Trade>
+  <!-- EN: Caravan meeting by {0} -->
+  <CaravanMeetingTitle>Karavanas sutiko {0}</CaravanMeetingTitle>
+  <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
+  <CaravanMeeting>{0} taikiai susitiko su karavanu iš {1}. Kitą karavaną sudaro:\n\n{2}</CaravanMeeting>
+  <!-- EN: Trade -->
+  <CaravanMeeting_Trade>Prekiauti</CaravanMeeting_Trade>
+  <!-- EN: Attack -->
   <CaravanMeeting_Attack>Pulti</CaravanMeeting_Attack>
-  <CaravanMeeting_MoveOn>Keliauti toliau</CaravanMeeting_MoveOn>
+  <!-- EN: Move on -->
+  <CaravanMeeting_MoveOn>Praeiti</CaravanMeeting_MoveOn>
+  <!-- EN: no caravan members capable of trading -->
+  <CaravanMeeting_TradeIncapable>nėra karavano narių, galinčių prekiauti</CaravanMeeting_TradeIncapable>
+  <!-- EN: need a trader with the title of {0} from {1_name} -->
+  <CaravanMeeting_NoPermit>reikia prekeivio su {0} titulu iš {1_name}</CaravanMeeting_NoPermit>
   
   <!-- Caravan request -->
+  <!-- EN: Caravan request -->
   <LetterLabelCaravanRequest>Karavano prašymas</LetterLabelCaravanRequest>
-  <LetterCaravanRequest>Netoliese esanti gyvenvietė, {0}, kontaktuoja su tavim dėl ypatingo prašymo. Jie norėtų nusipirkti:\n\n  {1}\n\nAtsilyginimui jie siūlo:\n\n  {2}\n\nŠis prašymas baigsis galioti po: {3}\n\nJeigu nori atlikti mainus, nusiūsk karavaną su minėtais reikmenimis. Gali peržiūrėti pasiulymą paspaudės {0} ant pasaulio žemėlapio.</LetterCaravanRequest>
-  <CaravanRequestInfo>Requesting: {0}, Reward: {1} ({2} left)</CaravanRequestInfo>
+  <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
+  <LetterCaravanRequest>Netoliese esanti gyvenvietė {0} susisiekia su tavim su specialiu prekybos prašymu. Jie norėtų įsigyti:\n\n {1} (vertė {2})\n\nMainais jie siūlo:\n\n {3} (vertė {4})\n\nŠis prašymas baigs galioti už: { 5}\n\nJei nori prekiauti, atsiųsk karavaną su prašomomis prekėmis. Numatomas kelionės laikas yra {6}. Šį pasiūlymą gali peržiūrėti pasaulio žemėlapyje pasirinkęs {0}.</LetterCaravanRequest>
+  <!-- EN: Requesting: {0} ({2}) ({1} left) -->
+  <CaravanRequestInfo>Prašo: {0} ({2}) ({1} liko)</CaravanRequestInfo>
+  <!-- EN: normal quality or better -->
+  <NormalQualityOrBetter>paprastos kokybės ar geresnių</NormalQualityOrBetter>
+  <!-- EN: not tainted -->
+  <NotTainted>nesuteptų</NotTainted>
 
   <!-- Caravan demand -->
-  <CaravanDemandTitle>Karavanas prašytas ties {0}</CaravanDemandTitle>
-  <CaravanDemand>Tavo karavanas buvo užpultas iš pasalų  {1} {3} iš {0}. Jie puls nebent jiems duosi:\n\n{2}</CaravanDemand>
-  <CaravanDemand_Give>Duoti ir praeiti</CaravanDemand_Give>
+  <!-- EN: Caravan demand by {0} -->
+  <CaravanDemandTitle>Karavano reikalavimas iš {0}</CaravanDemandTitle>
+  <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
+  <CaravanDemand>{0} buvo užklupti iš pasalų {2} {4} grupės iš {1}. Jie puls, nebent duosi jiems:\n\n{3}</CaravanDemand>
+  <!-- EN: Give and pass -->
+  <CaravanDemand_Give>Duoti ir eiti toliau</CaravanDemand_Give>
+  <!-- EN: Refuse and fight -->
   <CaravanDemand_Fight>Atsisakyti ir kovoti</CaravanDemand_Fight>
 
-  <!-- Temporary item stash -->
-  <ItemStashQuestTitle>Daiktų slėptuvės galimybė</ItemStashQuestTitle>
-  <ItemStashQuest_Accept>Sutikti</ItemStashQuest_Accept>
-  <ItemStashQuest_Reject>Atmesti</ItemStashQuest_Reject>
-  <ItemStashQuestFeeDemand>{0} vilisi mums pasakyti kur yra daiktų slėptuvė už {1} sidabro.</ItemStashQuestFeeDemand>
-  <ItemStashSitePart_Unknown>Dėja, {0} neturi supratimo kažkas gali saugoti sleptuvę.</ItemStashSitePart_Unknown>
-  <ItemStashSitePart_Nothing>{0} sako, jog sleptuvę nesaugoma.</ItemStashSitePart_Nothing>
-  <ItemStashSitePart_Outpost>{0} sako, jog ten yra priešų stovyklavietė netoliese.</ItemStashSitePart_Outpost>
-  <ItemStashSitePart_Turrets>{0} sako, jog sleptuvę yra apsupta priešų šaudomaisiais bokštais.</ItemStashSitePart_Turrets>
-  <ItemStashSitePart_Manhunters>{0} sako, jog ten yra grupelė klajojančių žmogžudžių gyvunų.</ItemStashSitePart_Manhunters>
+  <!-- Site no longer hostile -->
+  <!-- EN: Quest no longer available -->
+  <LetterLabelSiteNoLongerHostile>Užduotis nebegalioja</LetterLabelSiteNoLongerHostile>
+  <!-- EN: Quests no longer available -->
+  <LetterLabelSiteNoLongerHostileMulti>Užduotys nebegalioja</LetterLabelSiteNoLongerHostileMulti>
+  <!-- EN: Because you are no longer hostile with {0}, the {1} site is no longer available. -->
+  <LetterSiteNoLongerHostile>Kadangi nebesi priešiškas {0} atžvilgiu, {1} vieta yra nebepasiekiama.</LetterSiteNoLongerHostile>
+  <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
+  <LetterSiteNoLongerHostileMulti>Kadangi nebesi priešiškas {0} atžvilgiu, šios vietos yra nebepasiekiamos</LetterSiteNoLongerHostileMulti>
+
+  <!-- Quest asker faction hostile -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerFactionHostile>Užduotis nepavyko</LetterLabelQuestAskerFactionHostile>
+  <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
+  <LetterQuestAskerFactionHostile>Užduotis tapo neužbaigiama, nes {FACTION_name} yra priešiška.</LetterQuestAskerFactionHostile>
+
+  <!-- Quest asker captured -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerCaptured>Užduotis nepavyko</LetterLabelQuestAskerCaptured>
+  <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
+  <LetterQuestAskerCaptured>Užduotis tapo neužbaigiama, nes {SUBJECT_definite} buvo paimtas į nelaisvę.</LetterQuestAskerCaptured>
+
+  <!-- Quest asker died -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerDied>Užduotis nepavyko</LetterLabelQuestAskerDied>
+  <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
+  <LetterQuestAskerDied>Užduotis tapo neužbaigiama, nes {SUBJECT_definite} mirė.</LetterQuestAskerDied>
 
 </LanguageData>

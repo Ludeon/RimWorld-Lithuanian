@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: astragalus -->
+  <Plant_Astragalus.label>kulkšnė</Plant_Astragalus.label>
+  <!-- EN: A small perennial wildflower that grows in alpine climates. -->
+  <Plant_Astragalus.description>Maža daugiametė laukinė gėlė auganti alpių klimate.</Plant_Astragalus.description>
+  
+  <!-- EN: berry bush -->
+  <Plant_Berry.label>uogų krūmas</Plant_Berry.label>
+  <!-- EN: A bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw. -->
+  <Plant_Berry.description>Krūmingas laukinis augalas, brandina skanias uogas. Uogos gali būti iškeptos, bet jos taip pat geros valgyti net ir žalios.</Plant_Berry.description>
+  
+  <!-- EN: dandelions -->
+  <Plant_Dandelion.label>kiaulpienės</Plant_Dandelion.label>
+  <!-- EN: A tiny yellow flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful. -->
+  <Plant_Dandelion.description>Maža geltona gėlė, auga dideliais telkiniais. Nors dažnai laikoma piktžole, žydinčios kiaulpienės yra gana gražios.</Plant_Dandelion.description>
+  
+  <!-- EN: moss -->
+  <Plant_Moss.label>samanos</Plant_Moss.label>
+  <!-- EN: Wild moss that grows in clumps in areas of low light and cool temperatures. Moss takes a long time to grow, but is very frost-resistant. -->
+  <Plant_Moss.description>Laukinės samanos kurios auga kuokštais vietose kur mažai saulės ir žema temperatūra. Samanos užtrunka ilgai kol užauga, bet yra labai atsparios šalčiui.</Plant_Moss.description>
+  
+  <!-- EN: birch tree -->
+  <Plant_TreeBirch.label>beržas</Plant_TreeBirch.label>
+  <!-- EN: A temperate-biome tree known for its thin, white, paper-like bark. -->
+  <Plant_TreeBirch.description>Vidutinio klimato juostos medis žinomas dėl savo plonos, baltos kaip popierius žievės.</Plant_TreeBirch.description>
+  
+  <!-- EN: oak tree -->
+  <Plant_TreeOak.label>ąžuolas</Plant_TreeOak.label>
+  <!-- EN: A hardwood tree. Oaks take a long time to grow, but their wood is so strong that 'oak' is used as a metaphor for strength across many cultures. -->
+  <Plant_TreeOak.description>Kietmedis. Ąžuolai užtrunka ilgai kol užauga, bet jų mediena yra tokia stipri, kad 'ąžuolas' daugelyje kultūrų yra naudojamas kaip metafora apibūdinti stiprumui.</Plant_TreeOak.description>
+  
+  <!-- EN: pine tree -->
+  <Plant_TreePine.label>pušis</Plant_TreePine.label>
+  <!-- EN: A large conifer covered with prickly pine cones. It grows in a distinctive conical shape. -->
+  <Plant_TreePine.description>Didelis spygliuotis nusėtas duriančiais kankorėžiais. Yra išskirtinės kūginės formos.</Plant_TreePine.description>
+  
+  <!-- EN: poplar tree -->
+  <Plant_TreePoplar.label>tuopa</Plant_TreePoplar.label>
+  <!-- EN: A softwood tree that grows very fast. Unfortunately, its wood is weak and so it yields less useful material than hardwood trees. -->
+  <Plant_TreePoplar.description>Minkštos medienos labai greitai augantis medis. Deja jo mediena yra silpna, todėl iš šio medžio gaunama ne tiek daug naudingos medžiagos kaip iš kietmedžių.</Plant_TreePoplar.description>
+  
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beer -->
+  <Beer.label>alus</Beer.label>
+  <!-- EN: The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
+  <Beer.description>Pirmasis gėrimas, be vandens, kurį vartojo žmonija. Alus gali būti skanus, tačiau pagrindinis jo poveikis yra apsvaigimas. Per didelis vartojimas gali sukelti sąmonės praradimus ir ilgainiui priklausomybę nuo alkoholio.</Beer.description>
+  <!-- EN: Drink {0} -->
+  <Beer.ingestible.ingestCommandString>Išgerti {0}</Beer.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <Beer.ingestible.ingestReportString>Geria {0}.</Beer.ingestible.ingestReportString>
+  <!-- EN: bottle -->
+  <Beer.tools.bottle.label>butelis</Beer.tools.bottle.label>
+  <!-- EN: neck -->
+  <Beer.tools.neck.label>kaklas</Beer.tools.neck.label>
+  
+  <!-- EN: wort -->
+  <Wort.label>misa</Wort.label>
+  <!-- EN: Un-fermented beer. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer. -->
+  <Wort.description>Nefermentuotas alus. Ši medžiaga turi fermentuotis fermentacijos statinėje, kol ji tampa geriamu alumi.</Wort.description>
+  
+</LanguageData>

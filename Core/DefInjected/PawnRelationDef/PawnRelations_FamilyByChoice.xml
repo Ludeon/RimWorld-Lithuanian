@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: son-in-law -->
+  <ChildInLaw.label>žentas</ChildInLaw.label>
+  <!-- EN: daughter-in-law -->
+  <ChildInLaw.labelFemale>marti</ChildInLaw.labelFemale>
+  
+  <!-- EN: ex-lover -->
+  <ExLover.label>buvęs meilužis</ExLover.label>
+  <ExLover.labelFemale>buvusi meilužė</ExLover.labelFemale>
+  
+  <!-- EN: ex-husband -->
+  <ExSpouse.label>buvęs vyras</ExSpouse.label>
+  <!-- EN: ex-wife -->
+  <ExSpouse.labelFemale>buvusi žmona</ExSpouse.labelFemale>
+  
+  <!-- EN: fiance -->
+  <Fiance.label>sužadėtinis</Fiance.label>
+  <!-- EN: fiancée -->
+  <Fiance.labelFemale>sužadėtinė</Fiance.labelFemale>
+  
+  <!-- EN: lover -->
+  <Lover.label>meilužis</Lover.label>
+  <Lover.labelFemale>meilužė</Lover.labelFemale>
+  
+  <!-- EN: father-in-law -->
+  <ParentInLaw.label>uošvis</ParentInLaw.label>
+  <!-- EN: mother-in-law -->
+  <ParentInLaw.labelFemale>uošvienė</ParentInLaw.labelFemale>
+  
+  <!-- EN: husband -->
+  <Spouse.label>vyras</Spouse.label>
+  <!-- EN: wife -->
+  <Spouse.labelFemale>žmona</Spouse.labelFemale>
+  
+  <!-- EN: stepson -->
+  <Stepchild.label>posūnis</Stepchild.label>
+  <!-- EN: stepdaughter -->
+  <Stepchild.labelFemale>podukra</Stepchild.labelFemale>
+  
+  <!-- EN: stepfather -->
+  <Stepparent.label>patėvis</Stepparent.label>
+  <!-- EN: stepmother -->
+  <Stepparent.labelFemale>pamotė</Stepparent.labelFemale>
+  
+</LanguageData>

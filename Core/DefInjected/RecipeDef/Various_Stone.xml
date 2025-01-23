@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make granite blocks -->
+  <Make_StoneBlocksGranite.label>gaminti granito blokus</Make_StoneBlocksGranite.label>
+  <!-- EN: Cuts granite chunks into usable blocks. -->
+  <Make_StoneBlocksGranite.description>Skaldo granito gabalus į tinkamus naudoti blokus.</Make_StoneBlocksGranite.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksGranite.jobString>Skaldo akmens gabalą į blokus.</Make_StoneBlocksGranite.jobString>
+  
+  <!-- EN: make limestone blocks -->
+  <Make_StoneBlocksLimestone.label>gaminti kalkakmenio blokus</Make_StoneBlocksLimestone.label>
+  <!-- EN: Cuts limestone chunks into usable blocks. -->
+  <Make_StoneBlocksLimestone.description>Skaldo kalkakmenio gabalus į tinkamus naudoti blokus.</Make_StoneBlocksLimestone.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksLimestone.jobString>Skaldo akmens gabalą į blokus.</Make_StoneBlocksLimestone.jobString>
+  
+  <!-- EN: make marble blocks -->
+  <Make_StoneBlocksMarble.label>gaminti marmuro blokus</Make_StoneBlocksMarble.label>
+  <!-- EN: Cuts marble chunks into usable blocks. -->
+  <Make_StoneBlocksMarble.description>Skaldo marmuro gabalus į tinkamus naudoti blokus.</Make_StoneBlocksMarble.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksMarble.jobString>Skaldo akmens gabalą į blokus.</Make_StoneBlocksMarble.jobString>
+  
+  <!-- EN: make sandstone blocks -->
+  <Make_StoneBlocksSandstone.label>gaminti smiltainio blokus</Make_StoneBlocksSandstone.label>
+  <!-- EN: Cuts sandstone chunks into usable blocks. -->
+  <Make_StoneBlocksSandstone.description>Skaldo smiltainio gabalus į tinkamus naudoti blokus.</Make_StoneBlocksSandstone.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksSandstone.jobString>Skaldo akmens gabalą į blokus.</Make_StoneBlocksSandstone.jobString>
+  
+  <!-- EN: make slate blocks -->
+  <Make_StoneBlocksSlate.label>gaminti skalūno blokus</Make_StoneBlocksSlate.label>
+  <!-- EN: Cuts slate chunks into usable blocks. -->
+  <Make_StoneBlocksSlate.description>Skaldo skalūno gabalus į tinkamus naudoti blokus.</Make_StoneBlocksSlate.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksSlate.jobString>Skaldo akmens gabalą į blokus.</Make_StoneBlocksSlate.jobString>
+  
+</LanguageData>

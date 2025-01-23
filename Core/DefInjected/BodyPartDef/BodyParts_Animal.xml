@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: jaw -->
+  <AnimalJaw.label>žandikaulis</AnimalJaw.label>
+  
+  <!-- EN: antenna -->
+  <Antenna.label>antena</Antenna.label>
+  
+  <!-- EN: beak -->
+  <Beak.label>snapas</Beak.label>
+  
+  <!-- EN: body -->
+  <Body.label>kūnas</Body.label>
+  
+  <!-- EN: elytra -->
+  <Elytra.label>antsparnis</Elytra.label>
+  
+  <!-- EN: front claw -->
+  <FrontClaw.label>TODO</FrontClaw.label>
+  <!-- EN: claw -->
+  <FrontClaw.labelShort>TODO</FrontClaw.labelShort>
+  
+  <!-- EN: head claw -->
+  <HeadClaw.label>TODO</HeadClaw.label>
+  
+  <!-- EN: hoof -->
+  <Hoof.label>kanopa</Hoof.label>
+  
+  <!-- EN: horn -->
+  <Horn.label>ragas</Horn.label>
+  
+  <!-- EN: hump -->
+  <Hump.label>kupra</Hump.label>
+  
+  <!-- EN: head -->
+  <InsectHead.label>galva</InsectHead.label>
+  
+  <!-- EN: heart -->
+  <InsectHeart.label>širdis</InsectHeart.label>
+  
+  <!-- EN: leg -->
+  <InsectLeg.label>koja</InsectLeg.label>
+  
+  <!-- EN: mouth -->
+  <InsectMouth.label>burna</InsectMouth.label>
+  
+  <!-- EN: nostril -->
+  <InsectNostril.label>šnervė</InsectNostril.label>
+  
+  <!-- EN: jowl -->
+  <Jowl.label>skruostas</Jowl.label>
+  
+  <!-- EN: paw -->
+  <Paw.label>letena</Paw.label>
+  
+  <!-- EN: plastron -->
+  <Plastron.label>TODO</Plastron.label>
+  
+  <!-- EN: pronotum -->
+  <Pronotum.label>TODO</Pronotum.label>
+  
+  <!-- EN: rear claw -->
+  <RearClaw.label>TODO</RearClaw.label>
+  <!-- EN: claw -->
+  <RearClaw.labelShort>TODO</RearClaw.labelShort>
+  
+  <!-- EN: shell -->
+  <Shell.label>šarvai</Shell.label>
+  
+  <!-- EN: body -->
+  <SnakeBody.label>kūnas</SnakeBody.label>
+  
+  <!-- EN: head -->
+  <SnakeHead.label>galva</SnakeHead.label>
+  
+  <!-- EN: mouth -->
+  <SnakeMouth.label>burna</SnakeMouth.label>
+  
+  <!-- EN: tail -->
+  <Tail.label>uodega</Tail.label>
+  
+  <!-- EN: trunk -->
+  <Trunk.label>straublys</Trunk.label>
+  
+  <!-- EN: beak -->
+  <TurtleBeak.label>snapas</TurtleBeak.label>
+  
+  <!-- EN: shell -->
+  <TurtleShell.label>šarvai</TurtleShell.label>
+  
+  <!-- EN: tusk -->
+  <Tusk.label>iltis</Tusk.label>
+  
+</LanguageData>

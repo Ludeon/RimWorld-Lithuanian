@@ -1,0 +1,690 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: release prisoners -->
+  <BasicReleasePrisoner.label>paleisti kalinius</BasicReleasePrisoner.label>
+  <!-- EN: releasing -->
+  <BasicReleasePrisoner.gerund>paleidžia</BasicReleasePrisoner.gerund>
+  <!-- EN: release -->
+  <BasicReleasePrisoner.verb>paleisti</BasicReleasePrisoner.verb>
+  
+  <!-- EN: build roofs -->
+  <BuildRoofs.label>statyti stogus</BuildRoofs.label>
+  <!-- EN: building roof -->
+  <BuildRoofs.gerund>stato stogą</BuildRoofs.gerund>
+  <!-- EN: build roof -->
+  <BuildRoofs.verb>statyti stogą</BuildRoofs.verb>
+  
+  <!-- EN: chat with prisoners -->
+  <ChatWithPrisoner.label>kalbėtis su kaliniais</ChatWithPrisoner.label>
+  <!-- EN: chatting with -->
+  <ChatWithPrisoner.gerund>kalbasi su</ChatWithPrisoner.gerund>
+  <!-- EN: chat with -->
+  <ChatWithPrisoner.verb>kalbėtis su</ChatWithPrisoner.verb>
+  
+  <!-- EN: clear snow -->
+  <CleanClearSnow.label>valyti sniegą</CleanClearSnow.label>
+  <!-- EN: clearing snow -->
+  <CleanClearSnow.gerund>valo sniegą</CleanClearSnow.gerund>
+  <!-- EN: clear snow -->
+  <CleanClearSnow.verb>valyti sniegą</CleanClearSnow.verb>
+  
+  <!-- EN: clean filth -->
+  <CleanFilth.label>valyti nešvarumus</CleanFilth.label>
+  <!-- EN: cleaning -->
+  <CleanFilth.gerund>valo</CleanFilth.gerund>
+  <!-- EN: clean -->
+  <CleanFilth.verb>valyti</CleanFilth.verb>
+  
+  <!-- EN: deliver resources to blueprints -->
+  <ConstructDeliverResourcesToBlueprints.label>atgabenti išteklius prie brėžinių</ConstructDeliverResourcesToBlueprints.label>
+  <!-- EN: working on -->
+  <ConstructDeliverResourcesToBlueprints.gerund>dirba prie</ConstructDeliverResourcesToBlueprints.gerund>
+  <!-- EN: work on -->
+  <ConstructDeliverResourcesToBlueprints.verb>dirbti prie</ConstructDeliverResourcesToBlueprints.verb>
+  
+  <!-- EN: deliver resources to frames -->
+  <ConstructDeliverResourcesToFrames.label>TODO</ConstructDeliverResourcesToFrames.label>
+  <!-- EN: working on -->
+  <ConstructDeliverResourcesToFrames.gerund>TODO</ConstructDeliverResourcesToFrames.gerund>
+  <!-- EN: work on -->
+  <ConstructDeliverResourcesToFrames.verb>TODO</ConstructDeliverResourcesToFrames.verb>
+  
+  <!-- EN: construct placed frames -->
+  <ConstructFinishFrames.label>TODO</ConstructFinishFrames.label>
+  <!-- EN: constructing -->
+  <ConstructFinishFrames.gerund>TODO</ConstructFinishFrames.gerund>
+  <!-- EN: construct -->
+  <ConstructFinishFrames.verb>TODO</ConstructFinishFrames.verb>
+  
+  <!-- EN: remove floors -->
+  <ConstructRemoveFloors.label>pašalinti grindis</ConstructRemoveFloors.label>
+  <!-- EN: removing floor -->
+  <ConstructRemoveFloors.gerund>šalina grindis</ConstructRemoveFloors.gerund>
+  <!-- EN: remove floor -->
+  <ConstructRemoveFloors.verb>šalinti grindis</ConstructRemoveFloors.verb>
+  
+  <!-- EN: smooth floors -->
+  <ConstructSmoothFloors.label>nugludinti grindis</ConstructSmoothFloors.label>
+  <!-- EN: smoothing -->
+  <ConstructSmoothFloors.gerund>gludina</ConstructSmoothFloors.gerund>
+  <!-- EN: smooth -->
+  <ConstructSmoothFloors.verb>gludinti</ConstructSmoothFloors.verb>
+  
+  <!-- EN: smooth walls -->
+  <ConstructSmoothWalls.label>nugludinti sienas</ConstructSmoothWalls.label>
+  <!-- EN: smoothing -->
+  <ConstructSmoothWalls.gerund>gludina</ConstructSmoothWalls.gerund>
+  <!-- EN: smooth -->
+  <ConstructSmoothWalls.verb>gludinti</ConstructSmoothWalls.verb>
+  
+  <!-- EN: fill food hoppers -->
+  <CookFillHopper.label>užpildyti maisto piltuvus</CookFillHopper.label>
+  <!-- EN: filling -->
+  <CookFillHopper.gerund>pildo</CookFillHopper.gerund>
+  <!-- EN: fill -->
+  <CookFillHopper.verb>pildyti</CookFillHopper.verb>
+  
+  <!-- EN: deconstruct structures -->
+  <Deconstruct.label>išardyti statinius</Deconstruct.label>
+  <!-- EN: deconstructing -->
+  <Deconstruct.gerund>ardo</Deconstruct.gerund>
+  <!-- EN: deconstruct -->
+  <Deconstruct.verb>išardyti</Deconstruct.verb>
+  
+  <!-- EN: deliver food to prisoners -->
+  <DeliverFoodToPrisoner.label>gabenti maistą kaliniams</DeliverFoodToPrisoner.label>
+  <!-- EN: delivering food for -->
+  <DeliverFoodToPrisoner.gerund>gabena maistą</DeliverFoodToPrisoner.gerund>
+  <!-- EN: deliver food for -->
+  <DeliverFoodToPrisoner.verb>gabenti maistą</DeliverFoodToPrisoner.verb>
+  
+  <!-- EN: deliver resources to blueprints -->
+  <DeliverResourcesToBlueprints.label>atgabenti resursus prie brėžinių</DeliverResourcesToBlueprints.label>
+  <!-- EN: delivering to -->
+  <DeliverResourcesToBlueprints.gerund>gabena prie</DeliverResourcesToBlueprints.gerund>
+  <!-- EN: deliver to -->
+  <DeliverResourcesToBlueprints.verb>gabenti prie</DeliverResourcesToBlueprints.verb>
+  
+  <!-- EN: deliver resources to frames -->
+  <DeliverResourcesToFrames.label>TODO</DeliverResourcesToFrames.label>
+  <!-- EN: delivering to -->
+  <DeliverResourcesToFrames.gerund>TODO</DeliverResourcesToFrames.gerund>
+  <!-- EN: deliver to -->
+  <DeliverResourcesToFrames.verb>TODO</DeliverResourcesToFrames.verb>
+  
+  <!-- EN: brew liquors -->
+  <DoBillsBrew.label>TODO</DoBillsBrew.label>
+  <!-- EN: brewing at -->
+  <DoBillsBrew.gerund>TODO</DoBillsBrew.gerund>
+  <!-- EN: brew -->
+  <DoBillsBrew.verb>TODO</DoBillsBrew.verb>
+  
+  <!-- EN: butcher creatures -->
+  <DoBillsButcherFlesh.label>mėsinėti būtybes</DoBillsButcherFlesh.label>
+  <!-- EN: butchering at -->
+  <DoBillsButcherFlesh.gerund>mėsinėja prie</DoBillsButcherFlesh.gerund>
+  <!-- EN: butcher -->
+  <DoBillsButcherFlesh.verb>mėsinėti</DoBillsButcherFlesh.verb>
+  
+  <!-- EN: cook meals at stove -->
+  <DoBillsCook.label>gaminti patiekalus prie viryklės</DoBillsCook.label>
+  <!-- EN: cooking at -->
+  <DoBillsCook.gerund>gamina prie</DoBillsCook.gerund>
+  <!-- EN: cook -->
+  <DoBillsCook.verb>gaminti</DoBillsCook.verb>
+  
+  <!-- EN: cook meals at campfire -->
+  <DoBillsCookCampfire.label>gaminti patiekalus prie laužo</DoBillsCookCampfire.label>
+  <!-- EN: cooking at -->
+  <DoBillsCookCampfire.gerund>gamina prie</DoBillsCookCampfire.gerund>
+  <!-- EN: cook -->
+  <DoBillsCookCampfire.verb>gaminti</DoBillsCookCampfire.verb>
+  
+  <!-- EN: do cremation bills -->
+  <DoBillsCremate.label>vykdyti kremavimo užsakymus</DoBillsCremate.label>
+  <!-- EN: cremating at -->
+  <DoBillsCremate.gerund>kremuoja prie</DoBillsCremate.gerund>
+  <!-- EN: cremate -->
+  <DoBillsCremate.verb>kremuoti</DoBillsCremate.verb>
+  
+  <!-- EN: fabricate things -->
+  <DoBillsFabricationBench.label>gaminti dalykus</DoBillsFabricationBench.label>
+  <!-- EN: fabricating things at -->
+  <DoBillsFabricationBench.gerund>gamina dalykus prie</DoBillsFabricationBench.gerund>
+  <!-- EN: fabricate -->
+  <DoBillsFabricationBench.verb>gaminti</DoBillsFabricationBench.verb>
+  
+  <!-- EN: do bills at campfire -->
+  <DoBillsHaulCampfire.label>vykdyti užsakymus prie laužo</DoBillsHaulCampfire.label>
+  <!-- EN: working at -->
+  <DoBillsHaulCampfire.gerund>dirba prie</DoBillsHaulCampfire.gerund>
+  <!-- EN: work at -->
+  <DoBillsHaulCampfire.verb>dirbti prie</DoBillsHaulCampfire.verb>
+  
+  <!-- EN: make things at machining table -->
+  <DoBillsMachiningTable.label>gaminti daiktus prie mechaninio apdirbimo stalo</DoBillsMachiningTable.label>
+  <!-- EN: working at -->
+  <DoBillsMachiningTable.gerund>dirba prie</DoBillsMachiningTable.gerund>
+  <!-- EN: work -->
+  <DoBillsMachiningTable.verb>dirbti</DoBillsMachiningTable.verb>
+  
+  <!-- EN: make apparel -->
+  <DoBillsMakeApparel.label>gaminti drabužius</DoBillsMakeApparel.label>
+  <!-- EN: tailoring at -->
+  <DoBillsMakeApparel.gerund>siuva prie</DoBillsMakeApparel.gerund>
+  <!-- EN: tailor -->
+  <DoBillsMakeApparel.verb>siūti</DoBillsMakeApparel.verb>
+  
+  <!-- EN: make weapons -->
+  <DoBillsMakeWeapons.label>gaminti ginklus</DoBillsMakeWeapons.label>
+  <!-- EN: smithing at -->
+  <DoBillsMakeWeapons.gerund>apdirba prie</DoBillsMakeWeapons.gerund>
+  <!-- EN: smith -->
+  <DoBillsMakeWeapons.verb>apdirbti</DoBillsMakeWeapons.verb>
+  
+  <!-- EN: operate on animals -->
+  <DoBillsMedicalAnimalOperation.label>operuoti gyvūnus</DoBillsMedicalAnimalOperation.label>
+  <!-- EN: operating on -->
+  <DoBillsMedicalAnimalOperation.gerund>operuoja</DoBillsMedicalAnimalOperation.gerund>
+  <!-- EN: operate on -->
+  <DoBillsMedicalAnimalOperation.verb>operuoti</DoBillsMedicalAnimalOperation.verb>
+  
+  <!-- EN: operate on humanlikes -->
+  <DoBillsMedicalHumanOperation.label>operuoti žmogiškas būtybes</DoBillsMedicalHumanOperation.label>
+  <!-- EN: operating on -->
+  <DoBillsMedicalHumanOperation.gerund>operuoja</DoBillsMedicalHumanOperation.gerund>
+  <!-- EN: operate on -->
+  <DoBillsMedicalHumanOperation.verb>operuoti</DoBillsMedicalHumanOperation.verb>
+  
+  <!-- EN: synthesize drugs -->
+  <DoBillsProduceDrugs.label>sintetinti medikamentus</DoBillsProduceDrugs.label>
+  <!-- EN: producing drugs at -->
+  <DoBillsProduceDrugs.gerund>gamina medikamentus prie</DoBillsProduceDrugs.gerund>
+  <!-- EN: produce drugs -->
+  <DoBillsProduceDrugs.verb>gaminti medikamentus</DoBillsProduceDrugs.verb>
+  
+  <!-- EN: work at refinery -->
+  <DoBillsRefinery.label>dirbti prie perdirbimo įrangos</DoBillsRefinery.label>
+  <!-- EN: refining chemicals at -->
+  <DoBillsRefinery.gerund>perdirba chemikalus prie</DoBillsRefinery.gerund>
+  <!-- EN: refine chemicals -->
+  <DoBillsRefinery.verb>perdirbti chemikalus</DoBillsRefinery.verb>
+  
+  <!-- EN: make things at art bench -->
+  <DoBillsSculpt.label>daryti dalykus prie menininko stalo</DoBillsSculpt.label>
+  <!-- EN: sculpting at -->
+  <DoBillsSculpt.gerund>daro skulptūrą prie</DoBillsSculpt.gerund>
+  <!-- EN: sculpt -->
+  <DoBillsSculpt.verb>daryti skulptūrą</DoBillsSculpt.verb>
+  
+  <!-- EN: smelt items -->
+  <DoBillsSmelter.label>lydyti daiktus</DoBillsSmelter.label>
+  <!-- EN: refining at -->
+  <DoBillsSmelter.gerund>perdirba prie</DoBillsSmelter.gerund>
+  <!-- EN: refine -->
+  <DoBillsSmelter.verb>perdirbti</DoBillsSmelter.verb>
+  
+  <!-- EN: make stone blocks -->
+  <DoBillsStonecut.label>gaminti akmens blokus</DoBillsStonecut.label>
+  <!-- EN: cutting stone blocks at -->
+  <DoBillsStonecut.gerund>skaldo akmens blokus prie</DoBillsStonecut.gerund>
+  <!-- EN: stonecut -->
+  <DoBillsStonecut.verb>skaldyti akmenis</DoBillsStonecut.verb>
+  
+  <!-- EN: make things at crafting spot -->
+  <DoBillsUseCraftingSpot.label>gaminti dalykus meistravimo vietoje</DoBillsUseCraftingSpot.label>
+  <!-- EN: crafting at -->
+  <DoBillsUseCraftingSpot.gerund>gamina</DoBillsUseCraftingSpot.gerund>
+  <!-- EN: craft -->
+  <DoBillsUseCraftingSpot.verb>gaminti</DoBillsUseCraftingSpot.verb>
+  
+  <!-- EN: feed animals -->
+  <DoctorFeedAnimals.label>šerti gyvūnus</DoctorFeedAnimals.label>
+  <!-- EN: feeding -->
+  <DoctorFeedAnimals.gerund>šeria</DoctorFeedAnimals.gerund>
+  <!-- EN: feed -->
+  <DoctorFeedAnimals.verb>šerti</DoctorFeedAnimals.verb>
+  
+  <!-- EN: feed patients -->
+  <DoctorFeedHumanlikes.label>maitinti pacientus</DoctorFeedHumanlikes.label>
+  <!-- EN: feeding -->
+  <DoctorFeedHumanlikes.gerund>maitina</DoctorFeedHumanlikes.gerund>
+  <!-- EN: feed -->
+  <DoctorFeedHumanlikes.verb>maitinti</DoctorFeedHumanlikes.verb>
+  
+  <!-- EN: rescue downed allies to bed -->
+  <DoctorRescue.label>gelbėti numuštus sąjungininkus nunešant į lovą</DoctorRescue.label>
+  <!-- EN: rescuing -->
+  <DoctorRescue.gerund>gelbėja</DoctorRescue.gerund>
+  <!-- EN: rescue -->
+  <DoctorRescue.verb>gelbėti</DoctorRescue.verb>
+  
+  <!-- EN: tend to patients with urgent needs -->
+  <DoctorTendEmergency.label>gydyti pacientus su skubiais poreikiais</DoctorTendEmergency.label>
+  <!-- EN: tending to -->
+  <DoctorTendEmergency.gerund>gydo</DoctorTendEmergency.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendEmergency.verb>gydyti</DoctorTendEmergency.verb>
+  
+  <!-- EN: tend to animals -->
+  <DoctorTendToAnimals.label>gydyti gyvūnus</DoctorTendToAnimals.label>
+  <!-- EN: tending to -->
+  <DoctorTendToAnimals.gerund>gydo</DoctorTendToAnimals.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToAnimals.verb>gydyti</DoctorTendToAnimals.verb>
+  
+  <!-- EN: tend to patients -->
+  <DoctorTendToHumanlikes.label>gydyti pacientus</DoctorTendToHumanlikes.label>
+  <!-- EN: tending to -->
+  <DoctorTendToHumanlikes.gerund>gydo</DoctorTendToHumanlikes.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToHumanlikes.verb>gydyti</DoctorTendToHumanlikes.verb>
+  
+  <!-- EN: tend to self -->
+  <DoctorTendToSelf.label>gydyti save</DoctorTendToSelf.label>
+  <!-- EN: tending to -->
+  <DoctorTendToSelf.gerund>gydo</DoctorTendToSelf.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToSelf.verb>gydyti</DoctorTendToSelf.verb>
+  
+  <!-- EN: tend to self -->
+  <DoctorTendToSelfEmergency.label>gydyti save</DoctorTendToSelfEmergency.label>
+  <!-- EN: tending to -->
+  <DoctorTendToSelfEmergency.gerund>gydo</DoctorTendToSelfEmergency.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToSelfEmergency.verb>gydyti</DoctorTendToSelfEmergency.verb>
+  
+  <!-- EN: execute prisoners -->
+  <DoExecution.label>įvykdyti egzekuciją kaliniams</DoExecution.label>
+  <!-- EN: executing -->
+  <DoExecution.gerund>vykdo egzekuciją</DoExecution.gerund>
+  <!-- EN: execute -->
+  <DoExecution.verb>vykdyti egzekuciją</DoExecution.verb>
+  
+  <!-- EN: drill at deep drill -->
+  <Drill.label>gręžti su giluminiu grąžtu</Drill.label>
+  <!-- EN: drilling -->
+  <Drill.gerund>gręžia</Drill.gerund>
+  <!-- EN: drill -->
+  <Drill.verb>gręžti</Drill.verb>
+  
+  <!-- EN: empty egg box -->
+  <EmptyEggBox.label>ištuštinti kiaušinių dėžes</EmptyEggBox.label>
+  <!-- EN: emptying -->
+  <EmptyEggBox.gerund>tuština</EmptyEggBox.gerund>
+  <!-- EN: empty -->
+  <EmptyEggBox.verb>tuštinti</EmptyEggBox.verb>
+  
+  <!-- EN: execute guilty colonists -->
+  <ExecuteGuiltyColonist.label>įvykdyti egzekuciją nusikaltusiems kolonistams</ExecuteGuiltyColonist.label>
+  <!-- EN: executing -->
+  <ExecuteGuiltyColonist.gerund>vykdo egzekuciją</ExecuteGuiltyColonist.gerund>
+  <!-- EN: execute -->
+  <ExecuteGuiltyColonist.verb>vykdyti egzekuciją</ExecuteGuiltyColonist.verb>
+  
+  <!-- EN: extract trees -->
+  <ExtractTree.label>iškasti medžius</ExtractTree.label>
+  <!-- EN: extracting -->
+  <ExtractTree.gerund>iškasa</ExtractTree.gerund>
+  <!-- EN: extract -->
+  <ExtractTree.verb>iškasti</ExtractTree.verb>
+  
+  <!-- EN: feed prisoners -->
+  <FeedPrisoner.label>maitinti kalinius</FeedPrisoner.label>
+  <!-- EN: feeding -->
+  <FeedPrisoner.gerund>maitina</FeedPrisoner.gerund>
+  <!-- EN: feed -->
+  <FeedPrisoner.verb>maitinti</FeedPrisoner.verb>
+  
+  <!-- EN: fight fires -->
+  <FightFires.label>kovoti su ugnimi</FightFires.label>
+  <!-- EN: extinguishing -->
+  <FightFires.gerund>gesina</FightFires.gerund>
+  <!-- EN: extinguish -->
+  <FightFires.verb>gesinti</FightFires.verb>
+  
+  <!-- EN: fill fermenting barrels -->
+  <FillFermentingBarrel.label>pildyti fermentacijos statines</FillFermentingBarrel.label>
+  <!-- EN: filling -->
+  <FillFermentingBarrel.gerund>pildo</FillFermentingBarrel.gerund>
+  <!-- EN: fill -->
+  <FillFermentingBarrel.verb>pildyti</FillFermentingBarrel.verb>
+  
+  <!-- EN: fix broken-down buildings -->
+  <FixBrokenDownBuilding.label>taisyti sugedusius statinius</FixBrokenDownBuilding.label>
+  <!-- EN: replacing broken components in -->
+  <FixBrokenDownBuilding.gerund>keičia sugedusius komponentus</FixBrokenDownBuilding.gerund>
+  <!-- EN: replace broken components in -->
+  <FixBrokenDownBuilding.verb>keisti sugedusius komponentus</FixBrokenDownBuilding.verb>
+  
+  <!-- EN: flick switches -->
+  <Flick.label>perjungti jungiklius</Flick.label>
+  <!-- EN: flicking switch on -->
+  <Flick.gerund>perjungia jungiklį ant</Flick.gerund>
+  <!-- EN: flick switch on -->
+  <Flick.verb>perjungti jungiklį ant</Flick.verb>
+  
+  <!-- EN: operate ground penetrating scanner -->
+  <GroundPenetratingScan.label>naudoti grunto radarą</GroundPenetratingScan.label>
+  <!-- EN: scanning at -->
+  <GroundPenetratingScan.gerund>skenuoja su</GroundPenetratingScan.gerund>
+  <!-- EN: scan -->
+  <GroundPenetratingScan.verb>skenuoti</GroundPenetratingScan.verb>
+  
+  <!-- EN: harvest crops -->
+  <GrowerHarvest.label>nuimti kultūrinių augalų derlių</GrowerHarvest.label>
+  <!-- EN: harvesting -->
+  <GrowerHarvest.gerund>nuima derlių</GrowerHarvest.gerund>
+  <!-- EN: harvest -->
+  <GrowerHarvest.verb>nuimti derlių</GrowerHarvest.verb>
+  
+  <!-- EN: sow crops -->
+  <GrowerSow.label>sėti kultūrinius augalus</GrowerSow.label>
+  <!-- EN: sowing -->
+  <GrowerSow.gerund>sėja</GrowerSow.gerund>
+  <!-- EN: sow -->
+  <GrowerSow.verb>sėti</GrowerSow.verb>
+  
+  <!-- EN: feed animals -->
+  <HandlingFeedPatientAnimals.label>maitinti gyvūnus</HandlingFeedPatientAnimals.label>
+  <!-- EN: feeding -->
+  <HandlingFeedPatientAnimals.gerund>maitina</HandlingFeedPatientAnimals.gerund>
+  <!-- EN: feed -->
+  <HandlingFeedPatientAnimals.verb>maitinti</HandlingFeedPatientAnimals.verb>
+  
+  <!-- EN: haul corpses -->
+  <HaulCorpses.label>gabenti lavonus</HaulCorpses.label>
+  <!-- EN: hauling -->
+  <HaulCorpses.gerund>gabena</HaulCorpses.gerund>
+  <!-- EN: haul -->
+  <HaulCorpses.verb>gabenti</HaulCorpses.verb>
+  
+  <!-- EN: haul general things -->
+  <HaulGeneral.label>gabenti paprastus daiktus</HaulGeneral.label>
+  <!-- EN: hauling -->
+  <HaulGeneral.gerund>gabena</HaulGeneral.gerund>
+  <!-- EN: haul -->
+  <HaulGeneral.verb>gabenti</HaulGeneral.verb>
+  
+  <!-- EN: merge things -->
+  <HaulMerge.label>dėti daiktus į vieną krūvą</HaulMerge.label>
+  <!-- EN: merging -->
+  <HaulMerge.gerund>deda į vieną krūvą</HaulMerge.gerund>
+  <!-- EN: merge -->
+  <HaulMerge.verb>dėti į vieną krūvą</HaulMerge.verb>
+  
+  <!-- EN: load caravan -->
+  <HelpGatheringItemsForCaravan.label>pakrauti karavaną</HelpGatheringItemsForCaravan.label>
+  <!-- EN: loading -->
+  <HelpGatheringItemsForCaravan.gerund>pakrauna</HelpGatheringItemsForCaravan.gerund>
+  <!-- EN: load -->
+  <HelpGatheringItemsForCaravan.verb>pakrauti</HelpGatheringItemsForCaravan.verb>
+  
+  <!-- EN: hunt -->
+  <HunterHunt.label>medžioti</HunterHunt.label>
+  <!-- EN: hunting -->
+  <HunterHunt.gerund>medžioja</HunterHunt.gerund>
+  <!-- EN: hunt -->
+  <HunterHunt.verb>medžioti</HunterHunt.verb>
+  
+  <!-- EN: load transporters -->
+  <LoadTransporters.label>TODO</LoadTransporters.label>
+  <!-- EN: loading -->
+  <LoadTransporters.gerund>TODO</LoadTransporters.gerund>
+  <!-- EN: load -->
+  <LoadTransporters.verb>TODO</LoadTransporters.verb>
+  
+  <!-- EN: operate long range scanner -->
+  <LongRangeScan.label>naudoti ilgojo nuotolio radarą</LongRangeScan.label>
+  <!-- EN: scanning at -->
+  <LongRangeScan.gerund>skenuoja su</LongRangeScan.gerund>
+  <!-- EN: scan -->
+  <LongRangeScan.verb>skenuoti</LongRangeScan.verb>
+  
+  <!-- EN: milk animals -->
+  <Milk.label>melžti gyvūnus</Milk.label>
+  <!-- EN: milking -->
+  <Milk.gerund>melžia</Milk.gerund>
+  <!-- EN: milk -->
+  <Milk.verb>melžti</Milk.verb>
+  
+  <!-- EN: mine -->
+  <Mine.label>kasti</Mine.label>
+  <!-- EN: mining -->
+  <Mine.gerund>kasa</Mine.gerund>
+  <!-- EN: mine -->
+  <Mine.verb>kasti</Mine.verb>
+  
+  <!-- EN: open containers -->
+  <Open.label>atidaryti talpyklas</Open.label>
+  <!-- EN: opening -->
+  <Open.gerund>atidaro</Open.gerund>
+  <!-- EN: open -->
+  <Open.verb>atidaryti</Open.verb>
+  
+  <!-- EN: paint buildings -->
+  <PaintBuilding.label>dažyti statinius</PaintBuilding.label>
+  <!-- EN: painting -->
+  <PaintBuilding.gerund>dažo</PaintBuilding.gerund>
+  <!-- EN: paint -->
+  <PaintBuilding.verb>dažyti</PaintBuilding.verb>
+  
+  <!-- EN: paint floor -->
+  <PaintFloor.label>dažyti grindis</PaintFloor.label>
+  <!-- EN: painting -->
+  <PaintFloor.gerund>dažo</PaintFloor.gerund>
+  <!-- EN: paint -->
+  <PaintFloor.verb>dažyti</PaintFloor.verb>
+  
+  <!-- EN: go to bed for emergency treatment -->
+  <PatientGoToBedEmergencyTreatment.label>eiti į lovą skubiam gydymui</PatientGoToBedEmergencyTreatment.label>
+  <!-- EN: receiving treatment in -->
+  <PatientGoToBedEmergencyTreatment.gerund>gydomas</PatientGoToBedEmergencyTreatment.gerund>
+  <!-- EN: receive treatment in -->
+  <PatientGoToBedEmergencyTreatment.verb>būti gydomam</PatientGoToBedEmergencyTreatment.verb>
+  
+  <!-- EN: recuperate in bed -->
+  <PatientGoToBedRecuperate.label>atgauti jėgas lovoje</PatientGoToBedRecuperate.label>
+  <!-- EN: getting bed rest in -->
+  <PatientGoToBedRecuperate.gerund>ilsisi lovoje</PatientGoToBedRecuperate.gerund>
+  <!-- EN: get bed rest in -->
+  <PatientGoToBedRecuperate.verb>ilsėtis lovoje</PatientGoToBedRecuperate.verb>
+  
+  <!-- EN: go to bed for treatment -->
+  <PatientGoToBedTreatment.label>eiti į lovą gydymui</PatientGoToBedTreatment.label>
+  <!-- EN: receiving treatment in -->
+  <PatientGoToBedTreatment.gerund>gydomas</PatientGoToBedTreatment.gerund>
+  <!-- EN: receive treatment in -->
+  <PatientGoToBedTreatment.verb>būti gydomam</PatientGoToBedTreatment.verb>
+  
+  <!-- EN: cut plants -->
+  <PlantsCut.label>kirsti augalus</PlantsCut.label>
+  <!-- EN: cutting -->
+  <PlantsCut.gerund>kerta</PlantsCut.gerund>
+  <!-- EN: cut -->
+  <PlantsCut.verb>kirsti</PlantsCut.verb>
+  
+  <!-- EN: plant seeds -->
+  <PlantSeed.label>sodinti sėklas</PlantSeed.label>
+  <!-- EN: planting -->
+  <PlantSeed.gerund>sodina</PlantSeed.gerund>
+  <!-- EN: plant -->
+  <PlantSeed.verb>sodinti</PlantSeed.verb>
+  
+  <!-- EN: rearm turrets -->
+  <RearmTurrets.label>užtaisyti bokštus</RearmTurrets.label>
+  <!-- EN: rearming -->
+  <RearmTurrets.gerund>užtaiso</RearmTurrets.gerund>
+  <!-- EN: rearm -->
+  <RearmTurrets.verb>užtaisyti</RearmTurrets.verb>
+  
+  <!-- EN: rebalance penned animals -->
+  <RebalanceAnimalsInPens.label>TODO</RebalanceAnimalsInPens.label>
+  <!-- EN: roping -->
+  <RebalanceAnimalsInPens.gerund>TODO</RebalanceAnimalsInPens.gerund>
+  <!-- EN: rope -->
+  <RebalanceAnimalsInPens.verb>TODO</RebalanceAnimalsInPens.verb>
+  
+  <!-- EN: refuel fuelable buildings -->
+  <Refuel.label>pildyti kurą kūrenamiems statiniams</Refuel.label>
+  <!-- EN: refueling -->
+  <Refuel.gerund>pildo kurą</Refuel.gerund>
+  <!-- EN: refuel -->
+  <Refuel.verb>pildyti kurą</Refuel.verb>
+  
+  <!-- EN: release prisoners -->
+  <ReleasePrisoner.label>paleisti kalinius</ReleasePrisoner.label>
+  <!-- EN: releasing -->
+  <ReleasePrisoner.gerund>paleidžia</ReleasePrisoner.gerund>
+  <!-- EN: release -->
+  <ReleasePrisoner.verb>paleisti</ReleasePrisoner.verb>
+  
+  <!-- EN: release to wild -->
+  <ReleaseToWild.label>paleisti į gamtą</ReleaseToWild.label>
+  <!-- EN: releasing -->
+  <ReleaseToWild.gerund>paleidžia</ReleaseToWild.gerund>
+  <!-- EN: release -->
+  <ReleaseToWild.verb>paleisti</ReleaseToWild.verb>
+  
+  <!-- EN: remove paint -->
+  <RemovePaintBuilding.label>pašalinti dažus</RemovePaintBuilding.label>
+  <!-- EN: removing paint from -->
+  <RemovePaintBuilding.gerund>šalina dažus nuo</RemovePaintBuilding.gerund>
+  <!-- EN: remove paint -->
+  <RemovePaintBuilding.verb>pašalinti dažus</RemovePaintBuilding.verb>
+  
+  <!-- EN: remove floor paint -->
+  <RemovePaintFloor.label>pašalinti grindų dažus</RemovePaintFloor.label>
+  <!-- EN: removing paint from -->
+  <RemovePaintFloor.gerund>šalina dažus nuo</RemovePaintFloor.gerund>
+  <!-- EN: remove paint -->
+  <RemovePaintFloor.verb>pašalinti grindų dažus</RemovePaintFloor.verb>
+  
+  <!-- EN: remove roofs -->
+  <RemoveRoofs.label>pašalinti stogus</RemoveRoofs.label>
+  <!-- EN: removing roof -->
+  <RemoveRoofs.gerund>šalina stogą</RemoveRoofs.gerund>
+  <!-- EN: remove roof -->
+  <RemoveRoofs.verb>pašalinti stogą</RemoveRoofs.verb>
+  
+  <!-- EN: repair damaged things -->
+  <Repair.label>taisyti sugadintus daiktus</Repair.label>
+  <!-- EN: repairing -->
+  <Repair.gerund>taiso</Repair.gerund>
+  <!-- EN: repair -->
+  <Repair.verb>taisyti</Repair.verb>
+  
+  <!-- EN: replant tree -->
+  <Replant.label>persodinti medį</Replant.label>
+  <!-- EN: replanting -->
+  <Replant.gerund>persodina</Replant.gerund>
+  <!-- EN: replant -->
+  <Replant.verb>persodinti</Replant.verb>
+  
+  <!-- EN: do research -->
+  <Research.label>vykdyti tyrimus</Research.label>
+  <!-- EN: researching at -->
+  <Research.gerund>vykdo tyrimą prie</Research.gerund>
+  <!-- EN: research -->
+  <Research.verb>vykdyti tyrimą</Research.verb>
+  
+  <!-- EN: shear animals -->
+  <Shear.label>kirpti gyvūnus</Shear.label>
+  <!-- EN: shearing -->
+  <Shear.gerund>kerpa</Shear.gerund>
+  <!-- EN: shear -->
+  <Shear.verb>kirpti</Shear.verb>
+  
+  <!-- EN: slaughter animals -->
+  <Slaughter.label>papjauti gyvūnus</Slaughter.label>
+  <!-- EN: slaughtering -->
+  <Slaughter.gerund>pjauna</Slaughter.gerund>
+  <!-- EN: slaughter -->
+  <Slaughter.verb>papjauti</Slaughter.verb>
+  
+  <!-- EN: strip corpses -->
+  <Strip.label>nurengti lavonus</Strip.label>
+  <!-- EN: stripping -->
+  <Strip.gerund>nurengia</Strip.gerund>
+  <!-- EN: strip -->
+  <Strip.verb>nurengti</Strip.verb>
+  
+  <!-- EN: study -->
+  <StudyThing.label>TODO</StudyThing.label>
+  <!-- EN: studying -->
+  <StudyThing.gerund>TODO</StudyThing.gerund>
+  <!-- EN: research -->
+  <StudyThing.verb>TODO</StudyThing.verb>
+  
+  <!-- EN: take beer out of fermenting barrels -->
+  <TakeBeerOutOfFermentingBarrel.label>išimti alų ir fermentacijos statinių</TakeBeerOutOfFermentingBarrel.label>
+  <!-- EN: taking beer from -->
+  <TakeBeerOutOfFermentingBarrel.gerund>ima alų iš</TakeBeerOutOfFermentingBarrel.gerund>
+  <!-- EN: take beer -->
+  <TakeBeerOutOfFermentingBarrel.verb>išimti alų</TakeBeerOutOfFermentingBarrel.verb>
+  
+  <!-- EN: take prisoners to bed -->
+  <TakePrisonerToBed.label>nunešti kalinius į lovą</TakePrisonerToBed.label>
+  <!-- EN: taking to bed -->
+  <TakePrisonerToBed.gerund>neša į lovą</TakePrisonerToBed.gerund>
+  <!-- EN: take to bed -->
+  <TakePrisonerToBed.verb>nešti į lovą</TakePrisonerToBed.verb>
+  
+  <!-- EN: rope roaming animals -->
+  <TakeRoamingAnimalsToPen.label>pririšti klajojančius gyvūnus</TakeRoamingAnimalsToPen.label>
+  <!-- EN: roping -->
+  <TakeRoamingAnimalsToPen.gerund>pririša</TakeRoamingAnimalsToPen.gerund>
+  <!-- EN: rope -->
+  <TakeRoamingAnimalsToPen.verb>pririšti</TakeRoamingAnimalsToPen.verb>
+  
+  <!-- EN: take patients to bed for operations -->
+  <TakeToBedToOperate.label>nunešti pacientus į lovą operacijoms</TakeToBedToOperate.label>
+  <!-- EN: taking to operate -->
+  <TakeToBedToOperate.gerund>neša operuoti</TakeToBedToOperate.gerund>
+  <!-- EN: take to operate -->
+  <TakeToBedToOperate.verb>nunešti operuoti</TakeToBedToOperate.verb>
+  
+  <!-- EN: rope animals -->
+  <TakeToPen.label>pririšti gyvūnus</TakeToPen.label>
+  <!-- EN: roping -->
+  <TakeToPen.gerund>pririša</TakeToPen.gerund>
+  <!-- EN: rope -->
+  <TakeToPen.verb>pririšti</TakeToPen.verb>
+  
+  <!-- EN: tame animals -->
+  <Tame.label>jaukinti gyvūnus</Tame.label>
+  <!-- EN: taming -->
+  <Tame.gerund>jaukina</Tame.gerund>
+  <!-- EN: tame -->
+  <Tame.verb>jaukinti</Tame.verb>
+  
+  <!-- EN: train animals -->
+  <Train.label>dresuoti gyvūnus</Train.label>
+  <!-- EN: training -->
+  <Train.gerund>dresuoja</Train.gerund>
+  <!-- EN: train -->
+  <Train.verb>dresuoti</Train.verb>
+  
+  <!-- EN: uninstall structures -->
+  <Uninstall.label>išmontuoti statinius</Uninstall.label>
+  <!-- EN: uninstalling -->
+  <Uninstall.gerund>išmontuoja</Uninstall.gerund>
+  <!-- EN: uninstall -->
+  <Uninstall.verb>išmontuoti</Uninstall.verb>
+  
+  <!-- EN: unload carriers -->
+  <UnloadCarriers.label>TODO</UnloadCarriers.label>
+  <!-- EN: unloading -->
+  <UnloadCarriers.gerund>TODO</UnloadCarriers.gerund>
+  <!-- EN: unload -->
+  <UnloadCarriers.verb>TODO</UnloadCarriers.verb>
+  
+  <!-- EN: visit sick people -->
+  <VisitSickPawn.label>lankyti sergančius žmones</VisitSickPawn.label>
+  <!-- EN: visiting -->
+  <VisitSickPawn.gerund>lanko</VisitSickPawn.gerund>
+  <!-- EN: visit -->
+  <VisitSickPawn.verb>lankyti</VisitSickPawn.verb>
+  
+</LanguageData>

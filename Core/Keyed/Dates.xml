@@ -1,14 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Time -->
   <ClockTime>Laikas</ClockTime>
+  <!-- EN: Date -->
   <ClockDate>Data</ClockDate>
+  <!-- EN: Year -->
   <ClockYear>Metai</ClockYear>
-  <DateReadoutTip>Dienos, praėjusios nuo jūsų atvykimo: {0}\nDabartinis ketvirtis: {4}\nVietinis sezonas: {2}\n\nMetai yra padalinti į keturis ketvirčius po {3} dienas kiekviename. Ketvirčiai visur yra vienodi, o sezonai skirtingose vietose skirtingi.\n\nVietiniai sezonai kiekvienam ketvirčiui:\n{5}</DateReadoutTip>
+  <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
+  <DateReadoutTip>Dienos, praėjusios nuo tavo atvykimo: {0}\nDabartinis ketvirtis: {4}\nVietinis metų laikas: {2}\n\nMetai yra padalinti į keturis ketvirčius po {3} dienas kiekviename. Ketvirčiai visur yra vienodi, o metų laikai skirtingose vietose yra skirtingi.\n\nVietiniai metų laikai kiekvienam ketvirčiui:\n{5}</DateReadoutTip>
 
-  <FullDate>{0} {1}, {2}</FullDate>
-	<DateReadout>{0} {1}, {2}</DateReadout>
-  <SeasonFullDate>{0} {1}</SeasonFullDate>
-  <WholeYear>Visi metai</WholeYear>
+  <!-- EN: {0} of {1}, {2} -->
+  <FullDate>{2} m., {1} {0} d.</FullDate>
+  <!-- EN: {0} {1} {2} -->
+  <ShortDate>{2}-{1}-{0}</ShortDate>
+  <!-- EN: {0} of {1}, {2} -->
+  <DateReadout>{2} m., {1} {0} d.</DateReadout>
+  <!-- EN: {0} of {1} -->
+  <SeasonFullDate>{1} {replace: {0}; "th"-""; "st"-""; "nd"-""; "rd"-""}</SeasonFullDate>
+  <!-- EN: Whole year -->
+  <WholeYear>Visus metus</WholeYear>
   
 </LanguageData>

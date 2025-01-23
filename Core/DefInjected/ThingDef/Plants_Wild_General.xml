@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: brambles -->
+  <Plant_Brambles.label>šermukšnis</Plant_Brambles.label>
+  <!-- EN: Tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them. -->
+  <Plant_Brambles.description>Raizgūs, spygliuoti, sumedėję lapuoti ūgliai. Šermukšniai auga sankaupomis ir sulėtina visus einančius pro juos.</Plant_Brambles.description>
+  
+  <!-- EN: bush -->
+  <Plant_Bush.label>krūmas</Plant_Bush.label>
+  <!-- EN: A short shrub. Does not typically talk. -->
+  <Plant_Bush.description>Nedidelis krūmokšnis. Dažniausiai nekalba.</Plant_Bush.description>
+  
+  <!-- EN: grass -->
+  <Plant_Grass.label>žolė</Plant_Grass.label>
+  <!-- EN: Wild grass. Grows anywhere there is a little light and minimally fertile ground. -->
+  <Plant_Grass.description>Laukinė žolė. Auga visur kur yra truputis šviesos ir bent truputis derlingesnės žemės.</Plant_Grass.description>
+  
+  <!-- EN: wild healroot -->
+  <Plant_HealrootWild.label>laukinis gydašaknis</Plant_HealrootWild.label>
+  <!-- EN: A slow-growing plant which yields herbal medicine when harvested.\n\nThis wild breed of healroot is hardier than domesticated healroot, but too difficult to cultivate. It is prized by tribespeople in colder climates. -->
+  <Plant_HealrootWild.description>Lėtai augantis augalas iš kurio gaunamos vaistažolės.\n\nŠis laukinis gydašaknio variantas yra ištvermingesnis negu domestikuotas gydašaknis, bet per jį daug sudėtinga auginti. Vertinamas genčių šaltesniame klimate.</Plant_HealrootWild.description>
+  
+  <!-- EN: tall grass -->
+  <Plant_TallGrass.label>aukšta žolė</Plant_TallGrass.label>
+  <!-- EN: Wild tall grass. Slows down anyone moving over it. -->
+  <Plant_TallGrass.description>Aukšta laukinė žolė. Sulėtina visus einančius per ją.</Plant_TallGrass.description>
+  
+</LanguageData>

@@ -1,0 +1,741 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Main menu -->
+  <!-- EN: Tutorial -->
+  <Tutorial>Pasimokyk žaisti</Tutorial>
+  <!-- EN: New colony -->
+  <NewColony>Nauja kolonija</NewColony>
+  <!-- EN: Back to game -->
+  <BackToGame>Grįžti į žaidimą</BackToGame>
+  <!-- EN: Review scenario -->
+  <ReviewScenario>Peržiūrėti scenarijų</ReviewScenario>
+  <!-- EN: Save -->
+  <Save>Išsaugoti</Save>
+  <!-- EN: Load game -->
+  <LoadGame>Įkelti žaidimą</LoadGame>
+  <!-- EN: Options -->
+  <Options>Nustatymai</Options>
+  <!-- EN: Mod -->
+  <Mod>Žaidimo modifikacija</Mod>
+  <!-- EN: Mods -->
+  <Mods>Žaidimo modifikacijos</Mods>
+  <!-- EN: Save translation report -->
+  <SaveTranslationReport>Išsaugoti vertimo ataskaitą</SaveTranslationReport>
+  <!-- EN: Generating translation report -->
+  <GeneratingTranslationReport>Kuriama vertimo ataskaita</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>Valyti vertimo bylas</CleanupTranslationFiles>
+  <!-- EN: Update translations files (TKey's) -->
+  <TranslationFilesTKeyUpdate>Atnaujinti vertimo bylas (TKey's)</TranslationFilesTKeyUpdate>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>Valomos vertimo bylos</CleaningTranslationFiles>
+  <!-- EN: Dev quicktest -->
+  <DevQuickTest>TODO</DevQuickTest>
+  <!-- EN: Credits -->
+  <Credits>Autoriai</Credits>
+  <!-- EN: Quit to main menu -->
+  <QuitToMainMenu>Išeiti į pagrindinį meniu</QuitToMainMenu>
+  <!-- EN: Save and quit to menu -->
+  <SaveAndQuitToMainMenu>Išsaugoti ir išeiti į meniu</SaveAndQuitToMainMenu>
+  <!-- EN: Quit to OS -->
+  <QuitToOS>Išeiti į OS</QuitToOS>
+  <!-- EN: Save and quit to OS -->
+  <SaveAndQuitToOS>Išsaugoti ir išeiti į OS</SaveAndQuitToOS>
+  <!-- EN: Fiction primer -->
+  <FictionPrimer>Fantastikos pradžiamokslis</FictionPrimer>
+  <!-- EN: Ludeon blog -->
+  <LudeonBlog>Ludeon tinklaraštis</LudeonBlog>
+  <!-- EN: Forums -->
+  <Forums>Forumai</Forums>
+  <!-- EN: Official wiki -->
+  <OfficialWiki>Oficiali wiki</OfficialWiki>
+  <!-- EN: Tynan's twitter -->
+  <TynansTwitter>Tynan twitter paskyra</TynansTwitter>
+  <!-- EN: Tynan's design book -->
+  <TynansDesignBook>Tynan dizaino knyga</TynansDesignBook>
+  <!-- EN: Help translate RimWorld -->
+  <HelpTranslate>Padėti versti RimWorld</HelpTranslate>
+  <!-- EN: Buy soundtrack -->
+  <BuySoundtrack>Pirkti garso takelį</BuySoundtrack>
+  <!-- EN: Create world -->
+  <CreateWorld>Sukurti pasaulį</CreateWorld>
+
+  <!-- Main menu translations info window -->
+  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
+  <TranslationThanks>Visi RimWorld vertimai yra mėgėjiški. Šį mėgėjišką vertimą sukūrė šie puikūs savanoriai:\n\n{0}</TranslationThanks>
+  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
+  <TranslationHowToContribute>Tu taip pat gali prisidėti. Paspausk žemiau kad sužinotum daugiau (atidaro interneto naršyklę).</TranslationHowToContribute>
+  <!-- EN: Learn more -->
+  <LearnMore>Sužinoti daugiau</LearnMore>
+
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
+  <DevBuildWarning>TODO</DevBuildWarning>
+
+  <!-- Create/review world -->
+  <!-- EN: Review world -->
+  <ReviewWorld>Peržiūrėti pasaulį</ReviewWorld>
+  <!-- EN: Generate -->
+  <WorldGenerate>Kurti</WorldGenerate>
+  <!-- EN: Save and finish -->
+  <WorldSaveAndFinish>Išsaugoti ir pabaigti</WorldSaveAndFinish>
+  <!-- EN: Reset factions -->
+  <ResetFactions>Atstatyti frakcijas</ResetFactions>
+  <!-- EN: Globe coverage -->
+  <PlanetCoverage>Planetos padengimas</PlanetCoverage>
+  <!-- EN: Overall rainfall -->
+  <PlanetRainfall>Bendras kritulių kiekis</PlanetRainfall>
+  <!-- EN: Overall temperature -->
+  <PlanetTemperature>Bendra temperatūra</PlanetTemperature>
+  <!-- EN: Population -->
+  <PlanetPopulation>Populiacija</PlanetPopulation>
+  <!-- EN: Low -->
+  <PlanetRainfall_Low>Mažas</PlanetRainfall_Low>
+  <!-- EN: Normal -->
+  <PlanetRainfall_Normal>Vidutinis</PlanetRainfall_Normal>
+  <!-- EN: High -->
+  <PlanetRainfall_High>Didelis</PlanetRainfall_High>
+  <!-- EN: Low -->
+  <PlanetTemperature_Low>Žema</PlanetTemperature_Low>
+  <!-- EN: Normal -->
+  <PlanetTemperature_Normal>Vidutinė</PlanetTemperature_Normal>
+  <!-- EN: High -->
+  <PlanetTemperature_High>Aukšta</PlanetTemperature_High>
+  <!-- EN: Sparse -->
+  <PlanetPopulation_Low>Reta</PlanetPopulation_Low>
+  <!-- EN: Normal -->
+  <PlanetPopulation_Normal>Vidutinė</PlanetPopulation_Normal>
+  <!-- EN: Crowded -->
+  <PlanetPopulation_High>Tanki</PlanetPopulation_High>
+  <!-- EN: Seed -->
+  <WorldSeed>Pradžios seka generatoriui</WorldSeed>
+  <!-- EN: Randomize seed -->
+  <RandomizeSeed>Kita pradžios seka</RandomizeSeed>
+  <!-- EN: The planet is always the same diameter, but since it's far larger than needed for play, we don't generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
+  <PlanetCoverageTip>Planeta visada yra tokio paties skersmens, bet kadangi ji yra daug didesnė negu reikia žaidimui, mes nekuriame viso paviršiaus, nes tai gali užimti labai daug laiko. Tai yra paviršiaus procentas kurį tu nori sukurti.</PlanetCoverageTip>
+  <!-- EN: Factions -->
+  <WorldFactionsTab>Frakcijos</WorldFactionsTab>
+
+  <!-- Select world -->
+  <!-- EN: Select world -->
+  <SelectWorld>Pasirinkti pasaulį</SelectWorld>
+  <!-- EN: Select -->
+  <WorldChooseButton>Pasirinkti</WorldChooseButton>
+  <!-- EN: No world files found. Create a world first. -->
+  <NoWorldsFilesFound>Nerastos pasaulio bylos. Pirmiau sukurk pasaulį.</NoWorldsFilesFound>
+  
+  <!-- Version info -->
+  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
+  <BuildNowAvailable>Versija {0} jau prieinama. Patikrink ludeon.com kad sužinotum daugiau.</BuildNowAvailable>
+  <!-- EN: This is the latest version. -->
+  <BuildUpToDate>Ši versija yra naujausia.</BuildUpToDate>
+  <!-- EN: Error getting version info: {0} -->
+  <ErrorGettingVersionInfo>Klaida gaunant versijos informaciją: {0}</ErrorGettingVersionInfo>
+  <!-- EN: Loading version info... -->
+  <LoadingVersionInfo>Įkeliama versijos informacija...</LoadingVersionInfo>
+
+  <!-- World generator -->
+  <!-- EN: Generate world -->
+  <GenerateWorld>Kurti pasaulį</GenerateWorld>
+
+  <!-- Mods config -->
+  <!-- EN: Open Steam Workshop -->
+  <OpenSteamWorkshop>Atidaryti Steam Workshop</OpenSteamWorkshop>
+  <!-- EN: Get mods from forum -->
+  <GetModsFromForum>Gauti žaidimo modifikacijas iš forumo</GetModsFromForum>
+  <!-- EN: Open mods data folder -->
+  <OpenModsDataFolder>Atidaryti žaidimo modifikacijų duomenų katalogą</OpenModsDataFolder>
+  <!-- EN: Show mods data location -->
+  <ShowModsDataLocation>Parodyti žaidimo modifikacijų duomenų vietą</ShowModsDataLocation>
+  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
+  <ConfirmDisableCoreMod>Ar tikrai nori išjungti esminę žaidimo modifikaciją? Žaidimas nebeveiks, nebent tu turi kitą žaidimo modifikaciją kuris pakeičia visą esminį funkcionalumą.\n\nAtsimink, kitos žaidimo modifikacijos gali perrašyti esminės žaidimo modifikacijos def duomenis naudodami tą patį defName.</ConfirmDisableCoreMod>
+  <!-- EN: Are you sure you want to delete all the content for {0}? -->
+  <ConfirmDeleteMod>Ar tikrai nori ištrinti visą {0} turinį?</ConfirmDeleteMod>
+  <!-- EN: Auto-sort mods -->
+  <ResolveModOrder>Automatiškai rūšiuoti žaidimo modifikacijas</ResolveModOrder>
+  <!-- EN: Save and apply changes -->
+  <SaveModChanges>Išsaugoti ir pritaikyti pakeitimus</SaveModChanges>
+  <!-- EN: Mod changes have not been saved. Are you sure you want to continue? -->
+  <DiscardModChanges>Žaidimo modifikacijų pakeitimai nebuvo išsaugoti. Ar tikrai nori tęsti?</DiscardModChanges>
+  <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
+  <ModReorderConflict_MustLoadAfter>Negalima perkelti {0}: Turi būti įkeltas po {1}.</ModReorderConflict_MustLoadAfter>
+  <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
+  <ModReorderConflict_MustLoadBefore>Negalima perkelti {0}: Turi būti įkeltas prieš {1}.</ModReorderConflict_MustLoadBefore>
+  <!-- EN: Unsubscribe -->
+  <Unsubscribe>Pašalinti</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe? -->
+  <ConfirmUnsubscribe>Ar tikrai nori pašalinti?</ConfirmUnsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
+  <ConfirmUnsubscribeFrom>Ar tikrai nori pašalinti {0}?</ConfirmUnsubscribeFrom>
+  <!-- EN: Are you sure you want to unsubscribe from:\n\n{0} -->
+  <ConfirmUnsubscribeFromMultiple>Ar tikrai nori pašalinti:\n\n{0}?</ConfirmUnsubscribeFromMultiple>
+  <!-- EN: Author -->
+  <Author>Autorius</Author>
+  <!-- EN: Enabled -->
+  <Enabled>Įjungtas</Enabled>
+  <!-- EN: Disabled -->
+  <Disabled>Išjungtas</Disabled>
+  <!-- EN: Enable -->
+  <Enable>Įjungti</Enable>
+  <!-- EN: Disable -->
+  <Disable>Išjungti</Disable>
+  <!-- EN: Get mods from... -->
+  <GetMods>Gauti žaidimo modifikacijas iš...</GetMods>
+  <!-- EN: Unsubscribe from... -->
+  <UnsubscribeMultiple>Pašalinti...</UnsubscribeMultiple>
+  <!-- EN: Save / load list... -->
+  <SaveLoadList>Išsaugoti / įkelti sąrašus...</SaveLoadList>
+  <!-- EN: Save mod list -->
+  <SaveModList>Išsaugoti žaidimo modifikacijų sąrašą</SaveModList>
+  <!-- EN: Load mod list -->
+  <LoadModList>Įkelti žaidimo modifikacijų sąrašą</LoadModList>
+  <!-- EN: Added mods -->
+  <AddedModsList>Pridėti žaidimo modifikacijas</AddedModsList>
+  <!-- EN: Missing mods -->
+  <MissingModsList>Trūkstamos žaidimo modifikacijos</MissingModsList>
+  <!-- EN: Shared mods -->
+  <SharedModsList>Bendros žaidimo modifikacijos</SharedModsList>
+  <!-- EN: Website -->
+  <ModWebsite>Internetinis puslapis</ModWebsite>
+  <!-- EN: Open folder -->
+  <ModFolder>Atidaryti katalogą</ModFolder>
+  <!-- EN: Mod options -->
+  <ModOptions>Žaidimo modifikacijų nustatymai</ModOptions>
+  <!-- EN: Workshop -->
+  <FromWorkshop>Workshop</FromWorkshop>
+  <!-- EN: Forum -->
+  <FromForum>Forumas</FromForum>
+  <!-- EN: Advanced... -->
+  <MoreActions>Daugiau...</MoreActions>
+  <!-- EN: All selected mods -->
+  <AllSelectedMods>Visos pasirinktos žaidimo modifikacijos</AllSelectedMods>
+  <!-- EN: All disabled mods -->
+  <AllDisabledMods>Visos išjungtos žaidimo modifikacijos</AllDisabledMods>
+  <!-- EN: All incompatible mods -->
+  <AllIncompatibleMods>Visos nesuderinamos žaidimo modifikacijos</AllIncompatibleMods>
+  <!-- EN: Workshop page -->
+  <WorkshopPage>Workshop puslapis</WorkshopPage>
+  <!-- EN: Upload to Steam Workshop -->
+  <UploadToSteamWorkshop>Įkelti į Steam Workshop</UploadToSteamWorkshop>
+  <!-- EN: Update on Steam Workshop -->
+  <UpdateOnSteamWorkshop>Įkelti atnaujinimą į Steam Workshop</UpdateOnSteamWorkshop>
+  <!-- EN: Upload already in progress. -->
+  <UploadAlreadyInProgress>Įkėlimas jau vykdomas.</UploadAlreadyInProgress>
+  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
+  <WorkshopSubmissionFailed>Įkėlimas į Workshop nepavyko.\n\nPriežastis: {0}</WorkshopSubmissionFailed>
+  <!-- EN: Successfully uploaded {0}. -->
+  <WorkshopUploadSucceeded>Pavyko įkelti {0}.</WorkshopUploadSucceeded>
+  <!-- EN: Downloading -->
+  <Downloading>Parsiunčiama</Downloading>
+  <!-- EN: Workshop ID -->
+  <WorkshopId>Workshop ID</WorkshopId>
+  <!-- EN: Display fulfilled requirements -->
+  <ModDisplayFulfilledRequirements>Rodyti išpildytus reikalavimus</ModDisplayFulfilledRequirements>
+  <!-- EN: Click to select. -->
+  <ModClickToSelect>Paspausk, kad pasirinktum.</ModClickToSelect>
+  <!-- EN: Click to go to website. -->
+  <ModClickToGoToWebsite>Paspausk, kad nueitum į interneto svetainę.</ModClickToGoToWebsite>
+  <!-- EN: Source -->
+  <Source>Šaltinis</Source>
+  <!-- EN: Game versions -->
+  <ModTargetVersion>Žaidimo versijos</ModTargetVersion>
+  <!-- EN: Mod version -->
+  <ModVersion>Žaidimo modifikacijos versija</ModVersion>
+  <!-- EN: ID -->
+  <ModPackageId>ID</ModPackageId>
+  <!-- EN: This must be loaded before: {0}. -->
+  <ModMustLoadBefore>Tai privalo būti įkelta prieš: {0}.</ModMustLoadBefore>
+  <!-- EN: This must be loaded after: {0}. -->
+  <ModMustLoadAfter>Tai privalo būti įkelta po: {0}.</ModMustLoadAfter>
+  <!-- EN: Depends on: {0} -->
+  <ModDependsOn>Priklauso nuo: {0}</ModDependsOn>
+  <!-- EN: Incompatible with: {0} -->
+  <ModIncompatibleWith>Nesuderinamas su: {0}</ModIncompatibleWith>
+  <!-- EN: This mod is incompatible with: {0}. -->
+  <ModIncompatibleWithTip>Ši žaidimo modifikacija yra nesuderinamas su: {0}.</ModIncompatibleWithTip>
+  <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
+  <ModOrderingWarning>Ši žaidimo modifikacija yra įkeliamas neteisinga tvarka santykinai su kitu modu. Naudok 'auto-rūšiavimas' mygtuką, arba perrūšiuok modus pats.</ModOrderingWarning>
+  <!-- EN: Another active mod uses the same ID: {0}. -->
+  <ModWithSameIdAlreadyActive>Kita aktyvi žaidimo modifikacija naudoja tokį patį ID: {0}.</ModWithSameIdAlreadyActive>
+  <!-- EN: There is a cyclic mod dependency starting with {0}. -->
+  <ModCyclicDependency>Yra ciklinė žaidimo modifikacijų priklausomybė prasidedanti nuo {0}.</ModCyclicDependency>
+  <!-- EN: This requires the following mods to work: {0}. -->
+  <ModUnsatisfiedDependency>Šiam reikia sekančių žaidimo modifikacijų kad veiktų: {0}.</ModUnsatisfiedDependency>
+  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion>Ši žaidimo modifikacija nebuvo sukurtas su šia RimWorld versija ir turbūt teisingai neveiks.</ModNotMadeForThisVersion>
+  <!-- EN: This mod is not made for this version of RimWorld. -->
+  <ModNotMadeForThisVersionShort>Ši žaidimo modifikacija nesukurtas šiai RimWorld versijai.</ModNotMadeForThisVersionShort>
+  <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion_Newer>Ši žaidimo modifikacija buvo sukurtas naujesnei RimWorld versijai negu ši ir turbūt teisingai neveiks.</ModNotMadeForThisVersion_Newer>
+  <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
+  <MessageModNeedsWellFormattedTargetVersion>Žaidimo modifikacijai reikia tinkamai suformatuotos palaikomos versijos informacijos About.xml byloje. Šitaip: &lt;supportedVersions>&lt;li>{0}&lt;/li>&lt;/supportedVersions> - &lt;targetVersion> yra nebenaudojamas. Patikrink įrašų bylą jei nori daugiau informacijos.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
+  <MessageModNeedsWellFormattedPackageId>Žaidimo modifikacijai reikia unikalaus, tinkamai suformatuoto packageId About.xml byloje. Jis turi atitikti sekančius reikalavimus:\n\n  - Tik raidiniai ir skaitiniai simboliai ir taškas.\n  - Nėra tarpų.\n  - Bent vienas taškas.\n  - Nėra kelių taškų iš eilės, arba taško pradžioje ar pabaigoje.\n  - 60 simbolių arba mažiau.\n  - Negali savyje turėti žodžio "Ludeon".\n\nPavyzdžiui:\n&lt;packageId>AuthorName.ModName&lt;/packageId>\n&lt;packageId>AuthorName.ModName.Specific&lt;/packageId></MessageModNeedsWellFormattedPackageId>
+  <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
+  <ModHadLoadFolderIssues>Ši žaidimo modifikacija turi sutrikimų LoadFolders.xml byloje, kuriuos tau reikia panaikinti prieš įkeliant:</ModHadLoadFolderIssues>
+  <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
+  <ModLoadFolderDoesntExist>Katalogas {0} nurodytas versijai {1} neegzistuoja.</ModLoadFolderDoesntExist>
+  <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
+  <ModLoadFolderMalformedVersion>Blogai suformuota versijos simbolių seka '{0}'. Teisingas formatas yra Didžioji.Mažoji (pvz. 1.1)</ModLoadFolderMalformedVersion>
+  <!-- EN: The list of load folders for version {0} is empty. -->
+  <ModLoadFolderListEmpty>Įkėlimo katalogų sąrašas versijai {0} yra tuščias.</ModLoadFolderListEmpty>
+  <!-- EN: Version {0} lists the same folder more than once: {1}. -->
+  <ModLoadFolderRepeatingFolder>Versija {0} sąraše turi tą patį katalogą daugiau negu vieną kartą: {1}.</ModLoadFolderRepeatingFolder>
+  <!-- EN: Invalid version order: {0} should come before {1}. -->
+  <ModLoadFolderOutOfOrder>Klaidingas versijos eiliškumas: {0} turėtų eiti prieš {1}.</ModLoadFolderOutOfOrder>
+  <!-- EN: Invalid version order: 'default' should be defined first. -->
+  <ModLoadFolderOutOfOrderDefault>Klaidingas versijos eiliškumas: 'default' turėtų būti apibrėžtas pirmas.</ModLoadFolderOutOfOrderDefault>
+  <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
+  <ModLoadFolderDefaultDeprecated>'default' yra nebenaudojamas įkėlimo kataloguose. Prašome nurodyti katalogus kiekvienai versijai naudojant &lt;v...> žymes.</ModLoadFolderDefaultDeprecated>
+  <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
+  <ModLoadFolderDefinesUnsupportedGameVersion>Versija {0} yra nurodyta tarp įkėlimo katalogų, bet nėra žaidimo modifikacijos About.xml sąraše 'supportedVersions'.</ModLoadFolderDefinesUnsupportedGameVersion>
+  <!-- EN: Drag to reorder -->
+  <DragToReorder>Vilk pakeisti tvarkai</DragToReorder>
+
+  <!-- Select scenario -->
+  <!-- EN: Choose scenario -->
+  <ChooseScenario>Pasirinkti scenarijų</ChooseScenario>
+  <!-- EN: Custom -->
+  <ScenariosCustom>Pritaikymai</ScenariosCustom>
+  <!-- EN: Steam Workshop -->
+  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <!-- EN: Scenario editor -->
+  <ScenarioEditor>Scenarijaus redaktorius</ScenarioEditor>
+  <!-- EN: Delete -->
+  <Delete>Ištrinti</Delete>
+  
+  <!-- Scenario editor -->
+  <!-- EN: seed -->
+  <Seed>pradžia generatoriui</Seed>
+  <!-- EN: Load -->
+  <Load>Įkelti</Load>
+  <!-- EN: edit mode -->
+  <EditMode>keitimo režimas</EditMode>
+  <!-- EN: Summary -->
+  <Summary>Santrauka</Summary>
+  <!-- EN: Add part -->
+  <AddPart>Pridėti dalį</AddPart>
+  <!-- EN: All text fields must be filled. -->
+  <TextFieldsMustBeFilled>Visi teksto laukeliai turi būti užpildyti.</TextFieldsMustBeFilled>
+  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
+  <ConfirmSteamWorkshopUpload>Ar esi tikras kad nori užkrauti tai į Steam Workshop?\n\nTuri sutikti su Steam Workshop paslaugų tiekimo sąlygomis. Pilnas sąlygas atrasi čia:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
+  <ConfirmContentAuthor>Akivaizdu, kad turėtum įkelti tik turinį kurį sukūrei pats.\n\nAr šį turinį sukūrei pats?</ConfirmContentAuthor>
+  <!-- EN: Incompatible -->
+  <Incompatible>Nesuderinamas</Incompatible>
+  <!-- EN: Tag as translation -->
+  <TagAsTranslation>Pažymėti kaip vertimą</TagAsTranslation>
+  <!-- EN: Too many (max {0}):  -->
+  <TooMany>Per daug (daugiausia {0}): </TooMany>
+  <!-- EN: Can be updated on Workshop, since you are the author. -->
+  <CanBeUpdatedOnWorkshop>Gali būti įkelta į Workshop, kadangi tu esi autorius.</CanBeUpdatedOnWorkshop>
+  <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
+  <ScenarioChangedSavePrompt>Šis scenarijus buvo pakeistas.\n\nAr nori jį išsaugoti prieš tęsdamas?</ScenarioChangedSavePrompt>
+  
+  <!-- Select storyteller -->
+  <!-- EN: Choose AI Storyteller -->
+  <ChooseAIStoryteller>Pasirink DI Pasakotoją</ChooseAIStoryteller>
+  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
+  <HowStorytellersWork>Dirbtinio intelekto (DI) Pasakotojas kuria įvykius kaip piratų reidai, išteklių numetimai ar gyvūnų puolimai. Jų sprendimai pakeis tavo kolonijos likimą. Šiuos nustatymus gali bet kada keisti.</HowStorytellersWork>
+  <!-- EN: Please choose a difficulty setting. -->
+  <MustChooseDifficulty>Prašome pasirinkti sudėtingumo nustatymą.</MustChooseDifficulty>
+  <!-- EN: Difficulty -->
+  <Difficulty>Sudėtingumas</Difficulty>
+  <!-- EN: Commitment mode -->
+  <CommitmentMode>Negrįžtamas režimas</CommitmentMode>
+  <!-- EN: Reload anytime mode -->
+  <ReloadAnytimeMode>Perkrauti bet kada režimas</ReloadAnytimeMode>
+  <!-- EN: Please choose commitment mode or reload anytime mode. -->
+  <MustChoosePermadeath>Prašome pasirinkti negrįžtamą arba perkrauti bet kada režimą</MustChoosePermadeath>
+  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
+  <ReloadAnytimeModeInfo>Gali išsaugoti ir įkelti žaidimą bet kada\n\nTai yra geras pasirinkimas jei vis dar mokiniesi žaisti, jei tai tinka tavo asmeniniam žaidimo stiliui, jei naudoji žaidimo modifikacijas kurios gali nulaužti žaidimą arba jei ketini negrįžtamą režimą užsitikrinti sau pats.</ReloadAnytimeModeInfo>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
+  <PermadeathModeInfo>Gali išsaugoti tik išeidamas iš žaidimo.\n\nKadangi RimWorld yra pasakojimo generatorius, net visų išskyrus vieną asmenų praradimas nėra žaidimo pabaiga - tai pasakojimo dalis. Žaidimas yra sukurtas taip, kad leistų atsigauti po netekčių.\n\nŠių siaubingų scenarijų žaidimas iki galo suteiks ir tragedijų, ir pergalingų istorijų. RimWorld ir yra sukurtas žaisti tokiu būdu.\n\nNe be reikalo Lukas Skaivolkeris neišėjo į meniu ir neperkrovė kai jo šeima buvo išžudyta - netektys ir sugrįžimai suteikia dramos.</PermadeathModeInfo>
+  <!-- EN: Storyteller and playstyle can be changed any time. -->
+  <CanChangeStorytellerSettingsDuringPlay>Pasakotojas ir žaidimo stilius gali būti pakeisti bet kada.</CanChangeStorytellerSettingsDuringPlay>
+
+  <!-- custom difficulty settings -->
+  <!-- EN: Custom playstyle settings -->
+  <DifficultyCustomSectionLabel>Pritaikyti žaidimo stiliaus nustatymus</DifficultyCustomSectionLabel>
+  <!-- EN: Set to standard playstyle... -->
+  <DifficultyReset>Nustatyti standartinį žaidimo stilių...</DifficultyReset>
+  
+  <!-- EN: Threats -->
+  <DifficultyThreatSection>Grėsmės</DifficultyThreatSection>
+  <!-- EN: Threat scale -->
+  <Difficulty_ThreatScale_Label>Grėsmių skalė</Difficulty_ThreatScale_Label>
+  <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
+  <Difficulty_ThreatScale_Info>Koreguoti grėsmių, tokių kaip reidai ar infestacijos, dydį ir užduočių sudėtingumo lygį.</Difficulty_ThreatScale_Info>
+  <!-- EN: Major threats -->
+  <Difficulty_AllowBigThreats_Label>Didelės grėsmės</Difficulty_AllowBigThreats_Label>
+  <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
+  <Difficulty_AllowBigThreats_Info>Lesiti dideles grėsmes, tokias kaip reidai, infestacijos, žmones puolančių gyvūnų būriai, sudužę mechanoidų erdvėlaiviai ir daugiau.</Difficulty_AllowBigThreats_Info>
+  <!-- EN: Quest threats -->
+  <Difficulty_AllowViolentQuests_Label>Užduočių grėsmės</Difficulty_AllowViolentQuests_Label>
+  <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
+  <Difficulty_AllowViolentQuests_Info>Leisti užduotims būti su smurtinėmis grėsmėmis ir iššūkiais. Jei tai išjungta, užduotys bus pakeistos, kad būtų nesmurtinės.</Difficulty_AllowViolentQuests_Info>
+  <!-- EN: Intro threats -->
+  <Difficulty_AllowIntroThreats_Label>Įvadinės grėsmės</Difficulty_AllowIntroThreats_Label>
+  <!-- EN: Enable the fixed intro threats that appear near game start. -->
+  <Difficulty_AllowIntroThreats_Info>Leisti iš anksto nustatytas įvadines grėsmes kurios atsiranda žaidimo pradžioje.</Difficulty_AllowIntroThreats_Info>
+  <!-- EN: Predators hunt humans -->
+  <Difficulty_PredatorsHuntHumanlikes_Label>Plėšrūnai medžioja žmones</Difficulty_PredatorsHuntHumanlikes_Label>
+  <!-- EN: Allow wild predators to hunt humans. -->
+  <Difficulty_PredatorsHuntHumanlikes_Info>Leisti plėšrūnams medžioti žmones.</Difficulty_PredatorsHuntHumanlikes_Info>
+  <!-- EN: Extreme weather -->
+  <Difficulty_AllowExtremeWeatherIncidents_Label>Ekstremalios oro sąlygos</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
+  <Difficulty_AllowExtremeWeatherIncidents_Info>Leisti ekstremalių oro sąlygų incidentus tokius kaip toksiškos nuokritos, vulkaninės žiemos ir žaibavimų audros.</Difficulty_AllowExtremeWeatherIncidents_Info>
+
+  <!-- EN: Economy -->
+  <DifficultyEconomySection>Ekonomika</DifficultyEconomySection>
+  <!-- EN: Trade price disadvantage -->
+  <Difficulty_TradePriceFactorLoss_Label>Prekybos kainų nepalankumas</Difficulty_TradePriceFactorLoss_Label>
+  <!-- EN: When trading, buy prices are increased by this amount while sell prices are reduced by this amount. -->
+  <Difficulty_TradePriceFactorLoss_Info>Prekiaujant, pirkimo kainos yra padidinamos šia verte, o pardavimo kainos yra atitinkamai sumažinamos.</Difficulty_TradePriceFactorLoss_Info>
+  <!-- EN: Harvest yield -->
+  <Difficulty_CropYieldFactor_Label>Derliaus kiekis</Difficulty_CropYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees. -->
+  <Difficulty_CropYieldFactor_Info>Koreguok medžiagų kiekį, gaunamą nuimant augalų derlių. Tai paveikia derliaus nuėmimą iš augalų ir medžių kirtimą.</Difficulty_CropYieldFactor_Info>
+  <!-- EN: Mining yield -->
+  <Difficulty_MineYieldFactor_Label>Kalnakasybos kiekis</Difficulty_MineYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when mining. -->
+  <Difficulty_MineYieldFactor_Info>Koreguok medžiagų kiekį išgaunamą kasant uolieną.</Difficulty_MineYieldFactor_Info>
+  <!-- EN: Butchering yield -->
+  <Difficulty_ButcherYieldFactor_Label>Mėsinėjimo kiekis</Difficulty_ButcherYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
+  <Difficulty_ButcherYieldFactor_Info>Koreguok medžiagų kiekį gaunamą mėsinėjant. Tai paveikia gaunamos mėsos ir odos kiekį, ir gaunamų resursų kiekį smulkinant mechanoidus.</Difficulty_ButcherYieldFactor_Info>
+  <!-- EN: Research speed -->
+  <Difficulty_ResearchSpeedFactor_Label>Tyrimų greitis</Difficulty_ResearchSpeedFactor_Label>
+  <!-- EN: Adjust the speed of research. -->
+  <Difficulty_ResearchSpeedFactor_Info>Koreguok tyrimų greitį.</Difficulty_ResearchSpeedFactor_Info>
+  <!-- EN: Quest rewards -->
+  <Difficulty_QuestRewardValueFactor_Label>Užduočių atlygiai</Difficulty_QuestRewardValueFactor_Label>
+  <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_QuestRewardValueFactor_Info>Koreguok atlygių, duodamų už užduotis, vertę.\n\nPastaba: Užduoties atlygio vertė taip pat automatiškai kinta priklausomai nuo grėsmės dydžio. Jei pakeisi šį dydį, pridėsi papildomą daugiklį.</Difficulty_QuestRewardValueFactor_Info>
+  <!-- EN: Raid loot -->
+  <Difficulty_RaidLootPointsFactor_Label>Reido grobis</Difficulty_RaidLootPointsFactor_Label>
+  <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_RaidLootPointsFactor_Info>Koreguok grobį, kurį nešasi užpuolikai, vertę.\n\nPastaba: Reido grobio vertė taip pat automatiškai kinta priklausomai nuo grėsmių dydžio. Jei pakeisi šį dydį, pridėsi papildomą daugiklį.</Difficulty_RaidLootPointsFactor_Info>
+  <!-- EN: Turret rearm cost -->
+  <Difficulty_MaintenanceCostFactor_Label>Bokšto užtaisymo kaina</Difficulty_MaintenanceCostFactor_Label>
+  <!-- EN: Adjust the cost of rearming turrets. -->
+  <Difficulty_MaintenanceCostFactor_Info>Koreguok bokšto užtaisymo kainą.</Difficulty_MaintenanceCostFactor_Info>
+  <!-- EN: Scaria rot chance -->
+  <Difficulty_ScariaRotChance_Label>Pasiutligės supuvimo tikimybė</Difficulty_ScariaRotChance_Label>
+  <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
+  <Difficulty_ScariaRotChance_Info>Tikimybė, kad lavonas bus iškart supuvęs, jei būtybė sirgo pasiutlige.\n\nPastaba: Numatytasis nustatymas yra sureguliuotas kompensuoti didesnius gyvūnų kiekius aukštesniuose sudėtingumo lygiuose, kad visi žaidėjai gautų tokį patį mėsos atlygį.</Difficulty_ScariaRotChance_Info>
+  <!-- EN: Enemy death on downed -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>Priešo mirties tikimybė numušus</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Koreguok papildomą tikimybę kad numuštas priešas iškart mirs. Tai paveikia šansus paimti belaisvius, ir taip kolonijos populiacijos augimo greitį.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+
+  <!-- EN: General -->
+  <DifficultyGeneralSection>Bendri</DifficultyGeneralSection>
+  <!-- EN: Colonist mood -->
+  <Difficulty_ColonistMoodOffset_Label>Kolonisto nuotaika</Difficulty_ColonistMoodOffset_Label>
+  <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
+  <Difficulty_ColonistMoodOffset_Info>Pastovus nuotaikos pokytis pritaikomas kiekvienam kolonistui ir kaliniui. Kolonistų bazinė nuotaika yra 50%.</Difficulty_ColonistMoodOffset_Info>
+  <!-- EN: Food poison chance -->
+  <Difficulty_FoodPoisonChanceFactor_Label>Apsinuodijimo maistu tikimybė</Difficulty_FoodPoisonChanceFactor_Label>
+  <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
+  <Difficulty_FoodPoisonChanceFactor_Info>Koreguok tikimybę kad asmuo apsinuodys maistu valgydamas potencialiai nuodingą patiekalą.</Difficulty_FoodPoisonChanceFactor_Info>
+  <!-- EN: Animal revenge chance -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>Gyvūno keršto tikimybė</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>Koreguok tikimybę kad laukinio gyvūno sužeidimas lems, kad jis puls.</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <!-- EN: Friendly fire -->
+  <Difficulty_FriendlyFireChanceFactor_Label>Draugiškos ugnies tikimybė</Difficulty_FriendlyFireChanceFactor_Label>
+  <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
+  <Difficulty_FriendlyFireChanceFactor_Info>Koreguok draugiškos ugnies tikimybę.\n\nPastaba: Šis nustatymas paveikia tik tiesioginius šūvius kurie būtų kliudę jų taikinį. Jis neapsaugos nuo sprogimų žalos, ar šūvių kurie nebūtų pataikę į taikinį.</Difficulty_FriendlyFireChanceFactor_Info>
+  <!-- EN: Colonist instant kills -->
+  <Difficulty_AllowInstantKillChance_Label>Staigios kolonisto mirties tikimybė</Difficulty_AllowInstantKillChance_Label>
+  <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
+  <Difficulty_AllowInstantKillChance_Info>Koreguok tikimybę kad kolonistas dėl atakos iškart mirs. Gaunama žala yra pakoreguojama taip, kad ji vietoj mirties kolonistą tiesiog numuštų.\n\nTai tik apsaugo nuo kai kurių greitų mirčių - kolonistai vis tiek gali būti numušti ir mirtinai nukraujuoti, mirti dėl ugnies, sprogimų, ligos ir taip toliau.</Difficulty_AllowInstantKillChance_Info>
+  <!-- EN: Infection chance -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>Infekcijos tikimybė</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <!-- EN: Adjust the chance that a wound will become infected. -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>Koreguok tikimybę kad žaizdoje atsiras infekcija.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <!-- EN: Disease frequency -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>Ligų dažnumas</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <!-- EN: Adjust the frequency of random disease events. -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>Koreguok atsitiktinės ligos įvykių dažnumą.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <!-- EN: Insect spawning rate -->
+  <Difficulty_EnemyReproductionRateFactor_Label>Vabzdžių išsiritimo greitis</Difficulty_EnemyReproductionRateFactor_Label>
+  <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
+  <Difficulty_EnemyReproductionRateFactor_Info>Koreguok kokiu greičiu vabzdžių lizduose ritasi nauji vabzdžiai. Mažesnė vertė reiškia kad praeis daugiau laiko tarp išsiritimų.\n\nTai nepaveikia ar infestacijos gali atsirasti - tik kokiu greičiu aktyvūs lizdai gamina vabzdžius.</Difficulty_EnemyReproductionRateFactor_Info>
+  <!-- EN: Deep drilling infestations -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>Giluminio gręžimo infestacijos</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>Koreguok tikimybę kad giluminis gręžimas sukels infestaciją.</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <!-- EN: Map generation ancient threats -->
+  <Difficulty_PeacefulTemples_Inverted_Label>Žemėlapio generavimas: senovinės grėsmės</Difficulty_PeacefulTemples_Inverted_Label>
+  <!-- EN: Ancient structures may contain dangerous threats. -->
+  <Difficulty_PeacefulTemples_Inverted_Info>Senoviniuose statiniuose gali būti pavojingų grėsmių.</Difficulty_PeacefulTemples_Inverted_Info>
+  <!-- EN: Map generation natural hives -->
+  <Difficulty_AllowCaveHives_Label>Žemėlapio generavimas: natūralūs vabzdžių lizdai</Difficulty_AllowCaveHives_Label>
+  <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
+  <Difficulty_AllowCaveHives_Info>Vabzdžių lizdai ramybės būsenoje gali atsirasti natūraliuose urvuose.\n\nŠis nustatymas taikomas tik kuriant žemėlapį ir nepaveikia aktyvių vabzdžių kurie gali išsirausti žaidžiant.</Difficulty_AllowCaveHives_Info>
+  <!-- EN: Add unwavering prisoners -->
+  <Difficulty_UnwaveringPrisoners_Label>Pridėti nepalaužiamų kalinių</Difficulty_UnwaveringPrisoners_Label>
+  <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
+  <Difficulty_UnwaveringPrisoners_Info>Šis nustatymas pridės į žaidimą papildomų pagrobiamų kalinių kurie negali būti įkalbėti prisijungti dėl nepalaužiamos ištikimybės.\n\nNepalaužiami kaliniai pridedami papildomai prie įprastų kalinių, todėl šio nustatymo išjungimas neduos daugiau įkalbamų prisijungti kalinių - tiesiog pašalins tuos, kurie yra nepalaužiami.\n\nNepalaužiami kaliniai vis tiek gali būti paleisti dėl diplomatinės naudos, parduoti, pavergti, gali būti paimti jų organai ar kitaip panaudoti. Bendrai paėmus jie suteikia daugiau pasirinkimų ir išteklių, ir padaro žaidimą truputį turiningesniu ir lengvesniu.</Difficulty_UnwaveringPrisoners_Info>
+
+  <!-- EN: Player tools -->
+  <DifficultyPlayerToolsSection>Žaidėjo priemonės</DifficultyPlayerToolsSection>
+  <!-- EN: Player can build traps -->
+  <Difficulty_AllowTraps_Label>Žaidėjas gali statyti spąstus</Difficulty_AllowTraps_Label>
+  <!-- EN: Player can build traps like spike traps and IED traps. -->
+  <Difficulty_AllowTraps_Info>Žaidėjas gali statyti tokius spąstus kaip smaigalių spąstai ir IED spąstai</Difficulty_AllowTraps_Info>
+  <!-- EN: Player can build turrets -->
+  <Difficulty_AllowTurrets_Label>Žaidėjas gali statyti bokštus</Difficulty_AllowTurrets_Label>
+  <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
+  <Difficulty_AllowTurrets_Info>Žaidėjas gali statyti stacionarius bokštus kaip mini-bokštai, automatinės patrankos ir urano luitų bokštai.\n\nUžgrobtus bokštus galima naudoti net jei šis nustatymas išjungtas.</Difficulty_AllowTurrets_Info>
+  <!-- EN: Player can build mortars -->
+  <Difficulty_AllowMortars_Label>Žaidėjas gali statyti minosvaidžius</Difficulty_AllowMortars_Label>
+  <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
+  <Difficulty_AllowMortars_Info>Žaidėjas gali statyti minosvaidžius.\n\nVis tiek galima naudoti užgrobtus minosvaidžius net jei šis nustatymas išjungtas.</Difficulty_AllowMortars_Info>
+  <!-- EN: Classic mortars -->
+  <Difficulty_ClassicMortars_Label>Klasikiniai minosvaidžiai</Difficulty_ClassicMortars_Label>
+  <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
+  <Difficulty_ClassicMortars_Info>Minosvaidžiams sukonstruoti ir užtaisyti nereikės sutvirtintų vamzdžių, ir jie yra subalansuoti atsižvelgiant į šį prieinamumo palengvinimą.</Difficulty_ClassicMortars_Info>
+  
+  <!-- EN: Adaptation -->
+  <DifficultyAdaptationSection>Adaptacija</DifficultyAdaptationSection>
+  <!-- EN: Adaptation growth rate -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>Adaptacijos augimo greitis</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how fast the adaptation score grows over time. -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>Adaptacija reiškia kad pasakotojas padarys, kad žaidimo sudėtingumas augtų kai viskas einasi gerai. Adaptacijos taškai auga su laiku, ir sumažėja kai patiri nuostolių.\n\n Šis nustatymas pakeičia kaip sparčiai su laiku tie adaptacijos taškai augs.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <!-- EN: Adaptation impact -->
+  <Difficulty_AdaptationEffectFactor_Label>Adaptacijos poveikis</Difficulty_AdaptationEffectFactor_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how much the adaptation score affects the difficulty. -->
+  <Difficulty_AdaptationEffectFactor_Info>Adaptacija reiškia kad pasakotojas padarys, kad žaidimo sudėtingumas augtų kai viskas einasi gerai. Adaptacijos taškai auga su laiku, ir sumažėja kai patiri nuostolių.\n\nŠis nustatymas pakeičia kiek adaptacijos taškai paveikia sudėtingumą.</Difficulty_AdaptationEffectFactor_Info>
+  <!-- EN: Wealth-independent progress mode -->
+  <Difficulty_FixedWealthMode_Label>Nuo turtingumo nepriklausantis progreso režimas</Difficulty_FixedWealthMode_Label>
+  <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
+  <Difficulty_FixedWealthMode_Info>Žaisk nuo turtingumo nepriklausantis progreso režimu.\n\nĮprastiniame režime pasakotojas didina grėsmes pagal kolonistų kiekį, žaidėjo turtingumą ir įvairias kitas aplinkybes. Nuo turtingumo nepriklausomas režimas pašalina turtingumo koeficientą ir jį pakeičia fiksuota progreso kreive priklausančia nuo laiko. Laikas skaičiuojamas nuo kiekvienos kolonijos įkūrimo.\n\nTai rekomenduojama tik tiems kurie ieško griežtai įgūdžių iššūkio. Nuo turtingumo nepriklausomame režime gali būti beveik neįmanoma atsigauti patyrus didelių netekčių neįkuriant naujos gyvenvietės. Taip pat įmanoma nueiti per daug į priekį ir pasidaryti žaidimą per lengvu.</Difficulty_FixedWealthMode_Info>
+  <!-- EN: Years until maximum threat -->
+  <Difficulty_FixedWealthTimeFactor_Label>Metai iki maksimalios grėsmės</Difficulty_FixedWealthTimeFactor_Label>
+  <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
+  <Difficulty_FixedWealthTimeFactor_Info>Skaičius žaidimo metų kol nuo turtingumo nepriklausantis režimas pasiekia savo maksimalų grėsmės lygį.\n\nAtsimink kad pasakotojas vis tiek didins grėsmes pagal kolonistų skaičių ir įvairias kitas aplinkybes.</Difficulty_FixedWealthTimeFactor_Info>
+
+  <!-- EN: Ideology -->
+  <DifficultyIdeologySection>Ideologija</DifficultyIdeologySection>
+  <!-- EN: Low pop conversion boost -->
+  <Difficulty_LowPopConversionBoost_Label>TODO</Difficulty_LowPopConversionBoost_Label>
+  <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
+  <Difficulty_LowPopConversionBoost_Info>TODO</Difficulty_LowPopConversionBoost_Info>
+
+  <!-- Site select -->
+  <!-- EN: Select starting site -->
+  <SelectStartingSite>Pasirink pradinę vietą</SelectStartingSite>
+  <!-- EN: Select random site -->
+  <SelectRandomSite>Atsitiktinė vieta</SelectRandomSite>
+  <!-- EN: Select site -->
+  <SelectSite>Pasirinkti vietą</SelectSite>
+  <!-- EN: Please select a site. -->
+  <MustSelectStartingSite>Prašome pasirinkti vietą.</MustSelectStartingSite>
+  <!-- EN: You cannot land on this biome: {0} -->
+  <CannotLandBiome>Negalima nusileisti šiame biome: {0}</CannotLandBiome>
+  <!-- EN: Biome not implemented -->
+  <BiomeNotImplemented>Biomas neįgyvendintas</BiomeNotImplemented>
+  <!-- EN: You cannot land on impassable mountains. -->
+  <CannotLandImpassableMountains>Negali nusileisti ant nepereinamų kalnų.</CannotLandImpassableMountains>
+  <!-- EN: {0} already have a base there. -->
+  <BaseAlreadyThere>{0} jau turi ten bazę.</BaseAlreadyThere>
+  <!-- EN: You already have a base there. -->
+  <YourBaseAlreadyThere>Tu jau turi ten bazę.</YourBaseAlreadyThere>
+  <!-- EN: This tile is occupied. -->
+  <TileOccupied>Šis langelis jau užimtas</TileOccupied>
+  <!-- EN: Settlements cannot be directly adjacent to each other. -->
+  <FactionBaseAdjacent>Gyvenvietės negali būti tiesiogiai šalia viena kitos.</FactionBaseAdjacent>
+  <!-- EN: Biome -->
+  <Biome>Biomas</Biome>
+  <!-- EN: Terrain -->
+  <Terrain>Gruntas</Terrain>
+  <!-- EN: Road -->
+  <Road>Kelias</Road>
+  <!-- EN: River -->
+  <River>Upė</River>
+  <!-- EN: Elevation -->
+  <Elevation>Aukštis</Elevation>
+  <!-- EN: Fertility -->
+  <Fertility>Derlingumas</Fertility>
+  <!-- EN: fertility -->
+  <FertilityLower>vaisingumas</FertilityLower>
+  <!-- EN: Average temperature -->
+  <AvgTemp>Vidutinė temperatūra</AvgTemp>
+  <!-- EN: Rainfall -->
+  <Rainfall>Kritulių kiekis</Rainfall>
+  <!-- EN: Special features -->
+  <SpecialFeatures>Ypatumai</SpecialFeatures>
+  <!-- EN: northern coast -->
+  <HasCoast0>šiaurinis krantas</HasCoast0>
+  <!-- EN: eastern coast -->
+  <HasCoast1>rytinis krantas</HasCoast1>
+  <!-- EN: southern coast -->
+  <HasCoast2>pietinis krantas</HasCoast2>
+  <!-- EN: western coast -->
+  <HasCoast3>vakarinis krantas</HasCoast3>
+  <!-- EN: caves -->
+  <HasCaves>urvai</HasCaves>
+  <!-- EN: Faction base -->
+  <FactionBase>Frakcijos bazė</FactionBase>
+  <!-- EN: Stone types -->
+  <StoneTypesHere>Akmenų rūšys</StoneTypesHere>
+  <!-- EN: Time zone -->
+  <TimeZone>Laiko juosta</TimeZone>
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty>Judėjimo sudėtingumas</MovementDifficulty>
+  <!-- EN: Animals can graze now -->
+  <AnimalsCanGrazeNow>Gyvūnai dabar gali ganytis</AnimalsCanGrazeNow>
+  <!-- EN: Average disease frequency -->
+  <AverageDiseaseFrequency>Vidutinis ligų dažnumas</AverageDiseaseFrequency>
+  <!-- EN: per year -->
+  <PerYear>per metus</PerYear>
+  <!-- EN: Forageability -->
+  <Forageability>Gamtoje renkamas maistas</Forageability>
+  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Nei vienas iš pasirinktų žmonių negali dirbti sekančių darbų:\n\n{0}\n\nTai gali paversti žaidimą sudėtingesniu nei įprasta. Ar tikrai nori tęsti?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <!-- EN: temperature -->
+  <TemperatureLower>temperatūra</TemperatureLower>
+  <!-- EN: light -->
+  <LightLower>šviesa</LightLower>
+
+  <!-- Character chooser -->
+  <!-- EN: Create characters -->
+  <CreateCharacters>Sukurti veikėjus</CreateCharacters>
+  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
+  <FirstNameDesc>Veikėjo vardas.\n\nRodomas tik tam tikruose meniu.</FirstNameDesc>
+  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
+  <ShortIdentifierDesc>Veikėjo trumpas identifikatorius.\n\nRodomas visada. Gali būti vardas ar pavardė, arba visiškai atskira pravardė.</ShortIdentifierDesc>
+  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
+  <LastNameDesc>Veikėjo pavardė.\n\nRodoma tik tam tikruose meniu.</LastNameDesc>
+  <!-- EN: Randomize -->
+  <Randomize>Atsitiktinis</Randomize>
+  <!-- EN: age {0} -->
+  <AgeIndicator>{0} metų</AgeIndicator>
+  <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummary>{PAWN_race}, {PAWN_ageFull} metų</PawnSummary>
+  <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummaryWithGender>{PAWN_gender} {PAWN_race}, {PAWN_ageFull} metų</PawnSummaryWithGender>
+  <!-- EN: Backstory -->
+  <Backstory>Trumpa biografija</Backstory>
+  <!-- EN: Incapable of -->
+  <IncapableOf>Negalintis</IncapableOf>
+  <!-- EN: Abilities -->
+  <Abilities>Sugebėjimai</Abilities>
+  <!-- EN: Caused by -->
+  <IncapableOfTooltipHediff>Dėl </IncapableOfTooltipHediff>
+  <!-- EN: Disabled work types: -->
+  <IncapableOfTooltipWorkTypes>Negalimos darbo rūšys:</IncapableOfTooltipWorkTypes>
+  <!-- EN: Caused by backstory -->
+  <IncapableOfTooltipBackstory>Dėl buvimo</IncapableOfTooltipBackstory>
+  <!-- EN: Caused by title -->
+  <IncapableOfTooltipTitle>Dėl titulo</IncapableOfTooltipTitle>
+  <!-- EN: Caused by trait -->
+  <IncapableOfTooltipTrait>Dėl bruožo</IncapableOfTooltipTrait>
+  <!-- EN: Caused by quest status -->
+  <IncapableOfTooltipQuest>Dėl užduoties būsenos</IncapableOfTooltipQuest>
+  <!-- EN: Caused by role -->
+  <IncapableOfTooltipRole>Dėl rolės</IncapableOfTooltipRole>
+  <!-- EN: Caused by gene -->
+  <IncapableOfTooltipGene>Dėl geno</IncapableOfTooltipGene>
+  <!-- EN: Traits -->
+  <Traits>Bruožai</Traits>
+  <!-- EN: Permanent mood effect -->
+  <PermanentMoodEffect>Nuolatinis poveikis nuotaikai</PermanentMoodEffect>
+  <!-- EN: Skills -->
+  <Skills>Įgūdžiai</Skills>
+  <!-- EN: none -->
+  <NoneLower>nėra</NoneLower>
+  <!-- EN: Adulthood -->
+  <Adulthood>Suaugęs</Adulthood>
+  <!-- EN: Childhood -->
+  <Childhood>Vaikystėje</Childhood>
+  <!-- EN: male -->
+  <Male>vyras</Male>
+  <!-- EN: female -->
+  <Female>moteris</Female>
+  <!-- EN: male and female -->
+  <MaleAndFemale>vyras ir moteris</MaleAndFemale>
+  <!-- EN: male -->
+  <MaleAnimal>patinas</MaleAnimal>
+  <!-- EN: female -->
+  <FemaleAnimal>patelė</FemaleAnimal>
+  <!-- EN: Pain -->
+  <Pain>Skausmas</Pain>
+  <!-- EN: Health -->
+  <Health>Sveikata</Health>
+  <!-- EN: Relations -->
+  <Relations>Santykiai</Relations>
+  <!-- EN: Possessions -->
+  <Possessions>Asmeniniai daiktai</Possessions>
+  <!-- EN: Team skills -->
+  <TeamSkills>Komandos įgūdžiai</TeamSkills>
+  <!-- EN: Selected -->
+  <StartingPawnsSelected>Pasirinkti</StartingPawnsSelected>
+  <!-- EN: Left behind -->
+  <StartingPawnsLeftBehind>Palikti</StartingPawnsLeftBehind>
+  <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
+  <GuiltyDesc>Šis kalinys yra laikomas kaltu. Gali jį laisvai ištremti, įvykdyti egzekuciją arba suimti ir kiti dėl to nesijaus blogai.\n\nKaltė baigia galioti už</GuiltyDesc>
+  
+  <!-- Misc -->
+  <!-- EN: Start -->
+  <Start>Pradėti</Start>
+  <!-- EN: Advanced -->
+  <Advanced>Daugiau pasirinkimų</Advanced>
+  <!-- EN: Next -->
+  <Next>Toliau</Next>
+  <!-- EN: Back -->
+  <Back>Atgal</Back>
+  <!-- EN: Change material... -->
+  <ShowMaterials>Pakeisti medžiagą...</ShowMaterials>
+  <!-- EN: Gameplay -->
+  <Gameplay>Žaidimo eiga</Gameplay>
+  <!-- EN: Really quit? You'll lose unsaved progress. -->
+  <ConfirmQuit>Tikrai išeiti? Prarasi neišsaugotą progresą.</ConfirmQuit>
+  <!-- EN: Each person needs a valid name. -->
+  <EveryoneNeedsValidName>Kiekvienam asmeniui reikia galiojančio vardo.</EveryoneNeedsValidName>
+  <!-- EN: None of the selected people can do the following jobs -->
+  <RequiredWorkTypeDisabledForEveryone>Nei vienas iš pasirinktų žmonių negali atlikti sekančių darbų</RequiredWorkTypeDisabledForEveryone>
+  <!-- EN: Quit -->
+  <Quit>Išeiti</Quit>
+  <!-- EN: Ignore -->
+  <Ignore>Ignoruoti</Ignore>
+  
+  <!-- Progress bar -->
+  <!-- EN: Generating world -->
+  <GeneratingWorld>Kuriamas pasaulis</GeneratingWorld>
+  <!-- EN: Generating planet -->
+  <GeneratingPlanet>Kuriama planeta</GeneratingPlanet>
+  <!-- EN: Generating map -->
+  <GeneratingMap>Kuriamas žemėlapis</GeneratingMap>
+  <!-- EN: Generating map for new encounter -->
+  <GeneratingMapForNewEncounter>Kuriamas žemėlapis naujam susidūrimui</GeneratingMapForNewEncounter>
+
+  <!-- EN: Click for more info. -->
+  <ClickForMoreInfo>Paspausk kad sužinotum daugiau</ClickForMoreInfo>
+  <!-- EN: No more information is available. -->
+  <NoMoreInfoAvailable>Nėra daugiau informacijos.</NoMoreInfoAvailable>
+
+  <!-- Factions -->
+  <!-- EN: Factions -->
+  <Factions>Frakcijos</Factions>
+  <!-- EN: max {0} basic factions allowed -->
+  <TotalFactionsAllowed>daugiausia leidžiama {0} pagrindinių frakcijų.</TotalFactionsAllowed>
+  <!-- EN: max {0} -->
+  <MaxFactionsForType>Gali būti ne daugiau kaip {0}</MaxFactionsForType>
+  <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
+  <FactionSelectionDesc>Pasirink frakcijas šiame pasaulyje. Iš viso gali pasirinkti iki {0} frakcijų.</FactionSelectionDesc>
+  <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
+  <FactionDisabledContentWarning>{0} išjungimas reiškia, kad bus mažesnė užduočių įvairovė ir bus mažiau kitokio turinio.</FactionDisabledContentWarning>
+  <!-- EN: Disabling {0} means less spontaneous threat variety. -->
+  <InsectsDisabledContentWarning>{0} išjungimas reiškia mažesnę spontaniško pavojaus įvairovę.</InsectsDisabledContentWarning>
+  <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
+  <MechanoidsDisabledContentWarning>{0} išjungimas reiškia mažesnę užduočių ir spontaniško pavojaus įvairovę.</MechanoidsDisabledContentWarning>
+  <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
+  <FactionsDisabledWarning>Jei nebus kitų frakcijų tai nebus tiek reidų, prekiavimo ir užduočių kiek jų turėtų būti.</FactionsDisabledWarning>
+
+</LanguageData>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alcohol addiction -->
+  <AlcoholAddiction.label>priklausomybė nuo alkoholio</AlcoholAddiction.label>
+  <!-- EN: A chemical addiction to alcohol. Long-term presence of alcohol has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of alcohol, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <AlcoholAddiction.description>Cheminė priklausomybė nuo alkoholio. Ilgalaikis alkoholio buvimas organizme sukėlė adaptacijas ląsteliniame lygmenyje, todėl smegenys nebegali normaliai be jo funkcionuoti.\n\nBe reguliariu alkoholio dozių prasidės abstinencijos simptomai. Bet ilgalaikė abstinencija privers smegenis prisitaikyti prie jos normalios būklės ir priklausomybė dings.</AlcoholAddiction.description>
+  <!-- EN: withdrawal -->
+  <AlcoholAddiction.stages.withdrawal.label>abstinencija</AlcoholAddiction.stages.withdrawal.label>
+  
+  <!-- EN: alcohol -->
+  <AlcoholHigh.label>alkoholis</AlcoholHigh.label>
+  <!-- EN: Alcohol in the bloodstream. It makes people happy, but reduces capacities. -->
+  <AlcoholHigh.description>Alkoholis kraujyje. Padaro žmones laimingais, bet sumažina pajėgumus.</AlcoholHigh.description>
+  <!-- EN: drunkenness -->
+  <AlcoholHigh.labelNoun>girtumas</AlcoholHigh.labelNoun>
+  <!-- EN: warm -->
+  <AlcoholHigh.stages.warm.label>apšilęs</AlcoholHigh.stages.warm.label>
+  <!-- EN: tipsy -->
+  <AlcoholHigh.stages.tipsy.label>apsvaigęs</AlcoholHigh.stages.tipsy.label>
+  <!-- EN: drunk -->
+  <AlcoholHigh.stages.drunk.label>girtas</AlcoholHigh.stages.drunk.label>
+  <!-- EN: hammered -->
+  <AlcoholHigh.stages.hammered.label>visiškai girtas</AlcoholHigh.stages.hammered.label>
+  <!-- EN: blackout -->
+  <AlcoholHigh.stages.blackout.label>be sąmonės</AlcoholHigh.stages.blackout.label>
+  
+  <!-- EN: alcohol tolerance -->
+  <AlcoholTolerance.label>tolerancija alkoholiui</AlcoholTolerance.label>
+  <!-- EN: A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect. -->
+  <AlcoholTolerance.description>Išsivysčiusi tolerancija alkoholiui. Kuo stipresnė ši tolerancija, tuo daugiau reikia išgerti, kad gautų tą patį poveikį.</AlcoholTolerance.description>
+  <!-- EN: small -->
+  <AlcoholTolerance.stages.small.label>silpna</AlcoholTolerance.stages.small.label>
+  <!-- EN: large -->
+  <AlcoholTolerance.stages.large.label>stipri</AlcoholTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <AlcoholTolerance.stages.massive.label>labai stipri</AlcoholTolerance.stages.massive.label>
+  
+  <!-- EN: hangover -->
+  <Hangover.label>pagirios</Hangover.label>
+  <!-- EN: An unpleasant delayed after-effect of alcohol intoxication. -->
+  <Hangover.description>Nemaloni būsena atsirandanti po alkoholio intoksikacijos.</Hangover.description>
+  <!-- EN: a hangover -->
+  <Hangover.labelNoun>pagirios</Hangover.labelNoun>
+  <!-- EN: slight -->
+  <Hangover.stages.slight.label>nedidelės</Hangover.stages.slight.label>
+  <!-- EN: strong -->
+  <Hangover.stages.strong.label>didelės</Hangover.stages.strong.label>
+  <!-- EN: pounding -->
+  <Hangover.stages.pounding.label>labai didelės</Hangover.stages.pounding.label>
+  
+</LanguageData>

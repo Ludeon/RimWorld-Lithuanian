@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: barn -->
+  <Barn.label>tvartas</Barn.label>
+  
+  <!-- EN: barracks -->
+  <Barracks.label>barakas</Barracks.label>
+  
+  <!-- EN: bedroom -->
+  <Bedroom.label>miegamasis</Bedroom.label>
+  
+  <!-- EN: dining room -->
+  <DiningRoom.label>valgomasis</DiningRoom.label>
+  
+  <!-- EN: hospital -->
+  <Hospital.label>ligoninė</Hospital.label>
+  
+  <!-- EN: kitchen -->
+  <Kitchen.label>virtuvė</Kitchen.label>
+  
+  <!-- EN: laboratory -->
+  <Laboratory.label>laboratorija</Laboratory.label>
+  
+  <!-- EN: none -->
+  <None.label>nėra</None.label>
+  
+  <!-- EN: prison barracks -->
+  <PrisonBarracks.label>kalėjimo barakas</PrisonBarracks.label>
+  
+  <!-- EN: prison cell -->
+  <PrisonCell.label>kalėjimo vienutė</PrisonCell.label>
+  
+  <!-- EN: rec room -->
+  <RecRoom.label>pramogų kambarys</RecRoom.label>
+  
+  <!-- EN: room -->
+  <Room.label>kambarys</Room.label>
+  
+  <!-- EN: storeroom -->
+  <Storeroom.label>sandėlis</Storeroom.label>
+  
+  <!-- EN: tomb -->
+  <Tomb.label>kapas</Tomb.label>
+  
+  <!-- EN: workshop -->
+  <Workshop.label>dirbtuvės</Workshop.label>
+  
+</LanguageData>

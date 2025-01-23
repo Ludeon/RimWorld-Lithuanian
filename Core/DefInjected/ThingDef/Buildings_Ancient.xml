@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient concrete barrier -->
+  <AncientConcreteBarrier.label>senovinis betoninis užtvaras</AncientConcreteBarrier.label>
+  <!-- EN: A traffic management solution from long ago. -->
+  <AncientConcreteBarrier.description>Eismo reguliavimo sprendimas iš senų laikų.</AncientConcreteBarrier.description>
+  
+  <!-- EN: ancient lamppost -->
+  <AncientLamppost.label>senovinis žibinto stulpas</AncientLamppost.label>
+  <!-- EN: Road lighting from long ago. No longer functional. -->
+  <AncientLamppost.description>Kelio apšvietimas iš senų laikų. Nebeveikia.</AncientLamppost.description>
+  
+  <!-- EN: urn -->
+  <Urn.label>urna</Urn.label>
+  <!-- EN: An ancient-style decorative container. -->
+  <Urn.description>Senovinio stiliaus dekoratyvinis indas.</Urn.description>
+  
+</LanguageData>

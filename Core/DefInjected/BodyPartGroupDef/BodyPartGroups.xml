@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arms -->
+  <Arms.label>rankos</Arms.label>
+  
+  <!-- EN: beak -->
+  <Beak.label>snapas</Beak.label>
+  
+  <!-- EN: eyes -->
+  <Eyes.label>akys</Eyes.label>
+  
+  <!-- EN: feet -->
+  <Feet.label>pėdos</Feet.label>
+  
+  <!-- EN: front left claws -->
+  <FrontLeftClaws.label>priekiniai kairieji nagai</FrontLeftClaws.label>
+  <!-- EN: claws -->
+  <FrontLeftClaws.labelShort>nagai</FrontLeftClaws.labelShort>
+  
+  <!-- EN: front left leg -->
+  <FrontLeftLeg.label>priekinė kairė koja</FrontLeftLeg.label>
+  <!-- EN: leg -->
+  <FrontLeftLeg.labelShort>koja</FrontLeftLeg.labelShort>
+  
+  <!-- EN: front left paw -->
+  <FrontLeftPaw.label>priekinė kairė letena</FrontLeftPaw.label>
+  <!-- EN: paw -->
+  <FrontLeftPaw.labelShort>letena</FrontLeftPaw.labelShort>
+  
+  <!-- EN: front right claws -->
+  <FrontRightClaws.label>priekiniai dešinieji nagai</FrontRightClaws.label>
+  <!-- EN: claws -->
+  <FrontRightClaws.labelShort>nagai</FrontRightClaws.labelShort>
+  
+  <!-- EN: front right leg -->
+  <FrontRightLeg.label>priekinė dešinė koja</FrontRightLeg.label>
+  <!-- EN: leg -->
+  <FrontRightLeg.labelShort>koja</FrontRightLeg.labelShort>
+  
+  <!-- EN: front right paw -->
+  <FrontRightPaw.label>priekinė dešinė letena</FrontRightPaw.label>
+  <!-- EN: paw -->
+  <FrontRightPaw.labelShort>letena</FrontRightPaw.labelShort>
+  
+  <!-- EN: full head -->
+  <FullHead.label>visa galva</FullHead.label>
+  
+  <!-- EN: hands -->
+  <Hands.label>kumščiai</Hands.label>
+  
+  <!-- EN: head -->
+  <HeadAttackTool.label>galva</HeadAttackTool.label>
+  
+  <!-- EN: claw -->
+  <HeadClaw.label>nagas</HeadClaw.label>
+  
+  <!-- EN: horn -->
+  <HornAttackTool.label>ragas</HornAttackTool.label>
+  
+  <!-- EN: left blade -->
+  <LeftBlade.label>kairiosios ašmenys</LeftBlade.label>
+  <!-- EN: blade -->
+  <LeftBlade.labelShort>ašmenys</LeftBlade.labelShort>
+  
+  <!-- EN: left fist -->
+  <LeftHand.label>kairys kumštis</LeftHand.label>
+  <!-- EN: fist -->
+  <LeftHand.labelShort>kumštis</LeftHand.labelShort>
+  
+  <!-- EN: legs -->
+  <Legs.label>kojos</Legs.label>
+  
+  <!-- EN: middle finger -->
+  <MiddleFingers.label>vidurinis pirštas</MiddleFingers.label>
+  <!-- EN: finger -->
+  <MiddleFingers.labelShort>pirštas</MiddleFingers.labelShort>
+  
+  <!-- EN: mouth -->
+  <Mouth.label>burna</Mouth.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>kaklas</Neck.label>
+  
+  <!-- EN: right blade -->
+  <RightBlade.label>dešiniosios ašmenys</RightBlade.label>
+  <!-- EN: blade -->
+  <RightBlade.labelShort>ašmenys</RightBlade.labelShort>
+  
+  <!-- EN: right fist -->
+  <RightHand.label>dešinysis kumštis</RightHand.label>
+  <!-- EN: fist -->
+  <RightHand.labelShort>kumštis</RightHand.labelShort>
+  
+  <!-- EN: shoulders -->
+  <Shoulders.label>pečiai</Shoulders.label>
+  
+  <!-- EN: teeth -->
+  <Teeth.label>dantys</Teeth.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>liemuo</Torso.label>
+  
+  <!-- EN: beak -->
+  <TurtleBeakAttackTool.label>snapas</TurtleBeakAttackTool.label>
+  
+  <!-- EN: tusks -->
+  <TuskAttackTool.label>iltys</TuskAttackTool.label>
+  
+  <!-- EN: upper head -->
+  <UpperHead.label>viršutinė galva</UpperHead.label>
+  
+  <!-- EN: utility slot -->
+  <Waist.label>pagalbinio daikto vieta</Waist.label>
+  
+</LanguageData>

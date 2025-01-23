@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heart -->
+  <Heart.label>širdis</Heart.label>
+  
+  <!-- EN: kidney -->
+  <Kidney.label>inkstas</Kidney.label>
+  
+  <!-- EN: liver -->
+  <Liver.label>kepenys</Liver.label>
+  
+  <!-- EN: lung -->
+  <Lung.label>plautis</Lung.label>
+  
+  <!-- EN: stomach -->
+  <Stomach.label>skrandis</Stomach.label>
+  
+</LanguageData>

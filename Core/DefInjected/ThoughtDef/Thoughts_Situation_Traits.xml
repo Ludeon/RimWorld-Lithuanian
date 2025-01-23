@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ascetic has awful bedroom -->
+  <Ascetic.stages.ascetic_has_awful_bedroom.label>asketas turi labai prastą miegamąjį</Ascetic.stages.ascetic_has_awful_bedroom.label>
+  <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
+  <Ascetic.stages.ascetic_has_awful_bedroom.description>Mano miegamasis yra būtent toks, kokio aš ir noriu. Labai kuklus ir paprastas.</Ascetic.stages.ascetic_has_awful_bedroom.description>
+  <!-- EN: ascetic has dull bedroom -->
+  <Ascetic.stages.ascetic_has_dull_bedroom.label>asketas turi nuobodų miegamąjį</Ascetic.stages.ascetic_has_dull_bedroom.label>
+  <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
+  <Ascetic.stages.ascetic_has_dull_bedroom.description>Mano miegamasis yra būtent toks, kokio aš ir noriu. Labai kuklus ir paprastas.</Ascetic.stages.ascetic_has_dull_bedroom.description>
+  <!-- EN: ascetic has mediocre bedroom -->
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.label>asketas turi vidutinį miegamąjį</Ascetic.stages.ascetic_has_mediocre_bedroom.label>
+  <!-- EN: My bedroom is very humble and simple. I like it. -->
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.description>Mano miegamasis yra labai kuklus ir paprastas. Man tai patinka.</Ascetic.stages.ascetic_has_mediocre_bedroom.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-0.label>asketas turi įspūdingą miegamąjį</Ascetic.stages.ascetic_has_impressive_bedroom-0.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-0.description>Man nepatinka turėti įspūdingą miegamąjį.</Ascetic.stages.ascetic_has_impressive_bedroom-0.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-1.label>asketas turi įspūdingą miegamąjį</Ascetic.stages.ascetic_has_impressive_bedroom-1.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-1.description>Man nepatinka turėti įspūdingą miegamąjį.</Ascetic.stages.ascetic_has_impressive_bedroom-1.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-2.label>asketas turi įspūdingą miegamąjį</Ascetic.stages.ascetic_has_impressive_bedroom-2.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-2.description>Man nepatinka turėti įspūdingą miegamąjį.</Ascetic.stages.ascetic_has_impressive_bedroom-2.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-3.label>asketas turi įspūdingą miegamąjį</Ascetic.stages.ascetic_has_impressive_bedroom-3.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-3.description>Man nepatinka turėti įspūdingą miegamąjį.</Ascetic.stages.ascetic_has_impressive_bedroom-3.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-4.label>asketas turi įspūdingą miegamąjį</Ascetic.stages.ascetic_has_impressive_bedroom-4.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-4.description>Man nepatinka turėti įspūdingą miegamąjį.</Ascetic.stages.ascetic_has_impressive_bedroom-4.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-5.label>asketas turi įspūdingą miegamąjį</Ascetic.stages.ascetic_has_impressive_bedroom-5.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-5.description>Man nepatinka turėti įspūdingą miegamąjį.</Ascetic.stages.ascetic_has_impressive_bedroom-5.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-6.label>asketas turi įspūdingą miegamąjį</Ascetic.stages.ascetic_has_impressive_bedroom-6.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-6.description>Man nepatinka turėti įspūdingą miegamąjį.</Ascetic.stages.ascetic_has_impressive_bedroom-6.description>
+  
+  <!-- EN: brawler has ranged weapon -->
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>mušeika turi nuotolinį ginklą</BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>
+  <!-- EN: I hate shooting from a distance. I want to get up close and personal! -->
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>Nekenčiu šaudyti iš toli. Noriu būti akis į akį!</BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>
+  
+  <!-- EN: constraining clothes -->
+  <ClothedNudist.stages.constraining_clothes.label>varžantys drabužiai</ClothedNudist.stages.constraining_clothes.label>
+  <!-- EN: I'm a nudist but I have to wear these clothes. It's not unbearable - but I still feel constrained and uncomfortable. -->
+  <ClothedNudist.stages.constraining_clothes.description>Aš esu nudistas, bet turiu dėvėti šiuos drabužius. Tai nėra nepakeliama – bet vis tiek jaučiuosi suvaržytas ir nepatogiai.</ClothedNudist.stages.constraining_clothes.description>
+  
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-0.label>godisi įspūdingo miegamojo</Greedy.stages.greedy_for_impressive_bedroom-0.label>
+  <!-- EN: I'm greedy. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-0.description>Aš esu gobšus. Aš noriu tikrai įspūdingo miegamojo.</Greedy.stages.greedy_for_impressive_bedroom-0.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-1.label>godisi įspūdingo miegamojo</Greedy.stages.greedy_for_impressive_bedroom-1.label>
+  <!-- EN: I'm greedy. My room is pathetic! I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-1.description>Aš esu gobšus. Mano kambarys yra apgailėtinas!  Aš noriu tikrai įspūdingo miegamojo.</Greedy.stages.greedy_for_impressive_bedroom-1.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-2.label>godisi įspūdingo miegamojo</Greedy.stages.greedy_for_impressive_bedroom-2.label>
+  <!-- EN: I'm greedy. My room isn't nearly good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-2.description>Aš esu gobšus. Mano kambarys nėra nei iš tolo pakankamai geras. Aš noriu tikrai įspūdingo miegamojo.</Greedy.stages.greedy_for_impressive_bedroom-2.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-3.label>godisi įspūdingo miegamojo</Greedy.stages.greedy_for_impressive_bedroom-3.label>
+  <!-- EN: I'm greedy. My room isn't good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-3.description>Aš esu gobšus. Mano kambarys nėra pakankamai geras. Aš noriu tikrai įspūdingo miegamojo.</Greedy.stages.greedy_for_impressive_bedroom-3.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-4.label>godisi įspūdingo miegamojo</Greedy.stages.greedy_for_impressive_bedroom-4.label>
+  <!-- EN: I'm greedy. My room isn't quite good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-4.description>Aš esu gobšus. Mano kambarys dar nėra visiškai geras. Aš noriu tikrai įspūdingo miegamojo.</Greedy.stages.greedy_for_impressive_bedroom-4.description>
+  
+  <!-- EN: happily nude -->
+  <HappyNude.stages.happily_nude.label>laimingai nuogas</HappyNude.stages.happily_nude.label>
+  <!-- EN: I'm nude and loving it! I feel so free and unconstrained and in touch with my surroundings! -->
+  <HappyNude.stages.happily_nude.description>Aš nuogas ir man tai patinka! Aš jaučiuosi toks laisvas ir nevaržomas ir susiliejęs su savo aplinka!</HappyNude.stages.happily_nude.description>
+  
+  <!-- EN: jealous of {0}'s bedroom -->
+  <Jealous.stages.jealous_of_s_bedroom.label>pavydi {0} miegamojo</Jealous.stages.jealous_of_s_bedroom.label>
+  <!-- EN: I need to have the best one! -->
+  <Jealous.stages.jealous_of_s_bedroom.description>Man reikia turėti geriausią!</Jealous.stages.jealous_of_s_bedroom.description>
+  
+  <!-- EN: masochist in minor pain -->
+  <MasochistPain.stages.masochist_in_minor_pain.label>mazochistas jaučia nedidelį skausmą</MasochistPain.stages.masochist_in_minor_pain.label>
+  <!-- EN: Ow... Heh heh heh... I could get used to this! -->
+  <MasochistPain.stages.masochist_in_minor_pain.description>Ai... He he... Galėčiau prie šito ir priprasti!</MasochistPain.stages.masochist_in_minor_pain.description>
+  <!-- EN: masochist in serious pain -->
+  <MasochistPain.stages.masochist_in_serious_pain.label>mazochistas jaučia stiprų skausmą</MasochistPain.stages.masochist_in_serious_pain.label>
+  <!-- EN: Ughhh... It hurts, but I love it! Keep it coming! -->
+  <MasochistPain.stages.masochist_in_serious_pain.description>Uhhh... Skauda, bet man tai patinka! Taip ir toliau!</MasochistPain.stages.masochist_in_serious_pain.description>
+  <!-- EN: masochist in intense pain -->
+  <MasochistPain.stages.masochist_in_intense_pain.label>mazochistas jaučia labai stiprų skausmą</MasochistPain.stages.masochist_in_intense_pain.label>
+  <!-- EN: Ouch... I think something's broken... But what an exquisite feeling! -->
+  <MasochistPain.stages.masochist_in_intense_pain.description>Auč... Manau, kad kažkas lūžo... Bet koks išskirtinis jausmas!</MasochistPain.stages.masochist_in_intense_pain.description>
+  <!-- EN: masochist in mind-shattering pain -->
+  <MasochistPain.stages.masochist_in_mindshattering_pain.label>mazochistas jaučia protą veriantį skausmą</MasochistPain.stages.masochist_in_mindshattering_pain.label>
+  <!-- EN: Ahhh... Am I in heaven? -->
+  <MasochistPain.stages.masochist_in_mindshattering_pain.description>Aaa... Ar aš danguje?</MasochistPain.stages.masochist_in_mindshattering_pain.description>
+  
+  <!-- EN: night owl in daytime -->
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.label>naktinė pelėda dieną</NightOwlDuringTheDay.stages.night_owl_in_daytime.label>
+  <!-- EN: I don't like working during the day. -->
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.description>Aš nemėgstu dirbti dienos metu.</NightOwlDuringTheDay.stages.night_owl_in_daytime.description>
+  
+  <!-- EN: night owl at night -->
+  <NightOwlDuringTheNight.stages.night_owl_at_night.label>naktinė pelėda naktį</NightOwlDuringTheNight.stages.night_owl_at_night.label>
+  <!-- EN: I feel much better at night. -->
+  <NightOwlDuringTheNight.stages.night_owl_at_night.description>Aš naktį jaučiuosi daug geriau.</NightOwlDuringTheNight.stages.night_owl_at_night.description>
+  
+  <!-- EN: body modder pleased -->
+  <ProsthophileHappy.stages.body_modder_pleased.label>kūno modifikuotojas patenkintas</ProsthophileHappy.stages.body_modder_pleased.label>
+  <!-- EN: This artificial enhancement is cool. I want more. -->
+  <ProsthophileHappy.stages.body_modder_pleased.description>Šis dirbtinis patobulinimas yra šaunus. Aš noriu daugiau.</ProsthophileHappy.stages.body_modder_pleased.description>
+  <!-- EN: body modder quite pleased -->
+  <ProsthophileHappy.stages.body_modder_quite_pleased.label>kūno modifikuotojas labai patenkintas</ProsthophileHappy.stages.body_modder_quite_pleased.label>
+  <!-- EN: Two artificial enhancements are better than one. I wish I had more. -->
+  <ProsthophileHappy.stages.body_modder_quite_pleased.description>Du dirbtiniai patobulinimai yra geriau nei vienas. Norėčiau turėti daugiau.</ProsthophileHappy.stages.body_modder_quite_pleased.description>
+  <!-- EN: body modder delighted -->
+  <ProsthophileHappy.stages.body_modder_delighted.label>kūno modifikuotojas džiaugiasi</ProsthophileHappy.stages.body_modder_delighted.label>
+  <!-- EN: Three artificial enhancements, and my weak human flesh is receding. But I still want more machine power. -->
+  <ProsthophileHappy.stages.body_modder_delighted.description>Trys dirbtiniai patobulinimai, ir mano silpna žmogaus mėsa traukiasi. Bet aš vis dar noriu daugiau mašininės galios.</ProsthophileHappy.stages.body_modder_delighted.description>
+  <!-- EN: body modder enchanted -->
+  <ProsthophileHappy.stages.body_modder_enchanted.label>kūno modifikuotojas pakerėtas</ProsthophileHappy.stages.body_modder_enchanted.label>
+  <!-- EN: Four artificial enhancements and I am becoming more than human. But there's still some flesh that needs replacing. -->
+  <ProsthophileHappy.stages.body_modder_enchanted.description>Keturi dirbtiniai patobulinimai ir aš tampu daugiau nei žmogus. Tačiau vis dar yra mėsos, kurią reikia pakeisti.</ProsthophileHappy.stages.body_modder_enchanted.description>
+  <!-- EN: body modder overjoyed -->
+  <ProsthophileHappy.stages.body_modder_overjoyed.label>kūno modifikuotojas nesitveria džiaugsmu</ProsthophileHappy.stages.body_modder_overjoyed.label>
+  <!-- EN: Five artificial enhancements! How could an enhanced being like me ever feel sad? -->
+  <ProsthophileHappy.stages.body_modder_overjoyed.description>Penki dirbtiniai patobulinimai! Kaip tokia ištobulinta būtybė kaip aš gali kada nors jaustis liūdna?</ProsthophileHappy.stages.body_modder_overjoyed.description>
+  <!-- EN: machine body is complete -->
+  <ProsthophileHappy.stages.machine_body_is_complete.label>mašininis kūnas yra užbaigtas</ProsthophileHappy.stages.machine_body_is_complete.label>
+  <!-- EN: I asked for this. -->
+  <ProsthophileHappy.stages.machine_body_is_complete.description>Aš šito ir norėjau.</ProsthophileHappy.stages.machine_body_is_complete.description>
+  
+  <!-- EN: body modder frustrated -->
+  <ProsthophileNoProsthetic.stages.body_modder_frustrated.label>kūno modifikuotojas nusivylęs</ProsthophileNoProsthetic.stages.body_modder_frustrated.label>
+  <!-- EN: Flesh is so limiting. I wish I had some kind of artificial body part. -->
+  <ProsthophileNoProsthetic.stages.body_modder_frustrated.description>Mėsa yra tokia ribojanti. Norėčiau turėti kažkokią dirbtinę kūno dalį.</ProsthophileNoProsthetic.stages.body_modder_frustrated.description>
+  
+  <!-- EN: body purist squeamish -->
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.label>tyro kūno šalininką pykina</ProsthophobeUnhappy.stages.body_purist_squeamish.label>
+  <!-- EN: I hate having this unnatural enhancement. I feel filthy! -->
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.description>Nekenčiu, kad turiu šį nenatūralų patobulinimą. Jaučiuosi nešvarus!</ProsthophobeUnhappy.stages.body_purist_squeamish.description>
+  <!-- EN: body purist disgusted -->
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.label>tyro kūno šalininkas pasišlykštėjęs</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
+  <!-- EN: Two artificial enhancements are sullying my natural, pure body. It makes me sick to think of it. -->
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.description>Du dirbtiniai patobulinimai suteršia mano natūralų, tyrą kūną. Man pykina apie tai pagalvojus.</ProsthophobeUnhappy.stages.body_purist_disgusted.description>
+  <!-- EN: body purist violated -->
+  <ProsthophobeUnhappy.stages.body_purist_violated.label>tyro kūno šalininkas išniekintas</ProsthophobeUnhappy.stages.body_purist_violated.label>
+  <!-- EN: Three artificial enhancements violate my body's pure flesh. I shudder when I think of it... and these objects shudder with me. -->
+  <ProsthophobeUnhappy.stages.body_purist_violated.description>Trys dirbtiniai patobulinimai išniekina mano kūno tyrumą. Aš drebu, kai pagalvoju apie tai... ir tie objektai dreba su manimi.</ProsthophobeUnhappy.stages.body_purist_violated.description>
+  <!-- EN: body purist horrified -->
+  <ProsthophobeUnhappy.stages.body_purist_horrified.label>tyro kūno šalininkas pasibaisėjęs</ProsthophobeUnhappy.stages.body_purist_horrified.label>
+  <!-- EN: I have four artificial enhancements; it's like I'm becoming a robot. What a horrifying sensation. -->
+  <ProsthophobeUnhappy.stages.body_purist_horrified.description>Aš turiu keturis dirbtinius patobulinimus; atrodo kad tampu robotu. Koks siaubingas jausmas.</ProsthophobeUnhappy.stages.body_purist_horrified.description>
+  <!-- EN: body purist nightmare -->
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.label>tyro kūno šalininko košmaras</ProsthophobeUnhappy.stages.body_purist_nightmare.label>
+  <!-- EN: Five artificial enhancements... Is there anything left of me? Or am I just a robot that thinks it's human? -->
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.description>Penki dirbtiniai patobulinimai... Ar iš manęs kas nors liko? O gal aš tik robotas, kuris mano, kad jis žmogus?</ProsthophobeUnhappy.stages.body_purist_nightmare.description>
+  <!-- EN: I have become what I hate -->
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>Aš tapau tuo, ko nekenčiu</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>
+  <!-- EN: I asked for the exact opposite of this! -->
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>Aš norėjau visiškai priešingai negu tai!</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>
+  
+  <!-- EN: pyromaniac has incendiary weapon -->
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>piromanas turi padegamąjį ginklą</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
+  <!-- EN: It makes me think of flame and fire. I'm so happy. -->
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>Tai verčia mane galvoti apie liepsną ir ugnį. Aš toks laimingas.</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
+  
+  <!-- EN: beautiful fire -->
+  <PyromaniacNearFire.stages.beautiful_fire.label>graži ugnis</PyromaniacNearFire.stages.beautiful_fire.label>
+  <!-- EN: The sinuous flame dances, warm like love, bright like freedom, all-consuming. -->
+  <PyromaniacNearFire.stages.beautiful_fire.description>Vingiuota liepsna šoka, šilta kaip meilė, šviesi kaip laisvė, viską ryjanti.</PyromaniacNearFire.stages.beautiful_fire.description>
+  
+  <!-- EN: undergrounder indoors -->
+  <UndergrounderIndoors.stages.undergrounder_indoors.label>požeminis viduje</UndergrounderIndoors.stages.undergrounder_indoors.label>
+  <!-- EN: I like working or simply being indoors. -->
+  <UndergrounderIndoors.stages.undergrounder_indoors.description>Mėgstu dirbti arba tiesiog būti viduje.</UndergrounderIndoors.stages.undergrounder_indoors.description>
+  
+  <!-- EN: undergrounder outdoors -->
+  <UndergrounderOutdoors.stages.undergrounder_outdoors.label>požeminis lauke</UndergrounderOutdoors.stages.undergrounder_outdoors.label>
+  <!-- EN: I don't like being outside. I want to get back to the underground. -->
+  <UndergrounderOutdoors.stages.undergrounder_outdoors.description>Nemėgstu būti lauke. Noriu grįžti į požemius.</UndergrounderOutdoors.stages.undergrounder_outdoors.description>
+  
+  <!-- EN: underground -->
+  <UndergrounderUnderground.stages.underground.label>po žeme</UndergrounderUnderground.stages.underground.label>
+  <!-- EN: I love working or simply being in the underground. -->
+  <UndergrounderUnderground.stages.underground.description>Man patinka dirbti arba tiesiog būti po žeme.</UndergrounderUnderground.stages.underground.description>
+  
+</LanguageData>

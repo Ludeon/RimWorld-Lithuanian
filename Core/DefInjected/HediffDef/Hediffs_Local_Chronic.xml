@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alzheimer's -->
+  <Alzheimers.label>Alzheimerio liga</Alzheimers.label>
+  <!-- EN: A brain disease usually associated with aging. Alzheimer's disease causes progressive degradation in the ability to think and remember. Patients are known to forget close relatives and sometimes wander around in confusion. -->
+  <Alzheimers.description>Smegenų liga, įprastai siejama su amžiumi. Alzheimerio liga sukelia progresuojantį gebėjimo mąstyti ir atminties blogėjimą. Pacientai dažnai užmiršta artimuosius ir kartais klaidžioja nesiorientuodami aplinkoje.</Alzheimers.description>
+  <!-- EN: minor -->
+  <Alzheimers.stages.minor-0.label>ankstyva</Alzheimers.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Alzheimers.stages.minor-1.label>ankstyva</Alzheimers.stages.minor-1.label>
+  <!-- EN: major -->
+  <Alzheimers.stages.major-0.label>vėlyva</Alzheimers.stages.major-0.label>
+  <!-- EN: major -->
+  <Alzheimers.stages.major-1.label>vėlyva</Alzheimers.stages.major-1.label>
+  
+  <!-- EN: asthma -->
+  <Asthma.label>astma</Asthma.label>
+  <!-- EN: A long-term inflammatory disease of the airways in the lungs. It requires regular tending to prevent symptoms. -->
+  <Asthma.description>Ilgalaikis kvėpavimo takų uždegimas. Reikalauja nuolatinio gydymo simptomams malšinti.</Asthma.description>
+  <!-- EN: minor -->
+  <Asthma.stages.minor.label>lengva</Asthma.stages.minor.label>
+  <!-- EN: major -->
+  <Asthma.stages.major-0.label>sunki</Asthma.stages.major-0.label>
+  <!-- EN: major -->
+  <Asthma.stages.major-1.label>sunki</Asthma.stages.major-1.label>
+  
+  <!-- EN: bad back -->
+  <BadBack.label>nugaros problemos</BadBack.label>
+  <!-- EN: Degradation in the spinal column and surrounding musculature. This makes it hard to move and bend smoothly. -->
+  <BadBack.description>Stuburo ir nugaros raumenų degradacija. Tai apsunkina judėjimą ir lankstymąsi.</BadBack.description>
+  <!-- EN: a bad back -->
+  <BadBack.labelNoun>nugaros problemos</BadBack.labelNoun>
+  
+  <!-- EN: blindness -->
+  <Blindness.label>aklumas</Blindness.label>
+  <!-- EN: Total inability to see. -->
+  <Blindness.description>Visiškas negalėjimas matyti.</Blindness.description>
+  
+  <!-- EN: carcinoma -->
+  <Carcinoma.label>karcinoma</Carcinoma.label>
+  <!-- EN: A lump of cancerous tissue. Without treatment, the carcinoma will grow over time, causing worsening symptoms and eventually killing the patient.\n\nA skilled doctor can excise the carcinoma. An unskilled doctor may be able to simply amputate the body part which contains the carcinoma. -->
+  <Carcinoma.description>Vėžionio audinio gumbas. Be gydymo, karcinoma po truputį augs, sukeldama vis sunkesnius simptomus ir galiausiai sukeldama paciento mirtį.\n\nLabai įgudęs daktaras gali pašalinti karcinomą. Ne toks įgudęs gali paprasčiausiai amputuoti kūno dalį kurioje karcoma yra.</Carcinoma.description>
+  <!-- EN: a carcinoma -->
+  <Carcinoma.labelNoun>karcinoma</Carcinoma.labelNoun>
+  <!-- EN: minor -->
+  <Carcinoma.stages.minor-0.label>lengva</Carcinoma.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Carcinoma.stages.minor-1.label>lengva</Carcinoma.stages.minor-1.label>
+  <!-- EN: major -->
+  <Carcinoma.stages.major-0.label>sunki</Carcinoma.stages.major-0.label>
+  <!-- EN: major -->
+  <Carcinoma.stages.major-1.label>sunki</Carcinoma.stages.major-1.label>
+  <!-- EN: extreme -->
+  <Carcinoma.stages.extreme-0.label>aukščiausio laipsnio</Carcinoma.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Carcinoma.stages.extreme-1.label>aukščiausio laipsnio</Carcinoma.stages.extreme-1.label>
+  
+  <!-- EN: cataract -->
+  <Cataract.label>katarakta</Cataract.label>
+  <!-- EN: Milky-looking opacity in the eye. Cataracts impair vision. -->
+  <Cataract.description>Baltas akies lęšiuko padrumstėjimas. Kataraktos silpnina regą.</Cataract.description>
+  <!-- EN: a cataract -->
+  <Cataract.labelNoun>katarakta</Cataract.labelNoun>
+  
+  <!-- EN: dementia -->
+  <Dementia.label>demencija</Dementia.label>
+  <!-- EN: Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins. -->
+  <Dementia.description>Neuronų degradacija sukelianti gebėjimo mąstyti ir atminties sutrikimus. Demencija turi įvairias priežastis kaip amžius, specifinės ligos ir toksinai.</Dementia.description>
+  
+  <!-- EN: frail -->
+  <Frail.label>silpnumas</Frail.label>
+  <!-- EN: Generalized loss of muscle and bone density. -->
+  <Frail.description>Bendras raumenų ir kaulų tankio praradimas.</Frail.description>
+  <!-- EN: frailty -->
+  <Frail.labelNoun>silpnumas</Frail.labelNoun>
+  
+  <!-- EN: hearing loss -->
+  <HearingLoss.label>klausos praradimas</HearingLoss.label>
+  <!-- EN: Inability to hear quiet sounds due to degradation of hair cells in the cochlea. -->
+  <HearingLoss.description>Negalėjimas girdėti tylių garsų dėl plaukų ląstelių degradacijos ausyje.</HearingLoss.description>
+  
+  <!-- EN: artery blockage -->
+  <HeartArteryBlockage.label>kraujagyslių užsikimšimas</HeartArteryBlockage.label>
+  <!-- EN: A blockage in one of the critical arteries in the heart. Heart artery blockages randomly induce heart attacks. -->
+  <HeartArteryBlockage.description>Vienos iš pagrindinių širdies arterijų užsikimšimas. Kraujagyslių užsikimšimas lemia atsitiktinius širdies smūgius.</HeartArteryBlockage.description>
+  <!-- EN: an artery blockage -->
+  <HeartArteryBlockage.labelNoun>kraujagyslių užsikimšimas</HeartArteryBlockage.labelNoun>
+  <!-- EN: minor -->
+  <HeartArteryBlockage.stages.minor-0.label>lengvas</HeartArteryBlockage.stages.minor-0.label>
+  <!-- EN: minor -->
+  <HeartArteryBlockage.stages.minor-1.label>lengvas</HeartArteryBlockage.stages.minor-1.label>
+  <!-- EN: major -->
+  <HeartArteryBlockage.stages.major-0.label>sunkus</HeartArteryBlockage.stages.major-0.label>
+  <!-- EN: major -->
+  <HeartArteryBlockage.stages.major-1.label>sunkus</HeartArteryBlockage.stages.major-1.label>
+  <!-- EN: extreme -->
+  <HeartArteryBlockage.stages.extreme.label>aukščiausio laipsnio</HeartArteryBlockage.stages.extreme.label>
+  
+</LanguageData>

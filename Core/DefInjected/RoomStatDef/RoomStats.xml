@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>gražumas</Beauty.label>
+  <!-- EN: hideous -->
+  <Beauty.scoreStages.hideous.label>bjauru</Beauty.scoreStages.hideous.label>
+  <!-- EN: ugly -->
+  <Beauty.scoreStages.ugly.label>negražu</Beauty.scoreStages.ugly.label>
+  <!-- EN: neutral -->
+  <Beauty.scoreStages.neutral.label>neutralu</Beauty.scoreStages.neutral.label>
+  <!-- EN: pretty -->
+  <Beauty.scoreStages.pretty.label>kažkiek gražu</Beauty.scoreStages.pretty.label>
+  <!-- EN: beautiful -->
+  <Beauty.scoreStages.beautiful.label>gražu</Beauty.scoreStages.beautiful.label>
+  <!-- EN: very beautiful -->
+  <Beauty.scoreStages.very_beautiful.label>labai gražu</Beauty.scoreStages.very_beautiful.label>
+  <!-- EN: extremely beautiful -->
+  <Beauty.scoreStages.extremely_beautiful.label>nepaprastai gražu</Beauty.scoreStages.extremely_beautiful.label>
+  <!-- EN: unbelievably beautiful -->
+  <Beauty.scoreStages.unbelievably_beautiful.label>neįtikėtinai gražu</Beauty.scoreStages.unbelievably_beautiful.label>
+  
+  <!-- EN: cleanliness -->
+  <Cleanliness.label>švarumas</Cleanliness.label>
+  <!-- EN: very dirty -->
+  <Cleanliness.scoreStages.very_dirty.label>labai purvina</Cleanliness.scoreStages.very_dirty.label>
+  <!-- EN: dirty -->
+  <Cleanliness.scoreStages.dirty.label>purvina</Cleanliness.scoreStages.dirty.label>
+  <!-- EN: slightly dirty -->
+  <Cleanliness.scoreStages.slightly_dirty.label>truputį purvina</Cleanliness.scoreStages.slightly_dirty.label>
+  <!-- EN: clean -->
+  <Cleanliness.scoreStages.clean.label>švaru</Cleanliness.scoreStages.clean.label>
+  <!-- EN: sterile -->
+  <Cleanliness.scoreStages.sterile.label>sterilu</Cleanliness.scoreStages.sterile.label>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChance.label>apsinuodijimo maistu tikimybė</FoodPoisonChance.label>
+  
+  <!-- EN: grave visiting recreation factor -->
+  <GraveVisitingJoyGainFactor.label>kapo lankymo pramogos koeficientas</GraveVisitingJoyGainFactor.label>
+  
+  <!-- EN: impressiveness -->
+  <Impressiveness.label>įspūdingumas</Impressiveness.label>
+  <!-- EN: awful -->
+  <Impressiveness.scoreStages.awful.label>labai prastai</Impressiveness.scoreStages.awful.label>
+  <!-- EN: dull -->
+  <Impressiveness.scoreStages.dull.label>nykiai</Impressiveness.scoreStages.dull.label>
+  <!-- EN: mediocre -->
+  <Impressiveness.scoreStages.mediocre.label>vidutiniškai</Impressiveness.scoreStages.mediocre.label>
+  <!-- EN: decent -->
+  <Impressiveness.scoreStages.decent.label>padoriai</Impressiveness.scoreStages.decent.label>
+  <!-- EN: slightly impressive -->
+  <Impressiveness.scoreStages.slightly_impressive.label>truputį įspūdinga</Impressiveness.scoreStages.slightly_impressive.label>
+  <!-- EN: somewhat impressive -->
+  <Impressiveness.scoreStages.somewhat_impressive.label>kažkiek įspūdinga</Impressiveness.scoreStages.somewhat_impressive.label>
+  <!-- EN: very impressive -->
+  <Impressiveness.scoreStages.very_impressive.label>labai įspūdinga</Impressiveness.scoreStages.very_impressive.label>
+  <!-- EN: extremely impressive -->
+  <Impressiveness.scoreStages.extremely_impressive.label>nepaprastai įspūdinga</Impressiveness.scoreStages.extremely_impressive.label>
+  <!-- EN: unbelievably impressive -->
+  <Impressiveness.scoreStages.unbelievably_impressive.label>neįtikėtinai įspūdinga</Impressiveness.scoreStages.unbelievably_impressive.label>
+  <!-- EN: wondrously impressive -->
+  <Impressiveness.scoreStages.wondrously_impressive.label>nuostabiai įspūdinga</Impressiveness.scoreStages.wondrously_impressive.label>
+  
+  <!-- EN: infection chance factor -->
+  <InfectionChanceFactor.label>infekcijos tikimybės koeficientas</InfectionChanceFactor.label>
+  
+  <!-- EN: research speed factor -->
+  <ResearchSpeedFactor.label>tyrimų greičio koeficientas</ResearchSpeedFactor.label>
+  
+  <!-- EN: space -->
+  <Space.label>erdvumas</Space.label>
+  <!-- EN: cramped -->
+  <Space.scoreStages.cramped.label>ankšta</Space.scoreStages.cramped.label>
+  <!-- EN: rather tight -->
+  <Space.scoreStages.rather_tight.label>gana ankšta</Space.scoreStages.rather_tight.label>
+  <!-- EN: average-sized -->
+  <Space.scoreStages.averagesized.label>vidutinio dydžio</Space.scoreStages.averagesized.label>
+  <!-- EN: somewhat spacious -->
+  <Space.scoreStages.somewhat_spacious.label>kažkiek erdvu</Space.scoreStages.somewhat_spacious.label>
+  <!-- EN: quite spacious -->
+  <Space.scoreStages.quite_spacious.label>gana erdvu</Space.scoreStages.quite_spacious.label>
+  <!-- EN: very spacious -->
+  <Space.scoreStages.very_spacious.label>labai erdvu</Space.scoreStages.very_spacious.label>
+  <!-- EN: extremely spacious -->
+  <Space.scoreStages.extremely_spacious.label>nepaprastai erdvu</Space.scoreStages.extremely_spacious.label>
+  
+  <!-- EN: surgery success chance cleanliness factor -->
+  <SurgerySuccessChanceCleanlinessFactor.label>operacijos sėkmės tikimybės švaros koeficientas</SurgerySuccessChanceCleanlinessFactor.label>
+  
+  <!-- EN: wealth -->
+  <Wealth.label>prabangumas</Wealth.label>
+  <!-- EN: impoverished -->
+  <Wealth.scoreStages.impoverished.label>skurdu</Wealth.scoreStages.impoverished.label>
+  <!-- EN: somewhat poor -->
+  <Wealth.scoreStages.somewhat_poor.label>gana skurdu</Wealth.scoreStages.somewhat_poor.label>
+  <!-- EN: mediocre -->
+  <Wealth.scoreStages.mediocre.label>vidutiniškai</Wealth.scoreStages.mediocre.label>
+  <!-- EN: somewhat rich -->
+  <Wealth.scoreStages.somewhat_rich.label>gana turtinga</Wealth.scoreStages.somewhat_rich.label>
+  <!-- EN: rich -->
+  <Wealth.scoreStages.rich.label>turtinga</Wealth.scoreStages.rich.label>
+  <!-- EN: luxurious -->
+  <Wealth.scoreStages.luxurious.label>prabangu</Wealth.scoreStages.luxurious.label>
+  <!-- EN: very luxurious -->
+  <Wealth.scoreStages.very_luxurious.label>labai prabangu</Wealth.scoreStages.very_luxurious.label>
+  <!-- EN: extremely luxurious -->
+  <Wealth.scoreStages.extremely_luxurious.label>nepaprastai prabangu</Wealth.scoreStages.extremely_luxurious.label>
+  <!-- EN: unbelievably luxurious -->
+  <Wealth.scoreStages.unbelievably_luxurious.label>neįtikėtinai prabangu</Wealth.scoreStages.unbelievably_luxurious.label>
+  
+</LanguageData>

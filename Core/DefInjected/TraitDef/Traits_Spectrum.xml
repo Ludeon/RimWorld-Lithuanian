@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beautiful -->
+  <Beauty.degreeDatas.beautiful.label>labai gražus</Beauty.degreeDatas.beautiful.label>
+  <!-- EN: [PAWN_nameDef] is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to [PAWN_objective] before [PAWN_pronoun] even opens [PAWN_possessive] mouth. -->
+  <Beauty.degreeDatas.beautiful.description>[PAWN_nameDef] yra ypatingai gražus, su nors egzotiškai, bet artimai atrodančia veido struktūra ir pritrenkiančiu žvilgsniu. Žmonės jaučia potraukį [PAWN_objective] dar prieš [PAWN_pronoun] pradedant kalbėti.</Beauty.degreeDatas.beautiful.description>
+  <!-- EN: pretty -->
+  <Beauty.degreeDatas.pretty.label>simpatiškas</Beauty.degreeDatas.pretty.label>
+  <!-- EN: [PAWN_nameDef] has a pretty face, which predisposes people to like [PAWN_objective]. -->
+  <Beauty.degreeDatas.pretty.description>[PAWN_nameDef] turi simpatišką veidą, kas nuteikia, kad [PAWN_objective] patinka žmonėms.</Beauty.degreeDatas.pretty.description>
+  <!-- EN: ugly -->
+  <Beauty.degreeDatas.ugly.label>negražus</Beauty.degreeDatas.ugly.label>
+  <!-- EN: [PAWN_nameDef] is somewhat ugly. This subtly repels others during social interactions. -->
+  <Beauty.degreeDatas.ugly.description>[PAWN_nameDef] yra gana negražus. Tai subtiliai atstumia žmones bendraujančius su juo.</Beauty.degreeDatas.ugly.description>
+  <!-- EN: staggeringly ugly -->
+  <Beauty.degreeDatas.staggeringly_ugly.label>pribloškiančiai negražus</Beauty.degreeDatas.staggeringly_ugly.label>
+  <!-- EN: [PAWN_nameDef] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing. -->
+  <Beauty.degreeDatas.staggeringly_ugly.description>[PAWN_nameDef] yra pribloškiančiai negražus. [PAWN_possessive] veidas atrodo kažkoks hibridas tarp to, ką nupieštų netalentingas vaikas, deformuoto embriono formaldehido stiklainyje ir modernaus meno kūrinio. Kitiems reikia valios pastangų, kad pokalbio metu galėtų prisiversti pažvelgti į [PAWN_objective].</Beauty.degreeDatas.staggeringly_ugly.description>
+  
+  <!-- EN: chemical fascination -->
+  <DrugDesire.degreeDatas.chemical_fascination.label>potraukis chemijai</DrugDesire.degreeDatas.chemical_fascination.label>
+  <!-- EN: [PAWN_nameDef] is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person. -->
+  <DrugDesire.degreeDatas.chemical_fascination.description>[PAWN_nameDef] labai stipriai nori mėgautis cheminėmis medžiagomis. Pramoginių narkotikų vartojimas pakels nuotaiką, o susilaikymas nuo jų per laiką ves prie vis didesnės frustracijos ir galimai nekontroliuojamo narkotikų vartojimo epizodų. [PAWN_pronoun] nepaisys nurodymų nevartoti pramoginių narkotikų ir jų suvartos daugiau nei paprastas žmogus.</DrugDesire.degreeDatas.chemical_fascination.description>
+  <!-- EN: chemical interest -->
+  <DrugDesire.degreeDatas.chemical_interest.label>susidomėjęs chemija</DrugDesire.degreeDatas.chemical_interest.label>
+  <!-- EN: [PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person. -->
+  <DrugDesire.degreeDatas.chemical_interest.description>[PAWN_nameDef] domina mėgavimasis cheminėmis medžiagomis. Pramoginių narkotikų vartojimas pakels nuotaiką, o susilaikymas nuo jų per laiką ves prie vis didesnės frustracijos ir galimai nekontroliuojamo narkotikų vartojimo epizodų. [PAWN_pronoun] nepaisys nurodymų nevartoti pramoginių narkotikų ir jų suvartos daugiau nei paprastas žmogus.</DrugDesire.degreeDatas.chemical_interest.description>
+  <!-- EN: teetotaler -->
+  <DrugDesire.degreeDatas.teetotaler.label>blaivininkas</DrugDesire.degreeDatas.teetotaler.label>
+  <!-- EN: [PAWN_nameDef] abhors the idea of gaining pleasure from chemicals. [PAWN_pronoun] strictly avoids alcohol and recreational drugs. -->
+  <DrugDesire.degreeDatas.teetotaler.description>[PAWN_nameDef] šlykštisi nuo minties apie mėgavimąsi cheminėmis medžiagomis. [PAWN_pronoun] griežtai vengia alkoholio ir pramoginių narkotikų.</DrugDesire.degreeDatas.teetotaler.description>
+  
+  <!-- EN: super-immune -->
+  <Immunity.degreeDatas.superimmune.label>labai atsparus</Immunity.degreeDatas.superimmune.label>
+  <!-- EN: [PAWN_nameDef] has a naturally powerful immune system. [PAWN_pronoun] will gain immunity much faster than a normal person would, and can survive illnesses that would kill others. -->
+  <Immunity.degreeDatas.superimmune.description>[PAWN_nameDef] turi natūraliai galingą imunitetą. [PAWN_pronoun] įgaus imunitetą daug greičiau negu paprastas žmogus ir gali išgyventi ligas nuo kurių kiti mirtų.</Immunity.degreeDatas.superimmune.description>
+  <!-- EN: sickly -->
+  <Immunity.degreeDatas.sickly.label>liguistas</Immunity.degreeDatas.sickly.label>
+  <!-- EN: [PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by. -->
+  <Immunity.degreeDatas.sickly.description>[PAWN_nameDef] turi labai prastą imunitetą. [PAWN_pronoun] suserga dažniau nei įprasta, dažnai ligomis kuriomis niekas kolonijoje nesirgo.</Immunity.degreeDatas.sickly.description>
+  
+  <!-- EN: industrious -->
+  <Industriousness.degreeDatas.industrious.label>labai darbštus</Industriousness.degreeDatas.industrious.label>
+  <!-- EN: [PAWN_nameDef] has an easy time staying on-task and focused, and gets things done much faster than the average person. -->
+  <Industriousness.degreeDatas.industrious.description>[PAWN_nameDef] lengva išbūti susikaupus ties veikla ir jis pabaigia darbus daug greičiau nei vidutinis žmogus.</Industriousness.degreeDatas.industrious.description>
+  <!-- EN: hard worker -->
+  <Industriousness.degreeDatas.hard_worker.label>darbštus</Industriousness.degreeDatas.hard_worker.label>
+  <!-- EN: [PAWN_nameDef] is a natural hard worker and will finish tasks faster than most. -->
+  <Industriousness.degreeDatas.hard_worker.description>[PAWN_nameDef] yra natūraliai darbštus ir pabaigs veiklas greičiau nei dauguma.</Industriousness.degreeDatas.hard_worker.description>
+  <!-- EN: lazy -->
+  <Industriousness.degreeDatas.lazy.label>tingus</Industriousness.degreeDatas.lazy.label>
+  <!-- EN: [PAWN_nameDef] is a little bit lazy. -->
+  <Industriousness.degreeDatas.lazy.description>[PAWN_nameDef] yra truputį tingus.</Industriousness.degreeDatas.lazy.description>
+  <!-- EN: slothful -->
+  <Industriousness.degreeDatas.slothful.label>labai tingus</Industriousness.degreeDatas.slothful.label>
+  <!-- EN: [PAWN_nameDef] loves idleness and hates anything productive. [PAWN_pronoun] moves slowly and rarely stays focused on a task. -->
+  <Industriousness.degreeDatas.slothful.description>[PAWN_nameDef] dievina dykinėjimą ir nekenčia bet ko produktyvumo. [PAWN_pronoun] juda lėtai ir retai išbūna susikaupęs ties veikla.</Industriousness.degreeDatas.slothful.description>
+  
+  <!-- EN: sanguine -->
+  <NaturalMood.degreeDatas.sanguine.label>sangvinikas</NaturalMood.degreeDatas.sanguine.label>
+  <!-- EN: [PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is. -->
+  <NaturalMood.degreeDatas.sanguine.description>[PAWN_nameDef] tiesiog natūraliai teigiamai jaučiasi dėl savo situacijos praktiškai visą laiką, nepriklausomai kokia ta situacija bebūtų.</NaturalMood.degreeDatas.sanguine.description>
+  <!-- EN: optimist -->
+  <NaturalMood.degreeDatas.optimist.label>optimistas</NaturalMood.degreeDatas.optimist.label>
+  <!-- EN: [PAWN_nameDef] is naturally optimistic about life. It's hard to get [PAWN_objective] down. -->
+  <NaturalMood.degreeDatas.optimist.description>[PAWN_nameDef]optimistiškai žiūri į gyvenimą. [PAWN_objective] sunku sugadinti nuotaiką.</NaturalMood.degreeDatas.optimist.description>
+  <!-- EN: pessimist -->
+  <NaturalMood.degreeDatas.pessimist.label>pesimistas</NaturalMood.degreeDatas.pessimist.label>
+  <!-- EN: [PAWN_nameDef] tends to look on the bad side of life. -->
+  <NaturalMood.degreeDatas.pessimist.description>[PAWN_nameDef] yra linkes žiūrėti į blogąją gyvenimo pusę.</NaturalMood.degreeDatas.pessimist.description>
+  <!-- EN: depressive -->
+  <NaturalMood.degreeDatas.depressive.label>depresinis</NaturalMood.degreeDatas.depressive.label>
+  <!-- EN: [PAWN_nameDef] is perenially unhappy. [PAWN_pronoun] has trouble sustaining a good mood even when everything is fine. -->
+  <NaturalMood.degreeDatas.depressive.description>[PAWN_nameDef] yra amžinai nelaimingas. [PAWN_pronoun] sunku išlaikyti gerą nuotaiką net ir kai viskas yra gerai.</NaturalMood.degreeDatas.depressive.description>
+  
+  <!-- EN: iron-willed -->
+  <Nerves.degreeDatas.ironwilled.label>geležinės valios</Nerves.degreeDatas.ironwilled.label>
+  <!-- EN: [PAWN_nameDef]'s will is an iron shield. [PAWN_pronoun] keeps going through thick and thin, when others broke down long before. -->
+  <Nerves.degreeDatas.ironwilled.description>[PAWN_nameDef] valia yra kieta kaip geležis. [PAWN_pronoun] juda pirmyn per džiaugsmus ir vargus kai kiti jau būna seniai palūžę.</Nerves.degreeDatas.ironwilled.description>
+  <!-- EN: steadfast -->
+  <Nerves.degreeDatas.steadfast.label>ištvermingas</Nerves.degreeDatas.steadfast.label>
+  <!-- EN: [PAWN_nameDef] is mentally tough and won't break down under stresses that would crack most people. -->
+  <Nerves.degreeDatas.steadfast.description>[PAWN_nameDef] yra psichologiškai tvirtas ir nepalūš nuo streso kurio dauguma neatlaikytų.</Nerves.degreeDatas.steadfast.description>
+  <!-- EN: nervous -->
+  <Nerves.degreeDatas.nervous.label>nervingas</Nerves.degreeDatas.nervous.label>
+  <!-- EN: [PAWN_nameDef] tends to crack under pressure. -->
+  <Nerves.degreeDatas.nervous.description>[PAWN_nameDef] turi polinkį palūžti nuo streso.</Nerves.degreeDatas.nervous.description>
+  <!-- EN: volatile -->
+  <Nerves.degreeDatas.volatile.label>nestabilus</Nerves.degreeDatas.volatile.label>
+  <!-- EN: [PAWN_nameDef] is on a hair-trigger all the time. [PAWN_pronoun] is the first to break in any tough situation. -->
+  <Nerves.degreeDatas.volatile.description>[PAWN_nameDef] nuolat vaikšto kaip ant adatų. [PAWN_pronoun] bet kokioje sunkesnėje situacijoje palūžta pirmas.</Nerves.degreeDatas.volatile.description>
+  
+  <!-- EN: neurotic -->
+  <Neurotic.degreeDatas.neurotic.label>neurotiškas</Neurotic.degreeDatas.neurotic.label>
+  <!-- EN: [PAWN_nameDef] likes to have things squared away. [PAWN_pronoun] will work harder than most to attain this state of affairs, but [PAWN_possessive] nerves can get the better of [PAWN_objective]. -->
+  <Neurotic.degreeDatas.neurotic.description>[PAWN_nameDef] patinka sutvarkyti reikalus. [PAWN_pronoun] dirbs sunkiau nei dauguma kad tai pasiektų, bet dėl to [PAWN_possessive] nervai gali neatlaikyti.</Neurotic.degreeDatas.neurotic.description>
+  <!-- EN: very neurotic -->
+  <Neurotic.degreeDatas.very_neurotic.label>labai neurotiškas</Neurotic.degreeDatas.very_neurotic.label>
+  <!-- EN: [PAWN_nameDef] feels constantly nervous about everything that has to get done. [PAWN_pronoun] will work extremely hard to attain this state of affairs, but [PAWN_possessive] nerves can easily get the better of [PAWN_objective]. -->
+  <Neurotic.degreeDatas.very_neurotic.description>[PAWN_nameDef] nuolat pergyvena dėl visko kas turi būti padaryta. [PAWN_pronoun] itin sunkiai dirbs kad viską padarytų, bet dėl to [PAWN_possessive] sunkiai laiko nervai.</Neurotic.degreeDatas.very_neurotic.description>
+  
+  <!-- EN: psychically hypersensitive -->
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>psichiškai hiperjautrus</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
+  <!-- EN: [PAWN_nameDef]'s mind is like a psychic tuning fork. [PAWN_pronoun] is extremely sensitive to psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>[PAWN_nameDef] protas yra kaip psichinė antena. [PAWN_pronoun] yra itin jautrus psichiniams reiškiniams.</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
+  <!-- EN: psychically sensitive -->
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.label>psichiškai jautrus</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
+  <!-- EN: [PAWN_nameDef]'s mind is unusually sensitive to psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>[PAWN_nameDef] protas yra neįprastai jautrus psichiniams reiškiniams.</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
+  <!-- EN: psychically dull -->
+  <PsychicSensitivity.degreeDatas.psychically_dull.label>psichiškai bukas</PsychicSensitivity.degreeDatas.psychically_dull.label>
+  <!-- EN: [PAWN_nameDef]'s mind is psychically out of tune with others. [PAWN_pronoun] isn't as affected by psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_dull.description>[PAWN_nameDef] protas psichiškai išsiderinęs kitų atžvilgiu. [PAWN_pronoun] yra mažiau paveikiamas psichinių reiškinių.</PsychicSensitivity.degreeDatas.psychically_dull.description>
+  <!-- EN: psychically deaf -->
+  <PsychicSensitivity.degreeDatas.psychically_deaf.label>psichiškai kurčias</PsychicSensitivity.degreeDatas.psychically_deaf.label>
+  <!-- EN: [PAWN_nameDef]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_deaf.description>[PAWN_nameDef] protas veikia kitu nei visų kitų psichiniu dažniu. [PAWN_pronoun] psichiniai reiškiniai nepaveikia.</PsychicSensitivity.degreeDatas.psychically_deaf.description>
+  
+  <!-- EN: careful shooter -->
+  <ShootingAccuracy.degreeDatas.careful_shooter.label>atidus šaulys</ShootingAccuracy.degreeDatas.careful_shooter.label>
+  <!-- EN: [PAWN_nameDef] takes more time to aim when shooting. [PAWN_pronoun] shoots less often than others, but with more accuracy. -->
+  <ShootingAccuracy.degreeDatas.careful_shooter.description>[PAWN_nameDef] reikia daugiau laiko nusitaikyti. [PAWN_pronoun] šaudo lėčiau nei kiti, bet taikliau.</ShootingAccuracy.degreeDatas.careful_shooter.description>
+  <!-- EN: trigger-happy -->
+  <ShootingAccuracy.degreeDatas.triggerhappy.label>nekantrus</ShootingAccuracy.degreeDatas.triggerhappy.label>
+  <!-- EN: Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately. -->
+  <ShootingAccuracy.degreeDatas.triggerhappy.description>Pykšt! Pykšt! Pykšt! [PAWN_nameDef] tiesiog mėgsta spausti gaiduką. [PAWN_pronoun] šaudo greičiau nei kiti, bet ne taip taikliai.</ShootingAccuracy.degreeDatas.triggerhappy.description>
+  
+  <!-- EN: slowpoke -->
+  <SpeedOffset.degreeDatas.slowpoke.label>lėtapėdis</SpeedOffset.degreeDatas.slowpoke.label>
+  <!-- EN: [PAWN_nameDef] is always falling behind the group whenever [PAWN_pronoun] goes anywhere. -->
+  <SpeedOffset.degreeDatas.slowpoke.description>[PAWN_nameDef] visada atsilieka nuo grupės kad ir kur eitų.</SpeedOffset.degreeDatas.slowpoke.description>
+  <!-- EN: fast walker -->
+  <SpeedOffset.degreeDatas.fast_walker.label>greitas vaikščiotojas</SpeedOffset.degreeDatas.fast_walker.label>
+  <!-- EN: [PAWN_nameDef] likes to be where [PAWN_pronoun]'s going. [PAWN_pronoun] walks quicker than most people. -->
+  <SpeedOffset.degreeDatas.fast_walker.description>[PAWN_nameDef] patinka būti ten kur [PAWN_pronoun] eina. [PAWN_pronoun] vaikšto greičiau nei dauguma žmonių.</SpeedOffset.degreeDatas.fast_walker.description>
+  <!-- EN: jogger -->
+  <SpeedOffset.degreeDatas.jogger.label>bėgikas</SpeedOffset.degreeDatas.jogger.label>
+  <!-- EN: [PAWN_nameDef] always moves with a sense of urgency - so much so that others often fail to keep up. -->
+  <SpeedOffset.degreeDatas.jogger.description>[PAWN_nameDef] visada juda paskubomis - taip greit, kad kiti dažnai nespėja paskui.</SpeedOffset.degreeDatas.jogger.description>
+  
+</LanguageData>

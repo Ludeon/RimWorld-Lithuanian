@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: high on flake -->
+  <FlakeHigh.label>apkvaišęs nuo kaifo</FlakeHigh.label>
+  <!-- EN: Active flake in the bloodstream. Generates a euphoric, debilitating high. -->
+  <FlakeHigh.description>Veiklioji kaifo medžiaga kraujyje. Sukelia euforinį, slopinantį apkvaišimą.</FlakeHigh.description>
+  <!-- EN: a flake high -->
+  <FlakeHigh.labelNoun>apkvaišimas nuo kaifo</FlakeHigh.labelNoun>
+  
+</LanguageData>

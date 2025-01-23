@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archer -->
+  <Tribal_Archer.label>lankininkas</Tribal_Archer.label>
+  
+  <!-- EN: berserker -->
+  <Tribal_Berserker.label>berserkeris</Tribal_Berserker.label>
+  
+  <!-- EN: berserker chief -->
+  <Tribal_ChiefMelee.label>berserkerių vadas</Tribal_ChiefMelee.label>
+  
+  <!-- EN: archer chief -->
+  <Tribal_ChiefRanged.label>lankininkų vadas</Tribal_ChiefRanged.label>
+  
+  <!-- EN: heavy archer -->
+  <Tribal_HeavyArcher.label>sunkusis lankininkas</Tribal_HeavyArcher.label>
+  
+  <!-- EN: hunter -->
+  <Tribal_Hunter.label>medžiotojas</Tribal_Hunter.label>
+  
+  <!-- EN: penitent -->
+  <Tribal_Penitent.label>atgailautojas</Tribal_Penitent.label>
+  
+  <!-- EN: trader -->
+  <Tribal_Trader.label>pirklys</Tribal_Trader.label>
+  
+  <!-- EN: warrior -->
+  <Tribal_Warrior.label>karys</Tribal_Warrior.label>
+  
+</LanguageData>

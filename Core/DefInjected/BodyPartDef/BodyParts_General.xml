@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: brain -->
+  <Brain.label>smegenys</Brain.label>
+  
+  <!-- EN: ear -->
+  <Ear.label>ausis</Ear.label>
+  
+  <!-- EN: eye -->
+  <Eye.label>akis</Eye.label>
+  
+  <!-- EN: foot -->
+  <Foot.label>pėda</Foot.label>
+  
+  <!-- EN: head -->
+  <Head.label>galva</Head.label>
+  
+  <!-- EN: jaw -->
+  <Jaw.label>žandikaulis</Jaw.label>
+  
+  <!-- EN: leg -->
+  <Leg.label>koja</Leg.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>kaklas</Neck.label>
+  
+  <!-- EN: nose -->
+  <Nose.label>nosis</Nose.label>
+  
+  <!-- EN: ribcage -->
+  <Ribcage.label>šonkauliai</Ribcage.label>
+  
+  <!-- EN: skull -->
+  <Skull.label>kaukolė</Skull.label>
+  
+  <!-- EN: spine -->
+  <Spine.label>stuburas</Spine.label>
+  
+  <!-- EN: tongue -->
+  <Tongue.label>TODO</Tongue.label>
+  <!-- EN: remove -->
+  <Tongue.removeRecipeLabelOverride>TODO</Tongue.removeRecipeLabelOverride>
+  
+</LanguageData>

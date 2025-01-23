@@ -1,37 +1,76 @@
-﻿<?xml version="1.1" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- WITab titles -->
-  <TabTerrain>Vietovė</TabTerrain>
+  <!-- EN: Terrain -->
+  <TabTerrain>Gruntas</TabTerrain>
+  <!-- EN: Planet -->
   <TabPlanet>Planeta</TabPlanet>
-  <TabCaravanSocial>Socialus</TabCaravanSocial>
+  <!-- EN: Feeding -->
+  <TabCaravanFeeding>TODO</TabCaravanFeeding>
+  <!-- EN: Social -->
+  <TabCaravanSocial>Socialiniai reikalai</TabCaravanSocial>
+  <!-- EN: Health -->
   <TabCaravanHealth>Sveikata</TabCaravanHealth>
+  <!-- EN: Needs -->
   <TabCaravanNeeds>Poreikiai</TabCaravanNeeds>
-  <TabCaravanGear>Įranga</TabCaravanGear>
+  <!-- EN: Gear -->
+  <TabCaravanGear>Ekipuotė</TabCaravanGear>
+  <!-- EN: Items -->
   <TabCaravanItems>Daiktai</TabCaravanItems>
   
   <!-- Misc -->
+  <!-- EN: Abandon {{0}}x {0} -->
   <AbandonSliderText>Palikti {{0}}x {0}</AbandonSliderText>
-  <ConfirmAbandonItemDialog> Ar tikrai norite palikti {0}?\n\nPalikti daiktai pranyks ir neikada nebus atgauti.</ConfirmAbandonItemDialog>
+  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
+  <ConfirmAbandonItemDialog>Ar tikrai nori palikti {0}?\n\nPalikti daiktai pranyks ir jų niekada nebebus galima atgauti.</ConfirmAbandonItemDialog>
+  <!-- EN: Abandon -->
   <AbandonTip>Palikti</AbandonTip>
-  <AbandonSpecificCountTip>Palikti specifinį skaičių</AbandonSpecificCountTip>
+  <!-- EN: Banish -->
+  <BanishTip>Ištremti</BanishTip>
+  <!-- EN: Abandon specific count -->
+  <AbandonSpecificCountTip>Palikti konkretų kiekį</AbandonSpecificCountTip>
+  <!-- EN: Abandon (all) -->
   <AbandonAllTip>Palikti (viską)</AbandonAllTip>
-  <AbandonItemTipExtraText>Palikti daiktai pranyks ir niekada nebus atgauti.</AbandonItemTipExtraText>
-  <AbandonTipWillDie>{0} veikiausiai mirs.</AbandonTipWillDie>
+  <!-- EN: Abandoned items vanish and can never be recovered. -->
+  <AbandonItemTipExtraText>Palikti daiktai pranyks ir jų niekada nebebus galima atgauti.</AbandonItemTipExtraText>
+  <!-- EN: {1_labelShort} will most likely die. -->
+  <BanishTipWillDie>{1_labelShort} tikriausiai mirs.</BanishTipWillDie>
   
   <!-- Caravan inspect -->
+  <!-- EN: Colonists -->
   <CaravanColonists>Kolonistai</CaravanColonists>
+  <!-- EN: Prisoners and animals -->
   <CaravanPrisonersAndAnimals>Kaliniai ir gyvūnai</CaravanPrisonersAndAnimals>
+  <!-- EN: Inventory -->
   <CaravanItems>Inventorius</CaravanItems>
-  <OpenSpecificTabButtonTip>Spusteleitė, jog atidarytumėte lentele su daugiau informacijos.</OpenSpecificTabButtonTip>
+  <!-- EN: Click to open a tab with more details. -->
+  <OpenSpecificTabButtonTip>Paspausk, kad atidarytum langą su daugiau informacijos.</OpenSpecificTabButtonTip>
+  <!-- EN: Prisoners -->
   <CaravanPrisoners>Kaliniai</CaravanPrisoners>
-  <CaravanWeaponsAndApparel>Inventorius</CaravanWeaponsAndApparel>
+  <!-- EN: Equippable items -->
+  <CaravanWeaponsAndApparel>Ekipavimui tinkami drabužiai ir ginklai</CaravanWeaponsAndApparel>
+  <!-- EN: None capable -->
+  <NoneCapable>Niekas nesugeba</NoneCapable>
+  <!-- EN: Caravan not moving -->
+  <GainingJoyBecauseCaravanNotMoving>Karavanas nejuda</GainingJoyBecauseCaravanNotMoving>
   
   <!-- Caravan gear -->
-  <DragToRearrange>Tempkite, kad pertvarkytumėte.</DragToRearrange>
+  <!-- EN: Drag to rearrange. -->
+  <DragToRearrange>Tempk, kad pertvarkytum.</DragToRearrange>
+
+  <!-- Caravan items -->
+  <!-- EN: Assign drug policies -->
+  <AssignDrugPolicies>Priskirti medikamentų vartojimą</AssignDrugPolicies>
+
+  <!-- Caravan health -->
+  <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
+  <BeCarriedIfSickTip>Ar šis asmuo ar gyvūnas turėtų būti nešamas kitų karavano narių kai serga.\n\nNešami karavano nariai gali ilsėtis net kai karavanas juda, bet tai sulėtina karavaną.</BeCarriedIfSickTip>
   
   <!-- Planet -->
-  <PlanetSeed>Pradžia</PlanetSeed>
-  <PlanetCoverageShort>Aprėptis</PlanetCoverageShort>
+  <!-- EN: Seed -->
+  <PlanetSeed>Pradžios seka</PlanetSeed>
+  <!-- EN: Coverage -->
+  <PlanetCoverageShort>Padengimas</PlanetCoverageShort>
 
 </LanguageData>

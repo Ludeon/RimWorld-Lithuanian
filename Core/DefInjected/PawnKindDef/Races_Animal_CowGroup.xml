@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bison -->
+  <Bison.label>bizonas</Bison.label>
+  <!-- EN: bison calf -->
+  <Bison.lifeStages.bison_calf.label>bizono veršelis</Bison.lifeStages.bison_calf.label>
+  <!-- EN: bison calves -->
+  <Bison.lifeStages.bison_calf.labelPlural>bizono veršeliai</Bison.lifeStages.bison_calf.labelPlural>
+  
+  <!-- EN: boomalope -->
+  <Boomalope.label>sprogstanti antilopė</Boomalope.label>
+  <!-- EN: boomalope calf -->
+  <Boomalope.lifeStages.boomalope_calf.label>sprogstančios antilopės veršelis</Boomalope.lifeStages.boomalope_calf.label>
+  <!-- EN: boomalope calves -->
+  <Boomalope.lifeStages.boomalope_calf.labelPlural>sprogstančios antilopės veršeliai</Boomalope.lifeStages.boomalope_calf.labelPlural>
+  
+  <!-- EN: caribou -->
+  <Caribou.label>šiaurės elnias</Caribou.label>
+  <!-- EN: caribou -->
+  <Caribou.labelPlural>šiaurės elniai</Caribou.labelPlural>
+  <!-- EN: caribou calf -->
+  <Caribou.lifeStages.caribou_calf.label>šiaurės elnio jauniklis</Caribou.lifeStages.caribou_calf.label>
+  <!-- EN: caribou calves -->
+  <Caribou.lifeStages.caribou_calf.labelPlural>šiaurės elnio jaunikliai</Caribou.lifeStages.caribou_calf.labelPlural>
+  
+  <!-- EN: cow -->
+  <Cow.label>karvė</Cow.label>
+  <!-- EN: bull -->
+  <Cow.labelMale>bulius</Cow.labelMale>
+  <!-- EN: calf -->
+  <Cow.lifeStages.calf.label>veršelis</Cow.lifeStages.calf.label>
+  <!-- EN: calves -->
+  <Cow.lifeStages.calf.labelPlural>veršeliai</Cow.lifeStages.calf.labelPlural>
+  
+  <!-- EN: donkey -->
+  <Donkey.label>asilas</Donkey.label>
+  <!-- EN: donkey foal -->
+  <Donkey.lifeStages.donkey_foal.label>asilo kumeliukas</Donkey.lifeStages.donkey_foal.label>
+  
+  <!-- EN: dromedary -->
+  <Dromedary.label>dromedaras</Dromedary.label>
+  <!-- EN: dromedaries -->
+  <Dromedary.labelPlural>dromedarai</Dromedary.labelPlural>
+  <!-- EN: dromedary calf -->
+  <Dromedary.lifeStages.dromedary_calf.label>dromedaro jauniklis</Dromedary.lifeStages.dromedary_calf.label>
+  <!-- EN: dromedary calves -->
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>dromedaro jauniklis</Dromedary.lifeStages.dromedary_calf.labelPlural>
+  
+  <!-- EN: elephant -->
+  <Elephant.label>dramblys</Elephant.label>
+  <!-- EN: elephant calf -->
+  <Elephant.lifeStages.elephant_calf.label>dramblio jauniklis</Elephant.lifeStages.elephant_calf.label>
+  
+  <!-- EN: elk -->
+  <Elk.label>briedis</Elk.label>
+  <!-- EN: elk -->
+  <Elk.labelPlural>briedžiai</Elk.labelPlural>
+  <!-- EN: elk calf -->
+  <Elk.lifeStages.elk_calf.label>briedžio jauniklis</Elk.lifeStages.elk_calf.label>
+  <!-- EN: elk calves -->
+  <Elk.lifeStages.elk_calf.labelPlural>briedžio jaunikliai</Elk.lifeStages.elk_calf.labelPlural>
+  
+  <!-- EN: goat -->
+  <Goat.label>ožys</Goat.label>
+  <!-- EN: goat doe -->
+  <Goat.labelFemale>ožka</Goat.labelFemale>
+  <!-- EN: baby goat -->
+  <Goat.lifeStages.baby_goat.label>ožiukas</Goat.lifeStages.baby_goat.label>
+  
+  <!-- EN: horse -->
+  <Horse.label>arklys</Horse.label>
+  <!-- EN: mare -->
+  <Horse.labelFemale>kumelė</Horse.labelFemale>
+  <!-- EN: stallion -->
+  <Horse.labelMale>žirgas</Horse.labelMale>
+  <!-- EN: foal -->
+  <Horse.lifeStages.foal.label>kumeliukas</Horse.lifeStages.foal.label>
+  
+  <!-- EN: muffalo -->
+  <Muffalo.label>muivolas</Muffalo.label>
+  <!-- EN: muffalo calf -->
+  <Muffalo.lifeStages.muffalo_calf.label>muivolo veršelis</Muffalo.lifeStages.muffalo_calf.label>
+  <!-- EN: muffalo calves -->
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>muivolo veršeliai</Muffalo.lifeStages.muffalo_calf.labelPlural>
+  
+  <!-- EN: rhinoceros -->
+  <Rhinoceros.label>raganosis</Rhinoceros.label>
+  <!-- EN: rhinoceroses -->
+  <Rhinoceros.labelPlural>raganosiai</Rhinoceros.labelPlural>
+  
+  <!-- EN: yak -->
+  <Yak.label>jakas</Yak.label>
+  <!-- EN: yak -->
+  <Yak.labelMale>jakas</Yak.labelMale>
+  <!-- EN: yak calf -->
+  <Yak.lifeStages.yak_calf.label>jako veršelis</Yak.lifeStages.yak_calf.label>
+  <!-- EN: yak calves -->
+  <Yak.lifeStages.yak_calf.labelPlural>jako veršeliai</Yak.lifeStages.yak_calf.labelPlural>
+  
+</LanguageData>

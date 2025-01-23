@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: billiards table -->
+  <BilliardsTable.label>biliardo stalas</BilliardsTable.label>
+  <!-- EN: A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability. -->
+  <BilliardsTable.description>Stalas su minkštu stalviršiu, skirtas žaisti įvairius biliardo tipo žaidimus. Tai lavina šaudymo įgūdžius.</BilliardsTable.description>
+  
+  <!-- EN: chess table -->
+  <ChessTable.label>šachmatų stalas</ChessTable.label>
+  <!-- EN: The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills.\n\nThis building requires adjacent chairs or stools to use. -->
+  <ChessTable.description>Senovinis karalių žaidimas. Smagu kelioms valandas kartas nuo karto, net žaidžiant vienam. Tai lavina intelektinius įgūdžius.\n\nŠiam statiniui naudoti reikia greta esančių kėdžių arba taburečių.</ChessTable.description>
+  
+  <!-- EN: flatscreen television -->
+  <FlatscreenTelevision.label>plokščiaekranis televizorius</FlatscreenTelevision.label>
+  <!-- EN: A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
+  <FlatscreenTelevision.description>Aukštųjų technologijų plokščiaekranis televizorius su krištolo skaidrumo vaizdu ir sodriomis spalvomis. Pagauna transliacijas iš senovinių palydovų ir visur esančių duomenų kortelių.</FlatscreenTelevision.description>
+  
+  <!-- EN: Game-of-Ur board -->
+  <GameOfUrBoard.label>Ur žaidimao lenta</GameOfUrBoard.label>
+  <!-- EN: Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills. -->
+  <GameOfUrBoard.description>Šį jaudinantį, bet tuo pačiu ir įsiutinantį stalo žaidimą, sukurtą 2500 m. pr. Kr., gali žaisti vienas ar du žmonės. Tai lavina intelektinius įgūdžius.</GameOfUrBoard.description>
+  
+  <!-- EN: hoopstone ring -->
+  <HoopstoneRing.label>TODO</HoopstoneRing.label>
+  <!-- EN: A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills. -->
+  <HoopstoneRing.description>TODO</HoopstoneRing.description>
+  
+  <!-- EN: horseshoes pin -->
+  <HorseshoesPin.label>pasagų kuoliukas</HorseshoesPin.label>
+  <!-- EN: A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills. -->
+  <HorseshoesPin.description>Paprastas senovinis žaidimas, žaidžiamas su pasagomis ir dideliu smeigtuku žemėje. Žaidėjai mėto pasagas bandydami priversti jas nusileisti ant smeigtuko. Tai atpalaiduoja ir lavina šaudymo įgūdžius.</HorseshoesPin.description>
+  
+  <!-- EN: megascreen television -->
+  <MegascreenTelevision.label>didžiaekranis televizorius</MegascreenTelevision.label>
+  <!-- EN: A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
+  <MegascreenTelevision.description>Didžiulis, aukštųjų technologijų televizorius. Milžiniški, itin ryškūs vaizdai beveik iššoka iš ekrano. Suteikia labai daug pramogų. Pagauna transliacijas iš senovinių palydovų ir visur esančių duomenų kortelių.</MegascreenTelevision.description>
+  
+  <!-- EN: poker table -->
+  <PokerTable.label>pokerio stalas</PokerTable.label>
+  <!-- EN: A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck.\n\nThis building requires adjacent chairs or stools to use. -->
+  <PokerTable.description>Stalas, skirtas lošti kortų žaidimus iš pinigų, tokius kaip pokeris. Puikus būdas išbandyti savo strateginius įgūdžius ir šiek tiek sėkmę.\n\nŠiam statiniui naudoti reikia greta esančių kėdžių arba taburečių.</PokerTable.description>
+  
+  <!-- EN: telescope -->
+  <Telescope.label>teleskopas</Telescope.label>
+  <!-- EN: A telescope for doing amateur astronomy. It's a relaxing hobby for a certain kind of person. Can only be used outdoors. -->
+  <Telescope.description>Teleskopas mėgėjų astronomijai. Tai atpalaiduojantis hobis tam tikros rūšies žmogui. Galima naudoti tik lauke.</Telescope.description>
+  
+  <!-- EN: tube television -->
+  <TubeTelevision.label>kineskopinis televizorius</TubeTelevision.label>
+  <!-- EN: A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. -->
+  <TubeTelevision.description>Katodinių spindulių vamzdžio ekranas, skirtas rodyti judančius vaizdus su garsu. Netgi kraštiniuose pasauliuose dažnai būna senas siųstuvas, rodantis kažką bent šiek tiek įdomaus.</TubeTelevision.description>
+  
+</LanguageData>

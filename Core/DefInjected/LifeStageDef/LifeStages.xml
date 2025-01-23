@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adult -->
+  <AnimalAdult.label>suaugęs</AnimalAdult.label>
+  
+  <!-- EN: baby -->
+  <AnimalBaby.label>jauniklis</AnimalBaby.label>
+  
+  <!-- EN: baby -->
+  <AnimalBabyTiny.label>jauniklis</AnimalBabyTiny.label>
+  
+  <!-- EN: juvenile -->
+  <AnimalJuvenile.label>jaunas</AnimalJuvenile.label>
+  
+  <!-- EN: adult -->
+  <EusocialInsectAdult.label>suaugęs</EusocialInsectAdult.label>
+  
+  <!-- EN: immature -->
+  <EusocialInsectJuvenile.label>nesubrendęs</EusocialInsectJuvenile.label>
+  
+  <!-- EN: larva -->
+  <EusocialInsectLarva.label>lerva</EusocialInsectLarva.label>
+  
+  <!-- EN: adult -->
+  <HumanlikeAdult.label>suaugęs</HumanlikeAdult.label>
+  
+  <!-- EN: baby -->
+  <HumanlikeBaby.label>kūdikis</HumanlikeBaby.label>
+  <!-- EN: Mood represents how happy or stressed someone is. Babies with low mood are more likely to cry, while babies with a high mood are more likely to giggle. -->
+  <HumanlikeBaby.customMoodTipString>Nuotaika parodo ar žmogus yra laimingas, ar patiria stresą. Prastos nuotaikos kūdikiai dažniau verkia, o pakilios nuotaikos kūdikiai – kikena.</HumanlikeBaby.customMoodTipString>
+  
+  <!-- EN: child -->
+  <HumanlikeChild.label>vaikas</HumanlikeChild.label>
+  
+  <!-- EN: teenager -->
+  <HumanlikeTeenager.label>paauglys</HumanlikeTeenager.label>
+  <!-- EN: teenage -->
+  <HumanlikeTeenager.adjective>paauglys</HumanlikeTeenager.adjective>
+  
+  <!-- EN: fully-formed -->
+  <MechanoidFullyFormed.label>pilnai susiformavęs</MechanoidFullyFormed.label>
+  
+</LanguageData>

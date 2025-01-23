@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageModerate.label>cheminė žala</ChemicalDamageModerate.label>
+  <!-- EN: Chemical damage at the cellular level. -->
+  <ChemicalDamageModerate.description>Cheminė žala ląstelių lygmenyje.</ChemicalDamageModerate.description>
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageSevere.label>cheminė žala</ChemicalDamageSevere.label>
+  <!-- EN: Chemical damage at the cellular level. -->
+  <ChemicalDamageSevere.description>Cheminė žala ląstelių lygmenyje.</ChemicalDamageSevere.description>
+  
+  <!-- EN: cirrhosis -->
+  <Cirrhosis.label>cirozė</Cirrhosis.label>
+  <!-- EN: A degenerative liver disease caused by excessive alcohol consumption. -->
+  <Cirrhosis.description>Degeneracinė kepenų liga sukelta per didelio alkoholio vartojimo.</Cirrhosis.description>
+  
+  <!-- EN: resurrection psychosis -->
+  <ResurrectionPsychosis.label>prikėlimo psichozė</ResurrectionPsychosis.label>
+  <!-- EN: Chaotic thought patterns caused by the decoherence of resurrection mechanites. Resurrection psychosis progresses and eventually causes total psychosis and death.\n\nResurrected people require mechanites to rebuild their bodily functions at the cellular level. Mechanites always have a chance to lose coherence, and if they do, they wreak havoc in the central nervous system. The older the corpse, the more mechanite action is required to resurrect it, and the greater the chance of eventual decoherence. -->
+  <ResurrectionPsychosis.description>Chaotiškos mintys sukeltos prisikėlimo mechanitų išsiderinimo. Prisikėlimo psichozė progresuoja ir galiausiai sukelia visišką psichoze ir mirtį.\n\nPrikeltiems žmonėms reikia mechanitų, kad atstatytų jų kūno funkcijas ląstelių lygmenyje. Mechanitai visada turi tikimybę išsiderinti, ir jei taip nutinka, centrinėje nervų sistemoje jie sukelia visišką sumaištį. Kuo senesnis lavonas, tuo daugiau mechanitų darbo reikia įdėti prikėlimui, ir tuo didesnė galimo išsiderinimo tikimybė.</ResurrectionPsychosis.description>
+  <!-- EN: Chaotic thought patterns caused by after-effects of resurrection. Resurrection psychosis is progressive and eventually causes psychosis and death. -->
+  <ResurrectionPsychosis.descriptionShort>Chaotiškas mąstymas sukeltas prisikėlimo komplikacijų. Prisikėlimo psichozė yra progresuojanti ir galiausiai sukelia psichozę ir mirtį.</ResurrectionPsychosis.descriptionShort>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-0.label>ankstyva</ResurrectionPsychosis.stages.early-0.label>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-1.label>ankstyva</ResurrectionPsychosis.stages.early-1.label>
+  <!-- EN: moderate -->
+  <ResurrectionPsychosis.stages.moderate.label>vidutinė</ResurrectionPsychosis.stages.moderate.label>
+  <!-- EN: advanced -->
+  <ResurrectionPsychosis.stages.advanced.label>vidutinė</ResurrectionPsychosis.stages.advanced.label>
+  <!-- EN: severe -->
+  <ResurrectionPsychosis.stages.severe.label>vėlyva</ResurrectionPsychosis.stages.severe.label>
+  <!-- EN: total -->
+  <ResurrectionPsychosis.stages.total.label>visiška</ResurrectionPsychosis.stages.total.label>
+  <!-- EN: catatonic -->
+  <ResurrectionPsychosis.stages.catatonic.label>katatoninė</ResurrectionPsychosis.stages.catatonic.label>
+  
+  <!-- EN: scaria -->
+  <Scaria.label>pasiutligė</Scaria.label>
+  <!-- EN: A disease which causes affected creatures to enter berserk rages. A creature with scaria can be cured through a special medical operation, but it must be downed first. If not treated, scaria kills its host about five days after infection. The disease poisons the flesh and rots the skin, so creatures killed with scaria have a chance of rotting upon death so they cannot be butchered for meat or leather. -->
+  <Scaria.description>Liga kuri sukelia paveiktoms būtybėms nevaldomus įniršius. Speciali operacija gali išgydyti pasiutligės paveiktą būtybę, bet pirmiausia ji turi būti numušta. Jei negydoma, nuo pasiutligės mirštama apytiksliai per penkias dienas nuo infekcijos. Liga užkrečia mėsą ir supūdo odą, todėl būtybės sergančios pasiutlige mirusios turi tikimybę būti supuvusios, dėl ko negalėtų būti išmėsinėtos maistui ir odai.</Scaria.description>
+  <!-- EN: A disease which causes affected creatures to enter berserk rages. If not treated, scaria kills its host about five days after infection. -->
+  <Scaria.descriptionShort>Liga kuri sukelia paveiktoms būtybėms nevaldomus įniršius. Jei negydoma, pasiutligė nužudo savo šeimininką praėjus maždaug penkioms dienoms po užsikrėtimo.</Scaria.descriptionShort>
+  
+  <!-- EN: sterilized -->
+  <Sterilized.label>sterilizuotas</Sterilized.label>
+  <!-- EN: This creature's reproductive system has been permanently shut down. -->
+  <Sterilized.description>Šios būtybės reprodukcinė sistema nebeveikia.</Sterilized.description>
+  
+  <!-- EN: trauma savant -->
+  <TraumaSavant.label>traumos eruditas</TraumaSavant.label>
+  <!-- EN: An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak. -->
+  <TraumaSavant.description>Smegenų traumos sukelta ypatinga būklė. Sužeistos smegenys išsivystė aukščiausio laipsnio sugebėjimus kai kuriose srityse, bet prarado gebėjimą kalbėti.</TraumaSavant.description>
+  <!-- EN: trauma -->
+  <TraumaSavant.labelNoun>trauma</TraumaSavant.labelNoun>
+  
+</LanguageData>

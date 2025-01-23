@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cougar -->
+  <Cougar.label>puma</Cougar.label>
+  
+  <!-- EN: lynx -->
+  <Lynx.label>lūšis</Lynx.label>
+  <!-- EN: lynx -->
+  <Lynx.labelPlural>lūšys</Lynx.labelPlural>
+  <!-- EN: lynx kitten -->
+  <Lynx.lifeStages.lynx_kitten.label>lūšiukas</Lynx.lifeStages.lynx_kitten.label>
+  
+  <!-- EN: panther -->
+  <Panther.label>pantera</Panther.label>
+  
+</LanguageData>

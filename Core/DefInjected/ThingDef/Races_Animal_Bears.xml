@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grizzly bear -->
+  <Bear_Grizzly.label>grizlis</Bear_Grizzly.label>
+  <!-- EN: A huge omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the grizzly is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <Bear_Grizzly.description>Didžiulis visaėdis žinduolis, prisitaikęs šaltam klimatui. Storas meškos riebalų sluoksnis ir kailis žiemą jas šildo.\n\nNors įprastą jų mitybą sudaro žuvis, uogos, medus ir maita, grizliai gali panaudoti savo didžiulę jėgą ir mirtinas letenas, kad nužudytų gyvą grobį. Kaip tokie gremėzdiški gyvūnai jie yra stulbinamai greiti.</Bear_Grizzly.description>
+  <!-- EN: bear meat -->
+  <Bear_Grizzly.race.meatLabel>meškos mėsa</Bear_Grizzly.race.meatLabel>
+  <!-- EN: left claw -->
+  <Bear_Grizzly.tools.left_claw.label>kairė letena</Bear_Grizzly.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Bear_Grizzly.tools.right_claw.label>dešinė letena</Bear_Grizzly.tools.right_claw.label>
+  <!-- EN: head -->
+  <Bear_Grizzly.tools.head.label>galva</Bear_Grizzly.tools.head.label>
+  
+  <!-- EN: polar bear -->
+  <Bear_Polar.label>baltasis lokys</Bear_Polar.label>
+  <!-- EN: A great white bear adapted for frozen climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear can also use its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <Bear_Polar.description>Didysis baltasis lokys, prisitaikęs arktiniam klimatui. Jų storas riebalinis sluoksnis ir kailis žiemą juos šildo.\n\nNors įprastą dietą sudaro žuvis ir maita, baltasis lokys taip pat gali panaudoti savo didžiulę jėgą ir mirtinas letenas, kad nužudytų gyvą grobį. Kaip tokie gremėzdiški gyvūnai jie yra stulbinamai greiti.</Bear_Polar.description>
+  <!-- EN: left claw -->
+  <Bear_Polar.tools.left_claw.label>kairė letena</Bear_Polar.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Bear_Polar.tools.right_claw.label>dešinė letena</Bear_Polar.tools.right_claw.label>
+  <!-- EN: head -->
+  <Bear_Polar.tools.head.label>galva</Bear_Polar.tools.head.label>
+  
+</LanguageData>

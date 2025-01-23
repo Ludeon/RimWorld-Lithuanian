@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blood filtration -->
+  <BloodFiltration.label>kraujo filtravimas</BloodFiltration.label>
+  <!-- EN: fluid reprocessing -->
+  <BloodFiltration.labelMechanoids>skysčių perdirbimas</BloodFiltration.labelMechanoids>
+  
+  <!-- EN: blood pumping -->
+  <BloodPumping.label>kraujo pumpavimas</BloodPumping.label>
+  <!-- EN: power generation -->
+  <BloodPumping.labelMechanoids>energijos generavimas</BloodPumping.labelMechanoids>
+  
+  <!-- EN: breathing -->
+  <Breathing.label>kvėpavimas</Breathing.label>
+  
+  <!-- EN: consciousness -->
+  <Consciousness.label>sąmoningumas</Consciousness.label>
+  <!-- EN: Data processing -->
+  <Consciousness.labelMechanoids>duomenų apdorojimas</Consciousness.labelMechanoids>
+  
+  <!-- EN: eating -->
+  <Eating.label>valgymas</Eating.label>
+  
+  <!-- EN: hearing -->
+  <Hearing.label>klausa</Hearing.label>
+  
+  <!-- EN: manipulation -->
+  <Manipulation.label>rankų valdymas</Manipulation.label>
+  
+  <!-- EN: digestion -->
+  <Metabolism.label>virškinimas</Metabolism.label>
+  
+  <!-- EN: moving -->
+  <Moving.label>judėjimas</Moving.label>
+  
+  <!-- EN: sight -->
+  <Sight.label>rega</Sight.label>
+  
+  <!-- EN: talking -->
+  <Talking.label>kalbėjimas</Talking.label>
+  <!-- EN: Communication -->
+  <Talking.labelMechanoids>komunikacija</Talking.labelMechanoids>
+  
+</LanguageData>

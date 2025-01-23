@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: granite flagstone -->
+  <FlagstoneGranite.label>granito plokštė</FlagstoneGranite.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneGranite.description>Nelygiai supjaustytos akmens plytelės. Jos nėra gražios, bet puikiai tinka keliams ir lauko takams. Išardžius plokštes išteklių negaunama.</FlagstoneGranite.description>
+  
+  <!-- EN: limestone flagstone -->
+  <FlagstoneLimestone.label>kalkakmenio plokštė</FlagstoneLimestone.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneLimestone.description>Nelygiai supjaustytos akmens plytelės. Jos nėra gražios, bet puikiai tinka keliams ir lauko takams. Išardžius plokštes išteklių negaunama.</FlagstoneLimestone.description>
+  
+  <!-- EN: marble flagstone -->
+  <FlagstoneMarble.label>marmuro plokštė</FlagstoneMarble.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneMarble.description>Nelygiai supjaustytos akmens plytelės. Jos nėra gražios, bet puikiai tinka keliams ir lauko takams. Išardžius plokštes išteklių negaunama.</FlagstoneMarble.description>
+  
+  <!-- EN: sandstone flagstone -->
+  <FlagstoneSandstone.label>smiltainio plokštė</FlagstoneSandstone.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneSandstone.description>Nelygiai supjaustytos akmens plytelės. Jos nėra gražios, bet puikiai tinka keliams ir lauko takams. Išardžius plokštes išteklių negaunama.</FlagstoneSandstone.description>
+  
+  <!-- EN: slate flagstone -->
+  <FlagstoneSlate.label>skalūno plokštė</FlagstoneSlate.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneSlate.description>Nelygiai supjaustytos akmens plytelės. Jos nėra gražios, bet puikiai tinka keliams ir lauko takams. Išardžius plokštes išteklių negaunama.</FlagstoneSlate.description>
+  
+  <!-- EN: granite tile -->
+  <TileGranite.label>granito plytelė</TileGranite.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileGranite.description>Kruopščiai supjaustytos ir pritaikytos akmens plytelės, suteikia pilies pojūtį. Jos yra gražios pažiūrėti, tačiau kloti jas užtrunka ilgai.</TileGranite.description>
+  
+  <!-- EN: limestone tile -->
+  <TileLimestone.label>kalkakmenio plytelė</TileLimestone.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileLimestone.description>Kruopščiai supjaustytos ir pritaikytos akmens plytelės, suteikia pilies pojūtį. Jos yra gražios pažiūrėti, tačiau kloti jas užtrunka ilgai.</TileLimestone.description>
+  
+  <!-- EN: marble tile -->
+  <TileMarble.label>marmuro plytelė</TileMarble.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileMarble.description>Kruopščiai supjaustytos ir pritaikytos akmens plytelės, suteikia pilies pojūtį. Jos yra gražios pažiūrėti, tačiau kloti jas užtrunka ilgai.</TileMarble.description>
+  
+  <!-- EN: sandstone tile -->
+  <TileSandstone.label>smiltainio plytelė</TileSandstone.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileSandstone.description>Kruopščiai supjaustytos ir pritaikytos akmens plytelės, suteikia pilies pojūtį. Jos yra gražios pažiūrėti, tačiau kloti jas užtrunka ilgai.</TileSandstone.description>
+  
+  <!-- EN: slate tile -->
+  <TileSlate.label>skalūno plytelė</TileSlate.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileSlate.description>Kruopščiai supjaustytos ir pritaikytos akmens plytelės, suteikia pilies pojūtį. Jos yra gražios pažiūrėti, tačiau kloti jas užtrunka ilgai.</TileSlate.description>
+  
+</LanguageData>
