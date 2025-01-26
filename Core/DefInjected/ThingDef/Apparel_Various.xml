@@ -61,6 +61,11 @@
   <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by rapid-incursion space marines. -->
   <Apparel_PowerArmor.description>Šarvuotas elektrinis kostiumas. Plastmetalio plokščių sluoksniai yra labai veiksmingi stabdant atakas, turi tik kelias pažeidžiamas vietas ties sujungimais. Neuro-memetinė pagalba leidžia žmogui dėvėti šarvus ir vis tiek lengvai judėti.\n\nTokius šarvus dažnai naudoja greitojo reagavimo kosmoso pėstininkai.</Apparel_PowerArmor.description>
   
+  <!-- EN: robe -->
+  <Apparel_Robe.label>TODO</Apparel_Robe.label>
+  <!-- EN: A long, flowing robe without a hood. -->
+  <Apparel_Robe.description>TODO</Apparel_Robe.description>
+  
   <!-- EN: tribalwear -->
   <Apparel_TribalA.label>gentiniai apdarai</Apparel_TribalA.label>
   <!-- EN: A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer. -->

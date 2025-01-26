@@ -7,8 +7,12 @@
   <Chinchilla.description>Mažas, vikrus graužikas. Už jo kailį švelnesnio visatoje nėra, todėl jis labai vertingas kaip prekė.</Chinchilla.description>
   <!-- EN: left claw -->
   <Chinchilla.tools.left_claw.label>kairė letena</Chinchilla.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Chinchilla.tools.left_claw.labelNoLocation>TODO</Chinchilla.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Chinchilla.tools.right_claw.label>dešinė letena</Chinchilla.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Chinchilla.tools.right_claw.labelNoLocation>TODO</Chinchilla.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Chinchilla.tools.head.label>galva</Chinchilla.tools.head.label>
   
@@ -20,8 +24,12 @@
   <Deer.race.meatLabel>elniena</Deer.race.meatLabel>
   <!-- EN: left hoof -->
   <Deer.tools.left_hoof.label>kairė kanopa</Deer.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Deer.tools.left_hoof.labelNoLocation>TODO</Deer.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Deer.tools.right_hoof.label>dešinė kanopa</Deer.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Deer.tools.right_hoof.labelNoLocation>TODO</Deer.tools.right_hoof.labelNoLocation>
   <!-- EN: teeth -->
   <Deer.tools.teeth.label>dantys</Deer.tools.teeth.label>
   <!-- EN: head -->
@@ -33,8 +41,12 @@
   <Gazelle.description>Maža, itin greita antilopė, žinoma dėl savo išskirtinai ilgo šuolio.</Gazelle.description>
   <!-- EN: left hoof -->
   <Gazelle.tools.left_hoof.label>kairė kanopa</Gazelle.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Gazelle.tools.left_hoof.labelNoLocation>TODO</Gazelle.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Gazelle.tools.right_hoof.label>dešinė kanopa</Gazelle.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Gazelle.tools.right_hoof.labelNoLocation>TODO</Gazelle.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
   <Gazelle.tools.head.label>galva</Gazelle.tools.head.label>
   
@@ -44,8 +56,12 @@
   <Ibex.description>Laukinis naminės ožkos protėvis. kalnų ožiai gyvena kraštutinėje teritorijoje, kur dauguma antilopių negalėjo išgyventi, ėda kerpes ir negausius kalnų augalus. Jie garsėja dėl vikraus šokinėjimo plikomis uolomis, ir dėl jų žiaurios dūrimo ragais atakos.</Ibex.description>
   <!-- EN: left hoof -->
   <Ibex.tools.left_hoof.label>kairė kanopa</Ibex.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Ibex.tools.left_hoof.labelNoLocation>TODO</Ibex.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Ibex.tools.right_hoof.label>dešinė kanopa</Ibex.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Ibex.tools.right_hoof.labelNoLocation>TODO</Ibex.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
   <Ibex.tools.head.label>galva</Ibex.tools.head.label>
   

@@ -52,6 +52,12 @@
   <!-- EN: ultratech -->
   <BodyPartsUltra.label>ultratechnologijos</BodyPartsUltra.label>
   
+  <!-- EN: bookEffects -->
+  <BookEffects.label>TODO</BookEffects.label>
+  
+  <!-- EN: books -->
+  <Books.label>TODO</Books.label>
+  
   <!-- EN: buildings -->
   <Buildings.label>statiniai</Buildings.label>
   
@@ -169,11 +175,17 @@
   <!-- EN: plants -->
   <Plants.label>augalai</Plants.label>
   
+  <!-- EN: research -->
+  <ResearchGain.label>TODO</ResearchGain.label>
+  
   <!-- EN: raw resources -->
   <ResourcesRaw.label>žaliavos</ResourcesRaw.label>
   
   <!-- EN: root -->
   <Root.label>šaknys</Root.label>
+  
+  <!-- EN: skill gain -->
+  <SkillGain.label>TODO</SkillGain.label>
   
   <!-- EN: stone blocks -->
   <StoneBlocks.label>akmenų blokai</StoneBlocks.label>

@@ -6,9 +6,9 @@
   <!-- EN: A utility pack made for firefighters. When triggered, a burst of fire-retardant foam is released, covering a wide circle around its wearer. -->
   <Apparel_FirefoampopPack.description>Pagalbinis paketas skirta ugniagesiams. Aktyvavus išsiskiria ugnį slopinančių putų pliūpsnis, apimantis platų ratą aplink paketo naudotoją.</Apparel_FirefoampopPack.description>
   <!-- EN: firefoam pop -->
-  <Apparel_FirefoampopPack.comps.CompReloadable.chargeNoun>gesinimo putų užtaisas</Apparel_FirefoampopPack.comps.CompReloadable.chargeNoun>
+  <Apparel_FirefoampopPack.comps.CompApparelReloadable.chargeNoun>gesinimo putų užtaisas</Apparel_FirefoampopPack.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Apparel_FirefoampopPack.comps.CompReloadable.cooldownGerund>pertraukoje</Apparel_FirefoampopPack.comps.CompReloadable.cooldownGerund>
+  <Apparel_FirefoampopPack.comps.CompApparelReloadable.cooldownGerund>pertraukoje</Apparel_FirefoampopPack.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: pop firefoam -->
   <Apparel_FirefoampopPack.verbs.pop_firefoam.label>aktyvuoti gesinimo putas</Apparel_FirefoampopPack.verbs.pop_firefoam.label>
   
@@ -17,9 +17,9 @@
   <!-- EN: A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
   <Apparel_SmokepopBelt.description>Gynybinė dūmų uždanga. Aktyvavus jis išskiria dūmų debesį, uždengdamas įeinančius šūvius ir neleisdama bokštams atrasti taikinį.</Apparel_SmokepopBelt.description>
   <!-- EN: smokepop -->
-  <Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>dūmų užtaisas</Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>
+  <Apparel_SmokepopBelt.comps.CompApparelReloadable.chargeNoun>dūmų užtaisas</Apparel_SmokepopBelt.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Apparel_SmokepopBelt.comps.CompReloadable.cooldownGerund>pertraukoje</Apparel_SmokepopBelt.comps.CompReloadable.cooldownGerund>
+  <Apparel_SmokepopBelt.comps.CompApparelReloadable.cooldownGerund>pertraukoje</Apparel_SmokepopBelt.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: pop smoke -->
   <Apparel_SmokepopBelt.verbs.pop_smoke.label>aktyvuoti dūmus</Apparel_SmokepopBelt.verbs.pop_smoke.label>
   

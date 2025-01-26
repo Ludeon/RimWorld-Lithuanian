@@ -2,63 +2,63 @@
 <LanguageData>
   
   <!-- EN: As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
-  <Blacksmith72.baseDesc>Būdamas kalviu viduramžių pasaulyje, [PAWN_nameDef] įgijo reputaciją dėl aukštos savo darbo kokybės. [PAWN_pronoun] taip pat visai neblogai mokėjo naudotis savo nukaltais kardais.</Blacksmith72.baseDesc>
+  <Blacksmith72.description>Būdamas kalviu viduramžių pasaulyje, [PAWN_nameDef] įgijo reputaciją dėl aukštos savo darbo kokybės. [PAWN_pronoun] taip pat visai neblogai mokėjo naudotis savo nukaltais kardais.</Blacksmith72.description>
   <!-- EN: blacksmith -->
   <Blacksmith72.title>kalvis</Blacksmith72.title>
   <!-- EN: blacksmith -->
   <Blacksmith72.titleShort>kalvis</Blacksmith72.titleShort>
   
   <!-- EN: [PAWN_nameDef] lived in the forest near a village. Though many of the villagers feared [PAWN_objective], sick villagers would come to [PAWN_objective] to purchase salves and poultices made from the herbs [PAWN_pronoun] grew in [PAWN_possessive] garden. [PAWN_pronoun] was happy to help them — for a price. -->
-  <Herbalist54.baseDesc>[PAWN_nameDef] gyveno miške netoli kaimo. Nors daugelis kaimo gyventojų [PAWN_possesive] bijojo, sergantys ateidavo pas [PAWN_objective], kad nusipirktų balzamų ir kompresų, pagamintų iš žolelių, kurias [PAWN_pronoun] augino savo sode. [PAWN_pronoun] mielai jiems padėjo – bet ne už dyką.</Herbalist54.baseDesc>
+  <Herbalist54.description>[PAWN_nameDef] gyveno miške netoli kaimo. Nors daugelis kaimo gyventojų [PAWN_possesive] bijojo, sergantys ateidavo pas [PAWN_objective], kad nusipirktų balzamų ir kompresų, pagamintų iš žolelių, kurias [PAWN_pronoun] augino savo sode. [PAWN_pronoun] mielai jiems padėjo – bet ne už dyką.</Herbalist54.description>
   <!-- EN: herbalist -->
   <Herbalist54.title>žolininkas</Herbalist54.title>
   <!-- EN: herbalist -->
   <Herbalist54.titleShort>žolininkas</Herbalist54.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked as a doctor on a medieval planet. [PAWN_pronoun] firmly believes that most ailments can be cured with a little bloodletting.\n\n[PAWN_pronoun] was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head. -->
-  <MedievalDoctor40.baseDesc>[PAWN_nameDef] viduramžių pasaulyje dirbo gydytoju. [PAWN_pronoun] tvirtai tiki, kad daugumą negalavimų galima išgydyti nuleidus šiek tiek kraujo.\n\n[PAWN_pronoun] taip pat buvo anesteziologijos meistras, turėjęs specifinę metodiką, į kurią įėjo stiprus smūgis į galvą.</MedievalDoctor40.baseDesc>
+  <MedievalDoctor40.description>[PAWN_nameDef] viduramžių pasaulyje dirbo gydytoju. [PAWN_pronoun] tvirtai tiki, kad daugumą negalavimų galima išgydyti nuleidus šiek tiek kraujo.\n\n[PAWN_pronoun] taip pat buvo anesteziologijos meistras, turėjęs specifinę metodiką, į kurią įėjo stiprus smūgis į galvą.</MedievalDoctor40.description>
   <!-- EN: medieval doctor -->
   <MedievalDoctor40.title>viduramžių daktaras</MedievalDoctor40.title>
   <!-- EN: quack -->
   <MedievalDoctor40.titleShort>šarlatanas</MedievalDoctor40.titleShort>
   
-  <!-- EN: Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.\n\nMedieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life leaves one essentially incapable of participating in intellectual, technology-driven activities. -->
-  <MedievalFarmOaf58.baseDesc>Arimas, kapliavimas, jaučių vežimų vadeliojimas, karučių stūmimas. Griovių kasimas, sėklų sėjimas, derliaus prognozavimas.\n\nViduramžių lygio žemdirbiai nėra išsilavinę įprasta prasme, bet daug žino apie augalų auginimą be technologijų pagalbos. Bet toks gyvenimas iš esmės padaro žmogų negalinčiu dalyvauti intelektualiose, technologijomis paremtose veiklose.</MedievalFarmOaf58.baseDesc>
+  <!-- EN: Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.\n\nMedieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life can leave one  incapable of participating in technology-driven activities. -->
+  <MedievalFarmOaf58.description>Arimas, kapliavimas, jaučių vežimų vadeliojimas, karučių stūmimas. Griovių kasimas, sėklų sėjimas, derliaus prognozavimas.\n\nViduramžių lygio žemdirbiai nėra išsilavinę įprasta prasme, bet daug žino apie augalų auginimą be technologijų pagalbos. Bet toks gyvenimas iš esmės padaro žmogų negalinčiu dalyvauti intelektualiose, technologijomis paremtose veiklose.</MedievalFarmOaf58.description>
   <!-- EN: medieval farm oaf -->
   <MedievalFarmOaf58.title>viduramžių ūkio beraštis</MedievalFarmOaf58.title>
   <!-- EN: oaf -->
   <MedievalFarmOaf58.titleShort>beraštis</MedievalFarmOaf58.titleShort>
   
-  <!-- EN: [PAWN_nameDef] was a lord on a preindustrial planet. [PAWN_pronoun] went to parties, managed the underlings, and even learned some swordplay.\n\n[PAWN_possessive] soft hands did not hold a work tool during that entire time. [PAWN_pronoun] considers manual labor to be beneath [PAWN_objective]. -->
-  <MedievalLord57.baseDesc>[PAWN_nameDef] buvo ponas priešindustrinėje planetoje. [PAWN_pronoun] dalyvavo vakarėliuose, vadovavo pavaldiniams ir netgi šiek tiek išmoko valdyti kalaviją.\n\n[PAWN_possessive] minkštos rankos niekada nelaikė darbo įrankio. [PAWN_pronoun] mano, kad fizinis darbas yra žemiau [PAWN_possesive].</MedievalLord57.baseDesc>
+  <!-- EN: [PAWN_nameDef] was a lord on a pre-industrial planet. [PAWN_pronoun] went to parties, managed the underlings, and even learned some swordplay.\n\n[PAWN_possessive] soft hands did not hold a tool once during that entire time. Now, [PAWN_pronoun] considers manual labor to be beneath [PAWN_objective]. -->
+  <MedievalLord57.description>[PAWN_nameDef] buvo ponas priešindustrinėje planetoje. [PAWN_pronoun] dalyvavo vakarėliuose, vadovavo pavaldiniams ir netgi šiek tiek išmoko valdyti kalaviją.\n\n[PAWN_possessive] minkštos rankos niekada nelaikė įrankio. Dabar [PAWN_pronoun] mano, kad fizinis darbas JAM yra per prastas.</MedievalLord57.description>
   <!-- EN: medieval lord -->
   <MedievalLord57.title>viduramžių ponas</MedievalLord57.title>
   <!-- EN: noble -->
   <MedievalLord57.titleShort>kilmingas</MedievalLord57.titleShort>
   
-  <!-- EN: [PAWN_nameDef] was a traveling entertainer on a medieval world.\n\n[PAWN_pronoun] could always be found telling stories or singing songs, and is capable of protecting [PAWN_objective]self from the dangers of the road. However, [PAWN_pronoun] was always conspicuously absent whenever there was hard labour to be done. -->
-  <MedievalMinstrel95.baseDesc>[Pawn_namedef] buvo keliaujantis muzikantas viduramžių pasaulyje.\n\n[Pawn_pronoun] nuolat buvo galima rasti pasakojantį istorijas ar dainuojantį dainas. [Pawn_namedef] taip pat sugebėjo pats apsiginti nuo pavojų kelyje. Tačiau [Pawn_Pronoun] visada dingdavo, kai atsirasdavo kokių sunkių darbų.</MedievalMinstrel95.baseDesc>
+  <!-- EN: [PAWN_nameDef] was a traveling entertainer on a medieval world and [PAWN_pronoun] could always be found telling stories or singing songs.\n\nThe roads were dangerous, so [PAWN_pronoun] is capable of protecting [PAWN_objective]self. However, [PAWN_pronoun] would always move on when there was hard labour to be done. -->
+  <MedievalMinstrel95.description>[Pawn_namedef] buvo keliaujantis muzikantas viduramžių pasaulyje ir [Pawn_pronoun] nuolat buvo galima rasti pasakojantį istorijas ar dainuojantį dainas.\n\nKeliai buvo pavojingi, todėl [Pawn_namedef] sugeba apsiginti. Tačiau [Pawn_Pronoun] visada iškeliaudavo kai tik atsirasdavo sunkaus darbo.</MedievalMinstrel95.description>
   <!-- EN: medieval minstrel -->
   <MedievalMinstrel95.title>viduramžių muzikantas</MedievalMinstrel95.title>
   <!-- EN: minstrel -->
   <MedievalMinstrel95.titleShort>muzikantas</MedievalMinstrel95.titleShort>
   
-  <!-- EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] collected. -->
-  <MedievalSailor97.baseDesc>[Pawn_namedef] tyrinėjo vandenynus plaukiodamas su mediniu laivu, ieškojo augalų ir gyvūnų egzempliorių iš egzotiškų vietų, retkarčiais tenkant gintis nuo piratų. [Pawn_Pronoun] taip mėgo jūrą, kad sausumoje nenorėjo dirbti beveik nieko, darydavo tik absoliutų minimumą, išskyrus tai, kad parduodavo savo surinktus lobius.</MedievalSailor97.baseDesc>
+  <!-- EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] had collected. -->
+  <MedievalSailor97.description>[Pawn_namedef] tyrinėjo vandenynus plaukiodamas su mediniu laivu, ieškojo augalų ir gyvūnų egzempliorių iš egzotiškų vietų, retkarčiais tenkant gintis nuo piratų. [Pawn_Pronoun] taip mėgo jūrą, kad sausumoje nenorėjo dirbti beveik nieko, darydavo tik absoliutų minimumą, išskyrus tai, kad parduodavo savo surinktus lobius.</MedievalSailor97.description>
   <!-- EN: medieval sailor -->
   <MedievalSailor97.title>viduramžių jūreivis</MedievalSailor97.title>
   <!-- EN: sailor -->
   <MedievalSailor97.titleShort>jūreivis</MedievalSailor97.titleShort>
   
   <!-- EN: On a medieval world, the fastest way to send a message is to give it to somebody on a horse and hope they survive the journey. [PAWN_nameDef] was that somebody. -->
-  <MessageCarrier77.baseDesc>Viduramžių pasaulyje greičiausias būdas išsiųsti žinutę yra atiduoti ją kažkam ant arklio ir tikėtis, kad jie išgyvens kelionę. [Pawn_namedef] buvo tas kažkas.</MessageCarrier77.baseDesc>
+  <MessageCarrier77.description>Viduramžių pasaulyje greičiausias būdas išsiųsti žinutę yra atiduoti ją kažkam ant arklio ir tikėtis, kad jie išgyvens kelionę. [Pawn_namedef] buvo tas kažkas.</MessageCarrier77.description>
   <!-- EN: message carrier -->
   <MessageCarrier77.title>laiškanešys</MessageCarrier77.title>
   <!-- EN: messenger -->
   <MessageCarrier77.titleShort>laiškanešys</MessageCarrier77.titleShort>
   
-  <!-- EN: As the taster for a medieval king, any dish served at the royal table had to be sampled first by [PAWN_nameDef]. [PAWN_pronoun] lived a decadent lifestyle at court, getting fat and doing very little work. -->
-  <Taster16.baseDesc>Kaip viduramžių karaliaus degustatorius, bet kokį patiekalą, patiekiamą prie karališkojo stalo, pirmiausia turėjo paragauti [Pawn_namedef]. [Pawn_Pronoun] gyveno prabangų gyvenimą rūmuose, auginosi pilvą ir labai mažai dirbo.</Taster16.baseDesc>
+  <!-- EN: As the food taster for a medieval king, [PAWN_nameDef] sampled any dish served at the royal table. [PAWN_pronoun] lived a decadent lifestyle at court, growing fat and doing very little real work. -->
+  <Taster16.description>Kaip viduramžių karaliaus maisto degustatorius, [Pawn_namedef] ragaudavo visus patiekalus patiekiamus prie karališkojo stalo. [Pawn_Pronoun] gyveno prabangų gyvenimą rūmuose, tapo storu ir tikro darbo dirbo labai mažai.</Taster16.description>
   <!-- EN: taster -->
   <Taster16.title>degustatorius</Taster16.title>
   <!-- EN: taster -->

@@ -160,8 +160,8 @@
   
   <!-- EN: undergrounder -->
   <Undergrounder.degreeDatas.undergrounder.label>požeminis</Undergrounder.degreeDatas.undergrounder.label>
-  <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness. -->
-  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef} neturi poreikio būti lauke ar jausti dienos šviesą. {PAWN_pronoun} niekada nesijaus uždarytas, nepriklausomai kiek ilgai {PAWN_pronoun} bus viduje ir {PAWN_pronoun} netrukdo tamsa.</Undergrounder.degreeDatas.undergrounder.description>
+  <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever and is not bothered by darkness. However, {PAWN_nameDef} will be unhappy while outdoors. -->
+  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef} neturi poreikio būti lauke ar jausti dienos šviesą. {PAWN_pronoun} niekada nesijaus UŽDARYTAS ir JAM netrukdo tamsa. Tačau {PAWN_nameDef} bus nelaimingas būdamas lauke.</Undergrounder.degreeDatas.undergrounder.description>
   
   <!-- EN: wimp -->
   <Wimp.degreeDatas.wimp.label>silpnuolis</Wimp.degreeDatas.wimp.label>

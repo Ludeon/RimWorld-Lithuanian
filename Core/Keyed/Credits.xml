@@ -1,38 +1,66 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- Main menu-->
   <!-- EN: A story generator by Tynan Sylvester -->
   <MainPageCredit>Kurk istorijas su Tynan Sylvester</MainPageCredit>
 
+  <!-- Credits -->
+  <!-- EN: Design -->
+  <Credits_Design>TODO</Credits_Design>
   <!-- EN: Engineering -->
   <Credits_Developers>Programuotojai</Credits_Developers>
   <!-- EN: Audio -->
   <Credit_MusicAndSound>Garsas</Credit_MusicAndSound>
   <!-- EN: Art -->
   <Credit_GameArt>Menas</Credit_GameArt>
-  <!-- EN: Menu art -->
-  <Credit_MenuArt>Meniu fono menas</Credit_MenuArt>
-  <!-- EN: Additional engineering -->
+  <!-- EN: Testers -->
+  <Credit_Testers>TODO</Credit_Testers>
+  <!-- EN: Additional development -->
   <Credits_AdditionalDevelopment>Papildomas programavimas</Credits_AdditionalDevelopment>
-  <!-- EN: Community volunteers -->
-  <Credits_TitleCommunity>Bendruomenės savanoriai</Credits_TitleCommunity>
-  <!-- EN: Community testers -->
-  <Credits_TitleTester>Bendruomenės testuotojai</Credits_TitleTester>
+
+  <!-- EN: Volunteer testers -->
+  <Credits_TitleTester>Savanoriai testuotojai</Credits_TitleTester>
+
   <!-- EN: Mods -->
   <Credits_TitleMods>Žaidimo modifikacijos</Credits_TitleMods>
-  <!-- EN: Mod donor -->
-  <Credit_ModDonation>Žaidimo modifikacijų rėmėjas</Credit_ModDonation>
-  <!-- EN: Writing donor -->
-  <Credit_WritingDonation>Rašytojas rėmėjas</Credit_WritingDonation>
-  <!-- EN: Moderator -->
-  <Credit_Moderator>Moderatoriai</Credit_Moderator>
-  <!-- EN: Wiki master -->
-  <Credit_WikiMaster>Wiki prižiūrėtojas</Credit_WikiMaster>
-  <!-- EN: Test lead -->
-  <Credit_TestLead>Vyriausiasis testuotojas</Credit_TestLead>
+
   <!-- EN: {0} language -->
   <Credits_TitleLanguage>{0} kalba</Credits_TitleLanguage>
+  <!-- EN: Anomaly localization -->
+  <Credits_Localization_Anomaly>TODO</Credits_Localization_Anomaly>
+  <!-- EN: Lead Localization Project Manager -->
+  <Credits_LeadLocalizationProjectManager>TODO</Credits_LeadLocalizationProjectManager>
+  <!-- EN: Localization Project Manager -->
+  <Credits_LocalizationProjectManager>TODO</Credits_LocalizationProjectManager>
+  <!-- EN: Project Manager -->
+  <Credits_ProjectManager>TODO</Credits_ProjectManager>
+  <!-- EN: Translator -->
+  <Credits_Translator>TODO</Credits_Translator>
+  <!-- EN: Editor -->
+  <Credits_Editor>TODO</Credits_Editor>
+  <!-- EN: French -->
+  <Credits_French>TODO</Credits_French>
+  <!-- EN: Japanese -->
+  <Credits_Japanese>TODO</Credits_Japanese>
+  <!-- EN: Korean -->
+  <Credits_Korean>TODO</Credits_Korean>
+  <!-- EN: Polish -->
+  <Credits_Polish>TODO</Credits_Polish>
+  <!-- EN: Russian -->
+  <Credits_Russian>TODO</Credits_Russian>
+  <!-- EN: Simplified Chinese -->
+  <Credits_ChineseSimplified>TODO</Credits_ChineseSimplified>
+  <!-- EN: Traditional Chinese -->
+  <Credits_ChineseTraditional>TODO</Credits_ChineseTraditional>
+
+  <!-- EN: Writing donor -->
+  <Credit_WritingDonation>Rašytojas rėmėjas</Credit_WritingDonation>
+
+  <!-- Meta -->
   <!-- EN: Thanks for playing! -->
   <ThanksForPlaying>Ačiū kad žaidžiate!</ThanksForPlaying>
+  <!-- EN: Skip credits -->
+  <SkipCredits>TODO</SkipCredits>
 
 </LanguageData>

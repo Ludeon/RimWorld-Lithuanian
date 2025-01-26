@@ -109,11 +109,6 @@
   <!-- EN: Start the countdown to detonation. -->
   <CommandDetonateDesc>Pradėkite atgalinį skaičiavimą iki detonacijos.</CommandDetonateDesc>
 
-  <!-- EN: Rename -->
-  <CommandRenameZoneLabel>Pervadinti</CommandRenameZoneLabel>
-  <!-- EN: Rename this zone. -->
-  <CommandRenameZoneDesc>Pervadinti šią zoną.</CommandRenameZoneDesc>
-
   <!-- EN: Hide -->
   <CommandHideZoneLabel>Paslėpti</CommandHideZoneLabel>
   <!-- EN: Unhide -->
@@ -242,10 +237,16 @@
   <CommandSunLampMakeGrowingZoneLabel>Sukurk auginimo zoną</CommandSunLampMakeGrowingZoneLabel>
 
   <!-- Trap -->
-  <!-- EN: Auto Rearm -->
+  <!-- EN: Auto rearm -->
   <CommandAutoRearm>Automatiškai užtaisyti</CommandAutoRearm>
   <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
   <CommandAutoRearmDesc>Jei įjungta, šie spąstai bus automatiškai pakeisti kai į juos kažkas paklius.</CommandAutoRearmDesc>
+  
+  <!-- Firefoam popper -->
+  <!-- EN: Auto rebuild -->
+  <CommandAutoRebuild_Building>TODO</CommandAutoRebuild_Building>
+  <!-- EN: If this is on, {BUILDING_definite} will automatically be replaced after it detonates. -->
+  <CommandAutoRebuild_BuildingDesc>TODO</CommandAutoRebuild_BuildingDesc>
   
   <!-- Animal control -->
   <!-- EN: Animals attack -->
@@ -293,7 +294,7 @@
   <!-- EN: Tuned to -->
   <CommandSelectMineralToScanFor>Sureguliuotas rasti</CommandSelectMineralToScanFor>
   <!-- EN: Select the mineral type to scan for. -->
-  <CommandSelectMineralToScanForDesc>Pasirink mineralo rūšį kurio ieškoti skenuojant.</CommandSelectMineralToScanForDesc><!-- text_todo -->
+  <CommandSelectMineralToScanForDesc>Pasirink mineralo rūšį kurio ieškoti skenuojant.</CommandSelectMineralToScanForDesc>
 
   <!-- Build copy -->
   <!-- EN: Build copy -->
@@ -316,7 +317,17 @@
   <CommandReformCaravanDesc>Performuok kolonistų grupę. Kolonistai išvyks iš savo dabartinės vietovės ir lauks tolesnių įsakymų.</CommandReformCaravanDesc>
   <!-- EN: There are still some enemies in this area. -->
   <CommandReformCaravanFailHostilePawns>Šioje vietovėje vis dar yra priešų.</CommandReformCaravanFailHostilePawns>
-  
+
+  <!-- Send caravan -->
+  <!-- EN: Send caravan -->
+  <CommandSendCaravan>TODO</CommandSendCaravan>
+  <!-- EN: Send caravan... -->
+  <CommandSendCaravanMultiple>TODO</CommandSendCaravanMultiple>
+  <!-- EN: Send a caravan to this destination from a selected colony which can reach this location. -->
+  <CommandSendCaravanDesc>TODO</CommandSendCaravanDesc>
+  <!-- EN: Your settlements have no path to this location. -->
+  <CommandSendCaravanCantReach>TODO</CommandSendCaravanCantReach>
+
   <!-- Split caravan -->
   <!-- EN: Split -->
   <CommandSplitCaravan>Padalinti</CommandSplitCaravan>
@@ -631,6 +642,8 @@
   <UnlinkStorageSettingsDesc>Atsiek tai nuo kitų statinių saugyklos nustatymų, kad jo nustatymus būtų galima nustatyti atskirai.</UnlinkStorageSettingsDesc>
   <!-- EN: Linked storage settings -->
   <LinkedStorageSettings>Susieti saugyklos nustatymai</LinkedStorageSettings>
+  <!-- EN: 1 building -->
+  <OneBuilding>TODO</OneBuilding>
   <!-- EN: {0} buildings -->
   <NumBuildings>{0} statiniai</NumBuildings>
   <!-- EN: Stores -->
@@ -642,5 +655,15 @@
 
   <!-- EN: {0_labelShort} is unconscious. -->
   <CommandDisabledUnconscious>{0_labelShort} yra be sąmonės.</CommandDisabledUnconscious>
+
+  <!-- Study -->
+  <!-- EN: Toggle study -->
+  <CommandToggleStudy>TODO</CommandToggleStudy>
+  <!-- EN: Determines whether or not wardens will automatically study this. Forbidden things will never be studied. -->
+  <CommandToggleStudyDesc>TODO</CommandToggleStudyDesc>
+
+  <!-- Limited use count action -->
+  <!-- EN: No uses left. -->
+  <CommandNoUsesLeft>TODO</CommandNoUsesLeft>
   
 </LanguageData>

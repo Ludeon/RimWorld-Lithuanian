@@ -26,12 +26,26 @@
   <!-- EN: Medical tend quality is offset by this value. -->
   <MedicalTendQualityOffset.description>Medicininio gydymo kokybė pakinta šia verte.</MedicalTendQualityOffset.description>
   
+  <!-- EN: max power output -->
+  <PowerPlantMaxPowerOuput.label>TODO</PowerPlantMaxPowerOuput.label>
+  <!-- EN: The maximum power that this generator can output in ideal conditions. -->
+  <PowerPlantMaxPowerOuput.description>TODO</PowerPlantMaxPowerOuput.description>
+  
   <!-- EN: research speed factor -->
   <ResearchSpeedFactor.label>tyrimų greičio koeficientas</ResearchSpeedFactor.label>
   <!-- EN: The speed at which people do research is multiplied by this value. -->
   <ResearchSpeedFactor.description>Greitis kuriuo žmonės vykdys tyrimus yra padauginamas iš šios vertės.</ResearchSpeedFactor.description>
   <!-- EN: Room cleanliness -->
   <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>Kambario švarumas</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
+  <!-- EN: Reading bonus -->
+  <ResearchSpeedFactor.parts.Reading_bonus.customLabel>TODO</ResearchSpeedFactor.parts.Reading_bonus.customLabel>
+  
+  <!-- EN: reading bonus -->
+  <RoomReadingBonus.label>TODO</RoomReadingBonus.label>
+  <!-- EN: Provides a bonus to research speed, XP gained from reading, and recreation gained from reading in the same room as the bookcase. This is increased by placing more and higher quality books in the bookcase. -->
+  <RoomReadingBonus.description>TODO</RoomReadingBonus.description>
+  <!-- EN: Reading bonus -->
+  <RoomReadingBonus.parts.Reading_bonus.customLabel>TODO</RoomReadingBonus.parts.Reading_bonus.customLabel>
   
   <!-- EN: surgery success chance factor -->
   <SurgerySuccessChanceFactor.label>operacijos pavykimo tikimybės koeficientas</SurgerySuccessChanceFactor.label>
@@ -42,8 +56,8 @@
   
   <!-- EN: trap melee damage -->
   <TrapMeleeDamage.label>spąstų žala artimoje kovoje</TrapMeleeDamage.label>
-  <!-- EN: How much damage this trap does on average.\n\nThe actual damage in any instance will vary randomly. -->
-  <TrapMeleeDamage.description>Kiek vidutiniškai žalos padaro šitie spąstai.\n\nTikroji žala konkrečiu atveju atsitiktinai svyruos.</TrapMeleeDamage.description>
+  <!-- EN: How much damage this trap does on average per hit. Each trap hits multiple times.\n\nThe actual damage in any instance will vary randomly. -->
+  <TrapMeleeDamage.description>Kiek vidutiniškai žalos padaro šitie spąstai kai suveikia. Kiekvieni spąstai suveikia kelis kartus.\n\nTikroji žala konkrečiu atveju atsitiktinai svyruos.</TrapMeleeDamage.description>
   
   <!-- EN: trap spring chance -->
   <TrapSpringChance.label>spąstų suveikimo tikimybė</TrapSpringChance.label>

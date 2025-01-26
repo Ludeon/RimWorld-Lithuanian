@@ -3,7 +3,11 @@
   <friendlyNameNative>Lietuvių</friendlyNameNative>
   <friendlyNameEnglish>Lithuanian</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
-  <languageWorkerClass>LanguageWorker_Lithuanian</languageWorkerClass>
+  <languageWorkerClass>LanguageWorker_English</languageWorkerClass>
   <credits>
+      <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>'uUJsd7PX'</creditee>
+    </li>
   </credits>
 </LanguageInfo>

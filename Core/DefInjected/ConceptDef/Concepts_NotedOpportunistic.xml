@@ -11,6 +11,11 @@
   <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
   <BillsTab.helpText>Kad kolonistai dirbtų prie stalo, pasirink stalą ir atidaryk Užsakymų langą. Ten gali nurodyti kokius patiekalus ar daiktus gaminti, ar kurias būtybes mėsinėti.</BillsTab.helpText>
   
+  <!-- EN: books -->
+  <Books.label>TODO</Books.label>
+  <!-- EN: Colonists read books for recreation, to gain skills, to unlock research, and more. You can see a specific book's effects by selecting it and opening its 'Details' tab.\n\nTo choose what colonists will read, open the ASSIGN tab and configure READING POLICIES.\n\nStore books in bookcases to passively enhance intellectual and reading work done nearby, and increase the beauty of the bookcase. Bookcases passively increase research speed, XP gained from reading, and recreation gained from reading in the same room. -->
+  <Books.helpText>TODO</Books.helpText>
+  
   <!-- EN: Build orbital trade beacon -->
   <BuildOrbitalTradeBeacon.label>Pastatyk orbitinį prekybos švyturį</BuildOrbitalTradeBeacon.label>
   <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
@@ -71,8 +76,8 @@
   
   <!-- EN: Prisoner tab -->
   <PrisonerTab.label>Kalinių langas</PrisonerTab.label>
-  <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
-  <PrisonerTab.helpText>Peržiūrėk kalinių 'Kalinys' langą kad nurodytum kaip su jais bus elgiamasi.\n\nGali nurodyti ar jie bus įkalbinėjami prisijungti, ignoruojami, ar jiems vykdoma egzekucija, ar jie valgys ir kokią sveikatos priežiūrą gaus.\n\nSu kaliniu bendraus kolonistai turintys Kalėjimo prižiūrėtojo darbo rūšį.</PrisonerTab.helpText>
+  <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored, or executed, and what kind of medical care they get. You can set food restrictions for the prisoner in their health tab.\n\nColonists with the Warden work type will interact with the prisoner. -->
+  <PrisonerTab.helpText>Peržiūrėk kalinių 'Kalinys' langą kad nurodytum kaip su jais bus elgiamasi.\n\nGali nurodyti ar jie bus įkalbinėjami prisijungti, ignoruojami, ar jiems vykdoma egzekucija, ir kokią sveikatos priežiūrą gaus. Kalinio maisto ribojimus gali nustatyti jų sveikatos lange.\n\nSu kaliniu bendraus kolonistai turintys Kalėjimo prižiūrėtojo darbo rūšį.</PrisonerTab.helpText>
   
   <!-- EN: Order queueing -->
   <QueueOrders.label>Nurodymų eilė</QueueOrders.label>
