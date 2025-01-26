@@ -54,6 +54,15 @@
   <!-- EN: Traditional Chinese -->
   <Credits_ChineseTraditional>TODO</Credits_ChineseTraditional>
 
+  <!-- Credits - Currently unused -->
+  <!-- EN: Special thanks -->
+  <Credit_SpecialThanks>TODO</Credit_SpecialThanks>
+  <!-- EN: Test lead -->
+  <Credit_TestLead>TODO</Credit_TestLead>
+  <!-- EN: Community donations -->
+  <Credits_TitleCommunity>TODO</Credits_TitleCommunity>
+  <!-- EN: Mod donors -->
+  <Credit_ModDonation>TODO</Credit_ModDonation>
   <!-- EN: Writing donor -->
   <Credit_WritingDonation>Rašytojas rėmėjas</Credit_WritingDonation>
 
@@ -62,5 +71,7 @@
   <ThanksForPlaying>Ačiū kad žaidžiate!</ThanksForPlaying>
   <!-- EN: Skip credits -->
   <SkipCredits>TODO</SkipCredits>
+
+
 
 </LanguageData>
