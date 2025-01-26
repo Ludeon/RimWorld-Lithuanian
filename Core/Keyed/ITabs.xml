@@ -14,7 +14,7 @@
   <TabPrisoner>Kalinys</TabPrisoner>
   <!-- EN: Guest -->
   <TabGuest>Svečias</TabGuest>
-  <TabGear>Įranga</TabGear>
+  <!-- EN: Gear -->
   <TabGear>Ekipuotė</TabGear>
   <!-- EN: Needs -->
   <TabNeeds>Poreikiai</TabNeeds>
@@ -48,8 +48,14 @@
   <TabFormingCaravan>Karavanas</TabFormingCaravan>
   <!-- EN: Contents -->
   <TabTransporterContents>Turinys</TabTransporterContents>
+  <!-- EN: Travel -->
+  <TabMapPortalContents>TODO</TabMapPortalContents>
   <!-- EN: Contents -->
   <TabCasketContents>Turinys</TabCasketContents>
+  <!-- EN: Details -->
+  <TabBookContents>TODO</TabBookContents>
+  <!-- EN: Study -->
+  <TabStudyNotesContents>TODO</TabStudyNotesContents>
   <!-- EN: Auto-cut -->
   <TabWindTurbineAutoCut>Iškirsti</TabWindTurbineAutoCut>
   
@@ -82,6 +88,8 @@
   <PasteBillTip>Įklijuoti</PasteBillTip>
   <!-- EN: can't add more -->
   <PasteBillTip_LimitReached>daugiau pridėti negalima</PasteBillTip_LimitReached>
+  <!-- EN: Finishes in -->
+  <FinishesIn>TODO</FinishesIn>
 
   <!-- Guest/prisoner tab -->
   <!-- EN: Resistance -->
@@ -104,10 +112,10 @@
   <NotWhileAsleep>Kai nemiega</NotWhileAsleep>
   <!-- EN: Breaking out now -->
   <CurrentlyPrisonBreaking>Bėga iš kalėjimo dabar</CurrentlyPrisonBreaking>
-  <!-- EN: Multiplier for door count -->
-  <FactorForDoorCount>Daugiklis durų skaičiui</FactorForDoorCount>
-  <!-- EN: Multiplier for movement -->
-  <FactorForMovement>Daugiklis judėjimui</FactorForMovement>
+  <!-- EN: Door count -->
+  <FactorForDoorCount>Durų skaičius</FactorForDoorCount>
+  <!-- EN: Movement -->
+  <FactorForMovement>Judėjimas</FactorForMovement>
   <!-- EN: Slave price -->
   <SlavePrice>Vergo kaina</SlavePrice>
   <!-- EN: The base market value of this slave if sold. -->
@@ -136,8 +144,8 @@
   <NonRecruitable>nepalaužiama ištikimybė</NonRecruitable>
   <!-- EN: This prisoner is so unwaveringly loyal to their home that they refuse to be recruited entirely. -->
   <NonRecruitableTip>Šis kalinys yra taip nepalaužiamai ištikimas savo namams, kad jis visiškai atsisako prisijungti.</NonRecruitableTip>
-  <!-- EN: Their loyalty extends to their beliefs and they cannot be converted. -->
-  <NonRecruitableTipCannotConvert>Jo ištikimybė pasireiškia ir tikėjime, todėl jis negali būti konvertuotas.</NonRecruitableTipCannotConvert>
+  <!-- EN: What type of medicine can be given to this prisoner. -->
+  <MedicineQualityDescriptionPrisoner>TODO</MedicineQualityDescriptionPrisoner>
 
 
 
@@ -213,13 +221,19 @@
   <PainFactor>Skausmas</PainFactor>
   <!-- EN: Prevents infection -->
   <PreventsInfection>Užkerta kelią infekcijai</PreventsInfection>
-  <!-- EN: Self-tend -->
-  <SelfTend>Savarankiškai slaugytis</SelfTend>
+  <!-- EN: Allow self-tend -->
+  <AllowSelfTend>TODO</AllowSelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <SelfTendTip>{0} su įjungtu savarankišku slaugymusi automatiškai gydys save ten, kur stovi {1} nuo įprasto efektyvumo.</SelfTendTip>
+  <AllowSelfTendTip>TODO</AllowSelfTendTip>
   <!-- EN: death in {0} -->
   <DeathIn>mirtis už {0}</DeathIn>
-  
+  <!-- EN: Allow medicine -->
+  <AllowMedicine>TODO</AllowMedicine>
+  <!-- EN: What type of medicine can be given to this person. -->
+  <MedicineQualityDescription>TODO</MedicineQualityDescription>
+  <!-- EN: What type of food can be given to this person. -->
+  <FoodRestrictionDescription>TODO</FoodRestrictionDescription>
+
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
   <None>Nėra</None>
@@ -268,8 +282,8 @@
   <Lent>Paskolintas {FACTION_name}, grįš už {1}</Lent>
   <!-- EN: Missing -->
   <Missing>Dingęs</Missing>
-  <!-- EN: Slave -->
-  <Slave>Vergas</Slave>
+  <!-- EN: slave -->
+  <Slave>vergas</Slave>
   <!-- EN: Faction leader -->
   <FactionLeader>Frakcijos lyderis</FactionLeader>
   <!-- EN: Opinion of {0} -->
@@ -422,5 +436,17 @@
 
   <!-- EN: Auto-cut blocking plants -->
   <WindTurbineAutoCut_EnabledCheckbox>Automatiškai kirsti blokuojančius augalus</WindTurbineAutoCut_EnabledCheckbox>
+  
+  <!-- Study tab  -->
+  <!-- EN: Study progress -->
+  <StudyNotesTab_StudyProgress>TODO</StudyNotesTab_StudyProgress>
+  <!-- EN: Ongoing -->
+  <StudyNotesTab_StudyProgressOngoing>TODO</StudyNotesTab_StudyProgressOngoing>
+  <!-- EN: Completed -->
+  <StudyNotesTab_StudyProgressCompleted>TODO</StudyNotesTab_StudyProgressCompleted>
+  <!-- EN: Toggle study -->
+  <StudyNotesTab_ToggleStudy>TODO</StudyNotesTab_ToggleStudy>
+  <!-- EN: No discoveries yet -->
+  <StudyNotesTab_NoDiscoveries>TODO</StudyNotesTab_NoDiscoveries>
 
 </LanguageData>

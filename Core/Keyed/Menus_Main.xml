@@ -642,6 +642,8 @@
   <IncapableOfTooltipRole>Dėl rolės</IncapableOfTooltipRole>
   <!-- EN: Caused by gene -->
   <IncapableOfTooltipGene>Dėl geno</IncapableOfTooltipGene>
+  <!-- EN: Caused by -->
+  <IncapableOfTooltipMutant>TODO</IncapableOfTooltipMutant>
   <!-- EN: Traits -->
   <Traits>Bruožai</Traits>
   <!-- EN: Permanent mood effect -->
@@ -678,8 +680,8 @@
   <StartingPawnsSelected>Pasirinkti</StartingPawnsSelected>
   <!-- EN: Left behind -->
   <StartingPawnsLeftBehind>Palikti</StartingPawnsLeftBehind>
-  <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
-  <GuiltyDesc>Šis kalinys yra laikomas kaltu. Gali jį laisvai ištremti, įvykdyti egzekuciją arba suimti ir kiti dėl to nesijaus blogai.\n\nKaltė baigia galioti už</GuiltyDesc>
+  <!-- EN: This person is considered guilty. Others won't be bothered if you banish, execute or arrest them.\n\nGuilt expires in -->
+  <GuiltyDesc>Šis asmuo yra laikomas kaltu. Diti nesijaus blogai jei jį ištremsi, įvykdysi egzekuciją arba jį suimsi.\n\nKaltė baigia galioti už</GuiltyDesc>
   
   <!-- Misc -->
   <!-- EN: Start -->

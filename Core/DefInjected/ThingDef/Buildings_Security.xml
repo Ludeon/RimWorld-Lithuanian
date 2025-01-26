@@ -36,7 +36,7 @@
   <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapIED_Incendiary.description>Pora padegamųjų sviedinių, sujungtų su gaiduku, kuris detonuoja palietus arba pataikius kulkai. Kadangi spąstai yra paslėpti supančioje aplinkoje, jie negali būti dedami šalia kitų spąstų. Būdami ramūs gyvūnai gali juos jausti.</TrapIED_Incendiary.description>
   
-  <!-- EN: IED Smoke trap -->
+  <!-- EN: IED smoke trap -->
   <TrapIED_Smoke.label>ISU dūminiai spąstai</TrapIED_Smoke.label>
   <!-- EN: A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapIED_Smoke.description>Pora dūminių sviedinių, sujungtų su gaiduku, kuris detonuoja palietus arba pataikius kulkai. Kadangi spąstai yra paslėpti supančioje aplinkoje, jie negali būti dedami šalia kitų spąstų. Būdami ramūs gyvūnai gali juos jausti.</TrapIED_Smoke.description>

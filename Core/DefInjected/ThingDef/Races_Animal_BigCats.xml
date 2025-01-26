@@ -7,8 +7,12 @@
   <Cougar.description>Vieni iš pavojingiausių didžiųjų kačių, pumos, naudodami su savo ilgus, aštrius dantis ir nagus, medžioja pavieniui. Jie sėlina ir slapstosi prieš užpuldami savo auką.\n\nNors žmonės ir neįeiną į įprastą pumų mitybą, jie neatsisakys užkąsti ir pažeidžiamų žmonių mėsos.</Cougar.description>
   <!-- EN: left claw -->
   <Cougar.tools.left_claw.label>kairė letena</Cougar.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Cougar.tools.left_claw.labelNoLocation>TODO</Cougar.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Cougar.tools.right_claw.label>dešinė letena</Cougar.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Cougar.tools.right_claw.labelNoLocation>TODO</Cougar.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Cougar.tools.head.label>galva</Cougar.tools.head.label>
   
@@ -18,8 +22,12 @@
   <Lynx.description>Didesnis nei naminė katė, bet mažesnis nei puma. Lūšys minta smulkiais paukščiais ir kitais gyvūnais. Labai šiltas jų kailis saugo nuo atšiaurių temperatūrų jų sušalusiuose gyvenamuosiuose plotuose.</Lynx.description>
   <!-- EN: left claw -->
   <Lynx.tools.left_claw.label>kairė letena</Lynx.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Lynx.tools.left_claw.labelNoLocation>TODO</Lynx.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Lynx.tools.right_claw.label>dešinė letena</Lynx.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Lynx.tools.right_claw.labelNoLocation>TODO</Lynx.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Lynx.tools.head.label>galva</Lynx.tools.head.label>
   
@@ -29,8 +37,12 @@
   <Panther.description>Vikri ir galinga didžioji katė kilusi iš senosios Žemės džiunglių. Medžioja pavieniui ir iš pasalų, šios plėšrūnės yra tiek mažų, tiek didelių gyvūnų žudymo meistrės. Nors dėmesį traukia jų grakštūs judesiai, tie, kas susiduria su panteromis iš arčiau, paprastai pastebi jų kaukolę traiškančią jėgą/</Panther.description>
   <!-- EN: left claw -->
   <Panther.tools.left_claw.label>kairė letena</Panther.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Panther.tools.left_claw.labelNoLocation>TODO</Panther.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Panther.tools.right_claw.label>dešinė letena</Panther.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Panther.tools.right_claw.labelNoLocation>TODO</Panther.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Panther.tools.head.label>galva</Panther.tools.head.label>
   

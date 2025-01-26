@@ -9,8 +9,12 @@
   <Bear_Grizzly.race.meatLabel>meškos mėsa</Bear_Grizzly.race.meatLabel>
   <!-- EN: left claw -->
   <Bear_Grizzly.tools.left_claw.label>kairė letena</Bear_Grizzly.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Bear_Grizzly.tools.left_claw.labelNoLocation>TODO</Bear_Grizzly.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Bear_Grizzly.tools.right_claw.label>dešinė letena</Bear_Grizzly.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Bear_Grizzly.tools.right_claw.labelNoLocation>TODO</Bear_Grizzly.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Bear_Grizzly.tools.head.label>galva</Bear_Grizzly.tools.head.label>
   
@@ -20,8 +24,12 @@
   <Bear_Polar.description>Didysis baltasis lokys, prisitaikęs arktiniam klimatui. Jų storas riebalinis sluoksnis ir kailis žiemą juos šildo.\n\nNors įprastą dietą sudaro žuvis ir maita, baltasis lokys taip pat gali panaudoti savo didžiulę jėgą ir mirtinas letenas, kad nužudytų gyvą grobį. Kaip tokie gremėzdiški gyvūnai jie yra stulbinamai greiti.</Bear_Polar.description>
   <!-- EN: left claw -->
   <Bear_Polar.tools.left_claw.label>kairė letena</Bear_Polar.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Bear_Polar.tools.left_claw.labelNoLocation>TODO</Bear_Polar.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Bear_Polar.tools.right_claw.label>dešinė letena</Bear_Polar.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Bear_Polar.tools.right_claw.labelNoLocation>TODO</Bear_Polar.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Bear_Polar.tools.head.label>galva</Bear_Polar.tools.head.label>
   

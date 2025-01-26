@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: Analyzing TargetA. -->
+  <AnalyzeItem.reportString>TODO</AnalyzeItem.reportString>
+  
   <!-- EN: arresting TargetA. -->
   <Arrest.reportString>suima TargetA.</Arrest.reportString>
   
@@ -15,6 +18,9 @@
   
   <!-- EN: carrying TargetA. -->
   <CarryDownedPawnToExit.reportString>neša TargetA.</CarryDownedPawnToExit.reportString>
+  
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnToPortal.reportString>TODO</CarryDownedPawnToPortal.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
   <CarryToCryptosleepCasket.reportString>neša TargetA į kriptomiego karstą.</CarryToCryptosleepCasket.reportString>
@@ -45,6 +51,9 @@
   
   <!-- EN: escorting prisoner TargetA. -->
   <EscortPrisonerToBed.reportString>palydi kalinį TargetA.</EscortPrisonerToBed.reportString>
+  
+  <!-- EN: extracting skull from TargetA. -->
+  <ExtractSkull.reportString>TODO</ExtractSkull.reportString>
   
   <!-- EN: extracting TargetA. -->
   <ExtractTree.reportString>iškasa TargetA.</ExtractTree.reportString>
@@ -167,7 +176,10 @@
   <Steal.reportString>vagia TargetA.</Steal.reportString>
   
   <!-- EN: Studying TargetA. -->
-  <StudyBuilding.reportString>Studijuoja TargetA.</StudyBuilding.reportString>
+  <StudyInteract.reportString>Studijuoja TargetA.</StudyInteract.reportString>
+  
+  <!-- EN: Studying TargetA. -->
+  <StudyItem.reportString>TODO</StudyItem.reportString>
   
   <!-- EN: taking TargetA to bed. -->
   <TakeDownedPawnToBedDrafted.reportString>neša TargetA į lovą.</TakeDownedPawnToBedDrafted.reportString>

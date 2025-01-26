@@ -30,6 +30,8 @@
   <!-- Gameplay -->
   <!-- EN: Screen-edge mouse scroll -->
   <EdgeScreenScroll>Slinkimas pele ekrano kraštais</EdgeScreenScroll>
+  <!-- EN: Zoom to mouse -->
+  <ZoomToMouse>TODO</ZoomToMouse>
   <!-- EN: Pause on load -->
   <PauseOnLoad>Sustabdyti įkėlus</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
@@ -62,12 +64,14 @@
   <DevelopmentMode>Programuotojo režimas</DevelopmentMode>
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>Atstatyti žaidimo modifikacijų nustatymus po nulūžimo</ResetModsConfigOnCrash>
-  <!-- EN: Simulate not owning Royalty -->
-  <SimulateNotOwningRoyalty>Simuliuoti Karaliavimo neturėjimą</SimulateNotOwningRoyalty>
-  <!-- EN: Simulate not owning Ideology -->
-  <SimulateNotOwningIdeology>Simuliuoti Ideologijos neturėjimą</SimulateNotOwningIdeology>
-  <!-- EN: Simulate not owning Biotech -->
-  <SimulateNotOwningBiotech>Simuliuoti Biotechnologijų neturėjimą</SimulateNotOwningBiotech>
+  <!-- EN: Quick start has no cryptosleep sickness -->
+  <DisableQuickStartCryptoSickness>TODO</DisableQuickStartCryptoSickness>
+  <!-- EN: Start game with dev palette on -->
+  <StartDevPaletteOn>TODO</StartDevPaletteOn>
+  <!-- EN: Open log on warnings -->
+  <OpenLogOnWarnings>TODO</OpenLogOnWarnings>
+  <!-- EN: Close log by pressing cancel -->
+  <CloseLogWindowOnEscape>TODO</CloseLogWindowOnEscape>
   <!-- EN: Verbose logging -->
   <LogVerbose>Detalus spausdinimas į įrašų bylą</LogVerbose>
   <!-- EN: Save data folder -->
@@ -102,10 +106,14 @@
   <TemperatureMode>Temp. formatas</TemperatureMode>
   <!-- EN: Show realtime clock -->
   <ShowRealtimeClock>Rodyti realų laiką laikrodyje</ShowRealtimeClock>
+  <!-- EN: Use 12 hour clock -->
+  <TwelveHourClockMode>TODO</TwelveHourClockMode>
   <!-- EN: Disable tiny font -->
   <DisableTinyText>Išjungti mažą šriftą</DisableTinyText>
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>Maksimalus kolonijų skaičius: {0}</MaxNumberOfPlayerSettlements>
+  <!-- EN: Autosaves count: {0} -->
+  <AutosavesCount>TODO</AutosavesCount>
   <!-- EN: Map mouse drag sensitivity -->
   <MapDragSensitivity>Žemėlapio tempimo jautrumas paspaudus pele</MapDragSensitivity>
   <!-- EN: Plant wind sway -->
@@ -158,11 +166,5 @@
   <!-- Background image -->
   <!-- EN: Menu background -->
   <SetBackgroundImage>Meniu fonas</SetBackgroundImage>
-
-  <!-- UNUSED -->
-  <OpenSaveGameDataFolder>Atidaryti išsaugotų duomenų katalogą</OpenSaveGameDataFolder>
-  <ShowSaveGameDataLocation>Parodyti išsaugotų duomenų vietą</ShowSaveGameDataLocation>
-  <OpenLogFileFolder>Atidaryti įrašų bylos katalogą</OpenLogFileFolder>
-  <ShowLogFileLocation>Parodyti įrašų bylos vietą</ShowLogFileLocation>
 
 </LanguageData>

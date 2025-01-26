@@ -7,6 +7,12 @@
   <!-- EN: explosion -->
   <Explosion.label>TODO</Explosion.label>
   
+  <!-- EN: flying -->
+  <PawnFlyer.label>TODO</PawnFlyer.label>
+  
+  <!-- EN: disrupted soil -->
+  <PawnGroundSpawner.label>TODO</PawnGroundSpawner.label>
+  
   <!-- EN: proximity trigger -->
   <RadialTrigger.label>TODO</RadialTrigger.label>
   

@@ -64,6 +64,8 @@
   <durationDays>trukmė (dienos)</durationDays>
   <!-- EN: interval (days) -->
   <intervalDays>intervalas (dienos)</intervalDays>
+  <!-- EN: delay (days) -->
+  <delayDays>TODO</delayDays>
   <!-- EN: repeat -->
   <repeat>kartoti</repeat>
   <!-- EN: default -->
@@ -96,6 +98,14 @@
   <Uses>Panaudojimai</Uses>
   <!-- EN: Translation -->
   <Translation>Vertimas</Translation>
+  <!-- EN: min(days) -->
+  <minDays>TODO</minDays>
+  <!-- EN: max(days) -->
+  <maxDays>TODO</maxDays>
+  <!-- EN: Processing -->
+  <Processing>TODO</Processing>
+  <!-- EN: Inspect -->
+  <Inspect>TODO</Inspect> 
 
   <!-- Content generation-->
   
@@ -201,6 +211,5 @@
   <!-- Legal status -->
   <!-- EN: colonist -->
   <Colonist>kolonistas</Colonist>
-  
-  
+
 </LanguageData>

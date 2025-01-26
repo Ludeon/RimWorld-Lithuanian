@@ -7,8 +7,12 @@
   <Alphabeaver.description>Didelė, į bebrą panaši būtybė, genetiškai sukurta kirsti medieną efektyvumu prilygstančiu mašinai. Nesant specializuoto pašaro, šie gyvūnai pereis į manijos būseną, dėl kurios jie griauš ištisus medžius, ir gali užpulti, jei bus trikdomi.</Alphabeaver.description>
   <!-- EN: left claw -->
   <Alphabeaver.tools.left_claw.label>kairė letena</Alphabeaver.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Alphabeaver.tools.left_claw.labelNoLocation>TODO</Alphabeaver.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Alphabeaver.tools.right_claw.label>dešinė letena</Alphabeaver.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Alphabeaver.tools.right_claw.labelNoLocation>TODO</Alphabeaver.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Alphabeaver.tools.head.label>galva</Alphabeaver.tools.head.label>
   
@@ -31,8 +35,12 @@
   <Thrumbo.tools.horn.label>ragas</Thrumbo.tools.horn.label>
   <!-- EN: left foot -->
   <Thrumbo.tools.left_foot.label>kairė pėda</Thrumbo.tools.left_foot.label>
+  <!-- EN: foot -->
+  <Thrumbo.tools.left_foot.labelNoLocation>TODO</Thrumbo.tools.left_foot.labelNoLocation>
   <!-- EN: right foot -->
   <Thrumbo.tools.right_foot.label>dešinė pėda</Thrumbo.tools.right_foot.label>
+  <!-- EN: foot -->
+  <Thrumbo.tools.right_foot.labelNoLocation>TODO</Thrumbo.tools.right_foot.labelNoLocation>
   <!-- EN: head -->
   <Thrumbo.tools.head.label>galva</Thrumbo.tools.head.label>
   

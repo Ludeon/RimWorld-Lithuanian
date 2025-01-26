@@ -12,8 +12,8 @@
   
   <!-- EN: megaspider -->
   <Megaspider.label>didysis voras</Megaspider.label>
-  <!-- EN: Not actually a spider, the megaspider is a genetically-engineered giant insectoid the size of a bear. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters. It is, however, quite slow in open terrain. -->
-  <Megaspider.description>Iš tikro ne voras, didysis voras yra genetiškai modifikuotas milžiniškas meškos dydžio vabzdys. Sukurtas sunkiam darbui ir kovai, dėl storų, chitininių šarvų sunkiai nužudomas, o dėl ilgų, plėšančių ašmenų yra mirtinas iš arti. Tačiau jis yra gana lėtas atviroje vietovėje.</Megaspider.description>
+  <!-- EN: Not actually a spider, the megaspider is a genetically-engineered giant insectoid the size of a small bear. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters. It is, however, quite slow in open terrain. -->
+  <Megaspider.description>Iš tikro ne voras, didysis voras yra genetiškai modifikuotas milžiniškas mažos meškos dydžio vabzdys. Sukurtas sunkiam darbui ir kovai, dėl storų, chitininių šarvų sunkiai nužudomas, o dėl ilgų, plėšančių ašmenų yra mirtinas iš arti. Tačiau jis yra gana lėtas atviroje vietovėje.</Megaspider.description>
   <!-- EN: insect meat -->
   <Megaspider.race.meatLabel>vabzdžių mėsa</Megaspider.race.meatLabel>
   <!-- EN: head claw -->

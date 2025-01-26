@@ -19,15 +19,22 @@
   <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips. -->
   <CarryingCapacity.description>Kiek dalykų ši būtybė gali panešti savo rankomis, burna ar kitais būdais.\n\nTai yra atskira nuo sugebėjimo nešti krovinį tolimose kelionėse per pasaulį.</CarryingCapacity.description>
   
-  <!-- EN: Maximum comfortable temperature -->
+  <!-- EN: max comfortable temperature -->
   <ComfyTemperatureMax.label>Maksimali komfortiška temperatūra</ComfyTemperatureMax.label>
   <!-- EN: Above this temperature, characters will be unhappy.\n\nSignificantly above this temperature, they will develop heatstroke and eventually die. -->
   <ComfyTemperatureMax.description>Viršijus šią temperatūrą veikėjai bus nelaimingi.\n\nReikšmingai viršijus šią temperatūrą jie patirs šilumos smūgį ir galiausiai mirs.</ComfyTemperatureMax.description>
   
-  <!-- EN: Minimum comfortable temperature -->
+  <!-- EN: min comfortable temperature -->
   <ComfyTemperatureMin.label>Minimali komfortiška temperatūra</ComfyTemperatureMin.label>
   <!-- EN: Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
   <ComfyTemperatureMin.description>Žemiau šios temperatūros veikėjai bus nelaimingi.\n\nDaug žemiau šios temperatūros jiems atsiras hipotermija ir nušalimas ir jie galiausiai mirs.</ComfyTemperatureMin.description>
+  
+  <!-- EN: crawl speed -->
+  <CrawlSpeed.label>TODO</CrawlSpeed.label>
+  <!-- EN: Speed of crawling in cells per second. -->
+  <CrawlSpeed.description>TODO</CrawlSpeed.description>
+  <!-- EN: {0} c/s -->
+  <CrawlSpeed.formatString>TODO</CrawlSpeed.formatString>
   
   <!-- EN: eating speed -->
   <EatingSpeed.label>valgymo greitis</EatingSpeed.label>
@@ -58,6 +65,11 @@
   <InjuryHealingFactor.label>žaizdų gijimo koeficientas</InjuryHealingFactor.label>
   <!-- EN: The multiplier applied to a person's injury healing rate. -->
   <InjuryHealingFactor.description>Daugiklis pritaikomas žmogaus žaizdų gijimo greičiui.</InjuryHealingFactor.description>
+  
+  <!-- EN: recreation fall rate -->
+  <JoyFallRateFactor.label>TODO</JoyFallRateFactor.label>
+  <!-- EN: A multiplier on the speed that a person's recreation need falls. -->
+  <JoyFallRateFactor.description>TODO</JoyFallRateFactor.description>
   
   <!-- EN: leather amount -->
   <LeatherAmount.label>odos kiekis</LeatherAmount.label>

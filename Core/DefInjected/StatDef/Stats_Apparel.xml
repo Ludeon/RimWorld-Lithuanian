@@ -55,12 +55,12 @@
   <!-- EN: Insulation - Heat (armor stat) -->
   <Insulation_Heat.labelForFullStatList>Izoliacija - Nuo karščio (šarvų statistinis rodiklis)</Insulation_Heat.labelForFullStatList>
   
-  <!-- EN: Smokepop pack radius -->
-  <SmokepopBeltRadius.label>dūmų užtaiso paketo spindulys</SmokepopBeltRadius.label>
-  <!-- EN: The area obscured when a smokepop pack detonates. -->
-  <SmokepopBeltRadius.description>Uždengtas plotas, kai detonuojamas dūmų užtaiso paketas.</SmokepopBeltRadius.description>
+  <!-- EN: Effect radius -->
+  <PackRadius.label>Efekto spindulys</PackRadius.label>
+  <!-- EN: The area affected when this pack detonates. -->
+  <PackRadius.description>TODO</PackRadius.description>
   <!-- EN: {0} c -->
-  <SmokepopBeltRadius.formatString>{0} l</SmokepopBeltRadius.formatString>
+  <PackRadius.formatString>TODO</PackRadius.formatString>
   
   <!-- EN: Armor - Material effect multiplier -->
   <StuffEffectMultiplierArmor.label>Šarvai – Medžiagos efekto daugiklis</StuffEffectMultiplierArmor.label>

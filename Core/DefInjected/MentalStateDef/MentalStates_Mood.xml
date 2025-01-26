@@ -44,8 +44,8 @@
   <CorpseObsession.label>apsėstas lavonų</CorpseObsession.label>
   <!-- EN: Mental state: Corpse obsession -->
   <CorpseObsession.baseInspectLine>Psichinė būsena: Apsėstas lavonų</CorpseObsession.baseInspectLine>
-  <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to dig up a corpse and present it for all to see. -->
-  <CorpseObsession.beginLetter>{0} įsilaužė į vidų ir tapo apsėstas lavonų.\n\n[PAWN_pronoun] ketina iškasti lavoną ir visiems jį rodyti.</CorpseObsession.beginLetter>
+  <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to find a corpse and present it for all to see. -->
+  <CorpseObsession.beginLetter>{0} įsilaužė į vidų ir tapo apsėstas lavonų.\n\n[PAWN_pronoun] ketina atrasti lavoną ir visiems jį rodyti.</CorpseObsession.beginLetter>
   <!-- EN: {0} is no longer having a corpse obsession. -->
   <CorpseObsession.recoveryMessage>{0} nebėra apsėstas lavonų.</CorpseObsession.recoveryMessage>
   

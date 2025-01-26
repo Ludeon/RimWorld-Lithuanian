@@ -7,8 +7,12 @@
   <Alpaca.description>Vidutinio dydžio kanopinis gyvūnas, artimas lamai, alpaka paprastai auginama dėl nepaprastai minkštos ir izoliuojančios vilnos. Alpakos taip pat buvo naudojamos kaip nešuliniai gyvūnai, nes jos gabeno krovinius atšiauriais senovės Pietų Amerikos kalnų takais.</Alpaca.description>
   <!-- EN: left hoof -->
   <Alpaca.tools.left_hoof.label>kairė kanopa</Alpaca.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Alpaca.tools.left_hoof.labelNoLocation>TODO</Alpaca.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Alpaca.tools.right_hoof.label>dešinė kanopa</Alpaca.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Alpaca.tools.right_hoof.labelNoLocation>TODO</Alpaca.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
   <Alpaca.tools.head.label>galva</Alpaca.tools.head.label>
   
@@ -18,8 +22,12 @@
   <Capybara.description>Didžiausias natūralus graužikas, kapibara, puikiai prisitaikęs prie garuojančios džiunglių aplinkos.</Capybara.description>
   <!-- EN: left claw -->
   <Capybara.tools.left_claw.label>kairė letena</Capybara.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Capybara.tools.left_claw.labelNoLocation>TODO</Capybara.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Capybara.tools.right_claw.label>dešinė letena</Capybara.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Capybara.tools.right_claw.labelNoLocation>TODO</Capybara.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Capybara.tools.head.label>galva</Capybara.tools.head.label>
   
@@ -29,20 +37,28 @@
   <Megasloth.description>Milžiniškas žolėdis, gyvenantis pavieniui, su dviem milžiniškais nagais skirtais atbaidyti plėšrūnus. Seniai išnykęs po to, kai jį išnaikino Žemės Amerikos žemyno vietiniai gyventojai, didysis tinginys vėliau buvo sugrąžintas naudojant pažangų klonavimą ir dirbtines gimdas. Jo stora oda yra ypač tvirta ir izoliuojanti, todėl puikiai tinka drabužiams skirtiems šaltam orui. Jis yra ramus, jei paliekamas nekliudomas, bet visus, kurie jį trikdys, sudraskys savo milžiniškomis letenomis.</Megasloth.description>
   <!-- EN: left claw -->
   <Megasloth.tools.left_claw.label>kairė letena</Megasloth.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Megasloth.tools.left_claw.labelNoLocation>TODO</Megasloth.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Megasloth.tools.right_claw.label>dešinė letena</Megasloth.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Megasloth.tools.right_claw.labelNoLocation>TODO</Megasloth.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Megasloth.tools.head.label>galva</Megasloth.tools.head.label>
   
   <!-- EN: sheep -->
   <Sheep.label>avis</Sheep.label>
-  <!-- EN: Sheep husbandry is practised throughout the majority of the inhabited worlds, however only recently it has been introduced to the rimworlds. Domestic sheep are relatively small herbivores, usually with yellowish wool and medium sized horns. -->
+  <!-- EN: Sheep husbandry is practiced throughout the majority of the inhabited worlds, however only recently it has been introduced to the rimworlds. Domestic sheep are relatively small herbivores, usually with yellowish wool and medium sized horns. -->
   <Sheep.description>Avininkystė yra praktikuojama daugelyje apgyvendintų pasaulių, tačiau tik neseniai ji buvo atgabenta į kraštinius pasaulius. Naminės avys yra palyginti maži žolėdžiai gyvūnai, dažniausiai su gelsva vilna ir vidutinio dydžio ragais.</Sheep.description>
   <!-- EN: head -->
   <Sheep.tools.head.label>galva</Sheep.tools.head.label>
   <!-- EN: left hoof -->
   <Sheep.tools.left_hoof.label>kairė kanopa</Sheep.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Sheep.tools.left_hoof.labelNoLocation>TODO</Sheep.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
   <Sheep.tools.right_hoof.label>dešinė kanopa</Sheep.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Sheep.tools.right_hoof.labelNoLocation>TODO</Sheep.tools.right_hoof.labelNoLocation>
   
 </LanguageData>

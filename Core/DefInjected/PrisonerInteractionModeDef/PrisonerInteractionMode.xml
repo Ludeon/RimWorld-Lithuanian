@@ -11,13 +11,13 @@
   <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->
   <Execution.description>Kalėjimo prižiūrėtojas iš karto įvykdys kaliniui egzekuciją. Tai gali paveikti kitų kalinių ir kolonistų nuotaiką.</Execution.description>
   
-  <!-- EN: no interaction -->
-  <NoInteraction.label>jokios sąveikos</NoInteraction.label>
-  <!-- EN: Wardens will not interact with the prisoner. -->
-  <NoInteraction.description>Kalėjimo prižiūrėtojai su kaliniu nesąveikaus.</NoInteraction.description>
+  <!-- EN: maintain only -->
+  <MaintainOnly.label>TODO</MaintainOnly.label>
+  <!-- EN: Just feed the prisoner and provide for their basic needs, without attempting any other interaction. -->
+  <MaintainOnly.description>TODO</MaintainOnly.description>
   
-  <!-- EN: reduce resistance -->
-  <ReduceResistance.label>mažinti pasipriešinimą</ReduceResistance.label>
+  <!-- EN: reduce resistance only -->
+  <ReduceResistance.label>tik mažinti pasipriešinimą</ReduceResistance.label>
   <!-- EN: If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made. -->
   <ReduceResistance.description>Jei kalinys vis dar priešinasi, kalėjimo prižiūrėtojai pasikalbės su jais, kad pasipriešinimą sumažintų. Nebus bandoma įkalbėti prisijungti.</ReduceResistance.description>
   

@@ -201,6 +201,10 @@
   <LastName>pavardė</LastName>
   <!-- EN: suggested -->
   <Suggested>siūlomas</Suggested>
+  
+  <!-- Choose new wanderers -->
+  <!-- EN: Choose new wanderers -->
+  <ChooseNewWanderers>TODO</ChooseNewWanderers>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
@@ -289,8 +293,8 @@
   <CountingProducts>Skaičiuojama</CountingProducts>
   <!-- EN: Infinite -->
   <Infinite>Begalybė</Infinite>
-  <!-- EN: Allowed {0} skill: -->
-  <AllowedSkillRange>Leidžiami {0} įgūdžiai:</AllowedSkillRange>
+  <!-- EN: Allowed {0} skill -->
+  <AllowedSkillRange>Leidžiami {0} įgūdžiai</AllowedSkillRange>
   <!-- EN: incompatible -->
   <IncompatibleLower>nesuderinama</IncompatibleLower>
   <!-- EN: Any worker -->
@@ -321,8 +325,8 @@
   <PauseWhenSatisfied>Sustabdyti kai išpildyta</PauseWhenSatisfied>
   <!-- EN: Unpause at -->
   <UnpauseWhenYouHave>Tęsti kai</UnpauseWhenYouHave>
-  <!-- EN: Paused -->
-  <Paused>Sustabdyta</Paused>
+  <!-- EN: paused -->
+  <Paused>sustabdyta</Paused>
   <!-- EN: Unpause -->
   <Unpause>Tęsti</Unpause>
 
@@ -336,6 +340,12 @@
   <IncludeFromAll>Ieškoti visur</IncludeFromAll>
   <!-- EN: Look in {0} -->
   <IncludeSpecific>Ieškoti {0}</IncludeSpecific>
+  <!-- EN: Stockpiles -->
+  <StockpilePlural>TODO</StockpilePlural>
+  <!-- EN: Shelves -->
+  <ShelfPlural>TODO</ShelfPlural>
+  <!-- EN: Groups -->
+  <GroupPlural>TODO</GroupPlural>
   
   <!-- Info card -->
   <!-- EN: Damage -->
@@ -402,8 +412,8 @@
   <MinGrowthTemperature>Minimali augimo temperatūra</MinGrowthTemperature>
   <!-- EN: Max growth temperature -->
   <MaxGrowthTemperature>Maksimali augimo temperatūra</MaxGrowthTemperature>
-  <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
-  <GrowingTimeDesc>Augalai auga tik dalį dienos ir tik kai yra apšviesti.\n\nŠis statistinis rodiklis rodo kiek laiko augalas turės praleisti augant kol pasieks savo tikrą dydį.\nTikrasis augimo laikas būna maždaug dvigubai ilgiau.\nŽema temperatūra taip pat sulėtins augimą.</GrowingTimeDesc>
+  <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\n\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
+  <GrowingTimeDesc>Augalai auga tik dalį dienos ir tik kai yra apšviesti.\n\nŠis statistinis rodiklis rodo kiek laiko augalas turės praleisti augant kol pasieks savo tikrą dydį.\n\nTikrasis augimo laikas būna maždaug dvigubai ilgiau.\nŽema temperatūra taip pat sulėtins augimą.</GrowingTimeDesc>
   <!-- EN: days -->
   <Days>dienos</Days>
   <!-- EN: Minimum growing skill to sow -->
@@ -516,6 +526,8 @@
   <PerDay>{0} / dieną</PerDay>
   <!-- EN: {0} / hour -->
   <PerHour>{0} / valandą</PerHour>
+  <!-- EN: {0} XP / hour -->
+  <XpPerHour>TODO</XpPerHour>
   <!-- EN: Pack animal -->
   <PackAnimal>Nešulinis gyvūnas</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
@@ -598,6 +610,8 @@
   <MeditationFocusEnabledByAdulthood>suaugęs buvo</MeditationFocusEnabledByAdulthood>
   <!-- EN: has trait -->
   <MeditationFocusEnabledByTrait>turi bruožą</MeditationFocusEnabledByTrait>
+  <!-- EN: has health condition -->
+  <MeditationFocusEnabledByHediff>TODO</MeditationFocusEnabledByHediff> 
   <!-- EN: does not have trait -->
   <MeditationFocusDisabledByTrait>neturi bruožo</MeditationFocusDisabledByTrait>
   <!-- EN: Enables meditation focus types -->
@@ -698,6 +712,14 @@
   <NextTraderRestock>Sekantis atsargų atnaujinimas: už {0} dienų</NextTraderRestock>
   <!-- EN: Creatures -->
   <PawnsTabShort>Būtybės</PawnsTabShort>
+  
+  <!-- Select caravan settlement -->
+  <!-- EN: Select colony to send caravan -->
+  <SelectCaravanOrigin>TODO</SelectCaravanOrigin> 
+  <!-- EN: Send a caravan from {0}. -->
+  <SelectCaravanDesc>TODO</SelectCaravanDesc> 
+  <!-- EN: Colonists -->
+  <SelectCaravanColonists>TODO</SelectCaravanColonists>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
@@ -894,6 +916,8 @@
   <ResearchFinished>Tyrimas baigtas: {0}</ResearchFinished>
   <!-- EN: Research Screen -->
   <ResearchScreen>Tyrimų Langas</ResearchScreen>
+  <!-- EN: By researching {0} you have discovered the {1} research project. -->
+  <ResearchUnknownProjectRevealed>TODO</ResearchUnknownProjectRevealed>
   
   <!--HistoryUpload-->
   <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
@@ -909,41 +933,53 @@
   <!-- EN: Do not upload this time, ask me later -->
   <HistoryUploadNoOnce>Šį kartą neišsiųsti, paklausti vėliau</HistoryUploadNoOnce>
   
+  <!-- Policies -->
+  <!-- EN: Available policies -->
+  <AvailablePolicies>TODO</AvailablePolicies>
+  <!-- EN: Unnamed -->
+  <UnnamedPolicy>TODO</UnnamedPolicy>
+  <!-- EN: New... -->
+  <NewPolicy>TODO</NewPolicy>
+  <!-- EN: Invalid policy name -->
+  <InvalidName>TODO</InvalidName>
+  <!-- EN: Delete the selected policy. -->
+  <DeletePolicyTip>TODO</DeletePolicyTip>
+  <!-- EN: Create a duplicate of the selected policy. -->
+  <DuplicatePolicyTip>TODO</DuplicatePolicyTip>
+  <!-- EN: Rename this policy. -->
+  <RenamePolicyTip>TODO</RenamePolicyTip>
+  <!-- EN: Are you sure you want to delete the policy: {0}? -->
+  <DeletePolicyConfirm>TODO</DeletePolicyConfirm>
+  <!-- EN: Delete -->
+  <DeletePolicyConfirmButton>TODO</DeletePolicyConfirmButton>
+  <!-- EN: No policy selected -->
+  <NoPolicySelected>TODO</NoPolicySelected>
+  
   <!-- Outfit management -->
-  <!-- EN: Outfit -->
-  <Outfit>Aprangos komplektas</Outfit>
-  <!-- EN: Select outfit... -->
-  <SelectOutfit>Pasirinkti apr. kompl...</SelectOutfit>
-  <!-- EN: New outfit -->
-  <NewOutfit>Naujas apr. kompl.</NewOutfit>
-  <!-- EN: Delete outfit... -->
-  <DeleteOutfit>Ištrinti apr. kompl...</DeleteOutfit>
-  <!-- EN: Outfit is in use by {0}. -->
-  <OutfitInUse>Aprangos komplektą naudoja {0}.</OutfitInUse>
-  <!-- EN: No outfit selected -->
-  <NoOutfitSelected>Nėra pasirinktas aprangos komplektas</NoOutfitSelected>
+  <!-- EN: Apparel policies -->
+  <ApparelPolicyTitle>Aprangos tvarkos</ApparelPolicyTitle>
+  <!-- EN: Create and manage templates for controlling what apparel items colony members can wear. -->
+  <ApparelPolicyTip>TODO</ApparelPolicyTip>
+  <!-- EN: Apparel policy -->
+  <ApparelPolicy>Aprangos tvarka</ApparelPolicy>
+  <!-- EN: Apparel policy is in use by {0}. -->
+  <OutfitInUse>Aprangos tvarką naudoja {0}.</OutfitInUse>
   
   <!-- Drug policy management -->
+  <!-- EN: Drug policies -->
+  <DrugPolicyTitle>TODO</DrugPolicyTitle>
+  <!-- EN: Create and manage templates for controlling which drugs your colonists are allowed to consume. -->
+  <DrugPolicyTip>TODO</DrugPolicyTip>
   <!-- EN: Drug policy -->
   <DrugPolicy>Medikamentų vartojimo tvarka</DrugPolicy>
-  <!-- EN: Select policy... -->
-  <SelectDrugPolicy>Pasirinkti tvarką...</SelectDrugPolicy>
-  <!-- EN: New policy -->
-  <NewDrugPolicy>Nauja tvarka</NewDrugPolicy>
-  <!-- EN: Delete policy... -->
-  <DeleteDrugPolicy>Ištrinti tvarką...</DeleteDrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
   <DrugPolicyInUse>Medikamentų vartojimo tvarką naudoja {0}.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
   <FoodRestrictionInUse>Maisto ribojimą naudoja {0}.</FoodRestrictionInUse>
-  <!-- EN: No drug policy selected -->
-  <NoDrugPolicySelected>Nėra pasirinktos medikamentų vartojimo tvarkos</NoDrugPolicySelected>
   <!-- EN: Add drug... -->
   <AddDrug>Pridėti medikamentą...</AddDrug>
   <!-- EN: Drug -->
   <DrugColumnLabel>Medikamentas</DrugColumnLabel>
-  <!-- EN: Usage -->
-  <DrugUsageColumnLabel>Vartojimas</DrugUsageColumnLabel>
   <!-- EN: Frequency -->
   <FrequencyColumnLabel>Dažnumas</FrequencyColumnLabel>
   <!-- EN: Only if mood below -->
@@ -966,8 +1002,6 @@
   <DeleteDrugTooltip>Ištrinti šį medikamentą.</DeleteDrugTooltip>
   <!-- EN: The name of a drug. -->
   <DrugNameColumnDesc>Medikamento pavadinimas.</DrugNameColumnDesc>
-  <!-- EN: How the drug is allowed to be used. -->
-  <DrugUsageColumnDesc>Kaip leidžiama medikamentą vartoti.</DrugUsageColumnDesc>
   <!-- EN: How often the colonists should try to take this drug. -->
   <FrequencyColumnDesc>Kaip dažnai kolonistai turėtų pabandyti vartoti šį medikamentą.</FrequencyColumnDesc>
   <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
@@ -984,10 +1018,14 @@
   <DrugUsageTipScheduled>Tvarkaraštis\n\nVartoti šiuos medikamentus pagal tvarkaraštį, kai išpildytos specifinės sąlygos.</DrugUsageTipScheduled>
 
   <!-- Food restriction management -->
-  <!-- EN: Food restriction -->
-  <FoodRestriction>Maisto ribojimas</FoodRestriction>
-  <!-- EN: Food -->
-  <FoodRestrictionShort>Maistas</FoodRestrictionShort>
+  <!-- EN: Food policies -->
+  <FoodPolicyTitle>TODO</FoodPolicyTitle>
+  <!-- EN: Create and manage templates for controlling what food items colony members can eat. -->
+  <FoodPolicyTip>TODO</FoodPolicyTip>
+  <!-- EN: Food policy -->
+  <FoodPolicy>TODO</FoodPolicy>
+  <!-- EN: Allow food -->
+  <AllowFood>TODO</AllowFood>
   <!-- EN: Lavish -->
   <FoodRestrictionLavish>Prabangus</FoodRestrictionLavish>
   <!-- EN: Fine -->
@@ -1000,33 +1038,77 @@
   <FoodRestrictionRaw>Žalias</FoodRestrictionRaw>
   <!-- EN: Nothing -->
   <FoodRestrictionNothing>Nieko</FoodRestrictionNothing>
-  <!-- EN: Select food restriction -->
-  <SelectFoodRestriction>Pasirinkti maisto rib.</SelectFoodRestriction>
-  <!-- EN: New food restriction -->
-  <NewFoodRestriction>Naujas maisto rib.</NewFoodRestriction>
-  <!-- EN: Delete food restriction -->
-  <DeleteFoodRestriction>Ištrinti maisto rib.</DeleteFoodRestriction>
-  <!-- EN: No food restriction selected -->
-  <NoFoodRestrictionSelected>Nėra pasirinkta maisto ribojimo</NoFoodRestrictionSelected>
+  
+  <!-- Reading management -->
+  <!-- EN: Reading policies -->
+  <ReadingPolicyTitle>TODO</ReadingPolicyTitle>
+  <!-- EN: Create and manage templates for controlling which books colony members are allowed to read. -->
+  <ReadingPolicyTip>TODO</ReadingPolicyTip>
+  <!-- EN: Reading policy -->
+  <ReadingPolicy>TODO</ReadingPolicy>
+  <!-- EN: Reading policy is in use. -->
+  <ReadingPolicyInUse>TODO</ReadingPolicyInUse>
+
+  <!-- EN: Anything -->
+  <AllReadingPolicy>TODO</AllReadingPolicy>
+  <!-- EN: None -->
+  <NoneReadingPolicy>TODO</NoneReadingPolicy>
+  <!-- EN: Textbooks -->
+  <TextbookPolicy>TODO</TextbookPolicy>
+  <!-- EN: Schematics -->
+  <SchematicPolicy>TODO</SchematicPolicy>
+  <!-- EN: Novels -->
+  <NovelPolicy>TODO</NovelPolicy>
 
   <!-- Medical settings -->
   <!-- EN: Default medicine settings -->
   <DefaultMedicineSettings>Numatytieji vaistų nustatymai</DefaultMedicineSettings>
+  <!-- EN: These medical settings are assigned to creatures when they first join a given group. You can manually assign a setting to an individual in their health tab.\n\nNote: If the creature joins a new group, they will always take the settings of that group, even if you previously assigned them a setting. -->
+  <DefaultMedicineSettingsDesc>TODO</DefaultMedicineSettingsDesc>
+  
   <!-- EN: Defaults -->
   <MedGroupDefaults>Numatytieji</MedGroupDefaults>
-  <!-- EN: Colonist -->
-  <MedGroupColonist>Kolonistai</MedGroupColonist>
-  <!-- EN: Imprisoned colonist -->
-  <MedGroupImprisonedColonist>Įkalinti kolonistai</MedGroupImprisonedColonist>
-  <!-- EN: Colony animal -->
-  <MedGroupColonyAnimal>Kolonijos gyvūnas</MedGroupColonyAnimal>
-  <!-- EN: Neutral animal -->
-  <MedGroupNeutralAnimal>Neutralus gyvūnas</MedGroupNeutralAnimal>
-  <!-- EN: Neutral faction -->
-  <MedGroupNeutralFaction>Neutrali frakcija</MedGroupNeutralFaction>
-  <!-- EN: Hostile faction -->
-  <MedGroupHostileFaction>Agresyvi frakcija</MedGroupHostileFaction>
   
+  <!-- EN: Colonists -->
+  <MedGroupColonists>TODO</MedGroupColonists>
+  <!-- EN: Free members of your colony -->
+  <MedGroupColonistsDesc>TODO</MedGroupColonistsDesc>
+  
+  <!-- EN: Prisoners -->
+  <MedGroupPrisoners>TODO</MedGroupPrisoners>
+  <!-- EN: Prisoners in your colony, regardless of faction. -->
+  <MedGroupPrisonersDesc>TODO</MedGroupPrisonersDesc>
+
+  <!-- EN: Tamed animals -->
+  <MedGroupTamedAnimals>TODO</MedGroupTamedAnimals>
+  <!-- EN: Animals which have been tamed by your colony. -->
+  <MedGroupTamedAnimalsDesc>TODO</MedGroupTamedAnimalsDesc>
+
+  <!-- EN: Friendly faction members -->
+  <MedGroupFriendlyFaction>TODO</MedGroupFriendlyFaction>
+  <!-- EN: Humans or animals who are part of a faction which is friendly with your faction (goodwill above 75). -->
+  <MedGroupFriendlyFactionDesc>TODO</MedGroupFriendlyFactionDesc>
+  
+  <!-- EN: Neutral faction members -->
+  <MedGroupNeutralFaction>Neutrali frakcija</MedGroupNeutralFaction>
+  <!-- EN: Humans or animals who are part of a faction which is neutral with your faction (between -75 and 75 goodwill). -->
+  <MedGroupNeutralFactionDesc>TODO</MedGroupNeutralFactionDesc>
+
+  <!-- EN: Hostile faction members -->
+  <MedGroupHostileFaction>Agresyvi frakcija</MedGroupHostileFaction>
+  <!-- EN: Humans or animals who are part of a faction which is hostile with your faction (goodwill below -75). -->
+  <MedGroupHostileFactionDesc>TODO</MedGroupHostileFactionDesc>
+
+  <!-- EN: Other humans -->
+  <MedGroupNoFaction>TODO</MedGroupNoFaction>
+  <!-- EN: Humans who are not members of any faction. -->
+  <MedGroupNoFactionDesc>TODO</MedGroupNoFactionDesc>
+  
+  <!-- EN: Wildlife -->
+  <MedGroupWildlife>TODO</MedGroupWildlife>
+  <!-- EN: Animals and other creatures which are not members of any faction. -->
+  <MedGroupWildlifeDesc>TODO</MedGroupWildlifeDesc>
+
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
   <NoGrowerCanPlant>{0} sėjimui reikia {1} Auginimo įgūdžių.\n\nNei vienas iš nenumuštų kolonistų turi tiek įgūdžių, todėl šis augalas nebus pasėtas.</NoGrowerCanPlant>
@@ -1122,6 +1204,8 @@
   <AbilityCantApplyDowned>{0_labelShort} yra numuštas.</AbilityCantApplyDowned>
   <!-- EN: Cannot use: {0} is asexual. -->
   <AbilityCantApplyOnAsexual>Neina naudoti: {0} yra aseksualus.</AbilityCantApplyOnAsexual>
+  <!-- EN: {PAWN_labelShort} has no healable injuries. -->
+  <AbilityCannotCastNoHealableInjury>TODO</AbilityCannotCastNoHealableInjury>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
   <AbilityCantApplyWrongAttractionGender>{1_labelShort} yra neteisingos lyties {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
   <!-- EN: {0_labelShort} is too young. -->
@@ -1321,5 +1405,19 @@
   <ToggleDarklightOnDesc>Pakeisti šviesos spalvą į tamsią šviesą.</ToggleDarklightOnDesc>
   <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
   <ColorTemperatureTooltip>Pakeisti spalvą nustatant spalvos temperatūrą. Pastaba: Tai paveikia tik matomą spalvą, ne kiek šildo.</ColorTemperatureTooltip>
+
+  <!-- EN: {0_labelShort} is psychically deaf. -->
+  <CannotShootPawnIsPsychicallyDeaf>TODO</CannotShootPawnIsPsychicallyDeaf>
+
+  <!-- EN: Search the current map. -->
+  <SearchTheMap>TODO</SearchTheMap>
+  <!-- EN: Search the current map for items, buildings, people, animals, plants, and more. -->
+  <SearchTheMapDesc>TODO</SearchTheMapDesc>
+  <!-- EN: {0} results found -->
+  <MapSearchResults>TODO</MapSearchResults>
+  <!-- EN: 1 result found -->
+  <MapSearchResultSingular>TODO</MapSearchResultSingular>
+  <!-- EN: Searching -->
+  <Searching>TODO</Searching>
 
 </LanguageData>

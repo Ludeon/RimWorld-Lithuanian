@@ -41,8 +41,8 @@
   <Inspired_Recruitment.label>įkalbėjimo prisijungti įkvėpimas</Inspired_Recruitment.label>
   <!-- EN: Inspired: Inspired recruitment -->
   <Inspired_Recruitment.baseInspectLine>Įkvėpimas: Įkalbėjimo prisijungti įkvėpimas</Inspired_Recruitment.baseInspectLine>
-  <!-- EN: [PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
-  <Inspired_Recruitment.beginLetter>[PAWN_pronoun] sėkmingai įkalbės kitą kalinį prisijungti, nepriklausomai nuo sudėtingumo ar pasipriešinimo.\n\nĮkvėpimas baigsis po 8 dienų arba kai kalinys bus įkalbėtas prisijungti.</Inspired_Recruitment.beginLetter>
+  <!-- EN: [PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance, as long as they are not unwaveringly loyal.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
+  <Inspired_Recruitment.beginLetter>[PAWN_pronoun] sėkmingai įkalbės kitą kalinį prisijungti, nepriklausomai nuo sudėtingumo ar pasipriešinimo, jei jis nėra nepalaužiamai lojalus.\n\nĮkvėpimas baigsis po 8 dienų arba kai kalinys bus įkalbėtas prisijungti.</Inspired_Recruitment.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired recruitment). -->
   <Inspired_Recruitment.endMessage>{0} nebėra įkvėptas (įkalbėjimo prisijungti įkvėpimas).</Inspired_Recruitment.endMessage>
   
