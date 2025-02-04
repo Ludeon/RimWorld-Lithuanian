@@ -297,7 +297,7 @@
   <MeteoriteImpact.rulePack.rulesStrings>TODO</MeteoriteImpact.rulePack.rulesStrings>
   
   <!-- EN: raid -->
-  <Raid.label>TODO</Raid.label>
+  <Raid.label>reidas</Raid.label>
   <!-- EN:
     <li>tale_noun->an raid on [PAWN_nameDef]'s [Community]</li>
     <li>tale_noun->an assault on [PAWN_nameDef]'s [Community]</li>
@@ -329,7 +329,38 @@
     <li>defender_circumstance->raising a fist in defiance</li>
     <li>defender_circumstance->flexing [PAWN_possessive] muscles</li>
   -->
-  <Raid.rulePack.rulesStrings>TODO</Raid.rulePack.rulesStrings>
+  <Raid.rulePack.rulesStrings>
+    <li>tale_noun->reidas prieš [PAWN_nameDef] [Community]</li>
+    <li>tale_noun->puolimas prieš [PAWN_nameDef] [Community]</li>
+    <li>tale_noun->[PAWN_nameDef] [Community] yra puolami [Enemy]</li>
+    <li>image->[Quantity_adjphrase] [Enemy] [circumstance_phrase]</li>
+    <li>image->armija [circumstance_phrase]</li>
+    <li>image->milžiniškos pajėgos [circumstance_phrase]</li>
+    <li>image->įsiveržusios pajėgos [circumstance_phrase]</li>
+    <li>image->stilizuotos [Color] vėliavos [circumstance_phrase]</li>
+    <li>image->didžiulės [Enemy] [circumstance_phrase]</li>
+    <li>circumstance_phrase->žengia į priekį per [TerrainFeature]</li>
+    <li>circumstance_phrase->visiškai apsupo [Community]</li>
+    <li>circumstance_phrase->puola [Quantity_adjphrase] [PersonJob]</li>
+    <li>circumstance_phrase->pergalingai siaučia</li>
+    <li>circumstance_phrase->mosuodami [Weapon]</li>
+    <li>circumstance_phrase->apsitaškę [Gore]</li>
+    <li>desc_sentence->[PAWN_nameDef] organizuoja pasipriešinimą, kai [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] ginasi su [Weapon], kai [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] guli ant žemės, sužeistas.</li>
+    <li>desc_sentence->[PAWN_nameDef] atsako puldamas su [PAWN_possessive] [Weapon], kai [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] stovi aukšts kaip namas, kai [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] turi [AdjectiveBadass] išraišką.</li>
+    <li>desc_sentence->[PAWN_nameDef] turi [AdjectiveAngsty] išraišką.</li>
+    <li>desc_sentence>Žemė padengta [Gore].</li>
+    <li>desc_sentence>[Quantity_adjphrase] [PersonJob] bėga iš vietovės.</li>
+    <li>desc_sentence>[Quantity_adjphrase] [Animal] bėga iš vietovės.</li>
+    <li>defender_circumstance->šūkauja triumfuodamas</li>
+    <li>defender_circumstance->švyti [Color]</li>
+    <li>defender_circumstance->iššaukiančiai pakėlęs kumštį</li>
+    <li>defender_circumstance->demonstruoja [PAWN_possessive] raumenis</li>
+</Raid.rulePack.rulesStrings>
+
   
   <!-- EN: ship part crash -->
   <ShipPartCrash.label>TODO</ShipPartCrash.label>

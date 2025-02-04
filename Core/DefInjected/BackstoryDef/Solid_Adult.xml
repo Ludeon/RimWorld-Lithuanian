@@ -79,9 +79,9 @@
   <Archaeologist85.titleShort>tyrinėtojas</Archaeologist85.titleShort>
   
   <!-- EN: [PAWN_nameDef] researched archotech intelligences.\n\nStudying a mysterious archotechnological object from orbit, [PAWN_pronoun] became convinced that it was communicating directly with [PAWN_objective]. Eventually [PAWN_possessive] colleagues caught [PAWN_objective] transmitting secret information directed towards the dark sphere, and he was forced to flee. -->
-  <ArchotechSpy75.description>[PAWN_nameDef] tyrinėjo arkotechų intelektus.\n\nStudijuodamas paslaptingą arkotechnologinį objektą iš orbitos, [PAWN_pronoun] įtikėjo, kad tas objektas tiesiogiai bendrauja su [PAWN_objective]. Galų gale [PAWN_possessive] kolegos pagavo [PAWN_objective] persiunčiant slaptą informaciją tiesiai į tamsią sferą, dėl to buvo priverstas bėgti</ArchotechSpy75.description>
+  <ArchotechSpy75.description>[PAWN_nameDef] tyrinėjo archotechų intelektus.\n\nStudijuodamas paslaptingą arkotechnologinį objektą iš orbitos, [PAWN_pronoun] įtikėjo, kad tas objektas tiesiogiai bendrauja su [PAWN_objective]. Galų gale [PAWN_possessive] kolegos pagavo [PAWN_objective] persiunčiant slaptą informaciją tiesiai į tamsią sferą, dėl to buvo priverstas bėgti</ArchotechSpy75.description>
   <!-- EN: archotech researcher -->
-  <ArchotechSpy75.title>arkotechas</ArchotechSpy75.title>
+  <ArchotechSpy75.title>archotechas</ArchotechSpy75.title>
   <!-- EN: researcher -->
   <ArchotechSpy75.titleShort>mokslininkas</ArchotechSpy75.titleShort>
   

@@ -69,7 +69,7 @@
   <!-- EN: Please place a wooden simple research bench inside the room you built earlier. -->
   <BuildSimpleResearchBench.rejectInputMessage>Prašome kambaryje, kurį pastatei prieš tai, pastatyti paprastą tyrimų stalą iš medžio.</BuildSimpleResearchBench.rejectInputMessage>
   <!-- EN: To advance, you'll need to research new technologies.\n\nBuild a wooden SIMPLE RESEARCH BENCH inside your room. -->
-  <BuildSimpleResearchBench.text>Kad progresuotum, tau reikės išvystyti naujas technologijas.\n\nPastatyk kambaryje PAPRASTĄ TYRIMŲ STALĄ iš medžio.</BuildSimpleResearchBench.text>
+  <BuildSimpleResearchBench.text>Kad daryum progresą, tau reikės išrasti naujų technologijų.\n\nPastatyk kambaryje PAPRASTĄ TYRIMŲ STALĄ iš medžio.</BuildSimpleResearchBench.text>
   
   <!-- EN: Build a torch lamp inside the room -->
   <BuildTorchLamp.onMapInstruction>Pastatyk fakelą kambario viduje</BuildTorchLamp.onMapInstruction>
@@ -91,7 +91,7 @@
   <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
   <ChooseStoryteller.rejectInputMessage>Prašome pasirinkti pasakotoją, randamą Nustatymų meniu, kad pabaigtum šią pamoką.</ChooseStoryteller.rejectInputMessage>
   <!-- EN: This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click the Gameplay button in the left columm.\n4. Click the Modify button beside Storyteller settings.\n5. Select a storyteller and playstyle that appeals to you.\n\nGood luck, and have fun. -->
-  <ChooseStoryteller.text>Tai yra pamokos pabaiga!\n\nDar daug ko reikia išmokti, įskaitant apie kalinius, medžioklę, prekybą, gyvūnų jaukinimą ir dar daug ko. Bet pagrindus jau turi.\n\nAtsitiktiniai incidentai šioje pamokoje buvo išjungti. Kad pradėtum tikrą žaidimą:\n\n1. Atidaryk MENIU langą apačioje dešinėje.\n2. Pasirink NUSTATYMAI.\n3. Paspausk Žaidimo eiga mygtuką stulpelyje kairėje.\n4. Paspausk Keisti mygtuką šalia Pasakotojo nustatymų.\n5. Pasirink pasakotoją ir patinkantį žaidimo režimą.\n\nSėkmės, pasilinksmink.</ChooseStoryteller.text>
+  <ChooseStoryteller.text>Tai yra pamokos pabaiga!\n\nDar daug ko reikia išmokti, įskaitant apie kalinius, medžioklę, prekybą, gyvūnų jaukinimą ir dar daug ko. Bet pagrindus jau turi.\n\nAtsitiktiniai incidentai šioje pamokoje yra išjungti. Kad pradėtum tikrą žaidimą:\n\n1. Atidaryk MENIU langą apačioje dešinėje.\n2. Pasirink NUSTATYMAI.\n3. Paspausk Žaidimo eiga mygtuką stulpelyje kairėje.\n4. Paspausk Keisti mygtuką šalia Pasakotojo nustatymų.\n5. Pasirink pasakotoją ir patinkantį žaidimo režimą.\n\nSėkmės, pasilinksmink.</ChooseStoryteller.text>
   
   <!-- EN: Please drag the 'chop wood' designator over some trees. -->
   <ChopTrees.rejectInputMessage>Prašome užtempti 'kirsti medžius' ženklinimą ant kelių medžių.</ChopTrees.rejectInputMessage>
@@ -101,14 +101,14 @@
   <!-- EN: Click GENERATE to generate your world. -->
   <CreateWorldParams.rejectInputMessage>Paspausk KURTI kad sukurtum savo pasaulį.</CreateWorldParams.rejectInputMessage>
   <!-- EN: Welcome to RimWorld!\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
-  <CreateWorldParams.text>Sveikas atvykęs į RimWorld!\n\nŠis puslapis nustato kaip pasaulis bus sukurtas.\n\nNumatytieji nustatymai čia yra geri - spausk KURTI!</CreateWorldParams.text>
+  <CreateWorldParams.text>Sveiki atvykę į RimWorld!\n\nŠis puslapis nustato kaip bus sukurtas pasaulis.\n\nNumatytieji nustatymai yra geri - spausk KURTI!</CreateWorldParams.text>
   
   <!-- EN: Send colonists here\ntouching sandbags for cover -->
   <DownRaider.onMapInstruction>Nusiųsk kolonistus čia,\nšalia smėlio maišų, kad būtų priedangoje</DownRaider.onMapInstruction>
   <!-- EN: Please focus on winning the fight! -->
   <DownRaider.rejectInputMessage>Prašome koncentruotis į mūšio laimėjimą!</DownRaider.rejectInputMessage>
   <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to send them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
-  <DownRaider.text>Dabar aš atsiunčiau užpuoliką kad užpultų tavo koloniją!\n\n1. Sustabdyk žaidimą paspausdamas {Key:TogglePause}!\n2. Perskaityk raudoną laišką ekrano dešinėje apačioje.\n3. MOBILIZUOK savo kolonistus pasirinkdamas juos ir paspausdamas MOBILIZUOTI komandą.\n4. Paspausk dešinį pelės klavišą, kad nuvestum juos į pozicijas smėlio maišų kvadrate, prie pat smėlio maišų.\n5. Išjunk pauzę.\n\nKolonistai turi būti šalia priedangos, kad galėtų gauti iš jos naudos. Būdamas priedangoje, palauk kol užpuolikas pradės artintis. Tavo kolonistai šaudys automatiškai.</DownRaider.text>
+  <DownRaider.text>Dabar aš į tavo koloniją atsiunčiau užpuoliką!\n\n1. Sustabdyk žaidimą paspausdamas {Key:TogglePause}!\n2. Perskaityk raudoną laišką ekrano dešinėje apačioje.\n3. MOBILIZUOK savo kolonistus pasirinkdamas juos ir paspausdamas MOBILIZUOTI komandą.\n4. Paspausk dešinį pelės klavišą, kad nuvestum juos į pozicijas smėlio maišų kvadrate, prie pat smėlio maišų.\n5. Išjunk pauzę.\n\nKolonistai turi būti šalia priedangos, kad galėtų gauti iš jos naudos. Būdamas priedangoje, palauk kol užpuolikas pradės artintis. Tavo kolonistai šaudys automatiškai.</DownRaider.text>
   <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Press left trigger button to send them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
   <DownRaider.textController>TODO</DownRaider.textController>
   

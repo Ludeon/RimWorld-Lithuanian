@@ -9,7 +9,7 @@
   <Architect28.titleShort>architektas</Architect28.titleShort>
   
   <!-- EN: [PAWN_nameDef] lived on a peaceful glitterworld where all menial work was done by robots, while the people mostly devoted themselves to leisure. [PAWN_pronoun] managed the plant and animal life of a sprawling park, where citizens came to admire nature's beauty. -->
-  <BiosphereManager95.description>[Pawn_namedef] gyveno taikiame ultramoderniame pasaulyje, kur visus fizinius darbus atliko robotai, kai žmonės beveik visą laiką leido laisvai. [Pawn_pronoun] buvo atsakinga už augalų ir gyvūnų gyvenimą besidriekiančiame parke, kuriame piliečiai ateidavo grožėtis gamtos grožiu.</BiosphereManager95.description>
+  <BiosphereManager95.description>[PAWN_nameDef] gyveno taikiame ultramoderniame pasaulyje, kur visus fizinius darbus atliko robotai, kai žmonės beveik visą laiką leido laisvai. [PAWN_pronoun] buvo atsakinga už augalų ir gyvūnų gyvenimą besidriekiančiame parke, kuriame piliečiai ateidavo grožėtis gamtos grožiu.</BiosphereManager95.description>
   <!-- EN: biosphere manager -->
   <BiosphereManager95.title>biosferos vadovas</BiosphereManager95.title>
   <!-- EN: botanist -->
@@ -44,7 +44,7 @@
   <GlitterworldSurgeon15.titleShort>chirurgas</GlitterworldSurgeon15.titleShort>
   
   <!-- EN: Interstellar warfare is won by technology, so glitterworld navies are always at the peak of modern research. Even better, they occasionally find archotechnological artifacts floating in space.\n\n[PAWN_nameDef] worked in a navy lab. -->
-  <NavyScientist52.description>Tarpžvaigždinį karą laimi technologijos, todėl ultramodernaus pasaulio laivynai visada yra šiuolaikinių tyrimų viršūnėje. Dar daugiau, kartais randa kosminėje erdvėje skraidančių arkotechnologinių artefaktų.\n\n[PAWN_nameDef] dirbo karinio laivyno laboratorijoje.</NavyScientist52.description>
+  <NavyScientist52.description>Tarpžvaigždinį karą laimi technologijos, todėl ultramodernaus pasaulio laivynai visada yra šiuolaikinių tyrimų viršūnėje. Dar daugiau, kartais randa kosminėje erdvėje skraidančių archotechnologinių artefaktų.\n\n[PAWN_nameDef] dirbo karinio laivyno laboratorijoje.</NavyScientist52.description>
   <!-- EN: navy scientist -->
   <NavyScientist52.title>laivyno mokslininkas</NavyScientist52.title>
   <!-- EN: scientist -->

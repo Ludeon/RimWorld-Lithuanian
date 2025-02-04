@@ -159,7 +159,7 @@
   <!-- EN: Storage tab -->
   <StorageTab.label>Saugyklos langas</StorageTab.label>
   <!-- EN: You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority. -->
-  <StorageTab.helpText>Gali pakeisti sandėliavimo vietas ir saugyklų pastatus pasirinkdamas juos ir atidarydamas SAUGYKLOS LANGĄ virš apačioje kairėje esančio peržiūros lango.\n\nSandėliavimo vietos saugyklos lange gali išskleisti kategorijas ir leisti ar neleisti konkrečius daiktus. Kad neleistum, paspausk ant trikampių kairiau nuo kategorijų vardų.\n\nGali pakeisti saugyklos PRIORITETĄ. Kolonistai pirmiausia užpildys aukštesnio prioriteto saugyklas ir gabens daiktus iš žemesnio į aukštesnį prioritetą turinčias saugyklas.</StorageTab.helpText>
+  <StorageTab.helpText>Gali pakeisti sandėliavimo vietas ir saugyklų pastatus pasirinkdamas juos ir atidarydamas SAUGYKLOS LANGĄ virš apačioje kairėje esančio peržiūros lango.\n\nSandėliavimo vietos saugyklos lange gali išskleisti kategorijas ir leisti ar neleisti konkrečius daiktus. Kad neleistum, paspausk ant trikampių kairiau nuo kategorijų vardų.\n\nGali pakeisti saugyklos PRIORITETĄ. Kolonistai pirmiausia užpildys aukštesnio prioriteto saugyklas ir perkels daiktus iš žemesnio į aukštesnį prioritetą turinčias saugyklas.</StorageTab.helpText>
   
   <!-- EN: Tile inspector -->
   <TileInspector.label>TODO</TileInspector.label>

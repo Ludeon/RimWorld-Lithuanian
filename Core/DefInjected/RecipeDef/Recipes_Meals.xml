@@ -2,135 +2,135 @@
 <LanguageData>
   
   <!-- EN: cook fine meal -->
-  <CookMealFine.label>TODO</CookMealFine.label>
+  <CookMealFine.label>gaminti puikų patiekalą</CookMealFine.label>
   <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
-  <CookMealFine.description>TODO</CookMealFine.description>
+  <CookMealFine.description>Gamink gana sudėtingą patiekalą iš mėsos ir augalinių ingredientų.</CookMealFine.description>
   <!-- EN: protein -->
-  <CookMealFine.ingredients.0.filter.customSummary>TODO</CookMealFine.ingredients.0.filter.customSummary>
+  <CookMealFine.ingredients.0.filter.customSummary>baltymai</CookMealFine.ingredients.0.filter.customSummary>
   <!-- EN: Cooking fine meal. -->
-  <CookMealFine.jobString>TODO</CookMealFine.jobString>
+  <CookMealFine.jobString>Gamina puikų patiekalą.</CookMealFine.jobString>
   
   <!-- EN: cook carnivore fine meal -->
-  <CookMealFine_Meat.label>TODO</CookMealFine_Meat.label>
+  <CookMealFine_Meat.label>gaminti puikų mėsišką patiekalą</CookMealFine_Meat.label>
   <!-- EN: Cook a somewhat complex meal from meat ingredients. -->
-  <CookMealFine_Meat.description>TODO</CookMealFine_Meat.description>
+  <CookMealFine_Meat.description>Gamink gana sudėtingą patiekalą iš mėsos ingredientų.</CookMealFine_Meat.description>
   <!-- EN: Cooking carnivore fine meal. -->
-  <CookMealFine_Meat.jobString>TODO</CookMealFine_Meat.jobString>
+  <CookMealFine_Meat.jobString>Gamina puikų mėsišką patiekalą.</CookMealFine_Meat.jobString>
   
   <!-- EN: cook vegetarian fine meal -->
-  <CookMealFine_Veg.label>TODO</CookMealFine_Veg.label>
+  <CookMealFine_Veg.label>gaminti puikų vegetarišką patiekalą</CookMealFine_Veg.label>
   <!-- EN: Cook a somewhat complex meal from plant ingredients. -->
-  <CookMealFine_Veg.description>TODO</CookMealFine_Veg.description>
+  <CookMealFine_Veg.description>Gamink gana sudėtingą patiekalą iš augalinių ingredientų.</CookMealFine_Veg.description>
   <!-- EN: vegetarian ingredients -->
-  <CookMealFine_Veg.ingredients.0.filter.customSummary>TODO</CookMealFine_Veg.ingredients.0.filter.customSummary>
+  <CookMealFine_Veg.ingredients.0.filter.customSummary>vegetariški ingredientai</CookMealFine_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking vegetarian fine meal. -->
-  <CookMealFine_Veg.jobString>TODO</CookMealFine_Veg.jobString>
+  <CookMealFine_Veg.jobString>Gamina puikų vegetarišką patiekalą.</CookMealFine_Veg.jobString>
   
   <!-- EN: cook fine meal x4 -->
-  <CookMealFineBulk.label>TODO</CookMealFineBulk.label>
+  <CookMealFineBulk.label>gaminti puikius patiekalus x4</CookMealFineBulk.label>
   <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. -->
-  <CookMealFineBulk.description>TODO</CookMealFineBulk.description>
+  <CookMealFineBulk.description>Gamink 4 gana sudėtingus patiekalus iš mėsos ir augalinių ingredientų. Kažkiek ingredientų yra iššvaistoma siekiant sukurti gerą valgymo patirtį.</CookMealFineBulk.description>
   <!-- EN: protein -->
-  <CookMealFineBulk.ingredients.0.filter.customSummary>TODO</CookMealFineBulk.ingredients.0.filter.customSummary>
+  <CookMealFineBulk.ingredients.0.filter.customSummary>baltymai</CookMealFineBulk.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 fine meals. -->
-  <CookMealFineBulk.jobString>TODO</CookMealFineBulk.jobString>
+  <CookMealFineBulk.jobString>Gamina 4 puikius patiekalus.</CookMealFineBulk.jobString>
   
   <!-- EN: cook carnivore fine meal x4 -->
-  <CookMealFineBulk_Meat.label>TODO</CookMealFineBulk_Meat.label>
+  <CookMealFineBulk_Meat.label>gaminti puikius mėsiškus patiekalus x4</CookMealFineBulk_Meat.label>
   <!-- EN: Cook 4 somewhat complex meals from meat ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
-  <CookMealFineBulk_Meat.description>TODO</CookMealFineBulk_Meat.description>
+  <CookMealFineBulk_Meat.description>Gamink 4 gana sudėtingus patiekalus iš mėsos ingredientų. Kažkiek ingredientų yra iššvaistoma siekiant sukurti gerą valgymo patirtį. Siekiant išgauti įvairius skonius tik iš mėsos, ingredientai dar labiau išsišvaisto.</CookMealFineBulk_Meat.description>
   <!-- EN: Cooking 4 carnivore fine meals. -->
-  <CookMealFineBulk_Meat.jobString>TODO</CookMealFineBulk_Meat.jobString>
+  <CookMealFineBulk_Meat.jobString>Gamina 4 puikius mėsiškus patiekalus.</CookMealFineBulk_Meat.jobString>
   
   <!-- EN: cook vegetarian fine meal x4 -->
-  <CookMealFineBulk_Veg.label>TODO</CookMealFineBulk_Veg.label>
+  <CookMealFineBulk_Veg.label>gaminti puikius vegetariškus patiekalus x4</CookMealFineBulk_Veg.label>
   <!-- EN: Cook 4 somewhat complex meals from plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
-  <CookMealFineBulk_Veg.description>TODO</CookMealFineBulk_Veg.description>
+  <CookMealFineBulk_Veg.description>Gamink 4 gana sudėtingus patiekalus iš augalinių ingredientų. Kažkiek ingredientų yra iššvaistoma siekiant sukurti gerą valgymo patirtį. Siekiant išgauti įvairius skonius tik iš augalų, ingredientai dar labiau išsišvaisto.</CookMealFineBulk_Veg.description>
   <!-- EN: vegetarian ingredients -->
-  <CookMealFineBulk_Veg.ingredients.0.filter.customSummary>TODO</CookMealFineBulk_Veg.ingredients.0.filter.customSummary>
+  <CookMealFineBulk_Veg.ingredients.0.filter.customSummary>vegetariški ingredientai</CookMealFineBulk_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 vegetarian fine meals. -->
-  <CookMealFineBulk_Veg.jobString>TODO</CookMealFineBulk_Veg.jobString>
+  <CookMealFineBulk_Veg.jobString>Gamina 4 puikius vegetariškus patiekalus.</CookMealFineBulk_Veg.jobString>
   
   <!-- EN: cook lavish meal -->
-  <CookMealLavish.label>TODO</CookMealLavish.label>
+  <CookMealLavish.label>gaminti prabangų patiekalą</CookMealLavish.label>
   <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
-  <CookMealLavish.description>TODO</CookMealLavish.description>
+  <CookMealLavish.description>Gamink labai sudėtingą patiekalą iš mėsos ir augalinių ingredientų. Daug ingredientų yra iššvaistoma siekiant sukurti geriausią valgymo patirtį.</CookMealLavish.description>
   <!-- EN: protein -->
-  <CookMealLavish.ingredients.0.filter.customSummary>TODO</CookMealLavish.ingredients.0.filter.customSummary>
+  <CookMealLavish.ingredients.0.filter.customSummary>baltymai</CookMealLavish.ingredients.0.filter.customSummary>
   <!-- EN: Cooking lavish meal. -->
-  <CookMealLavish.jobString>TODO</CookMealLavish.jobString>
+  <CookMealLavish.jobString>Gamina prabangų patiekalą.</CookMealLavish.jobString>
   
   <!-- EN: cook carnivore lavish meal -->
-  <CookMealLavish_Meat.label>TODO</CookMealLavish_Meat.label>
+  <CookMealLavish_Meat.label>gaminti prabangų mėsišką patiekalą</CookMealLavish_Meat.label>
   <!-- EN: Cook a very complex meal from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
-  <CookMealLavish_Meat.description>TODO</CookMealLavish_Meat.description>
+  <CookMealLavish_Meat.description>Gamink labai sudėtingą patiekalą iš mėsos ingredientų. Daug ingredientų yra iššvaistoma siekiant sukurti geriausią valgymo patirtį. Siekiant išgauti įvairius skonius tik iš mėsos, ingredientai dar labiau išsišvaisto.</CookMealLavish_Meat.description>
   <!-- EN: Cooking carnivore lavish meal. -->
-  <CookMealLavish_Meat.jobString>TODO</CookMealLavish_Meat.jobString>
+  <CookMealLavish_Meat.jobString>Gamina prabangų mėsišką patiekalą.</CookMealLavish_Meat.jobString>
   
   <!-- EN: cook vegetarian lavish meal -->
-  <CookMealLavish_Veg.label>TODO</CookMealLavish_Veg.label>
+  <CookMealLavish_Veg.label>gaminti prabangų vegetarišką patiekalą</CookMealLavish_Veg.label>
   <!-- EN: Cook a very complex meal from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
-  <CookMealLavish_Veg.description>TODO</CookMealLavish_Veg.description>
+  <CookMealLavish_Veg.description>Gamink labai sudėtingą patiekalą iš augalinių ingredientų. Daug ingredientų yra iššvaistoma siekiant sukurti geriausią valgymo patirtį. Siekiant išgauti įvairius skonius tik iš augalų, ingredientai dar labiau išsišvaisto.</CookMealLavish_Veg.description>
   <!-- EN: vegetarian ingredients -->
-  <CookMealLavish_Veg.ingredients.0.filter.customSummary>TODO</CookMealLavish_Veg.ingredients.0.filter.customSummary>
+  <CookMealLavish_Veg.ingredients.0.filter.customSummary>vegetariški ingredientai</CookMealLavish_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking vegetarian lavish meal. -->
-  <CookMealLavish_Veg.jobString>TODO</CookMealLavish_Veg.jobString>
+  <CookMealLavish_Veg.jobString>Gamina prabangų vegetarišką patiekalą.</CookMealLavish_Veg.jobString>
   
   <!-- EN: cook lavish meal x4 -->
-  <CookMealLavishBulk.label>TODO</CookMealLavishBulk.label>
+  <CookMealLavishBulk.label>gaminti prabangius patiekalus x4</CookMealLavishBulk.label>
   <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
-  <CookMealLavishBulk.description>TODO</CookMealLavishBulk.description>
+  <CookMealLavishBulk.description>Gamink 4 labai sudėtingus patiekalus iš mėsos ir augalinių ingredientų. Daug ingredientų yra iššvaistoma siekiant sukurti geriausią valgymo patirtį.</CookMealLavishBulk.description>
   <!-- EN: protein -->
-  <CookMealLavishBulk.ingredients.0.filter.customSummary>TODO</CookMealLavishBulk.ingredients.0.filter.customSummary>
+  <CookMealLavishBulk.ingredients.0.filter.customSummary>baltymai</CookMealLavishBulk.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 lavish meals. -->
-  <CookMealLavishBulk.jobString>TODO</CookMealLavishBulk.jobString>
+  <CookMealLavishBulk.jobString>Gamina 4 prabangius patiekalus.</CookMealLavishBulk.jobString>
   
   <!-- EN: cook carnivore lavish meal x4 -->
-  <CookMealLavishBulk_Meat.label>TODO</CookMealLavishBulk_Meat.label>
+  <CookMealLavishBulk_Meat.label>gaminti prabangius mėsiškus patiekalus x4</CookMealLavishBulk_Meat.label>
   <!-- EN: Cook 4 very complex meals from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
-  <CookMealLavishBulk_Meat.description>TODO</CookMealLavishBulk_Meat.description>
+  <CookMealLavishBulk_Meat.description>Gamink 4 labai sudėtingus patiekalus iš mėsos ingredientų. Daug ingredientų yra iššvaistoma siekiant sukurti geriausią valgymo patirtį. Siekiant išgauti įvairius skonius tik iš mėsos, ingredientai dar labiau išsišvaisto.</CookMealLavishBulk_Meat.description>
   <!-- EN: Cooking 4 carnivore lavish meals. -->
-  <CookMealLavishBulk_Meat.jobString>TODO</CookMealLavishBulk_Meat.jobString>
+  <CookMealLavishBulk_Meat.jobString>Gamina 4 prabangius mėsiškus patiekalus.</CookMealLavishBulk_Meat.jobString>
   
   <!-- EN: cook vegetarian lavish meal x4 -->
-  <CookMealLavishBulk_Veg.label>TODO</CookMealLavishBulk_Veg.label>
+  <CookMealLavishBulk_Veg.label>gaminti prabangius vegetariškus patiekalus x4</CookMealLavishBulk_Veg.label>
   <!-- EN: Cook 4 very complex meals from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
-  <CookMealLavishBulk_Veg.description>TODO</CookMealLavishBulk_Veg.description>
+  <CookMealLavishBulk_Veg.description>Gamink 4 labai sudėtingus patiekalus iš augalinių ingredientų. Daug ingredientų yra iššvaistoma siekiant sukurti geriausią valgymo patirtį. Siekiant išgauti įvairius skonius tik iš augalų, ingredientai dar labiau išsišvaisto.</CookMealLavishBulk_Veg.description>
   <!-- EN: vegetarian ingredients -->
-  <CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>TODO</CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>
+  <CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>vegetariški ingredientai</CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 vegetarian lavish meals. -->
-  <CookMealLavishBulk_Veg.jobString>TODO</CookMealLavishBulk_Veg.jobString>
+  <CookMealLavishBulk_Veg.jobString>Gamina 4 prabangius vegetariškus patiekalus.</CookMealLavishBulk_Veg.jobString>
   
   <!-- EN: cook simple meal -->
-  <CookMealSimple.label>TODO</CookMealSimple.label>
+  <CookMealSimple.label>gaminti paprastą patiekalą</CookMealSimple.label>
   <!-- EN: Cook a straightforward meal from one ingredient. -->
-  <CookMealSimple.description>TODO</CookMealSimple.description>
+  <CookMealSimple.description>Gamink paprastą patiekalą iš vieno ingrediento.</CookMealSimple.description>
   <!-- EN: Cooking simple meal. -->
-  <CookMealSimple.jobString>TODO</CookMealSimple.jobString>
+  <CookMealSimple.jobString>Gamina paprastą patiekalą.</CookMealSimple.jobString>
   
   <!-- EN: cook simple meal x4 -->
-  <CookMealSimpleBulk.label>TODO</CookMealSimpleBulk.label>
+  <CookMealSimpleBulk.label>gaminti paprastus patiekalus x4</CookMealSimpleBulk.label>
   <!-- EN: Cook 4 straightforward meals from one ingredient. -->
-  <CookMealSimpleBulk.description>TODO</CookMealSimpleBulk.description>
+  <CookMealSimpleBulk.description>Gamink 4 paprastus patiekalus iš vieno ingrediento.</CookMealSimpleBulk.description>
   <!-- EN: Cooking 4 simple meals. -->
-  <CookMealSimpleBulk.jobString>TODO</CookMealSimpleBulk.jobString>
+  <CookMealSimpleBulk.jobString>Gamina 4 paprastus patiekalus.</CookMealSimpleBulk.jobString>
   
   <!-- EN: cook packaged survival meal -->
-  <CookMealSurvival.label>TODO</CookMealSurvival.label>
+  <CookMealSurvival.label>gaminti sausą maisto davinį</CookMealSurvival.label>
   <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvival.description>TODO</CookMealSurvival.description>
+  <CookMealSurvival.description>Paruošk sausą maisto davinį iš mėsos ir augalinių ingredientų. Daug ingredientų yra iššvaistoma konservuojant.</CookMealSurvival.description>
   <!-- EN: protein -->
-  <CookMealSurvival.ingredients.0.filter.customSummary>TODO</CookMealSurvival.ingredients.0.filter.customSummary>
+  <CookMealSurvival.ingredients.0.filter.customSummary>baltymai</CookMealSurvival.ingredients.0.filter.customSummary>
   <!-- EN: Cooking survival meal. -->
-  <CookMealSurvival.jobString>TODO</CookMealSurvival.jobString>
+  <CookMealSurvival.jobString>Gamina sausą maisto davinį.</CookMealSurvival.jobString>
   
   <!-- EN: cook packaged survival meal x4 -->
-  <CookMealSurvivalBulk.label>TODO</CookMealSurvivalBulk.label>
+  <CookMealSurvivalBulk.label>gaminti sausus maisto davinius x4</CookMealSurvivalBulk.label>
   <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvivalBulk.description>TODO</CookMealSurvivalBulk.description>
+  <CookMealSurvivalBulk.description>Paruošk 4 sausus maisto davinius iš mėsos ir augalinių ingredientų. Daug ingredientų yra iššvaistoma konservuojant.</CookMealSurvivalBulk.description>
   <!-- EN: protein -->
-  <CookMealSurvivalBulk.ingredients.0.filter.customSummary>TODO</CookMealSurvivalBulk.ingredients.0.filter.customSummary>
+  <CookMealSurvivalBulk.ingredients.0.filter.customSummary>baltymai</CookMealSurvivalBulk.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 survival meals. -->
-  <CookMealSurvivalBulk.jobString>TODO</CookMealSurvivalBulk.jobString>
+  <CookMealSurvivalBulk.jobString>Gamina 4 sausus maisto davinius.</CookMealSurvivalBulk.jobString>
   
 </LanguageData>

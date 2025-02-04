@@ -37,28 +37,28 @@
   <MedievalLord57.titleShort>kilmingas</MedievalLord57.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a traveling entertainer on a medieval world and [PAWN_pronoun] could always be found telling stories or singing songs.\n\nThe roads were dangerous, so [PAWN_pronoun] is capable of protecting [PAWN_objective]self. However, [PAWN_pronoun] would always move on when there was hard labour to be done. -->
-  <MedievalMinstrel95.description>[Pawn_namedef] buvo keliaujantis muzikantas viduramžių pasaulyje ir [Pawn_pronoun] nuolat buvo galima rasti pasakojantį istorijas ar dainuojantį dainas.\n\nKeliai buvo pavojingi, todėl [Pawn_namedef] sugeba apsiginti. Tačiau [Pawn_Pronoun] visada iškeliaudavo kai tik atsirasdavo sunkaus darbo.</MedievalMinstrel95.description>
+  <MedievalMinstrel95.description>[PAWN_nameDef] buvo keliaujantis muzikantas viduramžių pasaulyje ir [PAWN_pronoun] nuolat buvo galima rasti pasakojantį istorijas ar dainuojantį dainas.\n\nKeliai buvo pavojingi, todėl [PAWN_nameDef] sugeba apsiginti. Tačiau [PAWN_pronoun] visada iškeliaudavo kai tik atsirasdavo sunkaus darbo.</MedievalMinstrel95.description>
   <!-- EN: medieval minstrel -->
   <MedievalMinstrel95.title>viduramžių muzikantas</MedievalMinstrel95.title>
   <!-- EN: minstrel -->
   <MedievalMinstrel95.titleShort>muzikantas</MedievalMinstrel95.titleShort>
   
   <!-- EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] had collected. -->
-  <MedievalSailor97.description>[Pawn_namedef] tyrinėjo vandenynus plaukiodamas su mediniu laivu, ieškojo augalų ir gyvūnų egzempliorių iš egzotiškų vietų, retkarčiais tenkant gintis nuo piratų. [Pawn_Pronoun] taip mėgo jūrą, kad sausumoje nenorėjo dirbti beveik nieko, darydavo tik absoliutų minimumą, išskyrus tai, kad parduodavo savo surinktus lobius.</MedievalSailor97.description>
+  <MedievalSailor97.description>[PAWN_nameDef] tyrinėjo vandenynus plaukiodamas su mediniu laivu, ieškojo augalų ir gyvūnų egzempliorių iš egzotiškų vietų, retkarčiais tenkant gintis nuo piratų. [PAWN_pronoun] taip mėgo jūrą, kad sausumoje nenorėjo dirbti beveik nieko, darydavo tik absoliutų minimumą, išskyrus tai, kad parduodavo savo surinktus lobius.</MedievalSailor97.description>
   <!-- EN: medieval sailor -->
   <MedievalSailor97.title>viduramžių jūreivis</MedievalSailor97.title>
   <!-- EN: sailor -->
   <MedievalSailor97.titleShort>jūreivis</MedievalSailor97.titleShort>
   
   <!-- EN: On a medieval world, the fastest way to send a message is to give it to somebody on a horse and hope they survive the journey. [PAWN_nameDef] was that somebody. -->
-  <MessageCarrier77.description>Viduramžių pasaulyje greičiausias būdas išsiųsti žinutę yra atiduoti ją kažkam ant arklio ir tikėtis, kad jie išgyvens kelionę. [Pawn_namedef] buvo tas kažkas.</MessageCarrier77.description>
+  <MessageCarrier77.description>Viduramžių pasaulyje greičiausias būdas išsiųsti žinutę yra atiduoti ją kažkam ant arklio ir tikėtis, kad jie išgyvens kelionę. [PAWN_nameDef] buvo tas kažkas.</MessageCarrier77.description>
   <!-- EN: message carrier -->
   <MessageCarrier77.title>laiškanešys</MessageCarrier77.title>
   <!-- EN: messenger -->
   <MessageCarrier77.titleShort>laiškanešys</MessageCarrier77.titleShort>
   
   <!-- EN: As the food taster for a medieval king, [PAWN_nameDef] sampled any dish served at the royal table. [PAWN_pronoun] lived a decadent lifestyle at court, growing fat and doing very little real work. -->
-  <Taster16.description>Kaip viduramžių karaliaus maisto degustatorius, [Pawn_namedef] ragaudavo visus patiekalus patiekiamus prie karališkojo stalo. [Pawn_Pronoun] gyveno prabangų gyvenimą rūmuose, tapo storu ir tikro darbo dirbo labai mažai.</Taster16.description>
+  <Taster16.description>Kaip viduramžių karaliaus maisto degustatorius, [PAWN_nameDef] ragaudavo visus patiekalus patiekiamus prie karališkojo stalo. [PAWN_pronoun] gyveno prabangų gyvenimą rūmuose, tapo storu ir tikro darbo dirbo labai mažai.</Taster16.description>
   <!-- EN: taster -->
   <Taster16.title>degustatorius</Taster16.title>
   <!-- EN: taster -->

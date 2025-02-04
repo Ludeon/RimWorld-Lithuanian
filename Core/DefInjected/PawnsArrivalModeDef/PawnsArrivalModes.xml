@@ -2,62 +2,62 @@
 <LanguageData>
   
   <!-- EN: A group of {0} from {1} have dropped in right on top of you! -->
-  <CenterDrop.textEnemy>TODO</CenterDrop.textEnemy>
+  <CenterDrop.textEnemy>{0} grupė iš {1} nusileido tiesiai ant tavęs!</CenterDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have dropped in right on top of you! -->
-  <CenterDrop.textFriendly>TODO</CenterDrop.textFriendly>
+  <CenterDrop.textFriendly>Draugiška {0} grupė iš {1} nusileido tiesiai ant tavęs!</CenterDrop.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods right on top of you. -->
-  <CenterDrop.textWillArrive>TODO</CenterDrop.textWillArrive>
+  <CenterDrop.textWillArrive>{0_pawnsPluralDef} atvyks transporto kapsulėmis tiesiai ant tavęs.</CenterDrop.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDrop.textEnemy>TODO</EdgeDrop.textEnemy>
+  <EdgeDrop.textEnemy>{0} grupė iš {1} netoliese atvyko transporto kapsulėmis.</EdgeDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDrop.textFriendly>TODO</EdgeDrop.textFriendly>
+  <EdgeDrop.textFriendly>Draugiška grupė {0} iš {1} atvyko transporto kapsulėmis netoliese.</EdgeDrop.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
-  <EdgeDrop.textWillArrive>TODO</EdgeDrop.textWillArrive>
+  <EdgeDrop.textWillArrive>{0_pawnsPluralDef} atvyks transporto kapsulėmis.</EdgeDrop.textWillArrive>
   
   <!-- EN: Several separate groups of {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDropGroups.textEnemy>TODO</EdgeDropGroups.textEnemy>
+  <EdgeDropGroups.textEnemy>Kelios atskiros {0} grupės iš {1} atvyko transporto kapsulėmis netoliese.</EdgeDropGroups.textEnemy>
   <!-- EN: Several separate groups of friendly {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDropGroups.textFriendly>TODO</EdgeDropGroups.textFriendly>
+  <EdgeDropGroups.textFriendly>Kelios atskiros draugiškų {0} grupės iš {1} atvyko transporto kapsulėmis netoliese.</EdgeDropGroups.textFriendly>
   <!-- EN: Several separate groups of {0_pawnsPluralDef} will arrive in transport pods. -->
-  <EdgeDropGroups.textWillArrive>TODO</EdgeDropGroups.textWillArrive>
+  <EdgeDropGroups.textWillArrive>Kelios atskiros {0_pawnsPluralDef} grupės atvyks transporto kapsulėmis.</EdgeDropGroups.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived nearby. -->
-  <EdgeWalkIn.textEnemy>TODO</EdgeWalkIn.textEnemy>
+  <EdgeWalkIn.textEnemy>{0} grupė iš {1} atvyko netoliese.</EdgeWalkIn.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived nearby. -->
-  <EdgeWalkIn.textFriendly>TODO</EdgeWalkIn.textFriendly>
+  <EdgeWalkIn.textFriendly>Draugiška {0} grupė iš {1} atvyko netoliese.</EdgeWalkIn.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive on foot. -->
-  <EdgeWalkIn.textWillArrive>TODO</EdgeWalkIn.textWillArrive>
+  <EdgeWalkIn.textWillArrive>{0_pawnsPluralDef} atvyks pėsčiomis.</EdgeWalkIn.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived from every direction. -->
-  <EdgeWalkInDistributed.textEnemy>TODO</EdgeWalkInDistributed.textEnemy>
+  <EdgeWalkInDistributed.textEnemy>{0} grupė iš {1} atvyko iš visų pusių.</EdgeWalkInDistributed.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived from every direction. -->
-  <EdgeWalkInDistributed.textFriendly>TODO</EdgeWalkInDistributed.textFriendly>
+  <EdgeWalkInDistributed.textFriendly>Draugiška {0} grupė iš {1} atvyko iš visų pusių.</EdgeWalkInDistributed.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive on foot from every direction. -->
-  <EdgeWalkInDistributed.textWillArrive>TODO</EdgeWalkInDistributed.textWillArrive>
+  <EdgeWalkInDistributed.textWillArrive>{0_pawnsPluralDef} atvyks pėsčiomis iš visų pusių.</EdgeWalkInDistributed.textWillArrive>
   
   <!-- EN: {0} from {1} have arrived nearby, approaching from multiple angles. -->
-  <EdgeWalkInGroups.textEnemy>TODO</EdgeWalkInGroups.textEnemy>
+  <EdgeWalkInGroups.textEnemy>{0} iš {1} atvyko netoliese, artėdami iš kelių skirtingų krypčių.</EdgeWalkInGroups.textEnemy>
   <!-- EN: Friendly {0} from {1} have arrived nearby, approaching from multiple angles. -->
-  <EdgeWalkInGroups.textFriendly>TODO</EdgeWalkInGroups.textFriendly>
+  <EdgeWalkInGroups.textFriendly>Draugiški {0} iš {1} atvyko netoliese, artėdami iš kelių skirtingų krypčių.</EdgeWalkInGroups.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive on foot, approaching from several angles at once. -->
-  <EdgeWalkInGroups.textWillArrive>TODO</EdgeWalkInGroups.textWillArrive>
+  <EdgeWalkInGroups.textWillArrive>{0_pawnsPluralDef} atvyks pėsčiomis, artėdami iš kelių krypčių vienu metu.</EdgeWalkInGroups.textWillArrive>
   
   <!-- EN: Several {0} are emerging from the water. -->
-  <EmergeFromWater.textEnemy>TODO</EmergeFromWater.textEnemy>
+  <EmergeFromWater.textEnemy>Keli {0} išnyra iš vandens.</EmergeFromWater.textEnemy>
   <!-- EN: {0_pawnsPluralDef} will emerge from the water. -->
-  <EmergeFromWater.textWillArrive>TODO</EmergeFromWater.textWillArrive>
+  <EmergeFromWater.textWillArrive>{0_pawnsPluralDef} išnirs iš vandens.</EmergeFromWater.textWillArrive>
   
   <!-- EN: A cluster of {0} have landed in drop pods nearby. -->
-  <MechClusterDrop.textEnemy>TODO</MechClusterDrop.textEnemy>
+  <MechClusterDrop.textEnemy>{0} būrys nusileido kapsulėmis netoliese.</MechClusterDrop.textEnemy>
   <!-- EN: The mech cluster will arrive in drop pods. -->
-  <MechClusterDrop.textWillArrive>TODO</MechClusterDrop.textWillArrive>
+  <MechClusterDrop.textWillArrive>Mechanoidų būrys atvyks kapsulėmis.</MechClusterDrop.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
-  <RandomDrop.textEnemy>TODO</RandomDrop.textEnemy>
+  <RandomDrop.textEnemy>{0} grupė iš {1} atvyko transporto kapsulėmis. Jų kapsulės sugedo ir leidžiasi išsibarstydamos visoje vietovėje!</RandomDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
-  <RandomDrop.textFriendly>TODO</RandomDrop.textFriendly>
+  <RandomDrop.textFriendly>Draugiška {0} grupė iš {1} atvyko transporto kapsulėmis. Jų kapsulės sugedo ir leidžiasi išsibarstydamos visoje vietovėje!</RandomDrop.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
-  <RandomDrop.textWillArrive>TODO</RandomDrop.textWillArrive>
+  <RandomDrop.textWillArrive>{0_pawnsPluralDef} atvyks transporto kapsulėmis.</RandomDrop.textWillArrive>
   
 </LanguageData>
