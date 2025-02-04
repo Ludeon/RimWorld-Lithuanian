@@ -24,9 +24,9 @@
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>Kolonistams reikia gelbėjimo</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
-  <ColonistsNeedRescueDesc>Šie kolonistai yra neveiksnūs ant žemės:\n{0}\nPasiūsk kitą kolonistą juos išgelbėti ir nunešti atgal į lovą.\n\n(Kad išgelbėtum pasirink kitą kolonistą, tada paspausk dešinį pelės klavišą ant aukos ir pasirink Išgelbėti.)</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>Šie kolonistai be sąmonės guli ant žemės:\n{0}\nNusiūsk kitą kolonistą jų gelbėti ir parnešti atgal į lovą.\n\n(Kad išgelbėtum pasirink kitą kolonistą, tada paspausk dešinį pelės klavišą ant aukos ir pasirink Gelbėti.)</ColonistsNeedRescueDesc>
   <!-- EN: These colonists are incapacitated on the ground:\n{0}\n\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
-  <ColonistsNeedRescueDescController>TODO</ColonistsNeedRescueDescController>
+  <ColonistsNeedRescueDescController>Šie kolonistai be sąmonės guli ant žemės:\n{0}\n\nNusiųsk kitą kolonistą jų gelbėti ir parnešti atgal į lovą.\n\n(Kad išgelbėtum, pasirink kitą kolonistą, tada paspausk kairįjį trigerio mygtuką ant aukos ir pasirink Gelbėti.)</ColonistsNeedRescueDescController>
 
   <!-- EN: Need defenses -->
   <NeedDefenses>Reikia gynybinių įtvirtinimų</NeedDefenses>
@@ -165,9 +165,9 @@
   <!-- EN: Medical treatment needed -->
   <ColonistNeedsTreatment>Reikia medicininio gydymo</ColonistNeedsTreatment>
   <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDesc>Šiems kolonistams reikia medicininio gydymo. Nesulaukę jos jie gali mirti nuo savo žaizdų arba pažeidimai gali likti visam laikui.\n{0}\n\nPagydyk juos nusiųsdamas į medicininę lovą.\n\n(Pirmiausia pažymėk lovą kaip medicininę pasirinkdamas ją ir perjungdamas į medicininę. Tada pasirink sužeistą kolonistą ir paspausk dešinį pelės klavišą ant medicininės lovos, kad padarytum jį pacientu.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>Šiems žmonėms reikia medicininės pagalbos. Be jos jie gali mirti nuo savo sužeidimų arba sužeidimai gali tapti negrįžtami.\n{0}\n\nGydyk juos nusiųsdamas į medicininę lovą.\n\n(Pirmiausia, pažymėk lovą kaip medicininę, pasirinkęs ją ir įjungęs medicininį režimą. Tada pasirink sužeistąjį ir paspausk dešinį pelės klavišą ant medicininės lovos, kad jis taptų pacientu.)</ColonistNeedsTreatmentDesc>
   <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDescController>TODO</ColonistNeedsTreatmentDescController>
+  <ColonistNeedsTreatmentDescController>Šiems žmonėms reikia medicininės pagalbos. Be jos jie gali mirti nuo savo sužeidimų arba jų sužeidimai gali tapti negrįžtami.\n{0}\n\nGydyk juos nusiųsdamas į medicininę lovą.\n\n(Pirmiausia, pažymėk lovą kaip medicininę, pasirinkęs ją ir įjungęs medicininį režimą. Tada pasirink sužeistąjį ir paspausk kairįjį trigerio mygtuką ant medicininės lovos, kad jis taptų pacientu.)</ColonistNeedsTreatmentDescController>
 
   <!-- EN: Hypothermia -->
   <AlertHypothermia>Hipotermija</AlertHypothermia>
