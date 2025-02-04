@@ -100,7 +100,7 @@
   <!-- EN: go-juice production -->
   <GoJuiceProduction.label>raketos gamyba</GoJuiceProduction.label>
   <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
-  <GoJuiceProduction.description>Gamink raketą – sintetinį kovinį dopingą, kuris pagerina šaudymo, artimos kovos ir judėjimo sugebėjimus bei malšina skausmą.</GoJuiceProduction.description>
+  <GoJuiceProduction.description>Gamink raketą – sintetinį kovinį dopingą, kuris pagerina gebėjimą šaudymti, judėti ir kovoti iš arti, taip pat malšina skausmą.</GoJuiceProduction.description>
   <!-- EN:
     <li>subject->go-juice production</li>
     <li>subject_story->was expelled for taking go-juice during team sports matches</li>

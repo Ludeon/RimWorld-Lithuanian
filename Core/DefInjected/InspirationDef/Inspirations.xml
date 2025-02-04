@@ -6,7 +6,7 @@
   <!-- EN: Inspired: Go frenzy -->
   <Frenzy_Go.baseInspectLine>Įkvėpimas: Vaikščiojimo karštinė</Frenzy_Go.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will move faster for the next 8 days. -->
-  <Frenzy_Go.beginLetter>Kitas 8 dienas [PAWN_pronoun] vaikščios greičiau.</Frenzy_Go.beginLetter>
+  <Frenzy_Go.beginLetter>Kitas 8 dienas [PAWN_pronoun] judės greičiau.</Frenzy_Go.beginLetter>
   <!-- EN: {0} is no longer inspired (go frenzy). -->
   <Frenzy_Go.endMessage>{0} nebėra įkvėptas (vaikščiojimo karštinė).</Frenzy_Go.endMessage>
   

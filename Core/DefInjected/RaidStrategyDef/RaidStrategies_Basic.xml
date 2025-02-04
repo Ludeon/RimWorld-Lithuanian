@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: They are attacking immediately. -->
-  <EmergeFromWater.arrivalTextEnemy>TODO</EmergeFromWater.arrivalTextEnemy>
+  <EmergeFromWater.arrivalTextEnemy>Jie puola nedelsdami.</EmergeFromWater.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <EmergeFromWater.arrivalTextFriendly>TODO</EmergeFromWater.arrivalTextFriendly>
+  <EmergeFromWater.arrivalTextFriendly>Jie nedelsdami atvyksta tau padėti.</EmergeFromWater.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <EmergeFromWater.letterLabelEnemy>TODO</EmergeFromWater.letterLabelEnemy>
+  <EmergeFromWater.letterLabelEnemy>Reidas</EmergeFromWater.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <EmergeFromWater.letterLabelFriendly>TODO</EmergeFromWater.letterLabelFriendly>
+  <EmergeFromWater.letterLabelFriendly>Sąjungininkai</EmergeFromWater.letterLabelFriendly>
   
   <!-- EN: They are attacking immediately. -->
-  <ImmediateAttack.arrivalTextEnemy>TODO</ImmediateAttack.arrivalTextEnemy>
+  <ImmediateAttack.arrivalTextEnemy>Jie puola nedelsdami.</ImmediateAttack.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttack.arrivalTextFriendly>TODO</ImmediateAttack.arrivalTextFriendly>
+  <ImmediateAttack.arrivalTextFriendly>Jie nedelsdami atvyksta tau padėti.</ImmediateAttack.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttack.letterLabelEnemy>TODO</ImmediateAttack.letterLabelEnemy>
+  <ImmediateAttack.letterLabelEnemy>Reidas</ImmediateAttack.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttack.letterLabelFriendly>TODO</ImmediateAttack.letterLabelFriendly>
+  <ImmediateAttack.letterLabelFriendly>Sąjungininkai</ImmediateAttack.letterLabelFriendly>
   
   <!-- EN: They are attacking immediately. -->
-  <ImmediateAttackFriendly.arrivalTextEnemy>TODO</ImmediateAttackFriendly.arrivalTextEnemy>
+  <ImmediateAttackFriendly.arrivalTextEnemy>Jie puola nedelsdami.</ImmediateAttackFriendly.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttackFriendly.arrivalTextFriendly>TODO</ImmediateAttackFriendly.arrivalTextFriendly>
+  <ImmediateAttackFriendly.arrivalTextFriendly>Jie nedelsdami atvyksta tau padėti.</ImmediateAttackFriendly.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttackFriendly.letterLabelEnemy>TODO</ImmediateAttackFriendly.letterLabelEnemy>
+  <ImmediateAttackFriendly.letterLabelEnemy>Reidas</ImmediateAttackFriendly.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttackFriendly.letterLabelFriendly>TODO</ImmediateAttackFriendly.letterLabelFriendly>
+  <ImmediateAttackFriendly.letterLabelFriendly>Sąjungininkai</ImmediateAttackFriendly.letterLabelFriendly>
   
   <!-- EN: They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
-  <ImmediateAttackSmart.arrivalTextEnemy>TODO</ImmediateAttackSmart.arrivalTextEnemy>
+  <ImmediateAttackSmart.arrivalTextEnemy>Jie puola nedelsdami.\n\nSaugokis – jie taktiškai atrodo neįprastai gudrūs. Jie vengs jūsų bokštelių ugnies zonų ir pastebės kai kuriuos jūsų spąstus.</ImmediateAttackSmart.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttackSmart.arrivalTextFriendly>TODO</ImmediateAttackSmart.arrivalTextFriendly>
+  <ImmediateAttackSmart.arrivalTextFriendly>Jie nedelsdami atvyksta tau padėti.</ImmediateAttackSmart.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttackSmart.letterLabelEnemy>TODO</ImmediateAttackSmart.letterLabelEnemy>
+  <ImmediateAttackSmart.letterLabelEnemy>Reidas</ImmediateAttackSmart.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttackSmart.letterLabelFriendly>TODO</ImmediateAttackSmart.letterLabelFriendly>
+  <ImmediateAttackSmart.letterLabelFriendly>Sąjungininkai</ImmediateAttackSmart.letterLabelFriendly>
   
   <!-- EN: They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively. -->
-  <StageThenAttack.arrivalTextEnemy>TODO</StageThenAttack.arrivalTextEnemy>
+  <StageThenAttack.arrivalTextEnemy>Jie kurį laiką ruošis, o tada puls.\n\nRuoškis gintis arba užpulk juos pirmas.</StageThenAttack.arrivalTextEnemy>
   <!-- EN: They will prepare for a while before moving in to help you. -->
-  <StageThenAttack.arrivalTextFriendly>TODO</StageThenAttack.arrivalTextFriendly>
+  <StageThenAttack.arrivalTextFriendly>Jie kurį laiką ruošis prieš atvykdami tau padėti.</StageThenAttack.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <StageThenAttack.letterLabelEnemy>TODO</StageThenAttack.letterLabelEnemy>
+  <StageThenAttack.letterLabelEnemy>Reidas</StageThenAttack.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <StageThenAttack.letterLabelFriendly>TODO</StageThenAttack.letterLabelFriendly>
+  <StageThenAttack.letterLabelFriendly>Sąjungininkai</StageThenAttack.letterLabelFriendly>
   
 </LanguageData>

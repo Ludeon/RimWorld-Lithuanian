@@ -1,0 +1,1063 @@
+<<          - Reikia peržiūrėti visus žodžius
+(?)         - nepatinkantis vertimas
+(??)        - labai nepatinkantis vertimas
+(? žodis)   - galimas kitoks vertimas
+<P          - reikia sugalvoti geresnį vertima ir tada peržiūrėti
+
+google tip: "(angl. mortar" -angel -angle
+
+chatGPT tip:
+fill in the BLANK in the following sentence in lithuanian: "Dėl savo brangumo ir rafinuotos išvaizdos daugelis kultūrų kokainą sieja su BLANK turtuoliais."
+try another word
+another word, one that would describe someone who is degenerate
+
+
+Pakeisti viduje įterpto teksto:
+<!-- EN: {0} of {1} -->
+<SeasonFullDate>{1} {replace: {0}; "th"-""; "st"-""; "nd"-""; "rd"-""}</SeasonFullDate>
+
+
+PAWN_pronoun        - jis
+PAWN_objective      - jį
+PAWN_possesive      - jo
+
+
+Prasti vertimai:
+
+Plant_Healroot.description
+
+
+    _A_
+
+ability                     - gebėjimas (true/false)/sugebėjimas (gradual)
+accept                      - priimti/sutikti/išlaikyti (gruntas)
+aching                      - gelia
+activate                    - aktyvuoti
+active                      - aktyvus/veiklioji (cheminė medžiaga)
+actual                      - tikrasis
+actually                    - iš tikro
+addict                      - narkomanas (?)
+adjust                      - pakeisti
+adjusted by                 - priklauso nuo
+adult                       - suaugęs
+advance						- žengti į priekį
+adulthood                   - būti suaugusiu (?)
+advanced                    - daugiau (pasirinkimų)/pažangus/aukšto lygio
+advanced component          - pažangus komponentas
+affected by                 - priklauso nuo
+affects                     - paveikia/ turi įtakos
+affiliated                  - susijęs (?)
+agarilux                    - agarikinė šviesabudė (?)
+age-related disease         - senatvinė liga
+agent                       - agentas
+AI                          - dirbtinis intelektas
+alert                       - įspėjimas
+all                         - viskas <P
+allowed area                - leidžiama sritis
+alphabeaver                 - alfa bebras
+ambrosia                    - ambrozija
+animal type                 - gyvūno tipas
+antigrain                   - antimedžiaga
+anything                    - bet kas/nieko
+apparel                     - apranga/drabužiai
+appealing                   - patrauklus
+applies                     - taikoma
+applied                     - skaičiuojamas
+apply                       - pritaikyti
+appreciation                - dėkingumas
+archotechnological          - archotechnologinis
+area                        - sritis (leidžiama, namų, ...)/vietovė (žaidimo žemėlapis)/teritorija
+armor                       - šarvai
+armor penetration           - šarvų pramušimas
+arrest                      - suėmimas/suimti
+art bench                   - menininko stalas
+artifact                    - artefaktas
+artificial gestator         - dirbtinė gimda
+artistic                    - menas (?)
+assign                      - priskirti
+assigned                    - priskirtas/paskirtas (būti)/skirtas
+attack                      - ataka/(už)pulti (gyvūnas arba kaimo puolimas)
+ascetic                     - asketas
+assault						- puolimas
+auto-cut                    - iškirsti (??)
+autocannon                  - automatinė patranka
+available                   - pasiekiamas/yra (no ... available - nėra ...)/esamas/galioja
+awful                       - labai prastas
+
+
+    _B_
+
+background                  - fonas
+bandaged                    - sutvarstyta
+barn                        - tvartas
+barracks                    - barakas (?)
+base                        - bazinis (skaičius)(?)
+baseline                    - paprastas
+basic                       - pagrindinis
+basics                      - pagrindiniai duomenys
+batch                       - partija (?)
+battery                     - baterija
+battle                      - mūšis
+beacon                      - švyturys
+bedroll                     - miegmaišis
+bench                       - stalas
+berserk                     - nevaldomas įniršis (?)
+berserker                   - berserkeris (??)
+bestower                    - dovanotojas (??) <P
+binging                     - piktnaudžiavimas
+bill                        - užsakymas
+biocoded                    - biokoduotas
+bionic                      - bioninis
+biotech                     - biotechnologijos
+blacksmith                  - kalvis
+blight                      - kūlės
+block                       - blokas (akmens)
+bloodlust                   - kraujo troškimas (?)
+bloodstream                 - kraujyje
+bluefur                     - mėlynasis kailis
+blunt                       - bukas/ nuo buko (šarvai)
+body modder                 - kūno modifikuotojas
+body purist                 - tyro kūno šalininkas
+bond                        - emocinis ryšys/augintinis
+bonus                       - priedas/papildomas
+boomalope                   - sprogstanti antilopė
+boomrat                     - sprogstanti žiurkė
+borderless                  - be (lango) kraštų
+botched                     - nepavykęs/nepavyko
+bowler hat                  - katiliukas
+brandish					- mosuoti
+brawler                     - mušeika
+break down                  - palūžti
+brings                      - prišauks (reidus)
+brutal                      - kankinančiai daug
+bryolux                     - švytinčioji veltenė
+building                    - pastatas/statinys (pvz. krematoriumas)/statymas
+built-up                    - išsivysčiusi (tolerancija)
+bulk goods trader           - didmeninis prekeivis (?)
+buried                      - po žeme
+burning passion             - liepsnojantis entuziazmas
+burst                       - papliūpa
+butcher                     - mėsininkas/(iš)mėsinėti
+butchered flesh             - skerdiena
+
+
+    _C_
+
+cabin fever                 - uždarų patalpų sindromas (?)
+cabinet                     - spinta
+calf                        - veršelis
+camera                      - kamera
+cancel                      - atšaukti
+capability                  - pajėgumas
+capable                     - galintis/gali
+capture                     - paimti į nelaisvę/užgrobtas (bokštas) (? trofėjinis)
+cargo pod                   - krovininė kapsulė
+caribou                     - šiaurės elnias
+carnivore                   - mėsėdis/mėsiškas (patiekalas)
+carry                       - nešiotis/(pa)nešti
+cassowary                   - kazuaras
+catatonic                   - katatoninis
+cell                        - langelis
+chance                      - tikimybė
+character                   - veikėjas
+charge                      - užkrauti (?)
+chat                        - kalbėtis
+chemfuel                    - degalai
+chemical                    - chemijos/chemikalas(ai)/cheminis
+chitchat                    - pašnekesys (?)
+chitinous                   - chitininis
+chunk                       - gabalas
+claim                       - nusavinti/atsiimti (atlygį)
+claw                        - nagas/letena
+click                       - paspausti
+clipboard                   - iškarpinė
+close and personal          - akis į akį
+clothing                    - drabužiai
+cluster                     - keletas(?)/būrys (mechanoidų) <<
+coaxed                      - perdarytas
+coherent                    - aiškus
+cold                        - nuo šalčio (izoliacija)
+cold snap                   - šalčio banga
+colonist                    - kolonistas (?)
+colonist bar                - kolonistų juosta
+combat                      - kova/kovinis/ginklų
+combat-related              - kovojant svarbūs
+comfortable                 - komfortiškas/patogus
+commoner                    - prasčiokas
+comms console               - radijo stotelė
+communication               - ryšio palaikymas (?)
+compacted machinery         - suspausti mechanizmai (?)
+complete                    - užbaigtas
+complex                     - sudėtingi
+concept                     - koncepcija
+confined                    - suspaustas
+considered                  - laikomas
+construct                   - (pa)statyti (pastatai ir baldai)/konstruoti (daiktai)
+construction                - statymas
+container                   - talpykla
+containing                  - viduje esantis
+controller                  - valdymo pultelis
+cooking                     - (maisto/narkotikų) gaminimas
+cooldown                    - pertrauka (?)
+core                        - šerdis/esminė dalis
+corpse obsession            - apsėstas lavonų
+count                       - kiekis
+countdown                   - atgalinis skaičiavimas
+countertop                  - stalviršis
+court                       - rūmai
+cousin                      - giminaitis
+cover                       - priedanga
+craft                       - gaminti (?) <P
+crafting                    - meistrauti (?? rankdarbis)
+crafting spot               - meistravimo vieta (?)
+crafts                      - dirbiniai (?)
+crash                       - avarija
+crashed                     - sudužęs
+creature                    - būtybė/padaras (gyvūnų aprašymuose)
+creep out                   - šiurpinti
+creepy                      - šiurpus
+critical                    - kritiškai svarbus
+crop                        - kultūriniai augalai (?? maistiniai augalai) 
+crops                       - javai (?? maistiniai augalai)
+cryptosleep                 - kriptomiegas (?)
+cultivated                  - dekoratyvinė
+cursor                      - žymeklis
+cut                         - kirsti/skaldyti (akmenis)/kirpti/pjautinė žaizda
+
+    _D_
+
+damaged                     - sugadintas
+data processing             - duomenų apdorojimas
+daze                        - apsvaigęs (??)
+debilitating                - slopinantis
+decadent                    - prabangus
+decay                       - mažėti
+decent                      - neblogas/padoriai
+decohere                    - išsiderina
+deconstruct                 - išardyti
+deep drill                  - giluminis grąžtas/giluminis gręžinys
+default                     - numatytasis
+deflect                     - atremti
+degenerate                  - degradavęs
+delay                       - trukmė
+delicate                    - gležnas
+delighted                   - džiaugiasi
+denied                      - neleido
+depressive                  - depresinis
+designate                   - pažymėti
+designated                  - pažymėta/paskirta (vietai pasaulio žemėlapyje, konkrečiam žmogui)
+designation                 - pažymėjimas/žymė
+desperate                   - desperatiškas
+deteriorate                 - gesti/pūti
+device                      - įtaisas
+devilstrand                 - velniagrybis (?)
+diet                        - mityba
+dining chair                - valgomojo kėdė
+disadvantage                - nepalankumas (??)
+disgusted                   - pasišlykštėjęs
+dispenser                   - dozatorius
+distinctive                 - išskirtinis
+disturb                     - trikdyti/sujudinti
+divorced                    - nutraukė santuoką (?)
+dodge                       - išsisukti
+dolly                       - slinkti
+donor                       - rėmėjas
+dormant                     - ramybės būsenoje
+downed                      - numuštas
+DPS                         - ŽPS (žala per sekundę)
+draft                       - mobilizacija/mobilizuotas
+drag                        - tempti
+draw                        - imti (elektros energiją) (?)
+dresser                     - komoda
+dried                       - džiovintas
+drive                       - variklis
+driven                      - paremtas
+drone                       - ūžesys
+droner                      - ūžesio šaltinis
+drop                        - numesti
+drop-down                   - išskleidžiamasis (meniu)
+drop pod                    - transporto kapsulė (?)
+drug                        - medikamentas/vaistas/narkotikas
+drug policy                 - medikamentų vartojimo (tvarka)
+dull                        - nykiai (?)
+dumb labor                  - įgūdžių nereikalaujantis darbas (?)
+dumping area                - atliekų sritis
+duster                      - paltas
+
+
+    _E_
+
+eager                       - nekantraujantis
+effect                      - poveikis
+effective                   - veiksmingas/efektyvus/faktinis
+effector                    - efektorius
+efficiency                  - efektyvumas (?)
+eject                       - išimti
+eltex                       - (??) <P
+emit                        - paleisti
+empath                      - empatas
+enchanted                   - pakerėtas
+enclose                     - aptverti
+encounter                   - netikėtas susitikimas
+end table                   - naktinis staliukas
+energizer                   - tonizuojantis gėrimas
+enhanced                    - ištobulintas
+enormous					- didžiulis
+entertainer                 - muzikantas
+equipment                   - ekipuotė (apranga ir ginklai)/įranga (technika)/priemonės
+equip                       - ekipuoti
+equipped                    - ekipuotas
+escape                      - ištrūkti
+euphoric                    - euforinis
+eusocial                    - bendruomeninis
+eventually                  - galiausiai
+examine                     - peržiūrėti/apžiūrėti
+excited                     - entuziastingai (laukia)
+execute                     - įvykdyti egzekuciją
+expansion                   - žaidimo papildymas (?)
+exposed to                  - veikiamas
+exposure                    - poveikis
+extra                       - perteklinis
+extract                     - iškasti/išgauti/_
+extremely                   - nepaprastai/itin/pats (žemiausias)
+extreme                     - aukščiausio laipsnio/itin didelis/ekstremalios (oro sąlygos) (?? nepakeliamas) <P
+eyedropper                  - pipetė
+
+
+    _F_
+
+fabricate                   - gaminti (?)
+fabrication                 - aukštųju technologijų gamyba (?)
+facility                    - įrenginys
+faction                     - frakcija
+factor                      - koeficientas/aplinkybė
+failed                      - nepavykęs/nepavyko įvykdyti
+fall                        - mažėjimas/nukrito (geranoriškumas, santykiai)
+fallout                     - nuokritos
+farm                        - išgauti auginant
+farmer                      - žemdirbys
+fascinating                 - žavingas
+fault                       - gedimas
+feedback                    - atsakomoji reakcija
+feedstock                   - maistinė žaliava
+fermenting barrel           - fermentacijos statinė
+fetch                       - kainuoja
+filth                       - nešvarumai
+fine						- puikus (patiekalas)
+fire retardant              - ugnį slopinantis
+fire rate                   - šaudymo sparta
+fire starting spree         - padeginėjimai
+firefoam                    - gaisro gesinimo putos
+firefoam popper             - priešgaisrinis purkštuvas
+fixture                     - (kultūros) dalis
+flagstone                   - plokštė
+flak                        - neperšaunamas
+flake                       - kaifas
+flap                        - užuolaida
+flashstorm                  - žaibavimų audra (??) <P
+flick                       - perjungti
+flown into                  - sukilo
+foam turret                 - gesintuvo bokštas (?)
+focused                     - koncentruotas
+folder                      - katalogas
+food restriction            - maisto ribojimas
+force						- pajėgos
+forage                      - (gamtoje) surinkti (maistą)
+forge                       - nukalti
+formerly                    - anksčiau
+freely                      - laisva valia
+frenzy                      - karštinė (?)
+frozen climate              - arktinis klimatas (?)
+frustrated                  - nusivylęs
+frustrating                 - apmaudu
+frustration                 - frustracija
+fueled                      - kūrenama
+fueling port                - kuro tiekimas (??)
+fulfill                     - įvykdyti
+fullscreen                  - per visą ekraną (?)/viso ekrano (režimu)
+fuzziness                   - apsiblausęs
+fuzzy                       - apsiblausęs
+
+
+    _G_
+
+game dev                    - žaidimų kūrėjas
+gameplay                    - žaidimo eiga (??)
+gather                      - rinkimas (iš)
+gear                        - ekipuotė
+gender                      - lytis
+gene engineering            - genų inžinerija
+general                     - bendri/paprasti/visokie
+generate                    - kurti
+giant insects               - didieji vabzdžiai
+gladius                     - gladijus
+glitterworld                - ultramodernus pasaulis (?)
+global                      - bendras (?)
+glop                        - marmalas
+glow pod                    - švytinti kapsulė
+glowing                     - švytintis
+glowstool                   - šviečiantis kelmutis
+go-juice                    - raketa (?) 
+going to                    - ketina
+governs                     - nulemia
+grand stele                 - milžiniška stela
+greatbow                    - ilgasis lankas
+ground-penetrating scanner  - grunto radaras
+grove                       - giraitė (??)
+growing zone                - auginimo zona
+growth vat                  - augimo kapsulė
+guest                       - svečias <P
+guiding                     - vadeliojimas
+guilty                      - nusikaltęs
+gun turret                  - ginkluotasis bokštas (?)
+gut                         - (pojūtis) viduje
+
+
+    _H_
+
+hand tailor                 - siuvimas rankomis
+handler                     - gyvūnų prižiūrėtojas
+handling                    - darbas su gyvūnais/gyvūnai
+hang around                 - pabuvoti
+hardy                       - patvarus
+harness                     - pažaboti
+harvest                     - nuimti derlių/paimti (organą)/surinkti (uogas)
+haul                        - gabenti
+haven                       - prieglobstis
+head claw                   - galvos žnyplės (??)
+headshot                    - šūvis į galvą
+healroot                    - gydašaknis (?) (? vaistinis <kažkas>)
+heat                        - nuo karščio (šarvai, izoliacija)
+heatstroke                  - šilumos smūgis
+herbal medicine             - vaistažolės
+herd                        - banda (?)
+hi-tech                     - aukštųjų technologijų
+hibernating                 - miegantis
+hideous                     - bjaurus
+high                        - stiprus (skausmas, ūžesys)/didelis (energijos vartojimas)/aukšta (temperatūra)/ilga (trukmė)/apkvaišimas
+high-explosive              - didelio galingumo sprogmenys
+high on                     - apkvaišęs nuo
+highborn                    - kilmingasis
+hit                         - pataikymas
+hit points                  - gyvybės taškai
+hitching spot               - sukinkymo vieta
+hold fire                   - sulaikyti ugnį
+home area                   - namų sritis
+hopper                      - piltuvas
+horseshoes pin              - pasagų kuoliukas
+hostile                     - agresyvus (?)/priešiškas (atžvilgiu) <P
+humanlike                   - žmogiška būtybė
+humanoid                    - humanoidas
+hydroponics                 - hidroponika
+hydroponics basin           - hidroponinė daigykla
+
+
+    _I_
+
+ibex                        - kalnų ožys
+identity                    - tapatybė
+ideoligion                  - įsitikinimas (?)
+ideology                    - ideologija
+idle                        - dykinėti (kolonistas)/stovėti (karavanas)
+IED                         - ISU (improvizuotas sprogstamasis užtaisas)
+ignore                      - ignoruoti/nepaisyti/nepastebėti
+impact                      - poveikis/įtaka/smūgis/pataikius/nukritimas
+impactor                    - smogtuvas (?)
+importance                  - svarba <P
+improve                     - pagerinti/pagerėti (santykiai)/sustiprinti
+improve by                  - padidėti
+improvement                 - padidinimas
+in any instance             - konkrečiu atveju
+incendiary                  - padegamasis
+incompletable               - neužbaigiamas
+incapable                   - negalintis
+incident                    - incidentas (? nelaimė) <P
+increment                   - pridėti
+inducing                    - skatina (?)
+industrial world            - pramoninis pasaulis (?)
+industrial-tech             - pramonės eros
+infused                     - prisotinta
+ingest                      - (su)vartoti
+inject                      - švirkšti
+insect geneline             - didieji vabzdžiai
+inspector                   - inspektorius
+inspired                    - įkvėpimas (?)
+install                     - įmontuoti
+insulation                  - (šilumos) izoliacija
+insulting spree             - įžeidinėjimas (??)
+intellectual                - intelektiniai (įgūdžiai)
+intense                     - labai stiprus
+interact                    - bendrauti/naudodamasis
+interaction                 - sąveika
+intercept                   - perimti (?)
+interface                   - sąsaja (?)
+interior                    - vidus
+intermediate                - vidutinio lygio
+invade						- įsiveržti
+inventory                   - inventorius
+item                        - daiktas/gaminys
+
+
+    _J_
+
+joint                       - suktinė/sujungimas
+joywire                     - linksmalaidis (??)
+juvenile                    - jaunas
+
+
+    _K_
+
+key                         - kertinis
+kidnapping                  - pagrobia
+kill                        - nužudymas
+
+
+    _L_
+
+landscape                   - planetos paviršius (?)
+large                       - stipri (tolerancija)
+lavish                      - prabangus
+leader                      - lyderis
+leaving                     - palikti/išvyksta (žmonės iš vietovės)/išeiti
+lifestage                   - gyvenimo etapas
+like                        - tipo
+limited-use                 - su ribotu panaudojimų skaičiumi
+line of sight               - tiesioginis matomumas
+link                        - susieti
+linked                      - susijusi
+load                        - įkelti (bylą)/pakrauti (daiktus)/užtaisyti
+local                       - paplitę
+location                    - vietovė <P
+log                         - įrašas
+long-duration               - ilgo veikimo
+long range                  - ilgojo nuotolio
+long range mineral scanner  - ilgojo nuotolio mineralų radaras
+longsword                   - kalavijas
+loot                        - grobis/pagrobti (iš)
+lord                        - ponas
+lose cohesion               - išsiderinti
+low                         - silpnas (ūžesys)/žema (temperatūra, lūkesčiai)/mažai/bloga
+low-industriousness         - mažai išsivysčiusios
+loyal                       - ištikimas
+luciferium                  - liuciferinas
+lump                        - luitas/gumbas
+
+
+    _M_
+
+machine                     - aparatas/robotas/mašina/mašininis/prietaisas/kompiuterinis
+machine persona             - kompiuterinė persona (?)
+machinery                   - technika
+machining                   - mechaninis apdirbimas (?? šaltkalvystė)
+mad                         - įsiutęs
+maddened                    - įsiutintas
+maintain                    - išmaitinti
+maintenance                 - išlaikymas
+major                       - sunkus/didelis/vėlyva/pagrindinis
+makes it                    - (jam) bus viskas gerai
+malnourished                - nepakanka maisto
+malnutrition                - maisto nepakankamumas
+manage                      - būti atsakingam už/pavykti/valdyti/tvarkyti
+manager                     - vadovas (?)
+mandible                    - burnos organas (?)
+manhunter                   - žmones puolantis (gyvūnas)
+manipulation                - rankų valdymas (??)
+manual                      - fizinis
+map                         - žemėlapis
+marginal                    - kraštutinis (?)
+marine                      - pėstininkas
+market value                - rinkos vertė
+massive                     - labai stipri (tolerancija) (?)
+mastered                    - turintis šeimininką
+max                         - maksimumas/didžiausias/daugiausia/maksimalus
+maximum                     - maksimalus/daugiausia
+meal                        - patiekalas
+medieval world              - viduramžių pasaulis (?)
+mediocre                    - vidutinis
+mech                        - mechanoidas
+mech cluster                - mechanoidų telkinys (?)
+mechanites                  - mechanitai (??)
+medical                     - medicininis/sveikatos
+medicine                    - vaistinėlė/vaistai
+meditative joy              - meditacinis džiaugsmas
+meditator                   - medituotojas (?)
+megascarab                  - didysis skarabėjas (?)
+megascreen                  - didžiaekranis
+megaspider                  - didysis voras (?)
+megasloth                   - didysis tinginys
+melee                       - artima kova/artimoje kovoje/arti (?)
+mental break                - nervinis pakrikimas (?? palūžimas)
+mental breakdown            - nervinis pakrikimas (?? psichikos sutrikimas)
+mental state                - psichinė būsena
+merge                       - dėti į vieną krūvą (??) (? sujungti)
+mess                        - netvarka
+mind-shattering             - protą veriantis (?)
+mine                        - kasti
+mini-turret                 - mini bokštas (?)
+minigun                     - gatlingas
+minimum                     - minimalus
+minor                       - lengvas/ankstyva/nedidelė
+misc                        - įvairūs
+miss                        - nepataikymas
+mod                         - (žaidimo) modifikacija (?)
+moderate                    - vidutinis
+modify                      - pakeisti
+moisture pump               - drėgmės surinkėjas
+mortar                      - minosvaidis
+mostly                      - praktiškai
+mount                       - jojimas
+move                        - judėti/perkelti
+movement 					- judėjimas/judesiai
+muffalo                     - muivolas
+multi-analyzer              - daugiafunkcinis analizatorius
+multibarrel weapon          - daugiavamzdis ginklas
+munitions                   - ginkluotė
+
+
+    _N_
+
+native to                   - kilęs iš
+navy                        - (karinis) laivynas (?)
+nearby                      - šalia/gretimas
+net                         - laidas
+neuroquake                  - neurodrebėjimas (??)
+next                        - kitas/sekantis
+nexus                       - centras (?)
+neurotrainer                - neurotreniruoklis (?)
+neutroamine                 - neutroaminas
+none                        - nėra
+normal                      - įprastas/paprastas/vidutinis
+normally                    - įprastai
+note                        - atkreipti dėmesį
+number                      - skaičius
+nutrition                   - maisto medžiagų (kiekis)
+nuzzle                      - trintis nosimi
+
+
+    _O_
+
+oaf                         - beraštis
+officer                     - karininkas
+offset                      - pokytis/pakisti
+operate                     - operuoti (pacientą)/naudoti (įrenginį)/valdyti
+options                     - nustatymai
+order                       - nurodymas
+organic                     - organinis
+originally                  - anksčiau
+outfit                      - aprangos komplektas
+outlander                   - svetimšalis
+outpost                     - forpostas
+outsider                    - pašalinis
+overall                     - bendrai/visi
+overhead mountain           - viršuje esantis kalnas
+overjoyed                   - nesitveria džiaugsmu
+overlay                     - rodymas (?)
+overstimulate               - sudirginti
+overwhelm                   - sujaukti (protą)
+overwhelming				- milžiniškos (??)
+ownership                   - būti savininku (?)
+
+
+    _P_
+
+pack animal                 - nešulinis gyvūnas
+pack                        - kinkyti/būrys/paketas
+packaged survival meal		- sausas maisto davinys <<
+paintable                   - dažomas
+pan                         - slinkti
+parka                       - striukė (?) <P
+pass                        - keliauja pro šalį (??)
+passage                     - praėjimas
+passing                     - keliauti pro šalį
+passion                     - entuziazmas
+paste                       - maistinė pasta/įklijuoti
+patchleather                - oda iš lopinėlių
+pause                       - sustabdyti (žaidimą)
+paved tile                  - betoninė plytelė
+pelt                        - oda su kailiu
+pemmican                    - pemikanas
+pen marker                  - aptvaro žymeklis
+penalty                     - bauda
+penoxycyline                - penoksicilinas
+perceptual                  - realybės suvokimo
+performance-enhancing drug  - dopingas
+permadeath                  - negrįžtama mirtis (??)
+permanently                 - visam laikui
+persona                     - persona (?)
+persona core                - personos šerdis (?)
+persona weapon              - personos ginklas (?)
+pigging out                 - apsivalgyti (??)
+pinky                       - pirštas mažylis
+place                       - (pa)dėti
+plainleather                - paprasta oda
+plant fiber                 - biologinis pluoštas (devilstrand)
+plasteel                    - plastmetalis (?)
+plate                       - plokštelė/plokštė
+plate armor                 - plokštiniai šarvai
+pod                         - kapsulė
+pod launcher                - kapsulių paleidimo sistema
+policy						- tvarka (??) <P
+pop                         - užtaisas/aktyvuoti
+positioning                 - pozicijų užėmimas
+possession                  - asmeninis daiktas
+poultice                    - kompresas
+power                       - elektros energija/galia/tiekti elektros energiją/elektra/elektros srovė
+power conduit               - elektros kabeliai
+power switch                - elektros jungiklis
+powered                     - motorinis
+preferred                   - pageidautinas
+prevent                     - apsaugoti
+previous                    - ankstesnis
+prey                        - auka/grobis
+prioritized                 - prioritetinis
+private                     - atskiras
+produce                     - iš (gyvūno/augalo/daikto) (yra) išgaunamas/(gyvūnas) pridaro/gaminti/sukurti/skleisti/(iš)gaunamas
+progress                    - progresas (?)
+projectile                  - sviedinys
+psycast                     - psi smūgis (??) <P
+psychic                     - psichinis
+psychic pulse               - psichinis impulsas
+psychite                    - psichitinas
+psychoid plant              - psichoido augalas (?)
+psychotic wandering         - klaidžioja psichozėje (?)
+psyfocus                    - psifokusas (??) <P
+psylink                     - psiryšys (??) <P
+pulse-charged               - impulsinis (?)
+pumped                      - būti užsipumpavęs
+
+
+    _Q_
+
+quack                       - šarlatanas
+quest                       - užduotis (?? quest/work/task/bill)
+queue                       - pridėti į eilę
+quite                       - gana/ganėtinai/visiškai/labai/puikus/toks
+
+
+    _R_
+
+rage                        - įniršis
+raid                        - puldinėti/reidas
+raider                      - užpuolikas
+rainfall                    - kritulių kiekis
+range                       - nuotolis/ribos/(temperatūros) diapazonas/intervalas
+ranged                      - nuotolinis
+rapport                     - tarpusavio supratimas (??)
+rate                        - greitis/(šaudymo) sparta/tikimybė
+rating                      - vertė
+ravenously hungry           - peralkęs (?)
+raw                         - neapdorotas/žalias
+raw food                    - neapdorotas maistas
+raw resource                - žaliava
+razorfangs                  - ašmeninės iltys (?)
+really                      - tikrai
+rearrange                   - pertvarkyti <P
+rec room                    - pramogų kambarys
+recently                    - pastaruoju metu
+recharge                    - įkrovimas
+reconnect                   - prijungti iš naujo
+recreation                  - pramogos
+recruit                     - įkalbėti prisijungti
+recruiter                   - rekruteris (??)
+recurve bow                 - lenktasis lankas
+reduce                      - sumažinti/pablogėti (santykiai)/sutrumpinti
+refining                    - rafinavimas
+refined                     - išgrynintas (narkotikas)
+refinery                    - perdirbimo įranga (??)
+reform                      - performuoti
+refuel                      - kuro papildymas
+refuelable                  - galima papildyti kurą (?)
+reinforce                   - atsiųsti pastiprinimą
+reinstall                   - permontuoti
+related                     - giminingas
+reload                      - užtaisyti
+remote                      - atokus
+remove                      - pašalinti
+repair                      - (su)taisyti
+replacement                 - protezas
+represent                   - rodyti
+rescue                      - (iš)gelbėti
+research                    - tyrimai/išrasti
+researcher                  - tyrėjas
+reset                       - atstatyti
+resource                    - ištekliai
+ressurect                   - prikelti iš mirusių
+retaliate					- atsakyti puldamas (?)
+reward                      - atlygis
+right-click                 - paspausti dešinį pelės klavišą
+rimworld                    - kraštinis pasaulis (??)
+roam                        - klajoti
+roamer                      - klajoklis
+rock                        - uola/uoliena
+rocketswarm launcher        - daugkartinio raketų paleidimo sistema
+role                        - rolė (??) <P
+romance                     - sužavėti (?)
+rot                         - supuvimas/pūti
+rotate                      - pasukti
+rough stone                 - netašytas akmuo
+rough                       - grublėtas (betonas)/šiurkštus/nelygus
+royalty                     - karaliavimas
+rugged                      - tvirtas/atšiaurus
+rush                        - smagu
+
+
+    _S_
+
+salvage                     - atgauti (?)
+salve                       - balzamas
+sanguine                    - sangvinikas
+satisfying                  - malonu
+scan                        - skenuoti/ieškoti skenuojant
+scaled                      - padauginta
+scaria                      - pasiutligė
+scavenged meat              - maita
+schedule					- tvarkaraštis
+score                       - balas
+scout                       - žvalgas
+scraped                     - šiaušta (oda)
+screen                      - ekranas/langas
+screenshot                  - ekrano nuotrauka
+sculpt                      - daryti skulptūrą
+security                    - saugumas
+sedated                     - narkozėje
+seem                        - atrodo, kad
+selectively                 - selektyviai
+self-tend                   - savęs gydymas (??? Savarankiškai slaugytis) <P
+self-powered                - su savo energijos šaltiniu
+serious                     - stiprus/daug/sunki (infekcija)/didelis
+serving as                  - eiti (...) pareigas
+set                         - įtvaras
+settings                    - nustatymai
+settle                      - įsikurti
+settlement                  - gyvenvietė
+settler                     - naujakurys (?)
+severe                      - stipri(us) (tolerancija, efektas)
+sex                         - biologinė lytis (atskirt nuo gender)
+shake                       - drebėjimas (ekrano)
+sharp                       - nuo aštraus (šarvai)
+sheep husbandry             - avininkystė
+shell                       - sviedinys/kiautas
+shield belt                 - skydinis diržas
+ship                        - erdvėlaivis
+shock troop                 - šturmo būrys
+shred                       - smulkinti (mechanoidus)/draskyti
+sickness                    - pykinimas
+signature                   - signalas
+simulation                  - simuliacija
+sister                      - sesuo
+skill                       - įgūdžiai (lavinti)
+skip                        - perkelti (?)
+slate                       - skalūnas
+slaughter                   - (pa)pjauti
+slaver                      - vergų prekeivis (?)
+sleep need                  - išsimiegojimas (?)
+sleeping sickness           - miegligė
+slighted                    - pažemintas
+small                       - silpna (tolerancija)
+smelt                       - (iš)lydyti
+smelter                     - lydykla
+smith                       - apdirbti (?)/kalti/kalvis/gaminti
+smithing                    - gamyba (??) (? kalvystė) (? metalo apdirbimas)
+smithy                      - kalvė
+smokeleaf                   - dūmlapis
+smokepop                    - dūmų užtaisas
+smokescreen                 - dūmų uždanga
+smooth                      - nugludinti/tolygus
+sniper                      - snaiperio
+snort                       - šniaukti
+so                          - toks
+social                      - socialinė (veikla) (?)/ socialiniai reikalai (??)
+soil                        - dirva/žemės
+solitary                    - gyvenantis pavieniui
+someone                     - kažką/kažkokį asmenį
+somewhat                    - kažkiek
+soothe                      - raminimas
+Sorne                       - Sornas
+source                      - pradinis
+sowing                      - sėjimas
+space                       - kosminė erdvė
+space marines               - kosmoso pėstininkai
+spaceship                   - erdvėlaivis
+specialty                   - specifinis
+specific                    - konkretus, specifinis
+spelopede                   - urvakojis
+spoil                       - sugesti (?) <P
+spouse                      - sutuoktinis
+spring                      - pakliuvimas (į spąstus)
+squeamish                   - pykina
+staggeringly                - pribloškiančiai
+starflight                  - tarpžvaigždiniai skrydžiai
+starship                    - žvaigždėlaivis (?)
+start                       - užvesti
+stat                        - statistinis rodiklis
+static                      - stacionarus
+station                     - (darbo) vieta
+stealth                     - sėlinimas
+stockpile                   - sandėliavimo vieta
+stockpiled                  - sandėliuojamas
+stone tile                  - akmens plytelė
+stonecutter                 - akmenskaldys
+stonecutting                - akmens skaldymas
+stoned                      - apsinešęs
+storage                     - saugykla/laikymas/saugojimas (?? atsargos)
+stored                      - laikomas
+storeroom                   - sandėlis (?)
+stranger                    - svetimas
+straw matting               - šiaudiniai dembliai
+structure                   - pastatas/statinys
+structural                  - struktūrinis
+study                       - studijavimas
+stunning                    - stulbinantis
+sub-orbital                 - suborbitinis (??)
+succeed                     - pavykti
+success                     - sėkmingas/sėkmė/pavykęs
+successfully                - pavyko (?? sėkmingai)
+sun lamp                    - dienos šviesos lempa
+supercharge                 - labai sustiprinti
+supplies                    - atsargos/prekės
+support                     - išlaikyti/išmaitinti/atrama
+supportive                  - pagalbinis
+suspended animation         - sustabdytų gyvybinių funkcijų būsena (?)
+sutured                     - susiūta
+swarm                       - spiečius
+switch                      - jungiklis
+synthread                   - sintetas (??)
+
+
+    _T_
+
+tab                         - langas (?)
+tailor bench                - siuvimo staklės
+tainted                     - suteptas
+take                        - gerti
+tameness                    - prijaukinimas
+tanned                      - rauginta (oda)
+tantrum                     - pykčio priepuolis
+target                      - taikinys/tikslinis
+targeter                    - taikiklis
+task                        - (užsiimti) veikla
+tasked                      - pavestas
+tattered                    - suplyšę
+technique                   - metodika (?)
+teetotaler                  - blaivininkas
+tend                        - gydyti
+terrain                     - gruntas
+the                         - tas
+this                        - šis/tai/šitas(vengti)
+this one                    - šitas
+thrumbo                     - trumbas (??)
+tile                        - langelis/plytelė
+tilling                     - arimas
+tinctoria                   - (dažinė) indigažolė
+toggle                      - perjungti
+toggle button               - jungiklis
+tomb                        - kapas
+torch lamp                  - fakelas
+tortured artist             - besikankinantis menininkas
+total                       - visiškas/visas (kiekis)/suma/iš viso/bendra (vertė)
+toxic                       - toksiškos (medžiagos)/toksinis (atsparumas)
+trade                       - prekiauti/prekyba
+trade price                 - prekybos kainos
+trader                      - prekeivis
+train                       - dresuoti
+trainability                - dresuojamumas
+training                    - dresavimas/dresuoja
+trait                       - bruožas
+transmit                    - perduoti
+transport pod               - transportavimo kapsulė (?)
+trapped                     - užspęstas
+trashworld					- šiukšlių planeta (?)
+tribesman                   - genties narys
+tribespeople                - genties nariai/genčių/gentainiai
+trigger                     - gaidukas/aktyvuoti
+tube television             - kineskopinis televizorius
+tune                        - sureguliuoti rasti (scanner)
+turret                      - bokštas (su)
+type                        - rūšis/tipas
+typical                     - įprastas
+
+
+    _U_
+
+ugly                        - negražus
+UI                          - sąsaja
+ultimate                    - galutinis (?) <P
+ultratech                   - ultramodernios eros
+underground                 - požeminis
+undergrounder               - požeminis
+undraft                     - demobilizuoti
+unequip                     - nusiimti (?)
+unfulfilled                 - nepasitenkinęs
+ungulate                    - kanopinis gyvūnas
+uninstall                   - išmontuoti
+unload                      - iškrauti
+unlock                      - atrakinti
+unsightly                   - neišvaizdus
+unsubscribe                 - pašalinti (modą)
+unusable                    - netinkamas naudoti
+unwavering                  - nepalaužiamas (lojalumas)
+Ur                          - Ur (?)
+urbworld                    - urbanistinis pasaulis (?)
+usable                      - tinkamas naudoti
+useless                     - niekam tikęs
+utility                     - pagalbinis
+utility slot                - pagalbinio daikto vieta
+
+
+    _V_
+
+vanish                      - pranykti (?) <P
+vat                         - statinė
+vicious                     - nuožmus
+violated                    - išniekintas
+violent                     - smurtinis/žiaurus
+violently                   - naudojant smurtą
+violently insane            - smurtinis pamišimas
+visiting                    - apsilankantys
+vitals monitor              - gyvybinių funkcijų stebėjimo įranga (?)
+volatile                    - nestabilus/lakus (chem. junginys)
+
+
+    _W_
+
+wake-up                     - spydas
+wall                        - akmeninė siena
+wander                      - užklysti/klaidžioti
+wander around               - klaidžioti
+wander away                 - nuklysti
+wander in                   - atklysti
+wander out                  - išklysti
+wanderer                    - klajūnas
+wandering                   - klaidžioja
+wandering idly              - dykinėja
+want                        - noras
+warden                      - kalėjimo prižiūrėtojas
+warg                        - vargas (?)
+warmup                      - pasiruošimo laikas  (??)
+waypoint                    - kelionės taškas
+wearing off                 - baigia veikti
+wild plant growth           - laukinė augalija
+wildness                    - laukiniškumas
+while                       - kai (kažką veikia)
+withdrawal                  - abstinencija
+wondrously                  - nuostabiai
+wood                        - medis/mediena/malkos
+woozy                       - apsvaigęs
+work type                   - darbo rūšis
+workbench                   - darbastalis
+works out                   - viskas bus gerai
+wort                        - misa
+
+
+    _Y_
+
+yayo                        - pudra
+years-long                  - daug metų trunkantis
+yield                       - išgauti/gauti/derliaus kiekis/turintis/našumas
+yields                      - gaunama/brandina
+
+
+    _Z_
+
+zoom in                     - priartinti
+zoom out                    - atitolinti

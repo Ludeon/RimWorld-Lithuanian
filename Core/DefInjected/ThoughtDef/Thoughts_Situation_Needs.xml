@@ -203,7 +203,7 @@
   <!-- EN: cramped interior -->
   <NeedRoomSize.stages.cramped_interior.label>ankštas vidus</NeedRoomSize.stages.cramped_interior.label>
   <!-- EN: This room is too small. I wish I had more space to move around and breathe. -->
-  <NeedRoomSize.stages.cramped_interior.description>Šis kambarys yra per mažas. Norėčiau turėti daugiau erdvės judėti ir kvėpuoti.</NeedRoomSize.stages.cramped_interior.description>
+  <NeedRoomSize.stages.cramped_interior.description>Šis kambarys yra per mažas. Norėčiau turėti daugiau vietos judėti ir kvėpuoti.</NeedRoomSize.stages.cramped_interior.description>
   <!-- EN: spacious interior -->
   <NeedRoomSize.stages.spacious_interior.label>erdvus vidus</NeedRoomSize.stages.spacious_interior.label>
   <!-- EN: This room is so expansive, I feel free. -->
