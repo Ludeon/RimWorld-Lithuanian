@@ -19,7 +19,7 @@
   <!-- EN: Life stage -->
   <StatsReport_LifeStage>Gyvenimo etapas</StatsReport_LifeStage>
   <!-- EN: Shambler crawling -->
-  <StatsReport_ShamblerCrawling>TODO</StatsReport_ShamblerCrawling>
+  <StatsReport_ShamblerCrawling>Svirdulys šliaužia</StatsReport_ShamblerCrawling>
   <!-- EN: Material -->
   <StatsReport_Material>Medžiaga</StatsReport_Material>
   <!-- EN: Character quality -->
@@ -31,23 +31,23 @@
   <!-- EN: Health -->
   <StatsReport_Health>Sveikata</StatsReport_Health>
   <!-- EN: {0} importance -->
-  <HealthFactorPercentImpact>{0} svarbumas</HealthFactorPercentImpact>
+  <HealthFactorPercentImpact>{0} svarba</HealthFactorPercentImpact>
   <!-- EN: {0} impact -->
   <HealthOffsetScale>{0} poveikis</HealthOffsetScale>
   <!-- EN: {0} max -->
-  <HealthFactorMaxImpact>{0} daugiausia</HealthFactorMaxImpact>
+  <HealthFactorMaxImpact>{0} didžiausia</HealthFactorMaxImpact>
   <!-- EN: if below {0} -->
-  <HealthFactorAllowedDefect>jei žemiau {0}</HealthFactorAllowedDefect>
+  <HealthFactorAllowedDefect>jei mažiau nei {0}</HealthFactorAllowedDefect>
   <!-- EN: Post-process curve -->
   <StatsReport_PostProcessed>Po apdorojimo kreivė</StatsReport_PostProcessed>
   <!-- EN: The chances to hit at increasing distances are -->
-  <StatsReport_ShootingExampleDistances>Tikimybė pataikyti didesniuose atstumuose yra</StatsReport_ShootingExampleDistances>
+  <StatsReport_ShootingExampleDistances>Tikimybė pataikyti didesniu atstumu yra</StatsReport_ShootingExampleDistances>
   <!-- EN: Final value -->
   <StatsReport_FinalValue>Galutinė vertė</StatsReport_FinalValue>
   <!-- EN: Max value -->
-  <StatsReport_MaxValue>TODO</StatsReport_MaxValue>
+  <StatsReport_MaxValue>Didžiausia vertė</StatsReport_MaxValue>
   <!-- EN: Multiplier for {0} -->
-  <StatsReport_MultiplierFor>Daugiklis {0}</StatsReport_MultiplierFor>
+  <StatsReport_MultiplierFor>{0} daugiklis</StatsReport_MultiplierFor>
   <!-- EN: Materials and labor -->
   <StatsReport_MarketValueFromStuffsAndWork>Medžiagos ir darbas</StatsReport_MarketValueFromStuffsAndWork>
   <!-- EN: Quality multiplier -->
@@ -55,37 +55,37 @@
   <!-- EN: Quality offset -->
   <StatsReport_QualityOffset>Kokybės pokytis</StatsReport_QualityOffset>
   <!-- EN: Max gain -->
-  <StatsReport_MaxGain>Didžiausias išgavimas</StatsReport_MaxGain>
+  <StatsReport_MaxGain>Didžiausias prieaugis</StatsReport_MaxGain>
   <!-- EN: Multiplier for age {0} -->
   <StatsReport_AgeMultiplier>Daugiklis amžiui {0}</StatsReport_AgeMultiplier>
   <!-- EN: Offset for age {0} -->
-  <StatsReport_AgeOffset>pokytis amžiui</StatsReport_AgeOffset>
+  <StatsReport_AgeOffset>Pokytis amžiui {0}</StatsReport_AgeOffset>
   <!-- EN: Multiplier for health {0} -->
-  <StatsReport_HealthMultiplier>Daugiklis sveikatai {0}</StatsReport_HealthMultiplier>
+  <StatsReport_HealthMultiplier>Sveikatos daugiklis {0}</StatsReport_HealthMultiplier>
   <!-- EN: Cost to reload ({COUNT} {AMMO_label}) -->
   <StatsReport_ReloadMarketValue>Užtaisymo kaina ({COUNT} {AMMO_label})</StatsReport_ReloadMarketValue>
   <!-- EN: Multiplier for remaining {CHARGENOUN_plural} ({0}) -->
   <StatsReport_ReloadRemainingChargesMultipler>Daugiklis likusiems {CHARGENOUN_plural} ({0})</StatsReport_ReloadRemainingChargesMultipler>
   <!-- EN: Multiplier for mood {0} -->
-  <StatsReport_MoodMultiplier>Daugiklis nuotaikai {0}</StatsReport_MoodMultiplier>
+  <StatsReport_MoodMultiplier>Nuotaikos daugiklis {0}</StatsReport_MoodMultiplier>
   <!-- EN: Multiplier for light {0} -->
-  <StatsReport_LightMultiplier>Daugiklis šviesai {0}</StatsReport_LightMultiplier>
+  <StatsReport_LightMultiplier>Šviesos daugiklis {0}</StatsReport_LightMultiplier>
   <!-- EN: Multiplier for difficulty {0} -->
-  <StatsReport_DifficultyMultiplier>Daugiklis sudėtingumui {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_DifficultyMultiplier>Sudėtingumo daugiklis {0}</StatsReport_DifficultyMultiplier>
   <!-- EN: In bed -->
   <StatsReport_InBed>Lovoje</StatsReport_InBed>
   <!-- EN: Facilities -->
   <StatsReport_Facilities>Įrenginiai</StatsReport_Facilities>
   <!-- EN: Multiplier for body size {0} -->
-  <StatsReport_BodySize>Daugiklis kūno dydžiui {0}</StatsReport_BodySize>
+  <StatsReport_BodySize>Kūno dydžio daugiklis {0}</StatsReport_BodySize>
   <!-- EN: Damaged -->
-  <StatsReport_HasHediffExplanation>Sužalotas</StatsReport_HasHediffExplanation>
+  <StatsReport_HasHediffExplanation>Pažeistas</StatsReport_HasHediffExplanation>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
-  <StatsReport_MeleeDPSExplanation>ŽPS = Žala artimoje kovoje * Pataikymo tikimybė artimoje kovoje / Pertrauka sekundėmis</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDPSExplanation>ŽPS = Žala artimoje kovoje * Pataikymo tikimybė artimoje kovoje / Pertraukos laikas sekundėmis</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->
   <StatsReport_MeleeDamage>Žala artimoje kovoje</StatsReport_MeleeDamage>
   <!-- EN: Cooldown -->
-  <StatsReport_Cooldown>pertrauka</StatsReport_Cooldown>
+  <StatsReport_Cooldown>Pertrauka</StatsReport_Cooldown>
   <!-- EN: Melee hit chance -->
   <StatsReport_MeleeHitChance>Pataikymo tikimybė artimoje kovoje</StatsReport_MeleeHitChance>
   <!-- EN: {0} s -->
@@ -95,19 +95,19 @@
   <!-- EN: Roam interval -->
   <StatsReport_RoamInterval>Klajojimo intervalas</StatsReport_RoamInterval>
   <!-- EN: Caravan rideable age -->
-  <StatsReport_CaravanRideableAge>Jojimo karavane amžius</StatsReport_CaravanRideableAge>
+  <StatsReport_CaravanRideableAge>Tinkamas jojimui karavane amžius</StatsReport_CaravanRideableAge>
   <!-- EN: Life expectancy -->
   <StatsReport_LifeExpectancy>Gyvenimo trukmė</StatsReport_LifeExpectancy>
   <!-- EN: Multiplier for missing body parts -->
-  <StatsReport_MissingBodyParts>Daugiklis trūkstamoms kūno dalims</StatsReport_MissingBodyParts>
+  <StatsReport_MissingBodyParts>Trūkstamų kūno dalių daugiklis</StatsReport_MissingBodyParts>
   <!-- EN: Gear and inventory -->
   <StatsReport_GearAndInventoryMass>Ekipuotė ir inventorius</StatsReport_GearAndInventoryMass>
   <!-- EN: Multiplier for worn by corpse -->
-  <StatsReport_WornByCorpse>Daugiklis dėvėtam lavono</StatsReport_WornByCorpse>
+  <StatsReport_WornByCorpse>Daugiklis lavono dėvėtiems daiktams</StatsReport_WornByCorpse>
   <!-- EN: average of all attacks -->
   <AverageOfAllAttacks>visų atakų vidurkis</AverageOfAllAttacks>
   <!-- EN: Scenario -->
-  <StatsReport_ScenarioFactor>Scenarijus</StatsReport_ScenarioFactor>
+  <StatsReport_ScenarioFactor>Scenarijaus faktorius</StatsReport_ScenarioFactor>
   <!-- EN: Ingredients -->
   <StatsReport_IngredientsMass>Ingredientai</StatsReport_IngredientsMass>
   <!-- EN: Permanently disabled. -->
@@ -121,13 +121,13 @@
   <!-- EN: Resting -->
   <StatsReport_Resting>Ilsisi</StatsReport_Resting>
   <!-- EN: recreation type -->
-  <StatsReport_JoyKind>pramogos rūšis</StatsReport_JoyKind>
+  <StatsReport_JoyKind>pramogų rūšis</StatsReport_JoyKind>
   <!-- EN: work to uninstall -->
   <StatsReport_WorkToUninstall>darbo išmontuoti</StatsReport_WorkToUninstall>
   <!-- EN: Fence -->
   <StatsReport_Fence>Tvora</StatsReport_Fence>
   <!-- EN: Multiplier for growth {0} -->
-  <StatsReport_PlantGrowth>Daugiklis augimui {0}</StatsReport_PlantGrowth>
+  <StatsReport_PlantGrowth>Augimo daugiklis {0}</StatsReport_PlantGrowth>
   <!-- EN: scaled because wild -->
   <StatsReport_PlantGrowth_Wild>padauginta, nes laukinis</StatsReport_PlantGrowth_Wild>
   <!-- EN: Not flesh -->
@@ -141,7 +141,7 @@
   <!-- EN: Ideoligion -->
   <StatsReport_Ideoligion>Įsitikinimas</StatsReport_Ideoligion>
   <!-- EN: Multiplier for malnutrition {0} -->
-  <StatsReport_Malnutrition>Daugiklis maisto nepakankamumui {0}</StatsReport_Malnutrition>
+  <StatsReport_Malnutrition>Maisto nepakankamumo daugiklis {0}</StatsReport_Malnutrition>
 
   <!-- EN: Possible offsets -->
   <StatReport_PossibleOffsets>Galimi pokyčiai</StatReport_PossibleOffsets>
@@ -154,16 +154,16 @@
   <!-- EN: Contains a human corpse -->
   <StatsReport_GraveFullAbstract>Viduje yra žmogaus lavonas</StatsReport_GraveFullAbstract>
   <!-- EN: Meditator is related to the corpse inside -->
-  <StatsReport_GraveCorpseRelatedAbstract>Medituotojas yra giminingas su lavonu viduje</StatsReport_GraveCorpseRelatedAbstract>
+  <StatsReport_GraveCorpseRelatedAbstract>Medituotojas yra giminingas lavonui viduje</StatsReport_GraveCorpseRelatedAbstract>
   <!-- EN: From quality -->
   <StatsReport_FromQuality>Dėl kokybės</StatsReport_FromQuality>
   <!-- EN: Nearby artificial structures -->
   <StatsReport_NearbyArtificialStructures>Šalia esantys dirbtiniai statiniai</StatsReport_NearbyArtificialStructures>
   <!-- EN: Satisfies user's title requirements -->
-  <StatsReport_SatisfiesTitle>Patenkina naudotojo titulo reikalavimus</StatsReport_SatisfiesTitle>
+  <StatsReport_SatisfiesTitle>Atitinka naudotojo titulo reikalavimus</StatsReport_SatisfiesTitle>
 
   <!-- EN: Age -->
-  <Stat_Age_Label>TODO</Stat_Age_Label>
+  <Stat_Age_Label>Amžius</Stat_Age_Label>
   <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
   <Stat_RecreationType_Desc>Skirtingi pramogų šaltiniai patenkina skirtingas pramogų rūšis. Kolonistams nusibosta turėti vis tos pačios rūšies pramogas, todėl svarbu suteikti pramogų šaltinių įvairovę su skirtingomis pramogų rūšimis.</Stat_RecreationType_Desc>
   <!-- EN: All recreation types -->
@@ -177,29 +177,29 @@
   <!-- EN: The maximum amount of items yielded when mining this. The actual yield will be adjusted by the mining skill of the miner. -->
   <Stat_MiningYield_Desc>Maksimalus kiekis daiktų gaunamų iškasus tai. Tikrasis kiekis priklausys nuo kolonisto kalnakasybos įgūdžių lygio.</Stat_MiningYield_Desc>
   <!-- EN: Source species -->
-  <Stat_SourceSpecies_Name>Pradinės rūšis</Stat_SourceSpecies_Name>
+  <Stat_SourceSpecies_Name>Pradinė rūšis</Stat_SourceSpecies_Name>
   <!-- EN: The species of creature from which this was taken. -->
   <Stat_SourceSpecies_Desc>Būtybės rūšis, iš kurios šis buvo paimtas.</Stat_SourceSpecies_Desc>
   <!-- EN: Stuff -->
   <Stat_Stuff_Name>Medžiaga</Stat_Stuff_Name>
   <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
-  <Stat_Stuff_Desc>Medžiaga iš kurios šis daiktas padarytas. Tai paveikia daug kitų statistinių rodiklių, kaip ginklo daroma žala, aprangos šarvai ir šilumos izoliacija, daiktų ir statinių gyvybės taškai, grožis, rinkos vertė ir daug daugiau.</Stat_Stuff_Desc>
+  <Stat_Stuff_Desc>Medžiaga, iš kurios šis daiktas padarytas. Tai paveikia daug kitų statistinių rodiklių, kaip ginklo daroma žala, aprangos šarvai ir šilumos izoliacija, daiktų ir statinių gyvybės taškai, grožis, rinkos vertė ir daug daugiau.</Stat_Stuff_Desc>
   <!-- EN: Weapon -->
   <Stat_Weapon_Name>Ginklas</Stat_Weapon_Name>
   <!-- EN: The weapon used by this turret. -->
   <Stat_Weapon_Desc>Šio bokšto naudojamas ginklas.</Stat_Weapon_Desc>
   <!-- EN: How much damage an object can take before being destroyed. -->
-  <Stat_HitPoints_Desc>Žalos kiekis kurį objektas gali patirti kol bus sunaikintas.</Stat_HitPoints_Desc>
+  <Stat_HitPoints_Desc>Žalos kiekis, kurį objektas gali patirti, kol bus sunaikintas.</Stat_HitPoints_Desc>
   <!-- EN: The amount of work it takes to uninstall this. -->
-  <Stat_Thing_WorkToUninstall_Desc>Darbo kiekis reikalingas išmontuoti tai.</Stat_Thing_WorkToUninstall_Desc>
+  <Stat_Thing_WorkToUninstall_Desc>Darbo kiekis, reikalingas išmontuoti tai.</Stat_Thing_WorkToUninstall_Desc>
   <!-- EN: Whether this building is a type of fence. Fences block these animals -->
   <Stat_Thing_Fence_Desc>Ar šis statinys veikia kaip tvora. Tvoros nepraleidžia šių gyvūnų</Stat_Thing_Fence_Desc>
   <!-- EN: Which facilities can be used to produce this. -->
   <Stat_Thing_CreatedAt_Desc>Kurie įrenginiai gali būti panaudoti gaminant tai.</Stat_Thing_CreatedAt_Desc>
   <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
-  <Stat_Thing_Damage_Desc>Žalos kiekis kurią daro šis ginklas.\n\nTai gali būti atremta ar sumažinta priklausomai nuo taikinio šarvų.</Stat_Thing_Damage_Desc>
+  <Stat_Thing_Damage_Desc>Žalos kiekis, kurią daro šis ginklas.\n\nTai gali būti atremta ar sumažinta priklausomai nuo taikinio šarvų.</Stat_Thing_Damage_Desc>
   <!-- EN: A multiplier on the amount of experience doctors gain when using this to tend a patient. -->
-  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>Daugiklis patirties kiekiui kurią daktarai gauna naudodami tai pacientų gydymui.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
+  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>Daugiklis patirties kiekiui, kurį daktarai gauna naudodami tai pacientų gydymui.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
   <!-- EN: The attributes of this plant. -->
   <Stat_Thing_Plant_Attributes_Desc>Šio augalo atributai.</Stat_Thing_Plant_Attributes_Desc>
   <!-- EN: Clothing (for nudity) -->
@@ -207,101 +207,101 @@
   <!-- EN: Whether nudists will consider this item to be a piece of clothing. If not, nudists will never be bothered by wearing this. -->
   <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>Ar nudistai laikys šį daiktą drabužiu. Jei ne, nudistams niekada netrukdys dėvėti tai.</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
   <!-- EN: Gender -->
-  <Stat_Thing_Apparel_Gender>TODO</Stat_Thing_Apparel_Gender>
+  <Stat_Thing_Apparel_Gender>Lytis</Stat_Thing_Apparel_Gender>
   <!-- EN: Certain apparel is generally preferred by one gender. Anyone else may be unhappy wearing it. -->
-  <Stat_Thing_Apparel_Gender_Desc>TODO</Stat_Thing_Apparel_Gender_Desc>
+  <Stat_Thing_Apparel_Gender_Desc>Tam tikri drabužiai labiau tinka vienai iš lyčių. Kitų lyčių žmonės gali būti nepatenkinti juos dėvėdami.</Stat_Thing_Apparel_Gender_Desc>
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
-  <Stat_Thing_Apparel_Covers_Desc>Kurias kūno dalis tai pridengia.\n\nŠarvai neapsaugo tų kūno dalių kurių nepridengia.</Stat_Thing_Apparel_Covers_Desc>
+  <Stat_Thing_Apparel_Covers_Desc>Kurias kūno dalis tai pridengia.\n\nŠarvai neapsaugo tų kūno dalių, kurių nepridengia.</Stat_Thing_Apparel_Covers_Desc>
   <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
   <Stat_Thing_Apparel_Layer_Desc>Kurį aprangos sluoksnį tai užpildo.\n\nKiekvienai kūno daliai galima dėvėti tik vieną drabužį kiekviename sluoksnyje.</Stat_Thing_Apparel_Layer_Desc>
   <!-- EN: The minimum soil fertility that this plant requires to grow. -->
-  <Stat_Thing_Plant_FertilityRequirement_Desc>Minimalus dirvos derlingumas kurio reikia, kad šis augalas augtų.</Stat_Thing_Plant_FertilityRequirement_Desc>
+  <Stat_Thing_Plant_FertilityRequirement_Desc>Minimalus dirvos derlingumas, kurio reikia, kad šis augalas augtų.</Stat_Thing_Plant_FertilityRequirement_Desc>
   <!-- EN: How sensitive this plant is to soil fertility.\n\nLow sensitivity means the plant will grow about the same speed in rich or poor soil. High sensitivity means the plant grows slow in poor soil, but faster in rich soil. -->
-  <Stat_Thing_Plant_FertilitySensitivity_Desc>Kiek šis augalas yra jautrus dirvos derlingumui.\n\nMažas jautrumas reiškia kad augalas augs panašiu greičiu tiek derlingoje, tiek nederlingoje dirvoje. Aukštas jautrumas reiškia kad augalas augs lėtai nederlingoje, bet greičiau derlingoje dirvoje.</Stat_Thing_Plant_FertilitySensitivity_Desc>
+  <Stat_Thing_Plant_FertilitySensitivity_Desc>Kiek šis augalas yra jautrus dirvos derlingumui.\n\nMažas jautrumas reiškia, kad augalas augs panašiu greičiu tiek derlingoje, tiek nederlingoje dirvoje. Aukštas jautrumas reiškia, kad augalas augs lėtai nederlingoje, bet greičiau derlingoje dirvoje.</Stat_Thing_Plant_FertilitySensitivity_Desc>
   <!-- EN: The amount of light this plant requires to grow. -->
-  <Stat_Thing_Plant_LightRequirement_Desc>Šviesos kiekis reikalingas šiam augalui augti.</Stat_Thing_Plant_LightRequirement_Desc>
+  <Stat_Thing_Plant_LightRequirement_Desc>Šviesos kiekis, reikalingas šiam augalui augti.</Stat_Thing_Plant_LightRequirement_Desc>
   <!-- EN: The lifespan of the plant.\n\nPlants naturally die after they reach a certain age, even if not harvested. -->
-  <Stat_Thing_Plant_LifeSpan_Desc>Augalo gyvenimo trukmė.\n\nAugalai natūraliai miršta pasiekę tam tikrą amžių net jei iš jų nėra nuimtas derlius.</Stat_Thing_Plant_LifeSpan_Desc>
+  <Stat_Thing_Plant_LifeSpan_Desc>Augalo gyvenimo trukmė.\n\nAugalai natūraliai miršta pasiekę tam tikrą amžių, net jei iš jų nėra nuimtas derlius.</Stat_Thing_Plant_LifeSpan_Desc>
   <!-- EN: The amount of product this plant will yield when harvested. -->
-  <Stat_Thing_Plant_HarvestYield_Desc>Produkto kiekis gaunamas nuėmus derlių nuo šio augalo.</Stat_Thing_Plant_HarvestYield_Desc>
+  <Stat_Thing_Plant_HarvestYield_Desc>Produkto kiekis, gaunamas nuėmus derlių nuo šio augalo.</Stat_Thing_Plant_HarvestYield_Desc>
   <!-- EN: The minimum temperature this plant can survive.\n\nTemperatures below this will cause damage over time. -->
-  <Stat_Thing_Plant_MinGrowthTemperature_Desc>Minimali temperatūra kurią gali išgyventi šis augalas.\n\nŽemesnė nei ši temperatūra per laiką darys žalą augalui.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MinGrowthTemperature_Desc>Minimali temperatūra, kurią gali išgyventi šis augalas.\n\nŽemesnė nei ši temperatūra per laiką darys žalą augalui.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
   <!-- EN: The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time. -->
-  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>Maksimali temperatūra kurią gali išgyventi šis augalas.\n\nAukštesnė nei ši temperatūra per laiką darys žalą augalui.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>Maksimali temperatūra, kurią gali išgyventi šis augalas.\n\nAukštesnė nei ši temperatūra per laiką darys žalą augalui.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
   <!-- EN: The minimum skill needed for a farmer to to sow this plant. -->
-  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>Minimalus įgūdžių lygis reikalingas kad ūkininkas galėtų pasėti šį augalą.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
+  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>Minimalus įgūdžių lygis, reikalingas ūkininkui, kad galėtų pasėti šį augalą.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
   <!-- EN: The kinds of food this creature is capable of eating.\n\nCan eat: {0} -->
-  <Stat_Race_Diet_Desc>Maisto rūšys kurias ši būtybė gali valgyti.\n\nGali valgyti: {0}</Stat_Race_Diet_Desc>
+  <Stat_Race_Diet_Desc>Maisto rūšys, kurias ši būtybė gali valgyti.\n\nGali valgyti: {0}</Stat_Race_Diet_Desc>
   <!-- EN: The type of leather this creature will yield when butchered. -->
-  <Stat_Race_LeatherType_Desc>Odos rūšis kuri bus išgauta išmėsinėjus šią būtybę.</Stat_Race_LeatherType_Desc>
+  <Stat_Race_LeatherType_Desc>Odos rūšis, kuri bus išgauta išmėsinėjus šią būtybę.</Stat_Race_LeatherType_Desc>
   <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
-  <Stat_Race_Animal_TameFailedRevengeChance_Desc>Tikimybė kad ši būtybė puls kai jaukintojas bandys prijaukinti ir jam nepavyks.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
+  <Stat_Race_Animal_TameFailedRevengeChance_Desc>Tikimybė, kad ši būtybė puls, kai jaukintojas bandys ją prijaukinti ir jam nepavyks.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
   <!-- EN: This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform. -->
-  <Stat_Race_Trainability_Desc>Šios būtybės bendras gabumas dresavimui. Tai yra intelekto ir dėmesingumo kombinacija. Nustato kokių rūšių veiklomis ši būtybė gali būti išdresuota užsiimti.</Stat_Race_Trainability_Desc>
+  <Stat_Race_Trainability_Desc>Šios būtybės bendras gabumas dresavimui. Tai intelekto ir dėmesingumo kombinacija, nustatanti, kokias užduotis ši būtybė gali būti išmokyta atlikti.</Stat_Race_Trainability_Desc>
   <!-- EN: The average life expectancy of this creature. -->
   <Stat_Race_LifeExpectancy_Desc>Vidutinė šios būtybės gyvenimo trukmė.</Stat_Race_LifeExpectancy_Desc>
   <!-- EN: Whether this creature is blocked by fences and barricades. -->
   <Stat_Race_BlockedByFences_Desc>Ar ši būtybė yra užtverta tvoromis ir barikadomis.</Stat_Race_BlockedByFences_Desc>
   <!-- EN: How often a tame animal will attempt to roam away and exit the map.\n\nAnimals will only roam if they have a direct path to the map edge. You can use fences, barricades, walls, and doors to prevent this.\n\nAnimal handlers can rope roaming animals and bring them back to a pen. -->
-  <Stat_Race_RoamInterval_Desc>Kaip dažnai prijaukintas gyvūnas bandys pradėti klajoti ir išeiti iš žemėlapio.\n\nGyvūnai klajos tik tada jei turi tiesioginį kelią į žemėlapio kraštą. Gali naudoti tvoras, barikadas, sienas ir duris kad nuo to apsisaugotum.\n\nGyvūnų prižiūrėtojai gali pririšti klajojančius gyvūnus ir parvesti juos atgal į aptvarą.</Stat_Race_RoamInterval_Desc>
+  <Stat_Race_RoamInterval_Desc>Kaip dažnai prijaukintas gyvūnas bandys pradėti klajoti ir išeiti iš žemėlapio.\n\nGyvūnai klajos tik tada, jei turi tiesioginį kelią į žemėlapio kraštą. Galima naudoti tvoras, barikadas, sienas ir duris, kad tai sustabdytum.\n\nGyvūnų prižiūrėtojai gali pririšti klajojančius gyvūnus ir parvesti juos atgal į aptvarą.</Stat_Race_RoamInterval_Desc>
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
-  <Stat_Thing_Ingestible_Joy_Desc>Pramoginė vertė suvartojus tai. Aukštesni skaičiai patenkins daugiau pramogų poreikio.</Stat_Thing_Ingestible_Joy_Desc>
+  <Stat_Thing_Ingestible_Joy_Desc>Pramoginė vertė suvartojus tai. Aukštesni skaičiai labiau patenkins pramogų poreikį.</Stat_Thing_Ingestible_Joy_Desc>
   <!-- EN: The size of this creature's body, compared to an average adult human. -->
-  <Stat_Race_BodySize_Desc>Šios būtybės kūno dydis palyginus su vidutiniu suaugusiu žmogumi.</Stat_Race_BodySize_Desc>
+  <Stat_Race_BodySize_Desc>Šios būtybės kūno dydis, palyginus su vidutiniu suaugusiu žmogumi.</Stat_Race_BodySize_Desc>
   <!-- EN: How close this creature is to adulthood.\n\nGrowth requires nourishment. A hungry animal will grow at a slower rate compared to a well-fed one. -->
-  <Stat_Race_Growth_Desc>Kiek arti ši būtybė yra iki buvimo suaugusiu.\n\nAugimui reikia maitinimo. Alkanas gyvūnas augs lėčiau palyginus su gerai pavalgiusiu.</Stat_Race_Growth_Desc>
+  <Stat_Race_Growth_Desc>Kiek arti ši būtybė yra iki suaugusio amžiaus.\n\nAugimui reikia maisto. Alkanas gyvūnas augs lėčiau nei gerai pavalgęs.</Stat_Race_Growth_Desc>
   <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
-  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>Kiek laiko praeina nuo tada kai su šiuo ginklu artimos kovos ataka prasideda ir kada ji pasiekia tikslą.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>Kiek laiko praeina nuo tada, kai su šiuo ginklu artimos kovos ataka prasideda, iki kada ji pasiekia tikslą.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
   <!-- EN: How much time passes between when a ranged attack begins aiming and when it fires. -->
-  <Stat_Thing_Weapon_RangedWarmupTime_Desc>Kiek laiko praeina nuo tada kai su šiuo ginklu nuotolinės atakos metu pradeda taikytis iki kada iššauna.</Stat_Thing_Weapon_RangedWarmupTime_Desc>
+  <Stat_Thing_Weapon_RangedWarmupTime_Desc>Kiek laiko praeina nuo nuotolinės atakos taikymosi pradžios iki šūvio.</Stat_Thing_Weapon_RangedWarmupTime_Desc>
   <!-- EN: The amount of shots this weapon fires in each burst. -->
-  <Stat_Thing_Weapon_BurstShotCount_Desc>Šūvių kiekis iššaunamas iš šio ginklo su kiekviena papliūpa.</Stat_Thing_Weapon_BurstShotCount_Desc>
+  <Stat_Thing_Weapon_BurstShotCount_Desc>Šio ginklo iššaunamų šūvių kiekis kiekvienoje papliūpoje.</Stat_Thing_Weapon_BurstShotCount_Desc>
   <!-- EN: The fire rate of this weapon during each burst. -->
   <Stat_Thing_Weapon_BurstShotFireRate_Desc>Šio ginklo šaudymo sparta kiekvienos papliūpos metu.</Stat_Thing_Weapon_BurstShotFireRate_Desc>
   <!-- EN: The maximum range of this weapon. -->
-  <Stat_Thing_Weapon_Range_Desc>Maksimalus šio ginklo nuotolis.</Stat_Thing_Weapon_Range_Desc>
+  <Stat_Thing_Weapon_Range_Desc>Maksimalus šio ginklo veikimo nuotolis.</Stat_Thing_Weapon_Range_Desc>
   <!-- EN: The radius of random spread on shots fired by this weapon.\n\nHigh values make projectiles disperse randomly around the target. -->
-  <Stat_Thing_Weapon_MissRadius_Desc>Sklaidos spindulys šaunant iš šio ginklo.\n\nAukšta vertė reiškia, kad kulkos pasklis plačiau aplink taikinį.</Stat_Thing_Weapon_MissRadius_Desc>
+  <Stat_Thing_Weapon_MissRadius_Desc>Atsitiktinis šūvio sklaidos spindulys.\n\nDidesnės vertės reiškia, kad sviediniai pasklis labiau aplink taikinį.</Stat_Thing_Weapon_MissRadius_Desc>
   <!-- EN: The chance that a shot will directly hit its target if not intercepted, dodged or stopped. -->
-  <Stat_Thing_Weapon_DirectHitChance_Desc>Tikimybė kad šūvis pasieks taikinį jei nebus perimtas, nuo jo neišsisuks ar nebus sustabdytas.</Stat_Thing_Weapon_DirectHitChance_Desc>
+  <Stat_Thing_Weapon_DirectHitChance_Desc>Tikimybė, kad šūvis pataikys tiesiai į taikinį, jei nebus perimtas, išvengtas ar sustabdytas.</Stat_Thing_Weapon_DirectHitChance_Desc>
   <!-- EN: This body part's effect on the mood of the owner. -->
   <Stat_Thing_MoodChange_Desc>Šios kūno dalies poveikis savininko nuotaikai.</Stat_Thing_MoodChange_Desc>
   <!-- EN: The main skill used while performing this recipe.\n\nIt determines the quality of the result, and is learned while performing this recipe. -->
-  <Stat_Recipe_Skill_Desc>Pagrindinė įgūdžių rūšis naudojama gaminant pagal šį receptą.\n\nNulemia galutinio rezultato kokybę, ir tie įgūdžiai yra lavinami gaminant pagal šį receptą.</Stat_Recipe_Skill_Desc>
+  <Stat_Recipe_Skill_Desc>Pagrindinis įgūdis naudojamas vykdant šį receptą.\n\nNustato rezultato kokybę ir yra tobulinamas vykdant receptą.</Stat_Recipe_Skill_Desc>
   <!-- EN: The ingredients required to perform this recipe. -->
-  <Stat_Recipe_Ingredients_Desc>Reikalingi ingredientai gaminant pagal šį receptą.</Stat_Recipe_Ingredients_Desc>
+  <Stat_Recipe_Ingredients_Desc>Reikalingi recepto ingredientai.</Stat_Recipe_Ingredients_Desc>
   <!-- EN: The skills required to perform this recipe. -->
-  <Stat_Recipe_SkillRequirements_Desc>Reikalingi įgūdžiai gaminant pagal šį receptą.</Stat_Recipe_SkillRequirements_Desc>
+  <Stat_Recipe_SkillRequirements_Desc>Reikalingi įgūdžiai šiam receptui vykdyti.</Stat_Recipe_SkillRequirements_Desc>
   <!-- EN: The products produced by this recipe. -->
-  <Stat_Recipe_Products_Desc>Produktai pagaminami pagal šį receptą.</Stat_Recipe_Products_Desc>
+  <Stat_Recipe_Products_Desc>Pagaminami produktai pagal šį receptą.</Stat_Recipe_Products_Desc>
   <!-- EN: Which character stat governs the workspeed of this recipe.\n\nThe higher the stat of the worker is, the faster work will be done. -->
-  <Stat_Recipe_WorkSpeedStat_Desc>Kuris veikėjo statistinis rodiklis nulemia darbo greitį pagal šį receptą.\n\nKuo aukštesnis darbininko statistinis rodiklis, tuo greičiau darbas bus padarytas.</Stat_Recipe_WorkSpeedStat_Desc>
+  <Stat_Recipe_WorkSpeedStat_Desc>Kuris veikėjo rodiklis lemia darbo greitį pagal šį receptą.\n\nKuo aukštesnis darbininko rodiklis, tuo greičiau darbas bus atliktas.</Stat_Recipe_WorkSpeedStat_Desc>
   <!-- EN: Which stat governs the quality or amount of output.\n\nThe higher the stat of the worker is, the higher the quality or yield will be. -->
-  <Stat_Recipe_EfficiencyStat_Desc>Kuris statistinis rodiklis nulemia rezultato kokybę arba kiekį.\n\nKuo aukštesnis darbininko statistinis rodiklis, tuo bus aukštesnė kokybė arba didesnis kiekis.</Stat_Recipe_EfficiencyStat_Desc>
+  <Stat_Recipe_EfficiencyStat_Desc>Kuris rodiklis lemia rezultato kokybę arba kiekį.\n\nKuo aukštesnis darbininko rodiklis, tuo didesnė kokybė arba didesnis kiekis.</Stat_Recipe_EfficiencyStat_Desc>
   <!-- EN: A multiplier on the chance this operation will be a success. More difficult operations have lower multipliers.\n\nThe actual chance of success of a surgery is also affected by the doctor, facilities, and medicine used. -->
-  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>Daugiklis tikimybei, kad ši operacija pavyks. Sudėtingesnės operacijos turi mažesnius daugiklius.\n\nTikroji pavykusios operacijos tikimybė taip pat priklauso nuo daktaro, naudojamų įrenginių ir vaistų.</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
+  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>Daugiklis operacijos sėkmės tikimybei. Sudėtingesnės operacijos turi mažesnius daugiklius.\n\nTikroji sėkmingos operacijos tikimybė priklauso nuo gydytojo, įrenginių ir naudojamų vaistų.</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
   <!-- EN: Can't fail -->
   <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>Negali nepavykti</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
   <!-- EN: Performing this operation is safe for the patient. -->
-  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>Atlikti šią operaciją pacientui yra saugu.</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>Šios operacijos atlikimas pacientui yra saugus.</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
   <!-- EN: The chance the patient will die upon failure of this surgery. -->
-  <Stat_Thing_Surgery_DeathOnFailChance_Desc>Tikimybė kad pacientas nepavykus šiai operacijai mirs.</Stat_Thing_Surgery_DeathOnFailChance_Desc>
+  <Stat_Thing_Surgery_DeathOnFailChance_Desc>Tikimybė, kad pacientas mirs nepavykus šiai operacijai.</Stat_Thing_Surgery_DeathOnFailChance_Desc>
   <!-- EN: Total bleed factor -->
-  <Stat_Hediff_TotalBleedFactor_Name>Visiško nukraujavimo koeficientas</Stat_Hediff_TotalBleedFactor_Name>
+  <Stat_Hediff_TotalBleedFactor_Name>Viso nukraujavimo koeficientas</Stat_Hediff_TotalBleedFactor_Name>
   <!-- EN: A multiplier applied to the overall rate of blood loss. -->
-  <Stat_Hediff_TotalBleedFactor_Desc>Daugiklis pritaikomas bendram kraujo praradimo greičiui.</Stat_Hediff_TotalBleedFactor_Desc>
+  <Stat_Hediff_TotalBleedFactor_Desc>Daugiklis taikomas bendram kraujo netekimo greičiui.</Stat_Hediff_TotalBleedFactor_Desc>
   <!-- EN: Natural healing factor -->
   <Stat_Hediff_NaturalHealingFactor_Name>Natūralaus gijimo koeficientas</Stat_Hediff_NaturalHealingFactor_Name>
   <!-- EN: A multiplier applied to the overall rate of natural wound healing. -->
-  <Stat_Hediff_NaturalHealingFactor_Desc>Daugiklis pritaikomas bendram natūralaus žaizdų gijimo greičiui.</Stat_Hediff_NaturalHealingFactor_Desc>
+  <Stat_Hediff_NaturalHealingFactor_Desc>Daugiklis, pritaikomas bendram natūralaus žaizdų gijimo greičiui.</Stat_Hediff_NaturalHealingFactor_Desc>
   <!-- EN: Food poisoning chance factor -->
   <Stat_Hediff_FoodPoisoningChanceFactor_Name>Apsinuodijimo maistu tikimybės koeficientas</Stat_Hediff_FoodPoisoningChanceFactor_Name>
   <!-- EN: A multiplier applied to the chance of getting food poisoning. -->
-  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>Daugiklis pritaikomas tikimybei gauti apsinuodijimą maistu.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>Daugiklis taikomas apsinuodijimo maistu tikimybei.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
   <!-- EN: The rate at which this condition causes blood loss. -->
-  <Stat_Hediff_BleedingRate_Desc>Šios būklės sukeliamas kraujo praradimo greitis.</Stat_Hediff_BleedingRate_Desc>
+  <Stat_Hediff_BleedingRate_Desc>Greitis, kuriuo ši būklė sukelia kraujo netekimą.</Stat_Hediff_BleedingRate_Desc>
   <!-- EN: The amount of pain caused by this condition. -->
-  <Stat_Hediff_Pain_Desc>Šios būklės sukeliamas skausmo kiekis.</Stat_Hediff_Pain_Desc>
+  <Stat_Hediff_Pain_Desc>Šios būklės sukeliamos skausmo stiprumas.</Stat_Hediff_Pain_Desc>
   <!-- EN: The offset in efficiency applied to body parts affected by this. -->
   <Stat_Hediff_PartEfficiency_Desc>Efektyvumo pokytis pritaikomas kūno dalims, paveiktoms šiuo.</Stat_Hediff_PartEfficiency_Desc>
   <!-- EN: How efficiently this functions compared to a natural body part. -->
