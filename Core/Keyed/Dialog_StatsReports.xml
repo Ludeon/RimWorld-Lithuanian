@@ -303,13 +303,13 @@
   <!-- EN: The amount of pain caused by this condition. -->
   <Stat_Hediff_Pain_Desc>Šios būklės sukeliamos skausmo stiprumas.</Stat_Hediff_Pain_Desc>
   <!-- EN: The offset in efficiency applied to body parts affected by this. -->
-  <Stat_Hediff_PartEfficiency_Desc>Efektyvumo pokytis pritaikomas kūno dalims, paveiktoms šiuo.</Stat_Hediff_PartEfficiency_Desc>
+  <Stat_Hediff_PartEfficiency_Desc>Efektyvumo pokytis, taikomas paveiktoms kūno dalims.</Stat_Hediff_PartEfficiency_Desc>
   <!-- EN: How efficiently this functions compared to a natural body part. -->
-  <Stat_Hediff_PartEfficiencyAbsolute_Desc>TODO</Stat_Hediff_PartEfficiencyAbsolute_Desc>
+  <Stat_Hediff_PartEfficiencyAbsolute_Desc>Kaip efektyviai tai veikia, palyginti su natūralia kūno dalimi.</Stat_Hediff_PartEfficiencyAbsolute_Desc>
   <!-- EN: The mental abilities this affects. -->
-  <Stat_Hediff_Affects_Desc>Protiniai gebėjimai kuriuos tai paveikia.</Stat_Hediff_Affects_Desc>
+  <Stat_Hediff_Affects_Desc>Protiniai gebėjimai, kuriuos tai paveikia.</Stat_Hediff_Affects_Desc>
   <!-- EN: Hunger rate offset -->
-  <Stat_Hediff_HungerRateOffset_Name>Išalkimo greičio pokytis.</Stat_Hediff_HungerRateOffset_Name>
+  <Stat_Hediff_HungerRateOffset_Name>Išalkimo greičio pokytis</Stat_Hediff_HungerRateOffset_Name>
   <!-- EN: A multiplier on the rate at which the food need depletes. -->
   <Stat_Hediff_HungerRateFactor_Desc>Daugiklis greičiui, kuriuo mažėja maisto poreikis.</Stat_Hediff_HungerRateFactor_Desc>
   <!-- EN: An offset on the rate at which the food need depletes. -->
@@ -317,43 +317,43 @@
   <!-- EN: Sleep fall rate -->
   <Stat_Hediff_TirednessOffset_Name>Miego mažėjimo greitis</Stat_Hediff_TirednessOffset_Name>
   <!-- EN: An offset applied to the rate at which the creature's sleep need falls. -->
-  <Stat_Hediff_TirednessOffset_Desc>Pokytis, taikomas greičiui, kuriuo mažėja būtybės išsimiegojimas.</Stat_Hediff_TirednessOffset_Desc>
+  <Stat_Hediff_TirednessOffset_Desc>Pokytis, taikomas greičiui, kuriuo mažėja būtybės miego poreikis.</Stat_Hediff_TirednessOffset_Desc>
   <!-- EN: A multiplier applied to the rate at which the creature's sleep need falls. -->
-  <Stat_Hediff_TirednessFactor_Desc>Daugiklis, taikomas greičiui, kuriuo mažėja būtybės išsimiegojimas.</Stat_Hediff_TirednessFactor_Desc>
+  <Stat_Hediff_TirednessFactor_Desc>Daugiklis, taikomas greičiui, kuriuo mažėja būtybės miego poreikis.</Stat_Hediff_TirednessFactor_Desc>
   <!-- EN: Whether or not this will prevent infections. -->
-  <Stat_Hediff_PreventsInfection_Desc>Ar tai apsaugos ar neapsaugos nuo infekcijų.</Stat_Hediff_PreventsInfection_Desc>
+  <Stat_Hediff_PreventsInfection_Desc>Ar tai apsaugos nuo infekcijų, ar ne.</Stat_Hediff_PreventsInfection_Desc>
   <!-- EN: The things this terrain supports. -->
-  <Stat_Thing_Terrain_Supports_Desc>Dalykai, kuriuos šis gruntas išlaiko.</Stat_Thing_Terrain_Supports_Desc>
+  <Stat_Thing_Terrain_Supports_Desc>Objektai, kuriuos šis gruntas išlaiko.</Stat_Thing_Terrain_Supports_Desc>
   <!-- EN: This can only be placed on terrain of these types. -->
-  <Stat_Thing_TerrainRequirement_Desc>Tai galima padėti tik ant šių rūšių grunto.</Stat_Thing_TerrainRequirement_Desc>
+  <Stat_Thing_TerrainRequirement_Desc>Tai galima padėti tik ant tokių rūšių grunto.</Stat_Thing_TerrainRequirement_Desc>
   <!-- EN: Considered -->
-  <Stat_Thing_Terrain_Fine_Name>TODO</Stat_Thing_Terrain_Fine_Name>
+  <Stat_Thing_Terrain_Fine_Name>Laikoma</Stat_Thing_Terrain_Fine_Name>
   <!-- EN: Fine -->
-  <Stat_Thing_Terrain_Fine_Value>TODO</Stat_Thing_Terrain_Fine_Value>
+  <Stat_Thing_Terrain_Fine_Value>Prabangi</Stat_Thing_Terrain_Fine_Value>
   <!-- EN: This floor is considered fine and suitable for royalty. -->
-  <Stat_Thing_Terrain_Fine_Desc>TODO</Stat_Thing_Terrain_Fine_Desc>
+  <Stat_Thing_Terrain_Fine_Desc>Ši grindų danga laikoma prabangia ir tinkama didikams.</Stat_Thing_Terrain_Fine_Desc>
   <!-- EN: The amount of power this building will draw from the power grid. -->
-  <Stat_Thing_PowerConsumption_Desc>Elektros energijos kiekis, kurį šis statinys ims iš elektros tinklo.</Stat_Thing_PowerConsumption_Desc>
+  <Stat_Thing_PowerConsumption_Desc>Elektros energijos kiekis, kurį šis statinys naudos iš tinklo.</Stat_Thing_PowerConsumption_Desc>
   <!-- EN: {CHARGENOUN_plural} remaining -->
-  <Stat_Thing_ReloadChargesRemaining_Name>TODO</Stat_Thing_ReloadChargesRemaining_Name>
+  <Stat_Thing_ReloadChargesRemaining_Name>Likę {CHARGENOUN_plural}</Stat_Thing_ReloadChargesRemaining_Name>
   <!-- EN: The number of {CHARGENOUN_plural} remaining on this object. If these run out, the special ability can no longer be used. -->
-  <Stat_Thing_ReloadChargesRemaining_Desc>TODO</Stat_Thing_ReloadChargesRemaining_Desc>
+  <Stat_Thing_ReloadChargesRemaining_Desc>Likęs {CHARGENOUN_plural} skaičius šiame objekte. Kai jie baigsis, specialiosios galios nebus galima naudoti.</Stat_Thing_ReloadChargesRemaining_Desc>
   <!-- EN: {CHARGENOUN_plural} -->
-  <Stat_Thing_ReloadMaxCharges_Name>TODO</Stat_Thing_ReloadMaxCharges_Name>
+  <Stat_Thing_ReloadMaxCharges_Name>{CHARGENOUN_plural}</Stat_Thing_ReloadMaxCharges_Name>
   <!-- EN: The maximum number of {CHARGENOUN_plural} this object has. -->
-  <Stat_Thing_ReloadMaxCharges_Desc>TODO</Stat_Thing_ReloadMaxCharges_Desc>
+  <Stat_Thing_ReloadMaxCharges_Desc>Maksimalus {CHARGENOUN_plural} skaičius šiame objekte.</Stat_Thing_ReloadMaxCharges_Desc>
   <!-- EN: {CHARGENOUN} reload cost -->
-  <Stat_Thing_ReloadRefill_Name>TODO</Stat_Thing_ReloadRefill_Name>
+  <Stat_Thing_ReloadRefill_Name>{CHARGENOUN} pakrovimo kaina</Stat_Thing_ReloadRefill_Name>
   <!-- EN: The amount of items required to fully reload this object.\n\nThis object can be reloaded before it is empty, but the cost is the same as if it was empty. -->
-  <Stat_Thing_ReloadRefill_Desc>TODO</Stat_Thing_ReloadRefill_Desc>
+  <Stat_Thing_ReloadRefill_Desc>Daiktų kiekis, reikalingas visiškai pakrauti šį objektą.\n\nŠį objektą galima pakrauti dar neištuštėjus, bet kaina tokia pati kaip ir tuščiam.</Stat_Thing_ReloadRefill_Desc>
   <!-- EN: Reload cost per {CHARGENOUN} -->
-  <Stat_Thing_ReloadPerCharge_Name>TODO</Stat_Thing_ReloadPerCharge_Name>
+  <Stat_Thing_ReloadPerCharge_Name>{CHARGENOUN} pakrovimo kaina</Stat_Thing_ReloadPerCharge_Name>
   <!-- EN: The amount of items required to reload one {CHARGENOUN}. Multiple {CHARGENOUN_plural} can be reloaded at once. -->
-  <Stat_Thing_ReloadPerCharge_Desc>TODO</Stat_Thing_ReloadPerCharge_Desc>
+  <Stat_Thing_ReloadPerCharge_Desc>Daiktų kiekis, reikalingas vieno {CHARGENOUN} pakrovimui. Vienu metu galima pakrauti kelis {CHARGENOUN_plural}.</Stat_Thing_ReloadPerCharge_Desc>
   <!-- EN: Vanish on exhaust -->
-  <Stat_Thing_ReloadDestroyOnEmpty_Name>TODO</Stat_Thing_ReloadDestroyOnEmpty_Name>
+  <Stat_Thing_ReloadDestroyOnEmpty_Name>Dingsta išnaudojus</Stat_Thing_ReloadDestroyOnEmpty_Name>
   <!-- EN: This item will vanish when its last {CHARGENOUN} is used. -->
-  <Stat_Thing_ReloadDestroyOnEmpty_Desc>TODO</Stat_Thing_ReloadDestroyOnEmpty_Desc>
+  <Stat_Thing_ReloadDestroyOnEmpty_Desc>Šis daiktas dings, kai bus išnaudotas paskutinis {CHARGENOUN}.</Stat_Thing_ReloadDestroyOnEmpty_Desc>
   <!-- EN: The overall efficiency of this body part. -->
   <Stat_Thing_BodyPartEfficiency_Desc>Bendras šios kūno dalies efektyvumas.</Stat_Thing_BodyPartEfficiency_Desc>
   <!-- EN: Install sites -->
