@@ -438,48 +438,48 @@
   <!-- EN: Style -->
   <Stat_Thing_StyleLabel>Stilius</Stat_Thing_StyleLabel>
   <!-- EN: An object's style determines its appearance. This has no gameplay effect. Styles often form the differing methods of construction used by people of different beliefs and cultures. -->
-  <Stat_Thing_StyleDesc>Objekto stilius lemia jo išvaizdą. Tai neturi jokio efekto žaidimo eigai. Stilius dažnai suformuoja skirtingi konstravimo metodai, kuriuos naudoja skirtingų tikėjimų ir kultūrų žmonės.</Stat_Thing_StyleDesc>
+  <Stat_Thing_StyleDesc>Objekto stilius lemia jo išvaizdą. Tai neturi jokios įtakos žaidimo eigai. Stilių dažnai lemia skirtingi konstravimo metodai, naudojami įvairių tikėjimų ir kultūrų žmonių.</Stat_Thing_StyleDesc>
 
   <!-- EN: Gestation time -->
-  <Stat_Animal_GestationTime>Nėštumo laikas</Stat_Animal_GestationTime>
+  <Stat_Animal_GestationTime>Nėštumo trukmė</Stat_Animal_GestationTime>
   <!-- EN: The time this species takes to gestate its offspring or eggs. -->
-  <Stat_Animal_GestationTimeDesc>Laikas, per kurį ši rūšis pagimdo palikuonis arba padeda kiaušinius.</Stat_Animal_GestationTimeDesc>
+  <Stat_Animal_GestationTimeDesc>Trukmė, per kurią ši rūšis išnešioja palikuonis arba padeda kiaušinius.</Stat_Animal_GestationTimeDesc>
   <!-- EN: Litter size -->
   <Stat_Animal_LitterSize>Vados dydis</Stat_Animal_LitterSize>
   <!-- EN: The number of offspring this creature creates per litter. If this is a range, any specific litter will have a random number of offspring in this range. -->
-  <Stat_Animal_LitterSizeDesc>Palikuonių skaičius, kurį ši būtybė atsiveda vienoje vadoje. Jei tai intervalas, bet kuri konkreti vada turės atsitiktinį palikuonių skaičių šiame intervale.</Stat_Animal_LitterSizeDesc>
+  <Stat_Animal_LitterSizeDesc>Palikuonių skaičius, kuriuos ši būtybė atsiveda vienoje vadoje. Jei tai yra intervalas, kiekviena vada turės atsitiktinį palikuonių skaičių šiame intervale.</Stat_Animal_LitterSizeDesc>
   <!-- EN: Adult meat amount -->
   <Stat_Animal_AdultMeatAmount>Suaugusio mėsos kiekis</Stat_Animal_AdultMeatAmount>
   <!-- EN: The base amount of meat yielded by butchering an adult member of this species. The actual yield is affected by other factors such as damage to the body and butcher skill. -->
-  <Stat_Animal_AdultMeatAmountDesc>Bazinis mėsos kiekis, gaunamas išmėsinėjus suaugusį šios rūšies atstovą. Tikrasis kiekis priklauso ir nuo kitų aplinkybių, tokių kaip žala kūnui ir mėsininko įgūdžiai.</Stat_Animal_AdultMeatAmountDesc>
+  <Stat_Animal_AdultMeatAmountDesc>Bazinis mėsos kiekis, gaunamas išmėsinėjus suaugusį šios rūšies individą. Tikrasis kiekis priklauso nuo kitų veiksnių, tokių kaip kūno pažeidimai ir mėsininko įgūdžiai.</Stat_Animal_AdultMeatAmountDesc>
   <!-- EN: Growth time -->
-  <Stat_Animal_GrowthTime>Augimo laikas</Stat_Animal_GrowthTime>
+  <Stat_Animal_GrowthTime>Augimo trukmė</Stat_Animal_GrowthTime>
   <!-- EN: How long it normally takes for this creature to reach adulthood. This time will be longer if the creature starves. -->
-  <Stat_Animal_GrowthTimeDesc>Kiek paprastai užtrunka, kol ši būtybė tampa suaugusi. Šis laikas bus ilgesnis, jei būtybė badauja.</Stat_Animal_GrowthTimeDesc>
+  <Stat_Animal_GrowthTimeDesc>Kiek laiko paprastai užtrunka, kol ši būtybė tampa suaugusi. Šis laikotarpis bus ilgesnis, jei būtybė badauja.</Stat_Animal_GrowthTimeDesc>
   <!-- EN: Meat per day during growth -->
-  <Stat_Animal_MeatPerDayDuringGrowth>Mėsa per dieną augimo metu</Stat_Animal_MeatPerDayDuringGrowth>
+  <Stat_Animal_MeatPerDayDuringGrowth>Mėsa per dieną augant</Stat_Animal_MeatPerDayDuringGrowth>
   <!-- EN: This creature gains this amount of meat for each day it grows, up until it reaches adulthood.\n\nThis value is calculated from the meat amount and growth time. -->
-  <Stat_Animal_MeatPerDayDuringGrowthDesc>Ši būtybė gauna tiek mėsos kiekvieną dieną, kai auga, kol tampa suaugusi.\n\nŠi vertė apskaičiuojama pagal mėsos kiekį ir augimo laiką.</Stat_Animal_MeatPerDayDuringGrowthDesc>
+  <Stat_Animal_MeatPerDayDuringGrowthDesc>Ši būtybė priauga tokį mėsos kiekį kiekvieną augimo dieną, kol pasiekia suaugusio amžių.\n\nŠi vertė apskaičiuojama pagal mėsos kiekį ir augimo trukmę.</Stat_Animal_MeatPerDayDuringGrowthDesc>
   <!-- EN: Grass to maintain -->
-  <Stat_Animal_GrassToMaintain>Žolė išmaitinti</Stat_Animal_GrassToMaintain>
+  <Stat_Animal_GrassToMaintain>Žolė išmaitinimui</Stat_Animal_GrassToMaintain>
   <!-- EN: The typical number of grass plants that this creature needs in order to fulfill its dietary needs. This is based on normal grass at typical growth rates and ignores winter. -->
-  <Stat_Animal_GrassToMaintainDesc>Įprastas žolinių augalų skaičius, kurių reikia šiai būtybei, kad galėtų patenkinti savo mitybos poreikius. Tai apskaičiuota paprastai žolei esant įprastam augimo greičiui ir neskaičiuojant žiemos.</Stat_Animal_GrassToMaintainDesc>
+  <Stat_Animal_GrassToMaintainDesc>Įprastas žolių kiekis, kurio reikia šiai būtybei, kad patenkintų savo mitybos poreikius. Skaičiavimai atlikti remiantis įprasta žole ir jos augimo tempais, neatsižvelgiant į žiemą.</Stat_Animal_GrassToMaintainDesc>
   <!-- EN: Egg type -->
-  <Stat_Animal_EggType>Kiaušinio rūšis</Stat_Animal_EggType>
+  <Stat_Animal_EggType>Kiaušinių rūšis</Stat_Animal_EggType>
   <!-- EN: The type of egg this creature lays. -->
   <Stat_Animal_EggTypeDesc>Kiaušinių, kuriuos deda ši būtybė, rūšis.</Stat_Animal_EggTypeDesc>
   <!-- EN: Eggs per year -->
   <Stat_Animal_EggsPerYear>Kiaušiniai per metus</Stat_Animal_EggsPerYear>
   <!-- EN: The number of eggs this creature will lay per year. Some creatures need to be fertilized to lay eggs. Egg laying will be slower if the creature starves. -->
-  <Stat_Animal_EggsPerYearDesc>Kiaušinių, kuriuos ši būtybė padeda per metus, skaičius. Kai kurias būtybes reikia apvaisinti, kad dėtų kiaušinius. Kiaušinių dėjimas bus lėtesnis, jei būtybė badauja.</Stat_Animal_EggsPerYearDesc>
+  <Stat_Animal_EggsPerYearDesc>Kiaušinių skaičius, kuriuos ši būtybė padeda per metus. Kai kurioms būtybėms reikia apvaisinimo, kad jos dėtų kiaušinius. Kiaušinių dėjimas sulėtės, jei būtybė badauja.</Stat_Animal_EggsPerYearDesc>
   <!-- EN: Egg nutrition -->
-  <Stat_Animal_EggNutrition>Kiaušinio maisto medžiagų kiekis</Stat_Animal_EggNutrition>
+  <Stat_Animal_EggNutrition>Kiaušinių maistinė vertė</Stat_Animal_EggNutrition>
   <!-- EN: The amount of nutrition in a single egg laid by this creature. -->
-  <Stat_Animal_EggNutritionDesc>Maisto medžiagų kiekis viename šios būtybės padėtame kiaušinyje.</Stat_Animal_EggNutritionDesc>
+  <Stat_Animal_EggNutritionDesc>Vieno šios būtybės padėto kiaušinio maistinė vertė.</Stat_Animal_EggNutritionDesc>
   <!-- EN: Egg nutrition per year -->
-  <Stat_Animal_EggNutritionYearly>Kiaušinių maisto medžiagos per metus</Stat_Animal_EggNutritionYearly>
+  <Stat_Animal_EggNutritionYearly>Kiaušinių maistinė vertė per metus</Stat_Animal_EggNutritionYearly>
   <!-- EN: The amount of yearly nutrition generated by eggs laid by this creature each year.\n\nThis value is calculated from eggs per year and egg nutrition. -->
-  <Stat_Animal_EggNutritionYearlyDesc>Maisto medžiagų kiekis gaunamas per metus iš šios būtybės padedamų kiaušinių.\n\nŠi vertė apskaičiuojama pagal kiaušinių skaičių per metus ir kiaušinio maisto medžiagų kiekį.</Stat_Animal_EggNutritionYearlyDesc>
+  <Stat_Animal_EggNutritionYearlyDesc>Maistinė vertė, gaunama per metus iš šios būtybės padėtų kiaušinių.\n\nŠi vertė apskaičiuojama pagal kiaušinių skaičių per metus ir jų maistinę vertę.</Stat_Animal_EggNutritionYearlyDesc>
   <!-- EN: Egg market value -->
   <Stat_Animal_EggMarketValue>Kiaušinio rinkos vertė</Stat_Animal_EggMarketValue>
   <!-- EN: The market value of a single laid egg. -->
@@ -487,7 +487,7 @@
   <!-- EN: Egg value per year -->
   <Stat_Animal_EggMarketValueYearly>Kiaušinių vertė per metus</Stat_Animal_EggMarketValueYearly>
   <!-- EN: The total value of eggs normally laid over the course of a year.\n\nThis is calculated from eggs per year and egg market value. -->
-  <Stat_Animal_EggMarketValueYearlyDesc>Bendra įprastai per metus padedamų kiaušinių vertė.\n\nJi apskaičiuojama pagal kiaušinių skaičiaus per metus ir kiaušinio rinkos vertės.</Stat_Animal_EggMarketValueYearlyDesc>
+  <Stat_Animal_EggMarketValueYearlyDesc>Bendra vertė kiaušinių, kuriuos ši būtybė įprastai padeda per metus.\n\nJi apskaičiuojama pagal kiaušinių skaičių per metus ir jų rinkos vertę.</Stat_Animal_EggMarketValueYearlyDesc>
   <!-- EN: Milk type -->
   <Stat_Animal_MilkType>Pieno rūšis</Stat_Animal_MilkType>
   <!-- EN: The type of milk this creature produces. -->
