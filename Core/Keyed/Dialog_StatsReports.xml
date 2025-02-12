@@ -357,17 +357,17 @@
   <!-- EN: The overall efficiency of this body part. -->
   <Stat_Thing_BodyPartEfficiency_Desc>Bendras šios kūno dalies efektyvumas.</Stat_Thing_BodyPartEfficiency_Desc>
   <!-- EN: Install sites -->
-  <Stat_Thing_InstallSites>TODO</Stat_Thing_InstallSites>
+  <Stat_Thing_InstallSites>Montavimo vietos</Stat_Thing_InstallSites>
   <!-- EN: Areas on the body where this can be installed. -->
-  <Stat_Thing_InstallSites_Desc>TODO</Stat_Thing_InstallSites_Desc>
+  <Stat_Thing_InstallSites_Desc>Vietos kūne, kuriose tai gali būti įmontuota.</Stat_Thing_InstallSites_Desc>
   <!-- EN: Replaces parts -->
-  <Stat_Thing_ReplacesParts>TODO</Stat_Thing_ReplacesParts>
+  <Stat_Thing_ReplacesParts>Pakeičia dalis</Stat_Thing_ReplacesParts>
   <!-- EN: Body parts which are replaced by this when installed. -->
-  <Stat_Thing_ReplacesParts_Desc>TODO</Stat_Thing_ReplacesParts_Desc>
+  <Stat_Thing_ReplacesParts_Desc>Kūno dalys, kurias tai pakeičia įmontavus.</Stat_Thing_ReplacesParts_Desc>
   <!-- EN: Biocoding -->
-  <Stat_Thing_Biocoded_Name>TODO</Stat_Thing_Biocoded_Name>
+  <Stat_Thing_Biocoded_Name>Biokodavimas</Stat_Thing_Biocoded_Name>
   <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
-  <Stat_Thing_Biocoded_Desc>TODO</Stat_Thing_Biocoded_Desc>
+  <Stat_Thing_Biocoded_Desc>Šis daiktas užkoduotas priimti tik tam tikro asmens bio-parašą.</Stat_Thing_Biocoded_Desc>
   <!-- EN: Required apparel -->
   <Stat_Pawn_RequiredApparel_Name>Reikalinga apranga</Stat_Pawn_RequiredApparel_Name>
   <!-- EN: Growth rate -->
@@ -387,23 +387,23 @@
   <!-- EN: Paint color -->
   <Stat_Building_PaintColor>Dažų spalva</Stat_Building_PaintColor>
   <!-- EN: The color this building was painted. -->
-  <Stat_Building_PaintColorDesc>Dažų spalva kuria šis statinys buvo nudažytas.</Stat_Building_PaintColorDesc>
+  <Stat_Building_PaintColorDesc>Dažų spalva, kuria šis statinys buvo nudažytas.</Stat_Building_PaintColorDesc>
   <!-- EN: Resources to make -->
-  <Stat_Building_ResourcesToMake>TODO</Stat_Building_ResourcesToMake>
+  <Stat_Building_ResourcesToMake>Ištekliai gamybai</Stat_Building_ResourcesToMake>
   <!-- EN: The resources required to construct this. -->
-  <Stat_Building_ResourcesToMakeDesc>TODO</Stat_Building_ResourcesToMakeDesc>
+  <Stat_Building_ResourcesToMakeDesc>Ištekliai, reikalingi šiam objektui pastatyti.</Stat_Building_ResourcesToMakeDesc>
   <!-- EN: The weapon mounted on this creature. -->
-  <Stat_Thing_TurretDesc>TODO</Stat_Thing_TurretDesc>
+  <Stat_Thing_TurretDesc>Ginklas, pritvirtintas prie šios būtybės.</Stat_Thing_TurretDesc>
   <!-- EN: The ingredients needed to make this. -->
-  <Stat_Thing_Ingredients>TODO</Stat_Thing_Ingredients>
+  <Stat_Thing_Ingredients>Tam pagaminti reikalingi ingredientai.</Stat_Thing_Ingredients>
 
   <!-- Drugs -->
   <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
-  <Stat_Thing_Drug_Chemical_Desc>The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways.</Stat_Thing_Drug_Chemical_Desc>
+  <Stat_Thing_Drug_Chemical_Desc>Veiklioji cheminė medžiaga šiame preparate.\n\nKai kuriais atvejais ta pati cheminė medžiaga randama keliuose skirtinguose preparatuose. Jie skirtingais būdais patenkina tą pačią priklausomybę.</Stat_Thing_Drug_Chemical_Desc>
   <!-- EN: The category this drug belongs to. -->
-  <Stat_Thing_Drug_Category_Desc>Kategorija kuriai priklauso šis medikamentas.</Stat_Thing_Drug_Category_Desc>
+  <Stat_Thing_Drug_Category_Desc>Kategorija, kuriai priklauso šis preparatas.</Stat_Thing_Drug_Category_Desc>
   <!-- EN: The intensity of high gained per dose of this drug. -->
-  <Stat_Thing_Drug_HighGainPerDose_Desc>The intensity of high gained per dose of this drug.</Stat_Thing_Drug_HighGainPerDose_Desc>
+  <Stat_Thing_Drug_HighGainPerDose_Desc>Šio preparato dozės sukeliamo apsvaigimo intensyvumas.</Stat_Thing_Drug_HighGainPerDose_Desc>
   <!-- EN: How much this drug's high will decay each day. -->
   <Stat_Thing_Drug_HighFallPerDay_Desc>How much this drug's high will decay each day.</Stat_Thing_Drug_HighFallPerDay_Desc>
   <!-- EN: How long this drug's high will last per dose.\n\nThis is calculated from the high gained per dose and the high fall rate. -->
