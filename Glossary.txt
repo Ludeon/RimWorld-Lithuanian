@@ -4,32 +4,9 @@
 (? žodis)   - galimas kitoks vertimas
 <P          - reikia sugalvoti geresnį vertima ir tada peržiūrėti
 
-google tip: "(angl. mortar" -angel -angle
-
-chatGPT tip:
-fill in the BLANK in the following sentence in lithuanian: "Dėl savo brangumo ir rafinuotos išvaizdos daugelis kultūrų kokainą sieja su BLANK turtuoliais."
-try another word
-another word, one that would describe someone who is degenerate
-
-
-Pakeisti viduje įterpto teksto:
-<!-- EN: {0} of {1} -->
-<SeasonFullDate>{1} {replace: {0}; "th"-""; "st"-""; "nd"-""; "rd"-""}</SeasonFullDate>
-
-
-PAWN_pronoun        - jis
-PAWN_objective      - jį
-PAWN_possesive      - jo
-
-
-Prasti vertimai:
-
-Plant_Healroot.description
-
-
     _A_
 
-ability                     - gebėjimas (true/false)/sugebėjimas (gradual)
+ability                     - gebėjimas (true/false)/sugebėjimas (gradual)/galia (special ability)
 accept                      - priimti/sutikti/išlaikyti (gruntas)
 aching                      - gelia
 activate                    - aktyvuoti
@@ -56,6 +33,7 @@ all                         - viskas <P
 allowed area                - leidžiama sritis
 alphabeaver                 - alfa bebras
 ambrosia                    - ambrozija
+amount                      - (skausmo) stiprumas <P
 animal type                 - gyvūno tipas
 antigrain                   - antimedžiaga
 anything                    - bet kas/nieko
@@ -198,7 +176,7 @@ container                   - talpykla
 containing                  - viduje esantis
 controller                  - valdymo pultelis
 cooking                     - (maisto/narkotikų) gaminimas
-cooldown                    - pertrauka (?)
+cooldown                    - pertraukos laikas (?) <P
 core                        - šerdis/esminė dalis
 corpse obsession            - apsėstas lavonų
 count                       - kiekis
@@ -259,7 +237,7 @@ dispenser                   - dozatorius
 distinctive                 - išskirtinis
 disturb                     - trikdyti/sujudinti
 divorced                    - nutraukė santuoką (?)
-dodge                       - išsisukti
+dodge                       - išsisukti (???) / išvengti <P
 dolly                       - slinkti
 donor                       - rėmėjas
 dormant                     - ramybės būsenoje
@@ -277,7 +255,7 @@ droner                      - ūžesio šaltinis
 drop                        - numesti
 drop-down                   - išskleidžiamasis (meniu)
 drop pod                    - transporto kapsulė (?)
-drug                        - medikamentas/vaistas/narkotikas
+drug                        - medikamentas/vaistas/narkotikas/preparatas <P
 drug policy                 - medikamentų vartojimo (tvarka)
 dull                        - nykiai (?)
 dumb labor                  - įgūdžių nereikalaujantis darbas (?)
@@ -343,7 +321,7 @@ feedstock                   - maistinė žaliava
 fermenting barrel           - fermentacijos statinė
 fetch                       - kainuoja
 filth                       - nešvarumai
-fine						- puikus (patiekalas)
+fine						- puikus (patiekalas)/prabangus (grindys)
 fire retardant              - ugnį slopinantis
 fire rate                   - šaudymo sparta
 fire starting spree         - padeginėjimai
@@ -381,6 +359,7 @@ fuzzy                       - apsiblausęs
 
     _G_
 
+gain                        - prieaugis <P
 game dev                    - žaidimų kūrėjas
 gameplay                    - žaidimo eiga (??)
 gather                      - rinkimas (iš)
@@ -434,7 +413,7 @@ herd                        - banda (?)
 hi-tech                     - aukštųjų technologijų
 hibernating                 - miegantis
 hideous                     - bjaurus
-high                        - stiprus (skausmas, ūžesys)/didelis (energijos vartojimas)/aukšta (temperatūra)/ilga (trukmė)/apkvaišimas
+high                        - stiprus (skausmas, ūžesys)/didelis (energijos vartojimas)/aukšta (temperatūra)/ilga (trukmė)/apkvaišimas/euforijos poveikis <P
 high-explosive              - didelio galingumo sprogmenys
 high on                     - apkvaišęs nuo
 highborn                    - kilmingasis
@@ -482,14 +461,14 @@ inject                      - švirkšti
 insect geneline             - didieji vabzdžiai
 inspector                   - inspektorius
 inspired                    - įkvėpimas (?)
-install                     - įmontuoti
+install                     - montuoti <P
 insulation                  - (šilumos) izoliacija
 insulting spree             - įžeidinėjimas (??)
 intellectual                - intelektiniai (įgūdžiai)
 intense                     - labai stiprus
 interact                    - bendrauti/sąveikauti su <<
 interaction                 - sąveika
-intercept                   - perimti (?)
+intercept                   - perimti (???)
 interface                   - sąsaja (?)
 interior                    - vidus
 intermediate                - vidutinio lygio
@@ -569,7 +548,7 @@ marine                      - pėstininkas
 market value                - rinkos vertė
 massive                     - labai stipri (tolerancija) (?)
 mastered                    - turintis šeimininką
-max                         - maksimumas/didžiausias/daugiausia/maksimalus
+max                         - maksimumas/didžiausias/daugiausia(???)<P/maksimalus
 maximum                     - maksimalus/daugiausia
 meal                        - patiekalas
 medieval world              - viduramžių pasaulis (?)
@@ -599,7 +578,7 @@ minimum                     - minimalus
 minor                       - lengvas/ankstyva/nedidelė
 misc                        - įvairūs
 miss                        - nepataikymas
-mod                         - (žaidimo) modifikacija (?)
+mod                         - modas <P
 moderate                    - vidutinis
 modify                      - pakeisti
 moisture pump               - drėgmės surinkėjas
@@ -630,7 +609,7 @@ normal                      - įprastas/paprastas/vidutinis
 normally                    - įprastai
 note                        - atkreipti dėmesį
 number                      - skaičius
-nutrition                   - maisto medžiagų (kiekis)
+nutrition                   - maistinė vertė <P
 nuzzle                      - trintis nosimi
 
 
@@ -680,6 +659,7 @@ pen marker                  - aptvaro žymeklis
 penalty                     - bauda
 penoxycyline                - penoksicilinas
 perceptual                  - realybės suvokimo
+perform                     - vykdyti <P
 performance-enhancing drug  - dopingas
 permadeath                  - negrįžtama mirtis (??)
 permanently                 - visam laikui
@@ -770,7 +750,7 @@ refuelable                  - galima papildyti kurą (?)
 reinforce                   - atsiųsti pastiprinimą
 reinstall                   - permontuoti
 related                     - giminingas
-reload                      - užtaisyti
+reload                      - užtaisyti/pakrauti (galią) (??)
 remote                      - atokus
 remove                      - pašalinti
 repair                      - (su)taisyti
@@ -796,7 +776,7 @@ rot                         - supuvimas/pūti
 rotate                      - pasukti
 rough stone                 - netašytas akmuo
 rough                       - grublėtas (betonas)/šiurkštus/nelygus
-royalty                     - karaliavimas
+royalty                     - karaliavimas/didikai <P
 rugged                      - tvirtas/atšiaurus
 rush                        - smagu
 
@@ -832,8 +812,10 @@ settle                      - įsikurti
 settlement                  - gyvenvietė
 settler                     - naujakurys (?)
 severe                      - stipri(us) (tolerancija, efektas)
+severity                    - sunkumas
 sex                         - biologinė lytis (atskirt nuo gender)
 shake                       - drebėjimas (ekrano)
+shambler                    - svirdulys (??)
 sharp                       - nuo aštraus (šarvai)
 sheep husbandry             - avininkystė
 shell                       - sviedinys/kiautas
@@ -889,7 +871,7 @@ staggeringly                - pribloškiančiai
 starflight                  - tarpžvaigždiniai skrydžiai
 starship                    - žvaigždėlaivis (?)
 start                       - užvesti
-stat                        - statistinis rodiklis
+stat                        - rodiklis <P
 static                      - stacionarus
 station                     - (darbo) vieta
 stealth                     - sėlinimas

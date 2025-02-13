@@ -4,7 +4,7 @@
   <!-- EN: Confirm -->
   <Confirm>Patvirtinti</Confirm>
   <!-- EN: Go back -->
-  <GoBack>Grįžti atgal</GoBack>
+  <GoBack>Grįžti</GoBack>
   <!-- EN: Do you want to continue? -->
   <WantToContinue>Ar nori tęsti?</WantToContinue>
   <!-- EN: OK -->
@@ -28,27 +28,27 @@
   <!-- EN: add -->
   <Add>pridėti</Add>
   <!-- EN: Cannot shoot -->
-  <CannotShoot>Negali šauti</CannotShoot>
+  <CannotShoot>Negali šaudyti</CannotShoot>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
   <GameUpdatedToNewVersionInitial>RimWorld buvo atnaujintas iš versijos {0} į versiją {1}.</GameUpdatedToNewVersionInitial>
   <!-- EN: This may cause saved games and mods from the old version to stop working. -->
-  <GameUpdatedToNewVersionSavesIncompatible>Dėl to išsaugoti žaidimai ir žaidimo modifikacijos iš senos versijos gali nebeveikti.</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesIncompatible>Dėl to išsaugoti žaidimai ir modai iš senos versijos gali nebeveikti.</GameUpdatedToNewVersionSavesIncompatible>
   <!-- EN: Saved games from the old version should be compatible, however some mods may stop working. -->
-  <GameUpdatedToNewVersionSavesCompatible>Išsaugoti žaidimai iš senos versijos turėtų būti suderinami, tačiau kai kurios žaidimo modifikacijos gali nebeveikti.</GameUpdatedToNewVersionSavesCompatible>
+  <GameUpdatedToNewVersionSavesCompatible>Išsaugoti žaidimai iš senos versijos turėtų būti suderinami, tačiau kai kurie modiai gali nebeveikti.</GameUpdatedToNewVersionSavesCompatible>
   <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
-  <GameUpdatedToNewVersionNonSteam>Kadangi ši kopija yra be DRM, gali įsirašyti žaidimą du kartus dviejuose skirtinguose kataloguose, kad galėtum žaisti ir su sena, ir su nauja versija.</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionNonSteam>Kadangi ši kopija yra be DRM, gali įsidiegti žaidimą du kartus skirtinguose kataloguose, kad galėtum žaisti ir seną, ir naują versiją.</GameUpdatedToNewVersionNonSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu. -->
-  <GameUpdatedToNewVersionSteam>Jei nori tęsti su sena versija, gali tai padaryti naudodamas Steam "Betas" funkcija.\n\n  1. Steam bibliotekoje, paspausk su dešiniu ant RimWorld.\n  2. Paspausk Properties.\n  3. Paspausk Betas langą.\n  4. Pasirink versiją kurią nori iš išskleidžiamojo meniu.</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionSteam>Jei nori tęsti naudodamas seną versiją, gali tai padaryti naudodamas Steam „Betas“ funkciją.\n\n  1. Steam bibliotekoje paspausk dešiniuoju pelės mygtuku ant RimWorld.\n  2. Pasirink Properties.\n  3. Pasirink Betas skiltį.\n  4. Iš išskleidžiamojo meniu pasirink norimą versiją.</GameUpdatedToNewVersionSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature. -->
-  <GameUpdatedToNewVersionSteamController>Jei nori tęsti naudodamas seną versiją, gali pasinaudoti Steam "Betas" funkcija.</GameUpdatedToNewVersionSteamController>
+  <GameUpdatedToNewVersionSteamController>Jei nori tęsti naudodamas seną versiją, gali naudoti Steam „Betas“ funkciją.</GameUpdatedToNewVersionSteamController>
   
   <!-- Recovered from errors caused by mods -->
   <!-- EN: Recovered from incompatible or corrupted mods errors -->
-  <RecoveredFromErrorsDialogTitle>Atsistatyta iš nesuderinamų arba sugadintų žaidimo modifikacijų klaidų</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsDialogTitle>Atstatyta po nesuderinamų arba sugadintų modų klaidų</RecoveredFromErrorsDialogTitle>
   <!-- EN: It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog. -->
-  <RecoveredFromErrorsText>Atrodo, kad kai kurie iš aktyvių žaidimo modifikacijų kėlė klaidas.\n\nJie buvo nesuderinami tarpusavyje, padaryti kitai RimWorld versijai arba sugadinti.\n\nVisos žaidimo modifikacijos buvo išjungtos ir gali būti aktyvuotos vėl žaidimo modifikacijų dialoge.</RecoveredFromErrorsText>
+  <RecoveredFromErrorsText>Atrodo, kai kurie aktyvūs modai kėlė klaidas.\n\nJie buvo nesuderinami tarpusavyje, skirti kitai RimWorld versijai arba sugadinti.\n\nVisi modai buvo išjungti ir gali būti vėl aktyvuoti modų dialoge.</RecoveredFromErrorsText>
   
   <!-- Errors during loading -->
   <!-- EN: Error while loading assets -->
