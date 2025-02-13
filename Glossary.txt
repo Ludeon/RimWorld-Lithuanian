@@ -214,6 +214,7 @@ decent                      - neblogas/padoriai
 decohere                    - išsiderina
 deconstruct                 - išardyti
 deep drill                  - giluminis grąžtas/giluminis gręžinys
+defs                        - apibržimai
 default                     - numatytasis
 deflect                     - atremti
 degenerate                  - degradavęs
@@ -320,6 +321,7 @@ feedback                    - atsakomoji reakcija
 feedstock                   - maistinė žaliava
 fermenting barrel           - fermentacijos statinė
 fetch                       - kainuoja
+file                        - failas <P
 filth                       - nešvarumai
 fine						- puikus (patiekalas)/prabangus (grindys)
 fire retardant              - ugnį slopinantis
@@ -507,7 +509,7 @@ linked                      - susijusi
 load                        - įkelti (bylą)/pakrauti (daiktus)/užtaisyti
 local                       - paplitę
 location                    - vietovė <P
-log                         - įrašas
+log                         - (klaidų) žurnalas <P
 long-duration               - ilgo veikimo
 long range                  - ilgojo nuotolio
 long range mineral scanner  - ilgojo nuotolio mineralų radaras
@@ -661,7 +663,7 @@ penoxycyline                - penoksicilinas
 perceptual                  - realybės suvokimo
 perform                     - vykdyti <P
 performance-enhancing drug  - dopingas
-permadeath                  - negrįžtama mirtis (??)
+permadeath                  - negrįžtamas režimas <P
 permanently                 - visam laikui
 persona                     - persona (?)
 persona core                - personos šerdis (?)
@@ -787,6 +789,7 @@ salvage                     - atgauti (?)
 salve                       - balzamas
 sanguine                    - sangvinikas
 satisfying                  - malonu
+save                        - išsaugotas žaidimas <P
 scan                        - skenuoti/ieškoti skenuojant
 scaled                      - padauginta
 scaria                      - pasiutligė
