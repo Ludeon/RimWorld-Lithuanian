@@ -158,29 +158,29 @@
 
   <!-- Player faction base naming -->
   <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
-  <NamePlayerFactionBaseMessage>{0} mano, kad turėtum šiai gyvenvietei suteikti pavadinimą. Kaip ši gyvenvietė bus vadinama?</NamePlayerFactionBaseMessage>
+  <NamePlayerFactionBaseMessage>{0} mano, kad turėtum šiai gyvenvietei suteikti pavadinimą. Kaip pavadinsi šią gyvenvietę?</NamePlayerFactionBaseMessage>
   <!-- EN: This community is now known as {0}. -->
   <PlayerFactionBaseGainsName>Ši bendruomenė dabar žinoma kaip {0}.</PlayerFactionBaseGainsName>
   <!-- EN: That name isn't valid. -->
-  <PlayerFactionBaseNameIsInvalid>Toks pavadinimas negalimas.</PlayerFactionBaseNameIsInvalid>
+  <PlayerFactionBaseNameIsInvalid>Toks pavadinimas netinkamas.</PlayerFactionBaseNameIsInvalid>
   
   <!-- Player faction and faction base naming -->
   <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
   <NamePlayerFactionBaseMessage_NameFactionContinuation>{0} taip pat mano, kad turėtum šiai gyvenvietei suteikti pavadinimą. Kaip ši gyvenvietė bus vadinama?</NamePlayerFactionBaseMessage_NameFactionContinuation>
   <!-- EN: Your faction is now known as {0}, and this community is now known as {1}. -->
-  <PlayerFactionAndBaseGainsName>Tavo frakcija dabar žinoma kaip {0}, ir ši bendruomenė dabar žinoma kaip {1}.</PlayerFactionAndBaseGainsName>
+  <PlayerFactionAndBaseGainsName>Tavo frakcija dabar žinoma kaip {0}, o ši bendruomenė dabar žinoma kaip {1}.</PlayerFactionAndBaseGainsName>
   
   <!-- Renaming -->
   <!-- EN: Please enter a valid name. -->
-  <NameIsInvalid>Prašome įvesti galiojantį pavadinimą.</NameIsInvalid>
+  <NameIsInvalid>Prašome įvesti tinkamą pavadinimą.</NameIsInvalid>
   <!-- EN: Name is already in use. -->
   <NameIsInUse>Pavadinimas jau naudojamas.</NameIsInUse>
   <!-- EN: The zone is now called {0}. -->
-  <ZoneGainsName>Zona dabar vadinasi {0}.</ZoneGainsName>
+  <ZoneGainsName>Zona dabar vadinama {0}.</ZoneGainsName>
   
   <!-- Pawn naming -->
   <!-- EN: Chosen name is invalid. -->
-  <NameInvalid>Pasirinktas negalimas vardas.</NameInvalid>
+  <NameInvalid>Pasirinktas vardas netinkamas.</NameInvalid>
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
   <PawnGainsName>Šio asmens pravardė dabar yra {0}. {PAWN_possessive} titulas yra {PAWN_title}.</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
@@ -204,29 +204,29 @@
   
   <!-- Choose new wanderers -->
   <!-- EN: Choose new wanderers -->
-  <ChooseNewWanderers>TODO</ChooseNewWanderers>
+  <ChooseNewWanderers>Pasirink naujus klajoklius</ChooseNewWanderers>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
   <VersionMismatch>Versijos neatitikimas</VersionMismatch>
   <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
-  <SaveGameIncompatibleWarningText>Šis žaidimas buvo išsaugotas su {0} versija\nMes esame paleidę {1} versiją\n\nŠio žaidimo užkrovimas gali sukelti klaidas ir nulūžimus.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningText>Šis žaidimas buvo išsaugotas su {0} versija\nDabar paleista {1} versija\n\nŠio išsaugoto žaidimo įkėlimas gali sukelti klaidų ir nulūžimų.</SaveGameIncompatibleWarningText>
   <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
-  <WorldFileVersionMismatch>Pasaulio byla buvo sugeneruota su {0} versija\nMes esame paleidę {1} versiją\n\nŠio pasaulio užkrovimas gali sukelti klaidas ir nulūžimus. Tau turbūt reikėtų sukurti naują pasaulį.</WorldFileVersionMismatch>
+  <WorldFileVersionMismatch>Pasaulio failas buvo sugeneruotas su {0} versija\nDabar paleista {1} versija\n\nŠio pasaulio įkėlimas gali sukelti klaidų ir nulūžimų. Tau turbūt reikėtų sukurti naują pasaulį nuo pradžių.</WorldFileVersionMismatch>
   <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
-  <FileIncompatibleWarning>Ši byla buvo išsaugota su {0} versija\nMes esame paleidę {1} versiją\n\nBylos užkrovimas gali sukelti klaidas ir nulūžimus.</FileIncompatibleWarning>
+  <FileIncompatibleWarning>Šis failas buvo išsaugotas su {0} versija\nDabar paleista {1} versija\n\nŠio failo įkėlimas gali sukelti klaidų ir nulūžimų.</FileIncompatibleWarning>
   <!-- EN: Mods mismatch -->
-  <ModsMismatchWarningTitle>Žaidimo modifikacijų neatitikimas</ModsMismatchWarningTitle>
+  <ModsMismatchWarningTitle>Modų neatitikimas</ModsMismatchWarningTitle>
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do. -->
-  <ModsMismatchWarningText>Ši byla buvo išsaugota su skirtingomis aktyviomis žaidimo modifikacijomis negu kurios dabar yra veikiančios. Tai gali sukelti problemas, priklausomai nuo to ką tiksliai tos žaidimo modifikacijos daro.</ModsMismatchWarningText>
+  <ModsMismatchWarningText>Šis failas buvo išsaugotas su kitokiais aktyviais modais nei tie, kurie dabar veikia. Tai gali sukelti problemų, priklausomai nuo to, ką tiksliai tie modai daro.</ModsMismatchWarningText>
   <!-- EN: No mods have been added or removed, but the order of your mod list has changed. -->
-  <ModsMismatchOrderChanged>Jokių žaidimo modifikacijų nebuvo pridėta ar pašalinta, bet pasikeitė žaidimo modifikacijų sąrašo eiliškumas.</ModsMismatchOrderChanged>
+  <ModsMismatchOrderChanged>Jokių modų nebuvo pridėta ar pašalinta, bet pasikeitė modų sąrašo eiliškumas.</ModsMismatchOrderChanged>
   <!-- EN: Are you sure you want to load the mod list from this save file? -->
-  <ConfirmLoadSaveList>Ar tikrai nori įkelti žaidimo modifikacijų sąrašą iš šios išsaugotos bylos?</ConfirmLoadSaveList>
+  <ConfirmLoadSaveList>Ar tikrai nori įkelti modų sąrašą iš šio išsaugoto žaidimo failo?</ConfirmLoadSaveList>
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
-  <ConfirmResolutionChange>Tu pakeitei ekrano nustatymus. Ar nauji nustatymai gerai veikia?\n\nAutomatinis atstatymas už {0}...</ConfirmResolutionChange>
+  <ConfirmResolutionChange>Tu pakeitei ekrano nustatymus. Ar nauji nustatymai veikia gerai?\n\nAutomatinis atstatymas už {0}...</ConfirmResolutionChange>
   <!-- EN: Keep -->
   <ResolutionKeep>Palikti</ResolutionKeep>
   <!-- EN: Revert -->
@@ -234,15 +234,15 @@
 
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
-  <ConfirmPermanentlyDisableDevMode>Ar tikrai nori visam išjungti programuotojo režimą ant šio kompiuterio?\n\nŠis pasirinkimas skirtas žmonėms kurie nori švaraus žaidimo be pagundos įsijungti programos plėtojimo įrankius gauti pranašumui įprastai žaidžiant.\n\nProgramos plėtojimo režimas gali būti įjungtas vėl, bet tam reikia pačiam paredaguoti konfigūracijos bylas. Reikės paieškoti internete kad rastum kaip.</ConfirmPermanentlyDisableDevMode>
+  <ConfirmPermanentlyDisableDevMode>Ar tikrai nori visam laikui išjungti programuotojo režimą šiame kompiuteryje?\n\nŠis pasirinkimas skirtas žmonėms, kurie nori švaraus žaidimo be pagundos naudoti programuotojo įrankius pranašumui įgyti įprastai žaidžiant.\n\nProgramuotojo režimą galima vėl įjungti, bet tam reikia pačiam paredaguoti konfigūracijos failus. Reikės paieškoti internete, kad rastum kaip.</ConfirmPermanentlyDisableDevMode>
 
   <!-- Confirm reset learning helper -->
   <!-- EN: Are you sure you want to reset the learning helper?\n\nAll records of which concepts have been learned will be erased and the system will teach everything from scratch. -->
-  <ConfirmResetLearningHelper>Ar tikrai nori atstatyti mokymosi padėjėją?\n\nVisi įrašai apie išmoktas koncepcijas bus ištrinti ir sistema visko mokins nuo pradžių.</ConfirmResetLearningHelper>
+  <ConfirmResetLearningHelper>Ar tikrai nori atstatyti mokymosi padėjėją?\n\nVisi įrašai apie išmoktas koncepcijas bus ištrinti ir sistema mokys visko nuo pradžių.</ConfirmResetLearningHelper>
 
   <!-- Backstory translation restart dialog -->
   <!-- EN: Backstories are now implemented as a def and all legacy backstory translations have been imported into def translations. The file {0} has been imported and moved to {1}. It can now be deleted.\n\nRestart the game for changes to take effect. -->
-  <RestartAfterImportingLegacyBackstoryTanslations>TODO</RestartAfterImportingLegacyBackstoryTanslations>
+  <RestartAfterImportingLegacyBackstoryTanslations>Gyvenimo istorijos dabar yra padarytos kaip apibrėžimai, o visi seni gyvenimo istorijų vertimai buvo importuoti į apibrėžimų vertimus. Failas {0} buvo importuotas ir perkeltas į {1}. Jį dabar galima ištrinti.\n\nPerkrauk žaidimą, kad pakeitimai įsigaliotų.</RestartAfterImportingLegacyBackstoryTanslations>
 
   <!-- Game start -->
   <!-- EN: Must include exactly {SUMMARY} -->
@@ -250,9 +250,9 @@
 
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
-  <MapTemperatureDangerWarning>Įspėjimas: Tu nusileisi sušalusioje aplinkoje. Gali būti sunku ar beveik neįmanoma išgyventi. Jei neketini sau išsikelti aukščiausio laipsnio iššūkio, pasirink kitą vietą arba metų laiką.</MapTemperatureDangerWarning>
+  <MapTemperatureDangerWarning>Įspėjimas: Tu nusileisi sušalusioje aplinkoje. Gali būti sunku ar beveik neįmanoma išgyventi. Jei neketini susidurti su ekstremaliu iššūkiu, pasirink kitą vietą arba metų laiką.</MapTemperatureDangerWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
-  <MapSizePerformanceWarning>Žaidimas yra sukurtas žaisti vidutinio dydžio žemėlapiuose. Juose yra pilna vietos!\n\nDideli žemėlapiai ne tik kad pablogina veikimo našumą - jie iš tikro sulaužo žaidimo dizainą. DI darys kvailus sprendimus ir žaidimo balansas bus pablogintas įvairiais būdais. Šitie dydžiai yra pridėti tik dėl tradicijos ir testavimo, prašome nenaudoti jų be konkrečios priežasties.</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>Žaidimas yra sukurtas žaisti vidutinio dydžio žemėlapiuose. Juose yra daug vietos!\n\nDideli žemėlapiai ne tik pablogina veikimą - jie iš tikrųjų sulaužo žaidimo dizainą. DI darys kvailus sprendimus, ir žaidimo balansas bus pablogintas įvairiais būdais. Šie dydžiai yra pridėti tik dėl tradicijos ir testavimo tikslais, prašome nenaudoti jų be konkrečios priežasties.</MapSizePerformanceWarning>
   <!-- EN: Map size -->
   <MapSize>Žemėlapio dydis</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
@@ -264,7 +264,7 @@
   <!-- EN: Large -->
   <MapSizeLarge>Didelis</MapSizeLarge>
   <!-- EN: Extreme (test) -->
-  <MapSizeExtreme>Itin didelis (testinis)</MapSizeExtreme>
+  <MapSizeExtreme>Milžiniškas (testinis)</MapSizeExtreme>
   <!-- EN: Starting season -->
   <MapStartSeason>Pradinis metų laikas</MapStartSeason>
   <!-- EN: Auto -->

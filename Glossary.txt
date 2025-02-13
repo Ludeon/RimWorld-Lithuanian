@@ -66,6 +66,7 @@ awful                       - labai prastas
     _B_
 
 background                  - fonas
+backstory                   - gyvenimo istorija <P
 bandaged                    - sutvarstyta
 barn                        - tvartas
 barracks                    - barakas (?)
@@ -299,7 +300,7 @@ exposure                    - poveikis
 extra                       - perteklinis
 extract                     - iškasti/išgauti/_
 extremely                   - nepaprastai/itin/pats (žemiausias)
-extreme                     - aukščiausio laipsnio/itin didelis/ekstremalios (oro sąlygos) (?? nepakeliamas) <P
+extreme                     - aukščiausio laipsnio/milžiniškas <P/ekstremalus (oro sąlygos/iššūkis) (?? nepakeliamas) <P
 eyedropper                  - pipetė
 
 
@@ -506,7 +507,7 @@ limited-use                 - su ribotu panaudojimų skaičiumi
 line of sight               - tiesioginis matomumas
 link                        - susieti
 linked                      - susijusi
-load                        - įkelti (bylą)/pakrauti (daiktus)/užtaisyti
+load                        - įkelti (failą)/pakrauti (daiktus)/užtaisyti
 local                       - paplitę
 location                    - vietovė <P
 log                         - (klaidų) žurnalas <P
