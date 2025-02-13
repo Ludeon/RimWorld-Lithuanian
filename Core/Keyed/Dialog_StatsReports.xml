@@ -491,64 +491,64 @@
   <!-- EN: Milk type -->
   <Stat_Animal_MilkType>Pieno rūšis</Stat_Animal_MilkType>
   <!-- EN: The type of milk this creature produces. -->
-  <Stat_Animal_MilkTypeDesc>Pieno, kuris išgaunamas iš šios būtybės, rūšis.</Stat_Animal_MilkTypeDesc>
+  <Stat_Animal_MilkTypeDesc>Šios būtybės gaminamo pieno rūšis.</Stat_Animal_MilkTypeDesc>
   <!-- EN: Milk amount -->
   <Stat_Animal_MilkAmount>Pieno kiekis</Stat_Animal_MilkAmount>
   <!-- EN: The amount of milk this creature produces each time it is milked. -->
-  <Stat_Animal_MilkAmountDesc>Pieno kiekis, kuris kiekvieną kartą melžiant yra išgaunamas iš šios būtybės.</Stat_Animal_MilkAmountDesc>
+  <Stat_Animal_MilkAmountDesc>Pieno kiekis, kurį ši būtybė duoda kiekvieno melžimo metu.</Stat_Animal_MilkAmountDesc>
   <!-- EN: Milking interval -->
   <Stat_Animal_MilkGrowthTime>Melžimo intervalas</Stat_Animal_MilkGrowthTime>
   <!-- EN: The amount of time this creature needs between milkings. -->
-  <Stat_Animal_MilkGrowthTimeDesc>Laiko tarpas, kurio šiai būtybei reikia tarp melžimų.</Stat_Animal_MilkGrowthTimeDesc>
+  <Stat_Animal_MilkGrowthTimeDesc>Laiko tarpas, kurio reikia šiai būtybei tarp melžimų.</Stat_Animal_MilkGrowthTimeDesc>
   <!-- EN: Milk per year -->
   <Stat_Animal_MilkPerYear>Pienas per metus</Stat_Animal_MilkPerYear>
   <!-- EN: The amount of milk produced by this animal over the course of a year.\n\nThis is calculated from milk amount and milking interval. -->
-  <Stat_Animal_MilkPerYearDesc>Iš šio gyvūno per metus išgaunamo pieno kiekis.\n\nJis apskaičiuojamas pagal pieno kiekį ir melžimo intervalą.</Stat_Animal_MilkPerYearDesc>
+  <Stat_Animal_MilkPerYearDesc>Per metus iš šio gyvūno išgaunamo pieno kiekis.\n\nJis apskaičiuojamas pagal pieno kiekį ir melžimo intervalą.</Stat_Animal_MilkPerYearDesc>
   <!-- EN: Milk market value -->
   <Stat_Animal_MilkValue>Pieno rinkos vertė</Stat_Animal_MilkValue>
   <!-- EN: The value of one unit of this creature's milk. -->
-  <Stat_Animal_MilkValueDesc>Vieno vieneto šios būtybės pieno vertė.</Stat_Animal_MilkValueDesc>
+  <Stat_Animal_MilkValueDesc>Vieno šios būtybės pieno vieneto rinkos vertė.</Stat_Animal_MilkValueDesc>
   <!-- EN: Milk value per year -->
   <Stat_Animal_MilkValuePerYear>Pieno vertė per metus</Stat_Animal_MilkValuePerYear>
   <!-- EN: The market value of one year's worth of milk from this creature, assuming it never goes hungry and is milked instantly at the end of each milk interval.\n\nThis is calculated from milk per year and milk market value. -->
-  <Stat_Animal_MilkValuePerYearDesc>Iš šios būtybės per metus išgaunamo pieno rinkos vertė, darant prielaidą, kad ji niekada nelieka alkana ir iš karto pamelžiama kiekvieno melžimo intervalo pabaigoje.\n\nJi apskaičiuojama pagal pieno kiekį per metus ir pieno rinkos vertę.</Stat_Animal_MilkValuePerYearDesc>
+<Stat_Animal_MilkValuePerYearDesc>Per metus šios būtybės duodamo pieno rinkos vertė, darant prielaidą, kad ji niekada nebūna alkana ir yra pamelžiama iš karto kiekvieno melžimo intervalo pabaigoje.\n\nŠi vertė apskaičiuojama pagal metinį pieno kiekį ir pieno rinkos vertę.</Stat_Animal_MilkValuePerYearDesc>
   <!-- EN: Wool type -->
   <Stat_Animal_WoolType>Vilnos rūšis</Stat_Animal_WoolType>
   <!-- EN: The type of wool produced by this creature. -->
-  <Stat_Animal_WoolTypeDesc>Iš šios būtybės išgaunamos vilnos rūšis.</Stat_Animal_WoolTypeDesc>
+  <Stat_Animal_WoolTypeDesc>Šios būtybės gaminamos vilnos rūšis.</Stat_Animal_WoolTypeDesc>
   <!-- EN: Wool amount -->
   <Stat_Animal_WoolAmount>Vilnos kiekis</Stat_Animal_WoolAmount>
   <!-- EN: The amount of wool yielded by this creature each time it is shorn. -->
-  <Stat_Animal_WoolAmountDesc>Vilnos kiekis, kuris iš šios būtybės yra gaunamas kiekvieną kartą ją kerpant.</Stat_Animal_WoolAmountDesc>
+  <Stat_Animal_WoolAmountDesc>Vilnos kiekis, kurį ši būtybė duoda kiekvieno kirpimo metu.</Stat_Animal_WoolAmountDesc>
   <!-- EN: Wool shearing interval -->
   <Stat_Animal_WoolGrowthTime>Vilnos kirpimo intervalas</Stat_Animal_WoolGrowthTime>
   <!-- EN: The time after shearing before this creature can be shorn again. -->
-  <Stat_Animal_WoolGrowthTimeDesc>Laikas po kirpimo iki kol ši būtybė vėl gali būti nukirpta.</Stat_Animal_WoolGrowthTimeDesc>
+  <Stat_Animal_WoolGrowthTimeDesc>Laikas po kirpimo, kol ši būtybė vėl gali būti nukirpta.</Stat_Animal_WoolGrowthTimeDesc>
   <!-- EN: Wool amount per year -->
   <Stat_Animal_WoolPerYear>Vilnos kiekis per metus</Stat_Animal_WoolPerYear>
   <!-- EN: The amount of wool produced by this creature per year.\n\nThis is calculated from wool amount and wool shearing interval. -->
-  <Stat_Animal_WoolPerYearDesc>Iš šios būtybės per metus išgaunamos vilnos kiekis.\n\nJis apskaičiuojamas pagal vilnos kiekį ir vilnos kirpimo intervalą.</Stat_Animal_WoolPerYearDesc>
+  <Stat_Animal_WoolPerYearDesc>Per metus šios būtybės pagaminamos vilnos kiekis.\n\nJis apskaičiuojamas pagal vilnos kiekį ir vilnos kirpimo intervalą.</Stat_Animal_WoolPerYearDesc>
   <!-- EN: Wool market value -->
   <Stat_Animal_WoolValue>Vilnos rinkos vertė</Stat_Animal_WoolValue>
   <!-- EN: The market value of one unit of this creature's wool. -->
-  <Stat_Animal_WoolValueDesc>Vieno vieneto šios būtybės vilnos rinkos vertė.</Stat_Animal_WoolValueDesc>
+  <Stat_Animal_WoolValueDesc>Vieno šios būtybės vilnos vieneto rinkos vertė.</Stat_Animal_WoolValueDesc>
   <!-- EN: Wool value per year -->
   <Stat_Animal_WoolValuePerYear>Vilnos vertė per metus</Stat_Animal_WoolValuePerYear>
   <!-- EN: The market value of one year's worth of wool from this creature.\n\nThis is calculated from wool amount per year and wool market value. -->
-  <Stat_Animal_WoolValuePerYearDesc>Per metus iš šios būtybės išgaunamos vilnos rinkos vertė.\n\nJi apskaičiuojama pagal vilnos kiekį per metus ir vilnos rinkos vertę.</Stat_Animal_WoolValuePerYearDesc>
+  <Stat_Animal_WoolValuePerYearDesc>Per metus šios būtybės pagaminamos vilnos rinkos vertė.\n\nJi apskaičiuojama pagal metinį vilnos kiekį ir vilnos rinkos vertę.</Stat_Animal_WoolValuePerYearDesc>
 
   <!-- EN: How much of the total possible study you have performed on this object. -->
-  <Stat_Studiable_Desc>Kiek viso galimo studijavimo atlikote šiam objektui.</Stat_Studiable_Desc>
+  <Stat_Studiable_Desc>Kiek viso galimo studijavimo atlikai šiam objektui.</Stat_Studiable_Desc>
 
   <!-- EN: Source -->
   <Stat_Source_Label>Šaltinis</Stat_Source_Label>
   <!-- EN: This content came from the official expansion -->
-  <Stat_Source_OfficialExpansionReport>Šis turinys atsirado iš oficialaus žaidimo papildymo</Stat_Source_OfficialExpansionReport>
+  <Stat_Source_OfficialExpansionReport>Šis turinys yra iš oficialaus žaidimo papildymo.</Stat_Source_OfficialExpansionReport>
   <!-- EN: This content came from the mod -->
-  <Stat_Source_ModReport>Šis turinys atsirado iš žaidimo modifikacijos</Stat_Source_ModReport>
+  <Stat_Source_ModReport>Šis turinys yra iš žaidimo modifikacijos.</Stat_Source_ModReport>
 
   <!-- EN: Contained book beauty -->
-  <ContainedBookBeauty>TODO</ContainedBookBeauty>
+  <ContainedBookBeauty>Viduje esančios knygos grožis</ContainedBookBeauty>
   <!-- EN: {0} hits -->
-  <Stat_TrapDamageHitCount>TODO</Stat_TrapDamageHitCount>
+  <Stat_TrapDamageHitCount>{0} pataikymų</Stat_TrapDamageHitCount>
 </LanguageData>
