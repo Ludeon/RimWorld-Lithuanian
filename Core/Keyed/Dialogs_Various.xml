@@ -54,53 +54,53 @@
   <!-- EN: Error while loading assets -->
   <ErrorWhileLoadingAssetsTitle>Klaida įkeliant turinį</ErrorWhileLoadingAssetsTitle>
   <!-- EN: An error occurred while loading game assets. See error log for more information. -->
-  <ErrorWhileLoadingAssets>Įvyko klaida įkeliant žaidimo turinį. Patikrink klaidų įrašus.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets>Įvyko klaida įkeliant žaidimo turinį. Daugiau informacijos rasi klaidų žurnale.</ErrorWhileLoadingAssets>
   <!-- EN: The game is currently running with custom mods - they may or may not cause these problems. -->
-  <ErrorWhileLoadingAssets_ModsInfo>Žaidimas šiuo metu veikia su pritaikytomis žaidimo modifikacijomis - jos galimai gali sukelti problemų.</ErrorWhileLoadingAssets_ModsInfo>
+<ErrorWhileLoadingAssets_ModsInfo>Žaidimas šiuo metu veikia su pritaikytais modais – jie gali sukelti problemų.</ErrorWhileLoadingAssets_ModsInfo>
   <!-- EN: Error while generating a map -->
   <ErrorWhileGeneratingMapTitle>Klaida generuojant žemėlapį</ErrorWhileGeneratingMapTitle>
   <!-- EN: An error occurred while generating a new map. See error log for more information. -->
-  <ErrorWhileGeneratingMap>Įvyko klaida generuojant naują žemėlapį. Patikrink klaidų įrašus.</ErrorWhileGeneratingMap>
+  <ErrorWhileGeneratingMap>Įvyko klaida generuojant naują žemėlapį. Daugiau informacijos rasi klaidų žurnale.</ErrorWhileGeneratingMap>
   <!-- EN: Error while loading a map -->
   <ErrorWhileLoadingMapTitle>Klaida įkeliant žemėlapį</ErrorWhileLoadingMapTitle>
   <!-- EN: An error occurred while loading a map. See error log for more information. -->
-  <ErrorWhileLoadingMap>Įvyko klaida įkeliant žemėlapį. Patikrink klaidų įrašus.</ErrorWhileLoadingMap>
+  <ErrorWhileLoadingMap>Įvyko klaida įkeliant žemėlapį. Daugiau informacijos rasi klaidų žurnale.</ErrorWhileLoadingMap>
   
   <!-- Unloaded mod with an assembly -->
   <!-- EN: The mod list has changed. The game will now restart automatically. -->
-  <ModsChanged>žaidimo modifikacijų sąrašas pasikeitė. Žaidimas įsijungs iš naujo automatiškai.</ModsChanged>
+  <ModsChanged>Modų sąrašas pasikeitė. Žaidimas bus automatiškai paleistas iš naujo.</ModsChanged>
   <!-- EN: Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly. -->
-  <FailedToRestart>Kažkas nepavyko jungiant žaidimą iš naujo. Žaidimas negalėjo pilnai išimti pakeisto kodo iš išjungtų žaidimo modifikacijų, todėl kodas iš išjungtų žaidimo modifikacijų vis dar gali veikti.\n\nRekomenduojama išeiti ir perkrauti žaidimą dabar, kad visos žaidimo modifikacijos būtų įkeltos švariai.</FailedToRestart>
+  <FailedToRestart>Kilo problemų paleidžiant žaidimą iš naujo. Žaidimas negalėjo visiškai pašalinti modifikuoto kodo iš išjungtų modų, todėl jų kodas vis dar gali būti aktyvus.\n\nRekomenduojama išeiti ir paleisti žaidimą iš naujo, kad visi modai būtų įkelti švariai.</FailedToRestart>
   <!-- EN: Restarting -->
   <Restarting>Paleidžiama iš naujo</Restarting>
   
   <!-- Missing Steam -->
   <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
-  <SteamClientMissing>Nebuvo galima inicializuoti Steam API. Galimos priežastys:\n\n-Steam nėra paleistas.\n-Paleista iš už Steam neturint steam_appid.txt savo vietoje.\n-PAleista su skirtingomis privilegijomis negu Steam klientas (pvz. "as administrator").\n\nDažniausiai, kompiuterio perkrovimas pataisys šią problemą.\n\nGali žaisti vis tiek, bet Steam statistika nebus išsaugota ir Steam funkcijos nebus prieinamos.</SteamClientMissing>
+<SteamClientMissing>Nepavyko inicializuoti Steam API. Galimos priežastys:\n\n-Steam nėra paleistas.\n-Žaidimas paleistas už Steam aplinkos be steam_appid.txt failo.\n-Žaidimas paleistas su kitokiomis privilegijomis nei Steam klientas (pvz., „kaip administratorius“).\n\nDažniausiai problemą išsprendžia kompiuterio perkrovimas.\n\nVis tiek gali žaisti, bet Steam statistika nebus įrašoma, o Steam funkcijos bus neprieinamos.</SteamClientMissing>
   
   <!-- Long events -->
   <!-- EN: Initializing interface -->
   <InitializingInterface>Inicializuojama sąsaja</InitializingInterface>
   <!-- EN: Unloading unused assets -->
-  <UnloadingUnusedAssets>Iškraunamas nenaudojamas turinys</UnloadingUnusedAssets>
+  <UnloadingUnusedAssets>Iškraunami nenaudojami resursai</UnloadingUnusedAssets>
   <!-- EN: Loading all active mods -->
-  <LoadingAllActiveMods>Įkeliamos visos aktyvios žaidimo modifikacijos</LoadingAllActiveMods>
+  <LoadingAllActiveMods>Įkeliami visi aktyvūs modai</LoadingAllActiveMods>
   <!-- EN: Loading defs -->
-  <LoadingDefs>Įkeliami duomenys</LoadingDefs>
+  <LoadingDefs>Įkeliami apibrėžimai</LoadingDefs>
   <!-- EN: Loading assets -->
   <LoadingAssets>Įkeliamas turinys</LoadingAssets>
   <!-- EN: Initializing -->
-  <Initializing>Pradedama</Initializing>
+  <Initializing>Inicializuojama</Initializing>
   <!-- EN: Loading world -->
   <LoadingWorld>Įkeliamas pasaulis</LoadingWorld>
   <!-- EN: Loading map -->
   <LoadingMap>Įkeliamas žemėlapis</LoadingMap>
   <!-- EN: Initializing game -->
-  <InitializingGame>Pradedamas žaidimas</InitializingGame>
+  <InitializingGame>Inicializuojamas žaidimas</InitializingGame>
   <!-- EN: Spawning things -->
-  <SpawningAllThings>Sukuriami daiktai</SpawningAllThings>
+  <SpawningAllThings>Atsiranda objektai</SpawningAllThings>
   <!-- EN: Spawning colonists -->
-  <SpawningColonists>Sukuriami kolonistai</SpawningColonists>
+  <SpawningColonists>Atsiranda kolonistai</SpawningColonists>
   
   <!-- Save/load -->
   <!-- EN: Save -->
