@@ -177,7 +177,7 @@ container                   - talpykla
 containing                  - viduje esantis
 controller                  - valdymo pultelis
 cooking                     - (maisto/narkotikų) gaminimas
-cooldown                    - pertraukos laikas (?) <P
+cooldown                    - pertraukos trukmė (?) <P
 core                        - šerdis/esminė dalis
 corpse obsession            - apsėstas lavonų
 count                       - kiekis
@@ -903,6 +903,7 @@ supercharge                 - labai sustiprinti
 supplies                    - atsargos/prekės
 support                     - išlaikyti/išmaitinti/atrama
 supportive                  - pagalbinis
+suspended                   - sustabdyta
 suspended animation         - sustabdytų gyvybinių funkcijų būsena (?)
 sutured                     - susiūta
 swarm                       - spiečius
@@ -1020,7 +1021,7 @@ wandering idly              - dykinėja
 want                        - noras
 warden                      - kalėjimo prižiūrėtojas
 warg                        - vargas (?)
-warmup                      - pasiruošimo laikas  (??)
+warmup                      - pasiruošimo trukmė (?) <P
 waypoint                    - kelionės taškas
 wearing off                 - baigia veikti
 wild plant growth           - laukinė augalija

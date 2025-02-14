@@ -341,11 +341,11 @@
   <!-- EN: Look in {0} -->
   <IncludeSpecific>Ieškoti {0}</IncludeSpecific>
   <!-- EN: Stockpiles -->
-  <StockpilePlural>TODO</StockpilePlural>
+  <StockpilePlural>Atsargos</StockpilePlural>
   <!-- EN: Shelves -->
-  <ShelfPlural>TODO</ShelfPlural>
+  <ShelfPlural>Lentynos</ShelfPlural>
   <!-- EN: Groups -->
-  <GroupPlural>TODO</GroupPlural>
+  <GroupPlural>Grupės</GroupPlural>
   
   <!-- Info card -->
   <!-- EN: Damage -->
@@ -353,31 +353,31 @@
   <!-- EN: Armor penetration -->
   <ArmorPenetration>Šarvų pramušimas</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
-  <ArmorPenetrationExplanation>Šarvų pramušimas parodo kiek šarvų šis ginklas ignoruos kaskart kai pataikys į taikinį.\n\nJei šarvų pramušimas yra didesnis negu taikinio šarvai, tai lyg taikinys būtų be šarvų. Kitu atveju šarvų pramušimas yra atimamas iš taikinio šarvų.</ArmorPenetrationExplanation>
+  <ArmorPenetrationExplanation>Šarvų pramušimas parodo, kiek šarvų šis ginklas ignoruos kaskart, kai pataikys į taikinį.\n\nJei šarvų pramušimas yra didesnis nei taikinio šarvai, tai lyg taikinys būtų be šarvų. Kitu atveju, šarvų pramušimas yra atimamas iš taikinio šarvų.</ArmorPenetrationExplanation>
   <!-- EN: Building damage factor -->
   <BuildingDamageFactor>Žalos statiniams koeficientas</BuildingDamageFactor>
   <!-- EN: Damage to all buildings is multiplied by this value. -->
-  <BuildingDamageFactorExplanation>Žala visiems statiniams yra dauginama iš šio skaičiaus.</BuildingDamageFactorExplanation>
+  <BuildingDamageFactorExplanation>Žala visiems statiniams dauginama iš šio skaičiaus.</BuildingDamageFactorExplanation>
   <!-- EN: Building damage factor (impassable) -->
   <BuildingDamageFactorImpassable>Žalos statiniams koeficientas (nepraeinami)</BuildingDamageFactorImpassable>
   <!-- EN: Damage to all impassable buildings is multiplied by this value. -->
-  <BuildingDamageFactorImpassableExplanation>Žala visiems nepraeinamiems statiniams yra dauginama iš šio skaičiaus.</BuildingDamageFactorImpassableExplanation>
+  <BuildingDamageFactorImpassableExplanation>Žala visiems nepraeinamiems statiniams dauginama iš šio skaičiaus.</BuildingDamageFactorImpassableExplanation>
   <!-- EN: Building damage factor (passable) -->
   <BuildingDamageFactorPassable>Žalos statiniams koeficientas (praeinami)</BuildingDamageFactorPassable>
   <!-- EN: Damage to all passable buildings is multiplied by this value. -->
-  <BuildingDamageFactorPassableExplanation>Žala visiems praeinamiems statiniams yra dauginama iš šio skaičiaus.</BuildingDamageFactorPassableExplanation>
+  <BuildingDamageFactorPassableExplanation>Žala visiems praeinamiems statiniams dauginama iš šio skaičiaus.</BuildingDamageFactorPassableExplanation>
   <!-- EN: Accuracy -->
   <Accuracy>Taiklumas</Accuracy>
   <!-- EN: Burst shot count -->
   <BurstShotCount>Papliūpos šūvių skaičius</BurstShotCount>
   <!-- EN: Warmup -->
-  <WarmupTime>Pasiruošimas</WarmupTime>
+  <WarmupTime>Pasiruošimo trukmė</WarmupTime>
   <!-- EN: Melee warmup -->
-  <MeleeWarmupTime>Pasiruošimo laikas artimai kovai</MeleeWarmupTime>
+  <MeleeWarmupTime>Pasiruošimo trukmė artimai kovai</MeleeWarmupTime>
   <!-- EN: Aiming time -->
-  <RangedWarmupTime>Nusitaikymo laikas</RangedWarmupTime>
+  <RangedWarmupTime>Nusitaikymo trukmė</RangedWarmupTime>
   <!-- EN: Cooldown -->
-  <CooldownTime>Pertrauka</CooldownTime>
+  <CooldownTime>Pertraukos trukmė</CooldownTime>
   <!-- EN: Disarmed -->
   <DisarmedTime>Nuginkluotas</DisarmedTime>
   <!-- EN: Charging -->
@@ -393,7 +393,7 @@
   <!-- EN: Stopping power -->
   <StoppingPower>Stabdymo galia</StoppingPower>
   <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds.\n\nTargets with a body size larger than the stopping power will be unaffected. -->
-  <StoppingPowerExplanation>Pataikymai su šiuo ginklu pritrenks taikinius, sulėtindami juos kelioms sekundėms.\n\nTaikiniai kurių kūnas didesnis negu stabdymo galia bus nepaveikti.</StoppingPowerExplanation>
+  <StoppingPowerExplanation>Pataikymai su šiuo ginklu pritrenks taikinius, sulėtindami jų judėjimą kelioms sekundėms.\n\nTaikiniai, kurių kūno dydis didesnis nei stabdymo galia, bus nepaveikti.</StoppingPowerExplanation>
   <!-- EN: Direct hit chance -->
   <DirectHitChance>Pataikymo tikimybė</DirectHitChance>
   <!-- EN: Miss radius -->
@@ -401,7 +401,7 @@
   <!-- EN: Grows wild -->
   <GrowsWild>Auga natūraliai</GrowsWild>
   <!-- EN: Harvestable -->
-  <Harvestable>Galimas derliaus nuėmimas</Harvestable>
+  <Harvestable>Galima nuimti derlių</Harvestable>
   <!-- EN: Limited lifespan -->
   <LimitedLifespan>Ribota gyvenimo trukmė</LimitedLifespan>
   <!-- EN: Growing time -->
@@ -413,17 +413,17 @@
   <!-- EN: Max growth temperature -->
   <MaxGrowthTemperature>Maksimali augimo temperatūra</MaxGrowthTemperature>
   <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\n\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
-  <GrowingTimeDesc>Augalai auga tik dalį dienos ir tik kai yra apšviesti.\n\nŠis statistinis rodiklis rodo kiek laiko augalas turės praleisti augant kol pasieks savo tikrą dydį.\n\nTikrasis augimo laikas būna maždaug dvigubai ilgiau.\nŽema temperatūra taip pat sulėtins augimą.</GrowingTimeDesc>
+  <GrowingTimeDesc>Augalai auga tik dalį dienos ir tik kai yra apšviesti.\n\nŠis statistinis rodiklis rodo, kiek laiko augalas turi praleisti augdamas, kad pasiektų pilną dydį.\n\nTikrasis augimo laikas paprastai būna apie dvigubai ilgesnis.\nŽema temperatūra taip pat sulėtina augimą.</GrowingTimeDesc>
   <!-- EN: days -->
   <Days>dienos</Days>
   <!-- EN: Minimum growing skill to sow -->
-  <MinGrowingSkillToSow>Minimalūs auginimo įgūdžiai reikalingi norint pasėti</MinGrowingSkillToSow>
+  <MinGrowingSkillToSow>Minimalūs auginimo įgūdžiai sėjai</MinGrowingSkillToSow>
   <!-- EN: Fertility requirement -->
-  <FertilityRequirement>Reikalavimas derlingumui</FertilityRequirement>
+  <FertilityRequirement>Derlingumo reikalavimas</FertilityRequirement>
   <!-- EN: Fertility sensitivity -->
   <FertilitySensitivity>Jautrumas derlingumui</FertilitySensitivity>
   <!-- EN: Light requirement -->
-  <LightRequirement>Reikalavimas šviesai</LightRequirement>
+  <LightRequirement>Šviesos reikalavimas</LightRequirement>
   <!-- EN: Attributes -->
   <Attributes>Atributai</Attributes>
   <!-- EN: Lifespan -->
