@@ -483,19 +483,19 @@
   <!-- EN: Chemical -->
   <Chemical>Chemikalai</Chemical>
   <!-- EN: High gain per dose -->
-  <HighGain>Apkvaišimo gavimas dozės vienetui</HighGain>
+  <HighGain>Euforijos kiekis vienai dozei</HighGain>
   <!-- EN: High fall rate -->
-  <HighFallRate>Apkvaišimo mažėjimo greitis</HighFallRate>
+  <HighFallRate>Euforijos mažėjimo greitis</HighFallRate>
   <!-- EN: High duration per dose -->
-  <HighDuration>Apkvaišimo trukmė dozės vienetui</HighDuration>
+  <HighDuration>Euforijos trukmė vienai dozei</HighDuration>
   <!-- EN: Tolerance gain per dose -->
-  <ToleranceGain>Tolerancijos augimas dozės vienetui</ToleranceGain>
+  <ToleranceGain>Tolerancijos didėjimas vienai dozei</ToleranceGain>
   <!-- EN: Tolerance fall rate -->
   <ToleranceFallRate>Tolerancijos mažėjimo greitis</ToleranceFallRate>
   <!-- EN: New addiction min tolerance -->
-  <MinimumToleranceForAddiction>Naujos priklausomybės minimali tolerancija</MinimumToleranceForAddiction>
+  <MinimumToleranceForAddiction>Minimali tolerancija naujai priklausomybei</MinimumToleranceForAddiction>
   <!-- EN: Safe dose interval for adults -->
-  <SafeDoseInterval>Saugus dozės intervalas suaugusiam</SafeDoseInterval>
+  <SafeDoseInterval>Saugus dozės intervalas suaugusiems</SafeDoseInterval>
   <!-- EN: age {0}-{1} -->
   <AgeXToY>amžius {0}-{1}</AgeXToY>
   <!-- EN: age {0}+ -->
@@ -505,15 +505,15 @@
   <!-- EN: Addiction initial severity -->
   <AddictionSeverityInitial>Pradinis priklausomybės sunkumas</AddictionSeverityInitial>
   <!-- EN: Addiction severity per dose -->
-  <AddictionSeverityPerDose>Priklausomybės sunkumas dozės vienetui</AddictionSeverityPerDose>
+  <AddictionSeverityPerDose>Priklausomybės sunkumas vienai dozei</AddictionSeverityPerDose>
   <!-- EN: Addiction need fill per dose -->
-  <AddictionNeedOffset>Priklausomybės poreikis dozės vienetui</AddictionNeedOffset>
+  <AddictionNeedOffset>Priklausomybės poreikio papildymas vienai dozei</AddictionNeedOffset>
   <!-- EN: Addiction need fall rate -->
   <AddictionNeedFallRate>Priklausomybės poreikio mažėjimo greitis</AddictionNeedFallRate>
   <!-- EN: Addiction need dose interval -->
   <AddictionNeedDoseInterval>Priklausomybės poreikio dozės intervalas</AddictionNeedDoseInterval>
   <!-- EN: Addiction recovery time -->
-  <AddictionRecoveryTime>Priklausomybės išgijimo trukmė</AddictionRecoveryTime>
+  <AddictionRecoveryTime>Priklausomybės atsikratymo trukmė</AddictionRecoveryTime>
   <!-- EN: Addiction cost -->
   <AddictionCost>Priklausomybės kaina</AddictionCost>
   <!-- EN: Random overdose chance -->
@@ -527,57 +527,57 @@
   <!-- EN: {0} / hour -->
   <PerHour>{0} / valandą</PerHour>
   <!-- EN: {0} XP / hour -->
-  <XpPerHour>TODO</XpPerHour>
+  <XpPerHour>{0} XP / valandą</XpPerHour>
   <!-- EN: Pack animal -->
   <PackAnimal>Nešulinis gyvūnas</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
-  <PackAnimalExplanation>Ar šis gyvūnas tinkamas naudoti karavane nešti daiktus ilgus atstumus.</PackAnimalExplanation>
+  <PackAnimalExplanation>Ar šis gyvūnas tinkamas ilgoms kelionėms karavane daiktams nešti.</PackAnimalExplanation>
   <!-- EN: Skill -->
-  <Skill>Įgūdžiai</Skill>
+  <Skill>Įgūdis</Skill>
   <!-- EN: Success rate multiplier -->
-  <SurgerySuccessChanceFactor>Pavykimo tikimybės daugiklis</SurgerySuccessChanceFactor>
+  <SurgerySuccessChanceFactor>Operacijos pavykimo tikimybės daugiklis</SurgerySuccessChanceFactor>
   <!-- EN: Death chance on fail -->
-  <SurgeryDeathOnFailChance>Mirties tikimybė nepavykus</SurgeryDeathOnFailChance>
+  <SurgeryDeathOnFailChance>Mirties tikimybė nesėkmės atveju</SurgeryDeathOnFailChance>
   <!-- EN: Work speed governed by -->
-  <WorkSpeedStat>Darbo greitis reguliuojamas</WorkSpeedStat>
+  <WorkSpeedStat>Darbo greitį lemia</WorkSpeedStat>
   <!-- EN: Output quantity governed by -->
-  <EfficiencyStat>Produkcijos kiekis reguliuojamas</EfficiencyStat>
+  <EfficiencyStat>Produkcijos kiekį lemia</EfficiencyStat>
   <!-- EN: {0} skill required -->
-  <SkillRequiredToBuild>Reikia {0} įgūdžių</SkillRequiredToBuild>
+  <SkillRequiredToBuild>Reikalingas {0} įgūdis</SkillRequiredToBuild>
   <!-- EN: Requires this level of {0} in order to build. -->
-  <SkillRequiredToBuildExplanation>Statybai reikia šio {0} lygio.</SkillRequiredToBuildExplanation>
+  <SkillRequiredToBuildExplanation>Statybai reikia šio lygio {0} įgūdžių.</SkillRequiredToBuildExplanation>
   <!-- EN: Nuzzle interval -->
   <NuzzleInterval>Pasitrynimo intervalas</NuzzleInterval>
   <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection.\nMost humans find this cute and it will leave them in a good mood for a period of time. -->
-  <NuzzleIntervalExplanation>Kaip dažnai vidutiniškai gyvūnas pasitrins į kolonistus.\n\nPasitrynimas yra daugelio gyvūnų rūšių elgesys, kai gyvūnas prispaudžia savo nosį ar snukį prie draugo kaip meilumo ženklą.\nDaugumai žmonių tai atrodo miela ir kuriam laikui pakels jų nuotaiką.</NuzzleIntervalExplanation>
+  <NuzzleIntervalExplanation>Kaip dažnai gyvūnas paprastai pasitrins į draugiškus kolonistus.\n\nPasitrynimas – tai daugelio gyvūnų rūšių elgesys, kai jie prispaudžia nosį ar snukį prie draugo, rodydami meilę ir prieraišumą.\nDaugumai žmonių tai atrodo miela ir kuriam laikui pagerina jų nuotaiką.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>Keršto tikimybė sužeidus</HarmedRevengeChance>
   <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
-  <HarmedRevengeChanceExplanation>Tikimybė, kad ši būtybė puls kai yra sužeidžiama.\n\nŠi tikimybė yra iki trijų kartų didesnė jei užpuolikas yra arčiau.\nŠi tikimybė skaičiuojama kiekvieną kartą kai gyvūnui padaroma žala. Tai reiškia kad lėtai šaudantys, daugiau žalos darantys ginklai sumažina tikimybę kad būtybė atakuos.</HarmedRevengeChanceExplanation>
+  <HarmedRevengeChanceExplanation>Tikimybė, kad būtybė puls sužeidimo atveju.\n\nŠi tikimybė gali padidėti iki trijų kartų, jei užpuolikas yra arčiau.\nJi apskaičiuojama kiekvieną kartą, kai būtybei padaroma žala. Tai reiškia, kad lėtai šaudantys, bet daug žalos darantys ginklai mažiau tikėtina, kad ją išprovokuos.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
-  <TameFailedRevengeChance>Keršto tikimybė nepavykus prisijaukinti</TameFailedRevengeChance>
+  <TameFailedRevengeChance>Keršto tikimybė nepavykus prijaukinti</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
-  <TerrainRequirement>Reikalingas gruntas</TerrainRequirement>
+  <TerrainRequirement>Grunto reikalavimai</TerrainRequirement>
   <!-- EN: Supports -->
-  <Supports>Išlaiko</Supports>
+  <Supports>Ataiko</Supports>
   <!-- EN: Trap armor penetration -->
   <TrapArmorPenetration>Spąstų šarvų pramušimas</TrapArmorPenetration>
   <!-- EN: Rearm cost -->
   <RearmCost>Užtaisymo kaina</RearmCost>
   <!-- EN: Resources needed to rearm this turret -->
-  <RearmCostExplanation>Kiek išteklių reikia užtaisyti šį bokštą.</RearmCostExplanation>
+  <RearmCostExplanation>Kiek išteklių reikia šiam bokštui užtaisyti.</RearmCostExplanation>
   <!-- EN: affected by difficulty -->
-  <RearmCostExplanationDifficulty>priklauso nuo sudėtingumo</RearmCostExplanationDifficulty>
+  <RearmCostExplanationDifficulty>priklauso nuo sudėtingumo lygio</RearmCostExplanationDifficulty>
   <!-- EN: Shots before rearm -->
-  <ShotsBeforeRearm>Iššovimai iki užtaisymo</ShotsBeforeRearm>
+  <ShotsBeforeRearm>Šūviai prieš užtaisant</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
-  <ShotsBeforeRearmExplanation>Kiek kartų šis šarvuotasis bokštas gali iššauti kol reikės užtaisyti.</ShotsBeforeRearmExplanation>
+  <ShotsBeforeRearmExplanation>Kiek šūvių bokštas gali atlikti, kol reikės jį užtaisyti.</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->
-  <PowerConsumption>Elektros energijos suvartojimas</PowerConsumption>
+  <PowerConsumption>Energijos suvartojimas</PowerConsumption>
   <!-- EN: Target -->
   <Target>Taikinys</Target>
   <!-- EN: The types of targets on which this ability can be used. -->
-  <AbilityTargetDesc>Taikinių rūšys ant kurių šis sugebėjimas gali būti panaudotas.</AbilityTargetDesc>
+  <AbilityTargetDesc>Taikinių tipai, kuriems galima naudoti šią galią.</AbilityTargetDesc>
   <!-- EN: human -->
   <TargetHuman>žmogus</TargetHuman>
   <!-- EN: animal -->
