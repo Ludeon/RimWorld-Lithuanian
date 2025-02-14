@@ -441,41 +441,41 @@
   <!-- EN: Diet -->
   <Diet>Dieta</Diet>
   <!-- EN: Nutrition need per day -->
-  <NutritationEatenPerDay>Maisto medžiagų poreikis per dieną</NutritationEatenPerDay>
+  <NutritationEatenPerDay>Dienos maisto medžiagų poreikis</NutritationEatenPerDay>
   <!-- EN: Leather type -->
-  <LeatherType>Odos rūšis</LeatherType>
+  <LeatherType>Odos tipas</LeatherType>
   <!-- EN: Body size -->
   <BodySize>Kūno dydis</BodySize>
   <!-- EN: Growth -->
   <Growth>Augimas</Growth>
   <!-- EN: Recruit difficulty -->
-  <RecruitDifficulty>Įkalbėjimo prisijungti sudėtingumas</RecruitDifficulty>
+  <RecruitDifficulty>Įkalbinėjimo sunkumas</RecruitDifficulty>
   <!-- EN: Base price -->
   <MarketValue>Bazinė kaina</MarketValue>
   <!-- EN: Covers -->
-  <Covers>Pridengia</Covers>
+  <Covers>Dengia</Covers>
   <!-- EN: Created at -->
-  <CreatedAt>Padaryta</CreatedAt>
+  <CreatedAt>Pagaminta</CreatedAt>
   <!-- EN: Layer -->
   <Layer>Sluoksnis</Layer>
   <!-- EN: Cover effectiveness -->
-  <CoverEffectiveness>Priedangos veiksmingumas</CoverEffectiveness>
+  <CoverEffectiveness>Priedangos efektyvumas</CoverEffectiveness>
   <!-- EN: How effective this is when used as cover in a gunfight.\n\nHigher percentages will block more shots. -->
-  <CoverEffectivenessExplanation>Kiek tai veiksminga naudojant kaip priedangą susišaudyme.\n\nDidesnis procentas užblokuos daugiau šūvių.</CoverEffectivenessExplanation>
+  <CoverEffectivenessExplanation>Kiek veiksminga ši priedanga susišaudymuose.\n\nDidesnis procentas reiškia daugiau užblokuotų šūvių.</CoverEffectivenessExplanation>
   <!-- EN: Experience gain factor -->
-  <MedicineXpGainFactor>Patirties gavimo koeficientas</MedicineXpGainFactor>
+  <MedicineXpGainFactor>Patirties įgijimo koeficientas</MedicineXpGainFactor>
   <!-- EN: Mood change -->
-  <MoodChange>Nuotaikos pokytis</MoodChange>
+  <MoodChange>Nuotaikos kitimas</MoodChange>
   <!-- EN: Wildness -->
-  <Wildness>Laukiniškumas</Wildness>
+  <Wildness>Laukinumas</Wildness>
   <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
-  <WildnessExplanation>Kuo būtybė labiau laukinė, tuo sunkiau ją prijaukinti, dresuoti ir dirbti su ja.</WildnessExplanation>
+  <WildnessExplanation>Kuo laukinesnė būtybė, tuo sunkiau ją prijaukinti, dresuoti ir valdyti.</WildnessExplanation>
   <!-- EN: Training decay interval -->
-  <TrainingDecayInterval>Dresavimo mažėjimo intervalas</TrainingDecayInterval>
+  <TrainingDecayInterval>Dresavimo praradimo intervalas</TrainingDecayInterval>
   <!-- EN: Tameness will never decay for animals of very low wildness. -->
-  <TamenessWillNotDecay>Labai mažai laukiniams gyvūnams prijaukinimas niekada nemažės.</TamenessWillNotDecay>
+  <TamenessWillNotDecay>Labai mažo laukinumo gyvūnų prijaukinimas niekada nesumažės.</TamenessWillNotDecay>
   <!-- EN: Tameness will never decay for animals that can be kept behind fences. -->
-  <TamenessWillNotDecayFenceBlocked>Aptvertiems gyvūnams prijaukinimas niekada nemažės.</TamenessWillNotDecayFenceBlocked>
+  <TamenessWillNotDecayFenceBlocked>Gyvūnų, kuriuos galima laikyti aptvertus, prijaukinimas niekada nesumažės.</TamenessWillNotDecayFenceBlocked>
   <!-- EN: Time -->
   <TimeRecordsCategory>Laikas</TimeRecordsCategory>
   <!-- EN: Misc -->
