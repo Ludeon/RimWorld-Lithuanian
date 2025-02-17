@@ -346,7 +346,7 @@ focused                     - koncentruotas
 folder                      - katalogas
 food restriction            - maisto ribojimas
 force                       - pajėgos
-forage                      - (gamtoje) surinkti (maistą)
+forage                      - (gamtoje) (su)rinkti (maistą) <<
 forge                       - nukalti
 formerly                    - anksčiau
 freely                      - laisva valia
@@ -780,7 +780,7 @@ rock                        - uola/uoliena
 rocketswarm launcher        - daugkartinio raketų paleidimo sistema
 role                        - rolė (??) <P
 romance                     - sužavėti (?)
-rot                         - supuvimas/pūti
+rot                         - supuvimas/pūti/(maisto) (su)gedimas <<
 rotate                      - pasukti
 rough stone                 - netašytas akmuo
 rough                       - grublėtas (betonas)/šiurkštus/nelygus

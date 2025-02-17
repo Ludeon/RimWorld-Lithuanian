@@ -761,43 +761,43 @@
   <!-- EN: Unlimited -->
   <InfiniteDaysWorthOfFoodInfo>Neribotai</InfiniteDaysWorthOfFoodInfo>
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
-  <DaysWorthOfFoodTooltip>Apytikslis skaičius dienų iki kol bent vienam asmeniui ar gyvūnui pritrūks maisto. Skirtingos rūšys turi skirtingas mitybas, tai kai kurios gali nebeturėti maisto greičiau nei kitos. Ši vertė apskaičiuojama tiksliau kai pasirenkamas maršrutas.\n\nPriklauso nuo:\n  - Žmogaus inventoriaus\n  - Nešamo maisto rūšies ir kiekio\n  - Karavano narių ir jų mitybos\n  - Maisto surinkimo gamtoje greitis\n  - Ar gyvūnai gali ganytis\n  - Laiko iki kol maistas supus\n  - Karštame ore maistas pūva greičiau</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip>Apytikslis dienų skaičius iki maisto pritrūks bent vienas žmogus ar gyvūnas. Skirtingos rūšys turi skirtingas mitybas, tad kai kurios gali likti be maisto greičiau. Tikslesnis skaičiavimas atliekamas pasirinkus maršrutą.\n\nPriklauso nuo:\n  - Inventoriaus turinio\n  - Nešamo maisto rūšies ir kiekio\n  - Karavano narių ir jų mitybos\n  - Maisto rinkimo gamtoje greičio\n  - Ar gyvūnai gali ganytis\n  - Laiko iki maisto sugedimo\n  - Karštas oras pagreitina gedimą</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(apskaičiuota tik iki pirmo kelionės taško)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
-  <DaysWorthOfFoodWarningDialog>TAvo karavanas turi maisto tik {0} dienoms ir labai greitai bus alkanas.</DaysWorthOfFoodWarningDialog>
+  <DaysWorthOfFoodWarningDialog>Tavo karavanas turi maisto tik {0} dienoms ir greitai išalks.</DaysWorthOfFoodWarningDialog>
   <!-- EN: Some peoples' diets don't allow most of the food in your caravan. If they're forced to eat it due to hunger, they will become unhappy. -->
-  <DaysWorthOfFoodDietWarningDialog>Kai kurių žmonių dieta neatitinka didžiosios dalies maisto šiame karavane. Jei jie bus priversti jį valgyti iš bado, taps nelaimingi.</DaysWorthOfFoodDietWarningDialog>
+  <DaysWorthOfFoodDietWarningDialog>Kai kurių žmonių mityba neleidžia valgyti didžiosios dalies karavano maisto. Jei jie bus priversti valgyti tą maistą iš bado, taps nelaimingi.</DaysWorthOfFoodDietWarningDialog>
   <!-- EN: Your caravan has no food and will become hungry very quickly. -->
-  <DaysWorthOfFoodWarningDialog_NoFood>Tavo karavanas neturi maisto ir labai greitai bus alkanas.</DaysWorthOfFoodWarningDialog_NoFood>
+  <DaysWorthOfFoodWarningDialog_NoFood>Tavo karavanas neturi maisto ir labai greitai išalks.</DaysWorthOfFoodWarningDialog_NoFood>
   <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
-  <ForagedFoodPerDayTip>Vidutinis kiekis maisto, kurį tavo žmonės surinks gamtoje per dieną. Ši vertė keisis keliaujant per biomus turinčius skirtingus maisto surinkimo gamtoje greičius.</ForagedFoodPerDayTip>
+  <ForagedFoodPerDayTip>Vidutinis maisto kiekis, kurį gamtoje tavo žmonės surinks per dieną. Ši vertė keisis keliaujant per skirtingus biomus.</ForagedFoodPerDayTip>
   <!-- EN: Forage per day -->
   <ForagedFoodPerDay>Gamtoje surenkamas maistas per dieną</ForagedFoodPerDay>
   <!-- EN: A large part of the caravan's food will rot soon. -->
-  <CaravanFoodWillRotSoonWarningDialog>Didelė dalis karavano maisto greit supus.</CaravanFoodWillRotSoonWarningDialog>
+  <CaravanFoodWillRotSoonWarningDialog>Didelė dalis karavano maisto greitai suges.</CaravanFoodWillRotSoonWarningDialog>
   <!-- EN: You have no caravan members capable of diplomacy or trading. -->
-  <CaravanIncapableOfSocial>Neturi karavano narių galinčių užsiimti diplomatija ar prekiauti.</CaravanIncapableOfSocial>
+  <CaravanIncapableOfSocial>Nė vienas karavano narys negali užsiimti diplomatija ar prekyba.</CaravanIncapableOfSocial>
   <!-- EN: Are you sure you want to form this caravan? -->
   <CaravanAreYouSure>Ar tikrai nori suformuoti šį karavaną?</CaravanAreYouSure>
   <!-- EN: You must choose a route for the caravan first. -->
-  <MessageMustChooseRouteFirst>Pirmiausia reikia pasirinkti maršrutą karavanui.</MessageMustChooseRouteFirst>
+  <MessageMustChooseRouteFirst>Pirmiausia reikia pasirinkti karavano maršrutą.</MessageMustChooseRouteFirst>
   <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
-  <MessageNoValidExitTile>Tavo karavanas negali išvykti iš šios vietovės. Įsitikink kad bent viena pusė yra pasiekiama.</MessageNoValidExitTile>
+  <MessageNoValidExitTile>Tavo karavanas negali išvykti iš šios vietovės. Įsitikink, kad bent viena kryptis yra pasiekiama.</MessageNoValidExitTile>
   <!-- EN: Weight of this item. -->
   <ItemWeightTip>Šio daikto svoris.</ItemWeightTip>
   <!-- EN: Market value -->
   <MarketValueTip>Rinkos vertė</MarketValueTip>
   <!-- EN: The number of days until this item starts to rot based on the average temperature in this area. -->
-  <DaysUntilRotTip>Dienų skaičius kol šis daiktas pradės pūti remiantis vidutine temperatūra šioje vietoje.</DaysUntilRotTip>
+  <DaysUntilRotTip>Dienų skaičius, kol šis daiktas pradės gesti, atsižvelgiant į vidutinę temperatūrą šioje vietovėje.</DaysUntilRotTip>
   <!-- EN: How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day. -->
-  <ItemNutritionTip>Kiek maisto medžiagų šis maistas suteikia.\n\nOrientavimuisi: suaugusiam žmogui reikia {0} maisto medžiagų per dieną.</ItemNutritionTip>
+  <ItemNutritionTip>Šio maisto maistinė vertė.\n\nOrientacijai: suaugusiam žmogui per dieną reikia {0} maistinės vertės.</ItemNutritionTip>
   <!-- EN: This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
-  <AnimalCanGrazeTip>Šitas gyvūnas gali ganytis, todėl nereikia šerti nešamo maisto. Ganymasis įmanomas tik kai kuriuose biomuose ir temperatūros diapazonuose.</AnimalCanGrazeTip>
+  <AnimalCanGrazeTip>Šis gyvūnas gali ganytis ir nereikalauja nešamo maisto. Ganymasis įmanomas tik tam tikruose biomuose ir temperatūrose.</AnimalCanGrazeTip>
   <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
-  <NutritionForagedPerDayTip>Maisto medžiagų kiekis iš maisto surenkamo gamtoje per dieną. Tikrasis surinkto maisto kiekis taip pat priklauso nuo biome įmanomo gamtoje surinkti maisto kiekio.\n\n{0}</NutritionForagedPerDayTip>
+  <NutritionForagedPerDayTip>Per dieną gamtoje surenkama maistinė vertė. Tikroji vertė priklauso nuo biomo maisto prieinamumo.\n\n{0}</NutritionForagedPerDayTip>
   <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition. -->
-  <NutritionEatenPerDayTip>Maisto medžiagų kiekis suvalgomas per dieną. Orientacijai, paprastas patiekalas turi {0} maisto medžiagų.</NutritionEatenPerDayTip>
+  <NutritionEatenPerDayTip>Per dieną suvartojama maistinė vertė. Orientacijai: paprastas patiekalas turi {0} maistinės vertės.</NutritionEatenPerDayTip>
   <!-- EN: Can eat -->
   <CanEat>Gali valgyti</CanEat>
   <!-- EN: Legend -->
