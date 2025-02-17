@@ -99,7 +99,7 @@ blunt                       - bukas/ nuo buko (šarvai)
 body modder                 - kūno modifikuotojas
 body purist                 - tyro kūno šalininkas
 bond                        - emocinis ryšys/augintinis
-bonus                       - priedas/papildomas
+bonus                       - priedas/papildomas/premija <<
 boomalope                   - sprogstanti antilopė
 boomrat                     - sprogstanti žiurkė
 borderless                  - be (lango) kraštų
@@ -245,7 +245,7 @@ dodge                       - išsisukti (???) / išvengti <<
 dolly                       - slinkti
 donor                       - rėmėjas
 dormant                     - ramybės būsenoje
-downed                      - numuštas
+downed                      - nejudantis <<
 DPS                         - ŽPS (žala per sekundę)
 draft                       - mobilizacija/mobilizuotas
 drag                        - tempti
@@ -287,7 +287,7 @@ enhanced                    - ištobulintas
 enormous                    - didžiulis
 entertainer                 - muzikantas
 equipment                   - ekipuotė (apranga ir ginklai)/įranga (technika)/priemonės
-equip                       - ekipuoti
+equip                       - ekipuoti/dėvėti (? <<)
 equipped                    - ekipuotas
 escape                      - ištrūkti
 euphoric                    - euforinis
@@ -580,7 +580,7 @@ mind-shattering             - protą veriantis (?)
 mine                        - kasti <<
 mini-turret                 - mini bokštas (?)
 minigun                     - gatlingas
-minimum                     - minimalus
+minimum                     - minimalus/mažiausias <<
 minor                       - lengvas/ankstyva/nedidelė
 misc                        - įvairūs
 miss                        - nepataikymas
@@ -646,9 +646,10 @@ ownership                   - būti savininku (?)
 
     _P_
 
+pack                        - kinkyti/būrys/paketas (krauti? <<)
 pack animal                 - nešulinis gyvūnas
-pack                        - kinkyti/būrys/paketas
 packaged survival meal      - sausas maisto davinys <<
+packing spot                - pakrovimo vieta <<
 paintable                   - dažomas
 pan                         - slinkti
 parka                       - striukė (?) <P
@@ -883,6 +884,7 @@ stat                        - rodiklis <<
 static                      - stacionarus
 station                     - (darbo) vieta
 stealth                     - sėlinimas
+stock                       - prekės <<
 stockpile                   - sandėliavimo vieta
 stockpiled                  - sandėliuojamas
 stone tile                  - akmens plytelė
@@ -949,7 +951,7 @@ total                       - visiškas/visas (kiekis)/suma/iš viso/bendra (ver
 toxic                       - toksiškos (medžiagos)/toksinis (atsparumas)
 trade                       - prekiauti/prekyba
 trade price                 - prekybos kainos
-trader                      - prekeivis
+trader                      - prekeivis <<
 train                       - dresuoti
 trainability                - dresuojamumas
 training                    - dresavimas/dresuoja

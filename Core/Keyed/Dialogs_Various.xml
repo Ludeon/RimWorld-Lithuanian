@@ -675,51 +675,51 @@
   <!-- EN: difficulty level -->
   <DifficultyLevel>sudėtingumo lygis</DifficultyLevel>
   <!-- EN: global post-process curve -->
-  <PostCurve>bendra kreivė pritaikoma po skaičiavimų</PostCurve>
+  <PostCurve>bendroji pataisymo kreivė</PostCurve>
   <!-- EN: Your negotiator bonus -->
-  <YourNegotiatorBonus>Tavo derybininko priedas</YourNegotiatorBonus>
+  <YourNegotiatorBonus>Tavo derybininko premija</YourNegotiatorBonus>
   <!-- EN: Trading with faction base bonus -->
-  <TradeWithFactionBaseBonus>Prekiavimo su frakcijos baze priedas</TradeWithFactionBaseBonus>
+  <TradeWithFactionBaseBonus>Prekybos su frakcijos baze premija</TradeWithFactionBaseBonus>
   <!-- EN: Joins as slave -->
   <JoinsAsSlave>Prisijungia kaip vergas</JoinsAsSlave>
   <!-- EN: Joins as colonist -->
   <JoinsAsColonist>Prisijungia kaip kolonistas</JoinsAsColonist>
   <!-- EN: If purchased, this person will join your colony as a slave. -->
-  <JoinsAsSlaveDesc>Nupirktas šis asmuo prisijungs prie tavo kolonijos kaip vergas.</JoinsAsSlaveDesc> <!--  -->
+  <JoinsAsSlaveDesc>Įsigytas šis asmuo prisijungs prie tavo kolonijos kaip vergas.</JoinsAsSlaveDesc>
   <!-- EN: If purchased, this person will join your colony as a colonist. -->
-  <JoinsAsColonistDesc>Nupirktas šis asmuo prisijungs prie tavo kolonijos kaip kolonistas.</JoinsAsColonistDesc>
+  <JoinsAsColonistDesc>Įsigytas šis asmuo prisijungs prie tavo kolonijos kaip kolonistas.</JoinsAsColonistDesc>
   <!-- EN: Trading drugs bonus -->
-  <TradingDrugsBonus>Prekiavimo medikamentais priedas</TradingDrugsBonus>
+  <TradingDrugsBonus>Prekybos preparatais premija</TradingDrugsBonus>
   <!-- EN: minimum -->
-  <minimum>minimalus</minimum>
+  <minimum>mažiausias</minimum>
   <!-- EN: Final price -->
   <FinalPrice>Galutinė kaina</FinalPrice>
   <!-- EN: Gift mode - offer gifts to {0}. -->
-  <GiftModeTip>Dovanų režimas - siūlyk {0} dovanas.</GiftModeTip>
+  <GiftModeTip>Dovanų režimas – siūlyk dovanas {0}.</GiftModeTip>
   <!-- EN: Return to trade mode. -->
   <TradeModeTip>Grįžti į prekybos režimą.</TradeModeTip>
   <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
-  <TradeCaravanRequestDeniedDueTitle>{FACTION_name} nenori siųsti karavano, nes {NEGOTIATOR_nameDef} trūksta reikiamo {TITLE} titulo.</TradeCaravanRequestDeniedDueTitle>
+  <TradeCaravanRequestDeniedDueTitle>{FACTION_name} nesutinka siųsti karavano, nes {NEGOTIATOR_nameDef} neturi reikiamo {TITLE} titulo.</TradeCaravanRequestDeniedDueTitle>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
-  <SellableItemsTitle>Dalykai kuriuos šis prekybininkas pirks</SellableItemsTitle>
+  <SellableItemsTitle>Prekės, kurias šis prekeivis pirks</SellableItemsTitle>
   <!-- EN: Never visited - stock unknown -->
-  <TraderNotVisitedYet>Niekada neaplankyta - atsargos nežinomos</TraderNotVisitedYet>
+  <TraderNotVisitedYet>Niekada neaplankyta – prekės nežinomos</TraderNotVisitedYet>
   <!-- EN: Restocked since your last visit -->
-  <TraderRestockedSinceLastVisit>Nuo paskutinio tavo aplankymo atsargos atnaujintos</TraderRestockedSinceLastVisit>
+  <TraderRestockedSinceLastVisit>Prekės atnaujintos nuo tavo paskutinio apsilankymo</TraderRestockedSinceLastVisit>
   <!-- EN: Next restock: {0} days -->
-  <NextTraderRestock>Sekantis atsargų atnaujinimas: už {0} dienų</NextTraderRestock>
+  <NextTraderRestock>Kitas prekių papildymas: už {0} dienų</NextTraderRestock>
   <!-- EN: Creatures -->
   <PawnsTabShort>Būtybės</PawnsTabShort>
   
   <!-- Select caravan settlement -->
   <!-- EN: Select colony to send caravan -->
-  <SelectCaravanOrigin>TODO</SelectCaravanOrigin> 
+  <SelectCaravanOrigin>Pasirink koloniją karavanui siųsti</SelectCaravanOrigin> 
   <!-- EN: Send a caravan from {0}. -->
-  <SelectCaravanDesc>TODO</SelectCaravanDesc> 
+  <SelectCaravanDesc>Siųsti karavaną iš {0}.</SelectCaravanDesc> 
   <!-- EN: Colonists -->
-  <SelectCaravanColonists>TODO</SelectCaravanColonists>
+  <SelectCaravanColonists>Kolonistai</SelectCaravanColonists>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
@@ -727,7 +727,7 @@
   <!-- EN: Send -->
   <Send>Išsiųsti</Send>
   <!-- EN: Number available to send with the caravan. -->
-  <FormCaravanColonyThingCountTip>Skaičius galimų išsiųsti su karavanu.</FormCaravanColonyThingCountTip>
+  <FormCaravanColonyThingCountTip>Galimų išsiųsti su karavanu skaičius.</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
   <PawnsTab>Žmonės ir gyvūnai</PawnsTab>
   <!-- EN: Items -->
@@ -735,27 +735,27 @@
   <!-- EN: Travel supplies -->
   <TravelSupplies>Kelionės atsargos</TravelSupplies>
   <!-- EN: You must assign at least one non-downed colonist. -->
-  <CaravanMustHaveAtLeastOneColonist>Privalai paskirti bent vieną nenumuštą kolonistą.</CaravanMustHaveAtLeastOneColonist>
+  <CaravanMustHaveAtLeastOneColonist>Privalai paskirti bent vieną judantį kolonistą.</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
   <CaravanCouldNotFindExitSpot>Pasirinkta išėjimo vieta ({0}) nepasiekiama.</CaravanCouldNotFindExitSpot>
   <!-- EN: Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
-  <CaravanCouldNotFindPackingSpot>Nerasta jokios tinkamos kinkymo vietos. Patikrink kad pasirinktas išėjimas ({0}) yra pasiekiamas.</CaravanCouldNotFindPackingSpot>
+  <CaravanCouldNotFindPackingSpot>Nerasta tinkama pakrovimo vieta. Įsitikink, kad pasirinkta išėjimo vieta ({0}) yra pasiekiama.</CaravanCouldNotFindPackingSpot>
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
-  <CaravanCouldNotFindReachableExitSpot>Įspėjimas: Kai kurie iš paskirtų kolonistų negali pasiekti išėjimo ({0}).</CaravanCouldNotFindReachableExitSpot>
+  <CaravanCouldNotFindReachableExitSpot>Įspėjimas: Kai kurie paskirti kolonistai negali pasiekti išėjimo vietos ({0}).</CaravanCouldNotFindReachableExitSpot>
   <!-- EN: {1_labelShort} is unable to reach the packing spot or the exit location when led by any of the assigned colonists. -->
-  <CaravanRoamerCannotReachSpots>{1_labelShort} negali pasiekti kinkymo vietos ar išėjimo kai vedamas bet kurio iš paskirtų kolonistų.</CaravanRoamerCannotReachSpots>
+  <CaravanRoamerCannotReachSpots>{1_labelShort} negali pasiekti pakrovimo vietos ar išėjimo vietos, vedamas bet kurio iš paskirtų kolonistų.</CaravanRoamerCannotReachSpots>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
-  <CaravanItemIsUnreachableSingle>Nei vienas iš paskirtų kolonistų negali pasiekti {0}.</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableSingle>Nei vienas paskirtas kolonistas negali pasiekti {0}.</CaravanItemIsUnreachableSingle>
   <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
-  <CaravanItemIsUnreachableMulti>Nei vienas iš paskirtų kolonistų negali pasiekti {0}x {1}.</CaravanItemIsUnreachableMulti>
+  <CaravanItemIsUnreachableMulti>Nei vienas paskirtas kolonistas negali pasiekti {0}x {1}.</CaravanItemIsUnreachableMulti>
   <!-- EN: The caravan can't carry that much. -->
-  <TooBigCaravanMassUsage>Karavanas tiek daug panešti negali.</TooBigCaravanMassUsage>
+  <TooBigCaravanMassUsage>Karavanas negali tiek panešti.</TooBigCaravanMassUsage>
   <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
-  <CaravanMassUsageTooltip>Įskaito nešiojamus ir ekipuotus daiktus. Mažiau nei maksimalaus svorio nešimas duoda papildomo greičio.</CaravanMassUsageTooltip>
+  <CaravanMassUsageTooltip>Įskaičiuojami nešami ir dėvimi daiktai. Nešant mažiau nei maksimalų svorį, judama greičiau.</CaravanMassUsageTooltip>
   <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
-  <CaravanVisibilityTip>Matomumas tai kaip lengvai tavo karavanas pastebimas.\n\nPadidina tikimybę kad tavo karavanui kelią užkirs priešai.\n\nMatomumas nepaveikia gebėjimo rasti norimus dalykus.\n\nMatomumas priklauso nuo visų karavane esančių žmonių ir gyvūnų kūno dydžių sumos.</CaravanVisibilityTip>
+  <CaravanVisibilityTip>Matomumas rodo, kaip lengvai pastebimas tavo karavanas.\n\nPadidina tikimybę, kad priešai jį užpuls.\n\nMatomumas nepaveikia galimybės rasti norimus dalykus.\n\nJis priklauso nuo bendro visų karavano žmonių ir gyvūnų kūnų dydžio.</CaravanVisibilityTip>
   <!-- EN: Days of food -->
-  <DaysWorthOfFood>Dienoms maisto</DaysWorthOfFood>
+  <DaysWorthOfFood>Maisto atsargos dienoms</DaysWorthOfFood>
   <!-- EN: rot in {0} -->
   <DaysWorthOfFoodInfoRot>supus už {0}</DaysWorthOfFoodInfoRot>
   <!-- EN: Unlimited -->
