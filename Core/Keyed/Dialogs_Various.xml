@@ -587,21 +587,21 @@
   <!-- EN: ground -->
   <TargetGround>žemė</TargetGround>
   <!-- EN: Click to learn more. -->
-  <ClickToLearnMore>Paspausk kad sužinotum daugiau.</ClickToLearnMore>
+  <ClickToLearnMore>Paspausk, kad sužinotum daugiau.</ClickToLearnMore>
   <!-- EN: Click to view factions. -->
-  <ClickToViewFactions>Paspausk kad peržiūrėtum frakcijas.</ClickToViewFactions>
+  <ClickToViewFactions>Paspausk, kad peržiūrėtum frakcijas.</ClickToViewFactions>
   <!-- EN: meditation focus types -->
-  <MeditationFocuses>meditacijos fokusavimosi rūšys</MeditationFocuses>
+  <MeditationFocuses>meditacijos fokusavimo rūšys</MeditationFocuses>
   <!-- EN: Unlocks meditation focus types -->
-  <MeditationFocusesUnlocked>Atrakina meditacijos fokusavimosi rūšis</MeditationFocusesUnlocked>
+  <MeditationFocusesUnlocked>Atrakina meditacijos fokusavimo rūšis</MeditationFocusesUnlocked>
   <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an object to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
-  <MeditationFocusesPawnDesc>Meditacijos fokusavimosi rūšys kuriuos šitas žmogus gali naudoti. Medituojant žmogus gali fokusuotis į objektą kad padidintų psifokuso gavimą - bet tik jei tas objektas suteikia fokusavimosi rūšį kurią tas žmogus gali naudoti. Kiekvieno žmogaus meditacijos rūšis yra nulemta jo gyvenimo aplinkos, bruožų, socialinio statuso ir taip toliau.</MeditationFocusesPawnDesc>
+  <MeditationFocusesPawnDesc>Meditacijos fokusavimo rūšys, kurias šis žmogus gali naudoti. Medituodamas gali susitelkti į objektą, kad padidintų psifokuso gavimą, bet tik jei tas objektas suteikia tinkamą fokusavimosi rūšį. Kiekvieno žmogaus meditacijos tipai priklauso nuo jo gyvenimo patirties, bruožų, socialinio statuso ir kt.</MeditationFocusesPawnDesc>
   <!-- EN: The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on. -->
-  <MeditationFocusesDesc>Meditacijos fokusavimosi rūšys kuriuos suteikia šis objektas. Medituojantis žmogus gali susifokusuot į šį objektą kad padidintų psifokuso gavimą, bet tik jei jie gali naudoti šią meditacijos rūšį. Kiekvienas gali naudoti skirtingas meditacijos rūšis nulemtas jų gyvenimo aplinkos, bruožų, socialinio statuso ir taip toliau.</MeditationFocusesDesc>
+  <MeditationFocusesDesc>Meditacijos fokusavimo rūšys, kurias suteikia šis objektas. Medituojantis žmogus gali susitelkti į šį objektą, kad padidintų psifokuso gavimą, bet tik jei gali naudoti bent vieną iš jo meditacijos rūšių. Kiekvieno asmens meditacijos galimybės priklauso nuo gyvenimo patirties, bruožų, socialinio statuso ir kt.</MeditationFocusesDesc>
   <!-- EN: Can use {0} focus type because -->
-  <MeditationFocusCanUse>Gali naudoti {0} fokusavimosi rūšį, nes</MeditationFocusCanUse>
+  <MeditationFocusCanUse>Gali naudoti {0} fokusavimo rūšį, nes</MeditationFocusCanUse>
   <!-- EN: {0} focus objects -->
-  <MeditationFocusObjects>{0} fokusavimosi objektai</MeditationFocusObjects>
+  <MeditationFocusObjects>{0} fokusavimo objektai</MeditationFocusObjects>
   <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
   <MeditationFocusEnabledByTitle>turi titulą: {TITLE} ({FACTION_name}).</MeditationFocusEnabledByTitle>
   <!-- EN: has childhood -->
@@ -611,11 +611,11 @@
   <!-- EN: has trait -->
   <MeditationFocusEnabledByTrait>turi bruožą</MeditationFocusEnabledByTrait>
   <!-- EN: has health condition -->
-  <MeditationFocusEnabledByHediff>TODO</MeditationFocusEnabledByHediff> 
+  <MeditationFocusEnabledByHediff>turi sveikatos būklę</MeditationFocusEnabledByHediff>
   <!-- EN: does not have trait -->
   <MeditationFocusDisabledByTrait>neturi bruožo</MeditationFocusDisabledByTrait>
   <!-- EN: Enables meditation focus types -->
-  <EnablesMeditationFocusType>Įjungia meditacijos fokusavimosi rūšis</EnablesMeditationFocusType>
+  <EnablesMeditationFocusType>Įgalina meditacijos fokusavimo rūšis</EnablesMeditationFocusType>
   
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
