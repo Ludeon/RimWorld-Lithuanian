@@ -805,7 +805,7 @@
   <!-- EN: Mass carried -->
   <MassCarriedSimple>Nešamas svoris</MassCarriedSimple>
   <!-- EN: Mass capacity -->
-  <MassCapacity>Svorio pajėgumas</MassCapacity>
+  <MassCapacity>Svorio talpa</MassCapacity>
   <!-- EN: Mass -->
   <Mass>Svoris</Mass>
   <!-- EN: Caravan mass -->
@@ -815,7 +815,7 @@
   <!-- EN: Inventory mass -->
   <InventoryMass>Inventoriaus svoris</InventoryMass>
   <!-- EN: Your colonists will now gather the items and leave the area. -->
-  <CaravanFormationProcessStarted>Tavo kolonistai dabar surinks daiktus ir išvyks iš vietovę.</CaravanFormationProcessStarted>
+  <CaravanFormationProcessStarted>Tavo kolonistai dabar surinks daiktus ir išvyks.</CaravanFormationProcessStarted>
   <!-- EN: Reform caravan -->
   <ReformCaravan>Performuoti karavaną</ReformCaravan>
   <!-- EN: Colonists -->
@@ -835,13 +835,13 @@
   <!-- EN: Movement speed -->
   <CaravanMovementSpeed>Judėjimo greitis</CaravanMovementSpeed>
   <!-- EN: tiles/day -->
-  <TilesPerDay>langeliai/diena</TilesPerDay>
+  <TilesPerDay>langeliai per dieną</TilesPerDay>
   <!-- EN: None - too heavy -->
-  <TilesPerDayImmobile>Nulis - per sunku</TilesPerDayImmobile>
+  <TilesPerDayImmobile>Nėra - per sunku</TilesPerDayImmobile>
   <!-- EN: None -->
-  <TilesPerDayImmobileShort>Nulis</TilesPerDayImmobileShort>
+  <TilesPerDayImmobileShort>Nėra</TilesPerDayImmobileShort>
   <!-- EN: Movement speed depends on carried mass, ridden animals, and terrain movement difficulty. -->
-  <CaravanMovementSpeedTip>Judėjimo greitis priklauso nuo vidutinio visų žmonių ir gyvūnų greičio, nešamo svorio ir vietovės judėjimo sudėtingumo.</CaravanMovementSpeedTip>
+  <CaravanMovementSpeedTip>Judėjimo greitis priklauso nuo nešamo svorio, jodinėjamų gyvūnų ir vietovės judėjimo sudėtingumo.</CaravanMovementSpeedTip>
   <!-- EN: Animals will be able to graze -->
   <AnimalsWillBeAbleToGraze>Gyvūnai galės ganytis</AnimalsWillBeAbleToGraze>
   <!-- EN: Animals can graze -->
@@ -855,57 +855,57 @@
   <!-- EN: (too cold for {0} more days) -->
   <CantGrazeBecauseOfTemp>(per šalta dar {0} dienas)</CantGrazeBecauseOfTemp>
   <!-- EN: Total nutrition -->
-  <TotalNutrition>Visas maisto medžiagų kiekis</TotalNutrition>
+  <TotalNutrition>Bendra maistinė vertė</TotalNutrition>
   <!-- EN: Not moving -->
   <CaravanNotMoving>Nejuda</CaravanNotMoving>
   <!-- EN: Foraged nutrition per day -->
-  <ForagedNutritionPerDay>Maisto medžiagų kiekis iš gamtoje surenkamo maisto per dieną</ForagedNutritionPerDay>
+  <ForagedNutritionPerDay>Gamtoje surinkto maisto maistinė vertė per dieną</ForagedNutritionPerDay>
   <!-- EN: Faction type -->
-  <FactionType>Frakcijos rūšis</FactionType>
+  <FactionType>Frakcijos tipas</FactionType>
   <!-- EN: Total body size -->
   <TotalBodySize>Bendras kūnų dydis</TotalBodySize>
   <!-- EN: Automatically select travel supplies -->
-  <AutomaticallySelectTravelSupplies>Parinkti kelionės atsargas automatiškai</AutomaticallySelectTravelSupplies>
+  <AutomaticallySelectTravelSupplies>Automatiškai parinkti kelionės atsargas</AutomaticallySelectTravelSupplies>
   <!-- EN: This animal is sick. It is suffering from the following illnesses -->
-  <CaravanAnimalSick>Šis gyvūnas serga. Jis kenčia nuo sekančių ligų</CaravanAnimalSick>
+  <CaravanAnimalSick>Šis gyvūnas serga. Jį kamuoja šios ligos:</CaravanAnimalSick>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
-  <SplitCaravan>Išskirti karavaną</SplitCaravan>
+  <SplitCaravan>Padalyti karavaną</SplitCaravan>
   <!-- EN: You must leave at least one non-downed colonist. -->
-  <SourceCaravanMustHaveAtLeastOneColonist>Turi palikti bent vieną nenumuštą kolonistą.</SourceCaravanMustHaveAtLeastOneColonist>
+  <SourceCaravanMustHaveAtLeastOneColonist>Turi palikti bent vieną judantį kolonistą.</SourceCaravanMustHaveAtLeastOneColonist>
   <!-- EN: How many of this item the caravan has ready to give to the new caravan. -->
-  <SplitCaravanThingCountTip>Kiek šių daiktų karavanas pasiruošęs duoti naujam karavanui.</SplitCaravanThingCountTip>
+  <SplitCaravanThingCountTip>Kiek šių daiktų karavanas gali perduoti naujam karavanui.</SplitCaravanThingCountTip>
   
   <!-- Caravan misc -->
   <!-- EN: Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony! -->
-  <ConfirmAttackFriendlyFaction>Ar esi įsitikinęs kad nori užpulti {0}?\n\nTai {1} pavers agresyviais tavo atžvilgiu ir jie galiausiai pradės puldinėti tavo koloniją!</ConfirmAttackFriendlyFaction>
+  <ConfirmAttackFriendlyFaction>Ar tikrai nori užpulti {0}?\n\nTai pavers {1} tavo priešais, ir jie galiausiai pradės puldinėti tavo koloniją!</ConfirmAttackFriendlyFaction>
   
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
   <LoadTransporters>Pakrauti {0}</LoadTransporters>
   <!-- EN: The assigned people and items are too heavy for the transport pods. -->
-  <TooBigTransportersMassUsage>Paskirti žmonės ir daiktai yra per sunkūs transportavimo kapsulei.</TooBigTransportersMassUsage>
+  <TooBigTransportersMassUsage>Paskirti žmonės ir daiktai per sunkūs transportavimo kapsulėms.</TooBigTransportersMassUsage>
   <!-- EN: The assigned people and items are too heavy for the shuttle. -->
-  <TooBigTransporterSingleMassUsage>Paskirti žmonės ir daiktai yra per sunkūs kosminiam laivui.</TooBigTransporterSingleMassUsage>
+  <TooBigTransporterSingleMassUsage>Paskirti žmonės ir daiktai per sunkūs kosminiam laivui.</TooBigTransporterSingleMassUsage>
   <!-- EN: You can't send empty transport pods. -->
   <CantSendEmptyTransportPods>Negali išsiųsti tuščių transportavimo kapsulių.</CantSendEmptyTransportPods>
   <!-- EN: You can't send empty shuttle. -->
   <CantSendEmptyTransporterSingle>Negali išsiųsti tuščio kosminio laivo.</CantSendEmptyTransporterSingle>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
-  <PawnCantReachTransporters>{1_labelShort} negali pasiekti transportavimo kapsulės.</PawnCantReachTransporters>
+  <PawnCantReachTransporters>{1_labelShort} negali pasiekti transportavimo kapsulių.</PawnCantReachTransporters>
   <!-- EN: {1_labelShort} can't reach the shuttle. -->
   <PawnCantReachTransporterSingle>{1_labelShort} negali pasiekti kosminio laivo.</PawnCantReachTransporterSingle>
   <!-- EN: There is no path between the transport pods and the {0}. -->
-  <TransporterItemIsUnreachableSingle>Nėra kelio tarp transportavimo kapsulės ir {0}.</TransporterItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableSingle>Nėra kelio tarp transportavimo kapsulių ir {0}.</TransporterItemIsUnreachableSingle>
   <!-- EN: There is no path between the shuttle and the {0}. -->
   <TransporterSingleItemIsUnreachableSingle>Nėra kelio tarp kosminio laivo ir {0}.</TransporterSingleItemIsUnreachableSingle>
   <!-- EN: There is no path between the transport pods and {0}x {1}. -->
-  <TransporterItemIsUnreachableMulti>Nėra kelio tarp transportavimo kapsulės ir {0}x {1}.</TransporterItemIsUnreachableMulti>
+  <TransporterItemIsUnreachableMulti>Nėra kelio tarp transportavimo kapsulių ir {0}x {1}.</TransporterItemIsUnreachableMulti>
   <!-- EN: There is no path between the shuttle and {0}x {1}. -->
   <TransporterSingleItemIsUnreachableMulti>Nėra kelio tarp kosminio laivo ir {0}x {1}.</TransporterSingleItemIsUnreachableMulti>
   <!-- EN: Only {0} colonists maximum allowed. -->
-  <TransporterSingleTooManyColonists>Leidžiama daugiausia {0} kolonistai.</TransporterSingleTooManyColonists>
+  <TransporterSingleTooManyColonists>Leidžiama daugiausia {0} kolonistų.</TransporterSingleTooManyColonists>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
