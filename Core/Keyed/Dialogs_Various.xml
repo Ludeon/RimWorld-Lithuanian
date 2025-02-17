@@ -621,15 +621,15 @@
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
   <PositiveBuysNegativeSells>Teigiami skaičiai perka.\nNeigiami skaičiai parduoda.</PositiveBuysNegativeSells>
   <!-- EN: Price you pay to buy this. -->
-  <BuyPriceDesc>Kaina už kurią tai perki</BuyPriceDesc>
+  <BuyPriceDesc>Kaina, už kurią tai perki.</BuyPriceDesc>
   <!-- EN: Price you receive for selling this. -->
-  <SellPriceDesc>Kaina už kurią tai parduodi.</SellPriceDesc>
+  <SellPriceDesc>Kaina, už kurią tai parduodi.</SellPriceDesc>
   <!-- EN: For this item, this price is {0}. -->
-  <PriceTypeDesc>Šiam daiktui ši kaina yra {0}.</PriceTypeDesc>
+  <PriceTypeDesc>Šiam daiktui kaina yra {0}.</PriceTypeDesc>
   <!-- EN: How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon. -->
-  <ColonyCount>Kiek šių daiktų kolonija gali parduoti.\n\nGali parduoti daiktus orbitiniams pirkliams tik jei tie daiktai yra padėti prie orbitinės prekybos švyturio.</ColonyCount>
+  <ColonyCount>Kiek šių daiktų kolonija turi paruoštų prekybai.\n\nDaiktus orbitiniams pirkliams galima parduoti tik jei jie yra prie orbitinės prekybos švyturio.</ColonyCount>
   <!-- EN: How many of this item the trader has to trade. -->
-  <TraderCount>Kiek šių daiktų prekeivis turi pardavimui.</TraderCount>
+  <TraderCount>Kiek šių daiktų prekeivis turi parduoti.</TraderCount>
   <!-- EN: Accept -->
   <AcceptButton>Priimti</AcceptButton>
   <!-- EN: Load selected -->
@@ -641,31 +641,31 @@
   <!-- EN: Close -->
   <CloseButton>Uždaryti</CloseButton>
   <!-- EN: Your tradeable silver: {0} -->
-  <YourTradeableSilver>Tavo sidabras kuriuo gali prekiauti: {0}</YourTradeableSilver>
+  <YourTradeableSilver>Tavo sidabras prekybai: {0}</YourTradeableSilver>
   <!-- EN: You can only trade with silver that is near an orbital trade beacon and not under a roof. -->
-  <YourTradeableSilverTip>Gali prekiaut tik tuo sidabru kuris yra padėtas šalia orbitinės prekybos švyturio ir nėra po stogu.</YourTradeableSilverTip>
+  <YourTradeableSilverTip>Gali prekiauti tik sidabru, kuris yra prie orbitinės prekybos švyturio ir nėra po stogu.</YourTradeableSilverTip>
   <!-- EN: Trader has no more. -->
   <TraderHasNoMore>Prekeivis daugiau nebeturi.</TraderHasNoMore>
   <!-- EN: No more to sell. -->
   <ColonyHasNoMore>Nebėra ko parduoti.</ColonyHasNoMore>
   <!-- EN: Trader is not willing to buy this. -->
-  <TraderWillNotTrade>Prekeivis tai pirkti nenori.</TraderWillNotTrade>
+  <TraderWillNotTrade>Prekeivis to pirkti nenori.</TraderWillNotTrade>
   <!-- EN: Negotiator -->
   <Negotiator>Derybininkas</Negotiator>
   <!-- EN: Negotiator: {0} (+{1}) -->
   <NegotiatorTradeDialogInfo>Derybininkas: {0} (+{1})</NegotiatorTradeDialogInfo>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
-  <NegotiatorTalkingImpaired>Tavo derybininkas {1_labelShort} dėl prastos sveikatos negali deramai kalbėti.</NegotiatorTalkingImpaired>
+  <NegotiatorTalkingImpaired>Tavo derybininkas {1_labelShort} dėl prastos sveikatos negali aiškiai kalbėti.</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
-  <NegotiatorHearingImpaired>Tavo derybininkas {1_labelShort} dėl prastos sveikatos negali deramai girdėti.</NegotiatorHearingImpaired>
+  <NegotiatorHearingImpaired>Tavo derybininkas {1_labelShort} dėl prastos sveikatos negali gerai girdėti.</NegotiatorHearingImpaired>
   <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
-  <NegotiatorCapacityImpaired>Tai paveiks prekybos kainas.\n\nPasvarstyk dėl sveikesnio derybininko naudojimo.</NegotiatorCapacityImpaired>
+  <NegotiatorCapacityImpaired>Tai paveiks prekybos kainas.\n\nSvarstyk galimybę naudoti sveikesnį derybininką.</NegotiatorCapacityImpaired>
   <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
-  <ConfirmTraderShortFunds>Prekeivis neturi pakankamai sidabro kad pilnai sumokėtų už šį sandorį. Vis tiek tęsti?</ConfirmTraderShortFunds>
+  <ConfirmTraderShortFunds>Prekeiviui trūksta sidabro, kad pilnai sumokėtų už šį sandorį. Tęsti vis tiek?</ConfirmTraderShortFunds>
   <!-- EN: Sort by -->
   <SortBy>Rūšiuoti pagal</SortBy>
   <!-- EN: trader type -->
-  <TraderTypePrice>prekeivio rūšis</TraderTypePrice>
+  <TraderTypePrice>prekeivio tipą</TraderTypePrice>
   <!-- EN: selling -->
   <Selling>parduoda</Selling>
   <!-- EN: buying -->

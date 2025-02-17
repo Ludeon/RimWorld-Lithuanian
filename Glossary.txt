@@ -341,6 +341,7 @@ flashstorm                  - žaibavimų audra (??) <P
 flick                       - perjungti
 flown into                  - sukilo
 foam turret                 - gesintuvo bokštas (?)
+fucus                       - fokusavimas (??) <P
 focused                     - koncentruotas
 folder                      - katalogas
 food restriction            - maisto ribojimas
