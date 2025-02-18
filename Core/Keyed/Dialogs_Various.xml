@@ -915,55 +915,55 @@
   <!-- EN: Research finished: {0} -->
   <ResearchFinished>Tyrimas baigtas: {0}</ResearchFinished>
   <!-- EN: Research Screen -->
-  <ResearchScreen>Tyrimų Langas</ResearchScreen>
+  <ResearchScreen>Tyrimų langas</ResearchScreen>
   <!-- EN: By researching {0} you have discovered the {1} research project. -->
-  <ResearchUnknownProjectRevealed>TODO</ResearchUnknownProjectRevealed>
+  <ResearchUnknownProjectRevealed>Tyrinėdamas {0}, atradai {1} tyrimų projektą.</ResearchUnknownProjectRevealed>
   
   <!--HistoryUpload-->
   <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
-  <HistoryUploadMessage>Ar nori išsiųsti savo žaidimų duomenų įrašus į RimWorld serverį kad padėtum programuotojams subalansuoti žaidimą? Jei sutinki, tavo duomenys bus išsiųsti kas {0} dienas (ir kai kuriais kitais retais atvejais, kaip žaidimo pabaigimas). Privatumo pasirinkimai gali būti pakeisti vėliau nustatymų meniu lange.</HistoryUploadMessage>
+  <HistoryUploadMessage>Ar nori išsiųsti savo žaidimo duomenis į RimWorld serverį, kad padėtum kūrėjams subalansuoti žaidimą? Jei sutinki, duomenys bus išsiųsti kas {0} dienų (ir kai kuriais kitais retais atvejais, pavyzdžiui, žaidimo pabaigoje). Privatumo nustatymus galima pakeisti vėliau nustatymų meniu.</HistoryUploadMessage>
   <!-- EN: Even though history is sent anonymously, you can attach your name. -->
-  <HistoryUploadMessagePlayerName>Nors istorija išsiunčiama anonimiškai, gali savo vardą pridėti.</HistoryUploadMessagePlayerName>
+  <HistoryUploadMessagePlayerName>Nors duomenys siunčiami anonimiškai, gali pridėti savo vardą.</HistoryUploadMessagePlayerName>
   <!-- EN: Allow uploading gameplay data -->
-  <HistoryUploadYes>Leisti išsiųsti žaidimų duomenis</HistoryUploadYes>
+  <HistoryUploadYes>Leisti siųsti žaidimo duomenis</HistoryUploadYes>
   <!-- EN: Do not allow uploading gameplay data -->
-  <HistoryUploadNo>Neleisti išsiųsti žaidimų duomenų</HistoryUploadNo>
+  <HistoryUploadNo>Neleisti siųsti žaidimo duomenų</HistoryUploadNo>
   <!-- EN: Upload only this time -->
-  <HistoryUploadYesOnce>Išsiųsti tik šį kartą</HistoryUploadYesOnce>
+  <HistoryUploadYesOnce>Siųsti tik šį kartą</HistoryUploadYesOnce>
   <!-- EN: Do not upload this time, ask me later -->
-  <HistoryUploadNoOnce>Šį kartą neišsiųsti, paklausti vėliau</HistoryUploadNoOnce>
+  <HistoryUploadNoOnce>Šį kartą nesiųsti, paklausti vėliau</HistoryUploadNoOnce>
   
   <!-- Policies -->
   <!-- EN: Available policies -->
-  <AvailablePolicies>TODO</AvailablePolicies>
+  <AvailablePolicies>Galimos taisyklės</AvailablePolicies>
   <!-- EN: Unnamed -->
-  <UnnamedPolicy>TODO</UnnamedPolicy>
+  <UnnamedPolicy>Be pavadinimo</UnnamedPolicy>
   <!-- EN: New... -->
-  <NewPolicy>TODO</NewPolicy>
+  <NewPolicy>Naujos...</NewPolicy>
   <!-- EN: Invalid policy name -->
-  <InvalidName>TODO</InvalidName>
+  <InvalidName>Neleistinas taisyklių pavadinimas</InvalidName>
   <!-- EN: Delete the selected policy. -->
-  <DeletePolicyTip>TODO</DeletePolicyTip>
+  <DeletePolicyTip>Ištrinti pasirinktas taisykles.</DeletePolicyTip>
   <!-- EN: Create a duplicate of the selected policy. -->
-  <DuplicatePolicyTip>TODO</DuplicatePolicyTip>
+  <DuplicatePolicyTip>Sukurti pasirinktų taisyklių kopiją.</DuplicatePolicyTip>
   <!-- EN: Rename this policy. -->
-  <RenamePolicyTip>TODO</RenamePolicyTip>
+  <RenamePolicyTip>Pervadinti šias taisykles.</RenamePolicyTip>
   <!-- EN: Are you sure you want to delete the policy: {0}? -->
-  <DeletePolicyConfirm>TODO</DeletePolicyConfirm>
+  <DeletePolicyConfirm>Ar tikrai nori ištrinti taisykles: {0}?</DeletePolicyConfirm>
   <!-- EN: Delete -->
-  <DeletePolicyConfirmButton>TODO</DeletePolicyConfirmButton>
+  <DeletePolicyConfirmButton>Ištrinti</DeletePolicyConfirmButton>
   <!-- EN: No policy selected -->
-  <NoPolicySelected>TODO</NoPolicySelected>
+<NoPolicySelected>Nepasirinktos jokios taisyklės</NoPolicySelected>
   
   <!-- Outfit management -->
   <!-- EN: Apparel policies -->
-  <ApparelPolicyTitle>Aprangos tvarkos</ApparelPolicyTitle>
+  <ApparelPolicyTitle>Aprangos taisyklės</ApparelPolicyTitle>
   <!-- EN: Create and manage templates for controlling what apparel items colony members can wear. -->
-  <ApparelPolicyTip>TODO</ApparelPolicyTip>
+  <ApparelPolicyTip>Kurk ir valdyk šablonus, nurodančius, kokius drabužius gali dėvėti kolonistai.</ApparelPolicyTip>
   <!-- EN: Apparel policy -->
-  <ApparelPolicy>Aprangos tvarka</ApparelPolicy>
+  <ApparelPolicy>Aprangos taisyklės</ApparelPolicy>
   <!-- EN: Apparel policy is in use by {0}. -->
-  <OutfitInUse>Aprangos tvarką naudoja {0}.</OutfitInUse>
+  <OutfitInUse>Aprangos taisykles naudoja {0}.</OutfitInUse>
   
   <!-- Drug policy management -->
   <!-- EN: Drug policies -->
