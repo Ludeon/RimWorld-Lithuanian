@@ -967,55 +967,55 @@
   
   <!-- Drug policy management -->
   <!-- EN: Drug policies -->
-  <DrugPolicyTitle>TODO</DrugPolicyTitle>
+  <DrugPolicyTitle>Narkotikų vartojimo taisyklės</DrugPolicyTitle>
   <!-- EN: Create and manage templates for controlling which drugs your colonists are allowed to consume. -->
-  <DrugPolicyTip>TODO</DrugPolicyTip>
+  <DrugPolicyTip>Kurk ir tvarkyk šablonus, nurodančius, kokius narkotikus gali vartoti tavo kolonistai.</DrugPolicyTip>
   <!-- EN: Drug policy -->
-  <DrugPolicy>Medikamentų vartojimo tvarka</DrugPolicy>
+  <DrugPolicy>Narkotikų vartojimo taisyklės</DrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
-  <DrugPolicyInUse>Medikamentų vartojimo tvarką naudoja {0}.</DrugPolicyInUse>
+  <DrugPolicyInUse>Šias narkotikų vartojimo taisykles naudoja {0}.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
-  <FoodRestrictionInUse>Maisto ribojimą naudoja {0}.</FoodRestrictionInUse>
+  <FoodRestrictionInUse>Šias maisto ribojimo taisykles naudoja {0}.</FoodRestrictionInUse>
   <!-- EN: Add drug... -->
-  <AddDrug>Pridėti medikamentą...</AddDrug>
+  <AddDrug>Pridėti narkotiką...</AddDrug>
   <!-- EN: Drug -->
-  <DrugColumnLabel>Medikamentas</DrugColumnLabel>
+  <DrugColumnLabel>Narkotikas</DrugColumnLabel>
   <!-- EN: Frequency -->
-  <FrequencyColumnLabel>Dažnumas</FrequencyColumnLabel>
+  <FrequencyColumnLabel>Vartojimo dažnumas</FrequencyColumnLabel>
   <!-- EN: Only if mood below -->
   <MoodThresholdColumnLabel>Tik jei nuotaika žemiau</MoodThresholdColumnLabel>
   <!-- EN: Only if recreation below -->
-  <JoyThresholdColumnLabel>Tik jei pramogos žemiau</JoyThresholdColumnLabel>
+  <JoyThresholdColumnLabel>Tik jei pramogų lygis žemiau</JoyThresholdColumnLabel>
   <!-- EN: Keep in inventory -->
   <TakeToInventoryColumnLabel>Laikyti inventoriuje</TakeToInventoryColumnLabel>
   <!-- EN: (no drugs) -->
-  <NoDrugsBrackets>(jokių medikamentų)</NoDrugsBrackets>
+  <NoDrugsBrackets>(be narkotikų)</NoDrugsBrackets>
   <!-- EN: Every day -->
   <EveryDay>Kiekvieną dieną</EveryDay>
   <!-- EN: {0} times per day -->
-  <TimesPerDay>{0} kartų per dieną</TimesPerDay>
+  <TimesPerDay>{0} kartus per dieną</TimesPerDay>
   <!-- EN: Every {0} days -->
-  <EveryDays>Kas {0} dienas</EveryDays>
+  <EveryDays>Kas {0} dienų</EveryDays>
   <!-- EN: Any -->
-  <NoDrugUseRequirement>Bet koks</NoDrugUseRequirement>
+  <NoDrugUseRequirement>Bet kuris</NoDrugUseRequirement>
   <!-- EN: Delete this drug. -->
-  <DeleteDrugTooltip>Ištrinti šį medikamentą.</DeleteDrugTooltip>
+  <DeleteDrugTooltip>Ištrinti šį narkotiką.</DeleteDrugTooltip>
   <!-- EN: The name of a drug. -->
-  <DrugNameColumnDesc>Medikamento pavadinimas.</DrugNameColumnDesc>
+  <DrugNameColumnDesc>Narkotiko pavadinimas.</DrugNameColumnDesc>
   <!-- EN: How often the colonists should try to take this drug. -->
-  <FrequencyColumnDesc>Kaip dažnai kolonistai turėtų pabandyti vartoti šį medikamentą.</FrequencyColumnDesc>
+  <FrequencyColumnDesc>Kaip dažnai kolonistai turėtų vartoti šį narkotiką.</FrequencyColumnDesc>
   <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
-  <MoodThresholdColumnDesc>Kolonistai vartos šį medikamentą tik jei jų nuotaikos lygis yra žemiau šios ribos.</MoodThresholdColumnDesc>
+  <MoodThresholdColumnDesc>Kolonistai vartos šį narkotiką tik jei jų nuotaika bus žemiau šios ribos.</MoodThresholdColumnDesc>
   <!-- EN: The colonists will take this drug only if their recreation level is below this threshold. -->
-  <JoyThresholdColumnDesc>Kolonistai vartos šį medikamentą tik jei jų pramogų lygis yra žemiau šios ribos.</JoyThresholdColumnDesc>
+  <JoyThresholdColumnDesc>Kolonistai vartos šį narkotiką tik jei jų pramogų lygis bus žemiau šios ribos.</JoyThresholdColumnDesc>
   <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
-  <TakeToInventoryColumnDesc>Papildomas medikamentų kiekis kurį turėtų pasiimti į inventorių kai imama vartojimui, kad nereiktų kiekvieną kartą eiti į medikamentų sandėliavimo vietą.</TakeToInventoryColumnDesc>
+  <TakeToInventoryColumnDesc>Papildomas narkotikų kiekis, kurį reikia pasiimti vartojimui, kad nereikėtų kiekvieną kartą eiti į sandėlį.</TakeToInventoryColumnDesc>
   <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForAddiction>Priklausomybėms\n\nNaudoti šį medikamentą tik jau išsivysčiusios priklausomybės poreikio tenkinimui.\n\nNet ir išjungus, kai kurie veikėjai su specifiniais bruožais ar kai pakrinka nervai vis tiek gali tą medikamentą suvartoti.</DrugUsageTipForAddiction>
+  <DrugUsageTipForAddiction>Priklausomybėms\n\nVartoti šį narkotiką esant išsivysčiusiai priklausomybei.\n\nNet jei išjungta, kai kurie veikėjai su tam tikrais bruožais ar per nervinį priepuolį vis tiek gali jį vartoti.</DrugUsageTipForAddiction>
   <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForJoy>Pramogoms\n\nVartoti šį medikamentą pramogų ir socialiniais tikslais.\n\nNet ir išjungus, kai kurie veikėjai su specifiniais bruožais ar kai pakrinka nervai vis tiek gali tą medikamentą suvartoti.</DrugUsageTipForJoy>
+  <DrugUsageTipForJoy>Pramogoms\n\nVartoti šį narkotiką pramogų ir socialiniais tikslais.\n\nNet jei išjungta, kai kurie veikėjai su tam tikrais bruožais ar per nervinį priepuolį vis tiek gali jį vartoti.</DrugUsageTipForJoy>
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
-  <DrugUsageTipScheduled>Tvarkaraštis\n\nVartoti šiuos medikamentus pagal tvarkaraštį, kai išpildytos specifinės sąlygos.</DrugUsageTipScheduled>
+  <DrugUsageTipScheduled>Tvarkaraštis\n\nVartoti šį narkotiką pagal nustatytą tvarkaraštį, kai įvykdomos reikiamos sąlygos.</DrugUsageTipScheduled>
 
   <!-- Food restriction management -->
   <!-- EN: Food policies -->

@@ -259,7 +259,7 @@ droner                      - ūžesio šaltinis
 drop                        - numesti
 drop-down                   - išskleidžiamasis (meniu)
 drop pod                    - transporto kapsulė (?)
-drug                        - medikamentas/vaistas/narkotikas/preparatas <<
+drug                        - medikamentas / vaistas (??) / narkotikas << / preparatas (??)<<
 drug policy                 - medikamentų vartojimo (tvarka)
 dull                        - nykiai (?)
 dumb labor                  - įgūdžių nereikalaujantis darbas (?)
@@ -344,7 +344,7 @@ foam turret                 - gesintuvo bokštas (?)
 fucus                       - fokusavimas (??) <P
 focused                     - koncentruotas
 folder                      - katalogas
-food restriction            - maisto ribojimas
+food restriction            - maisto ribojimo taisyklės <<
 force                       - pajėgos
 forage                      - (gamtoje) (su)rinkti (maistą) <<
 forge                       - nukalti
@@ -571,7 +571,7 @@ megascreen                  - didžiaekranis
 megaspider                  - didysis voras (?)
 megasloth                   - didysis tinginys
 melee                       - artima kova/artimoje kovoje/arti (?)
-mental break                - nervinis pakrikimas (?? palūžimas)
+mental break                - nervinis priepuolis <<
 mental breakdown            - nervinis pakrikimas (?? psichikos sutrikimas)
 mental state                - psichinė būsena
 merge                       - dėti į vieną krūvą (??) (? sujungti)
@@ -684,7 +684,8 @@ plate                       - plokštelė/plokštė
 plate armor                 - plokštiniai šarvai
 pod                         - kapsulė
 pod launcher                - kapsulių paleidimo sistema
-policy                      - tvarka (??) <P
+policy                      - taisyklės <<
+policies                    - taisyklės << (??) <P
 pop                         - užtaisas/aktyvuoti
 positioning                 - pozicijų užėmimas
 possession                  - asmeninis daiktas
@@ -744,7 +745,7 @@ rec room                    - pramogų kambarys
 recently                    - pastaruoju metu
 recharge                    - įkrovimas
 reconnect                   - prijungti iš naujo
-recreation                  - pramogos
+recreation                  - pramogos/pramogų lygis (?) <<
 recruit                     - įkalbėti prisijungti
 recruiter                   - rekruteris (??)
 recurve bow                 - lenktasis lankas
@@ -885,7 +886,7 @@ static                      - stacionarus
 station                     - (darbo) vieta
 stealth                     - sėlinimas
 stock                       - prekės <<
-stockpile                   - sandėliavimo vieta
+stockpile                   - sandėliavimo vieta (??) / sandėlis <<
 stockpiled                  - sandėliuojamas
 stone tile                  - akmens plytelė
 stonecutter                 - akmenskaldys
@@ -893,7 +894,7 @@ stonecutting                - akmens skaldymas
 stoned                      - apsinešęs
 storage                     - saugykla/laikymas/saugojimas (?? atsargos)
 stored                      - laikomas
-storeroom                   - sandėlis (?)
+storeroom                   - sandėlio patalpa (??) <<
 stranger                    - svetimas
 straw matting               - šiaudiniai dembliai
 structure                   - pastatas/statinys
