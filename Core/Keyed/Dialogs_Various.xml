@@ -1019,17 +1019,17 @@
 
   <!-- Food restriction management -->
   <!-- EN: Food policies -->
-  <FoodPolicyTitle>TODO</FoodPolicyTitle>
+  <FoodPolicyTitle>Maisto taisyklės</FoodPolicyTitle>
   <!-- EN: Create and manage templates for controlling what food items colony members can eat. -->
-  <FoodPolicyTip>TODO</FoodPolicyTip>
+  <FoodPolicyTip>Kurk ir tvarkyk šablonus, nustatančius, kokį maistą gali valgyti kolonijos nariai.</FoodPolicyTip>
   <!-- EN: Food policy -->
-  <FoodPolicy>TODO</FoodPolicy>
+  <FoodPolicy>Maisto taisyklės</FoodPolicy>
   <!-- EN: Allow food -->
-  <AllowFood>TODO</AllowFood>
+  <AllowFood>Leisti maistą</AllowFood>
   <!-- EN: Lavish -->
   <FoodRestrictionLavish>Prabangus</FoodRestrictionLavish>
   <!-- EN: Fine -->
-  <FoodRestrictionFine>Geras</FoodRestrictionFine>
+  <FoodRestrictionFine>Puikus</FoodRestrictionFine>
   <!-- EN: Simple -->
   <FoodRestrictionSimple>Paprastas</FoodRestrictionSimple>
   <!-- EN: Paste -->
@@ -1041,24 +1041,24 @@
   
   <!-- Reading management -->
   <!-- EN: Reading policies -->
-  <ReadingPolicyTitle>TODO</ReadingPolicyTitle>
+  <ReadingPolicyTitle>Skaitymo taisyklės</SkaitymoPolicyTitle>
   <!-- EN: Create and manage templates for controlling which books colony members are allowed to read. -->
-  <ReadingPolicyTip>TODO</ReadingPolicyTip>
+  <ReadingPolicyTip>Kurk ir tvarkyk šablonus, nustatančius, kokias knygas gali skaityti kolonijos nariai.</ReadingPolicyTip>
   <!-- EN: Reading policy -->
-  <ReadingPolicy>TODO</ReadingPolicy>
+  <ReadingPolicy>Skaitymo taisyklės</ReadingPolicy>
   <!-- EN: Reading policy is in use. -->
-  <ReadingPolicyInUse>TODO</ReadingPolicyInUse>
+  <ReadingPolicyInUse>Galioja skaitymo taisyklės.</ReadingPolicyInUse>
 
   <!-- EN: Anything -->
-  <AllReadingPolicy>TODO</AllReadingPolicy>
+  <AllReadingPolicy>Bet kas</AllReadingPolicy>
   <!-- EN: None -->
-  <NoneReadingPolicy>TODO</NoneReadingPolicy>
+  <NoneReadingPolicy>Nieko</NoneReadingPolicy>
   <!-- EN: Textbooks -->
-  <TextbookPolicy>TODO</TextbookPolicy>
+  <TextbookPolicy>Mokomosios knygos</TextbookPolicy>
   <!-- EN: Schematics -->
-  <SchematicPolicy>TODO</SchematicPolicy>
+  <SchematicPolicy>Brėžiniai</SchematicPolicy>
   <!-- EN: Novels -->
-  <NovelPolicy>TODO</NovelPolicy>
+  <NovelPolicy>Romanai</NovelPolicy>
 
   <!-- Medical settings -->
   <!-- EN: Default medicine settings -->
