@@ -112,6 +112,7 @@ botched                     - nepavykęs/nepavyko
 bowler hat                  - katiliukas
 brandish                    - mosuoti
 brawler                     - mušeika
+brazier                     - žibintas <<
 break down                  - palūžti (??) <P
 breeding age                - subrendęs <<
 brings                      - prišauks (reidus)
@@ -215,6 +216,7 @@ cut                         - kirsti/skaldyti (akmenis)/kirpti/pjautinė žaizda
 
 damaged                     - sugadintas
 data processing             - duomenų apdorojimas
+darklight                   - tamsioji šviesa <<
 daze                        - apsvaigęs (??)
 debilitating                - slopinantis
 decadent                    - prabangus
@@ -953,7 +955,7 @@ this one                    - šitas
 thrumbo                     - trumbas (??)
 tile                        - langelis/plytelė
 tilling                     - arimas
-tinctoria                   - (dažinė) indigažolė
+tinctoria                   - (dažinė) indigažolė (N) << / tinktorija <<
 toggle                      - perjungti
 toggle button               - jungiklis
 tomb                        - kapas

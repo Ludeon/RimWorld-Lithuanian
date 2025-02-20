@@ -1322,39 +1322,39 @@
   <AutoSlaughterHeaderTooltipAllowSlaughterBonded>Leisti skersti prisirišusius gyvūnus.</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
 
   <!-- EN: Click to set an animal count limit. -->
-  <AutoSlaughterTooltipSetLimit>Paspausk nustatyti gyvūnų kiekio ribą.</AutoSlaughterTooltipSetLimit>
+  <AutoSlaughterTooltipSetLimit>Paspausk, kad nustatytum gyvūnų kiekio ribą.</AutoSlaughterTooltipSetLimit>
 
   <!-- Room requirements -->
   <!-- EN: no beds allowed -->
-  <RoomRequirementNoBeds>lovos neleidžiama</RoomRequirementNoBeds>
+  <RoomRequirementNoBeds>lovos neleidžiamos</RoomRequirementNoBeds>
   <!-- EN: room area: {0} tiles -->
-  <RoomRequirementArea>kambario zona: {0} langeliai</RoomRequirementArea>
+  <RoomRequirementArea>kambario plotas: {0} langeliai</RoomRequirementArea>
   <!-- EN: room impressiveness -->
   <RoomRequirementImpressiveness>kambario įspūdingumas</RoomRequirementImpressiveness>
   <!-- EN: all floored -->
-  <RoomRequirementAllFloored>viskas išgrįsta</RoomRequirementAllFloored>
+  <RoomRequirementAllFloored>visur išklotos grindys</RoomRequirementAllFloored>
   <!-- EN: all braziers must be lit -->
-  <RoomRequirementAllBraziersMustBeLit>visi deglai turi būti uždegti</RoomRequirementAllBraziersMustBeLit>
+  <RoomRequirementAllBraziersMustBeLit>visi žibintai turi būti uždegti</RoomRequirementAllBraziersMustBeLit>
   <!-- EN: all fine floored -->
-  <RoomRequirementAllFineFloored>TODO</RoomRequirementAllFineFloored>
+  <RoomRequirementAllFineFloored>Visur išklotos prabangios grindys</RoomRequirementAllFineFloored>
   <!-- EN: no work facilities allowed -->
-  <RoomRequirementNoProductionFacilities>TODO</RoomRequirementNoProductionFacilities>
+  <RoomRequirementNoProductionFacilities>gamybos įrenginiai neleidžiami</RoomRequirementNoProductionFacilities>
   <!-- EN: no altars allowed -->
-  <RoomRequirementNoAltars>TODO</RoomRequirementNoAltars>
+  <RoomRequirementNoAltars>altoriai neleidžiami</RoomRequirementNoAltars>
 
   <!-- EN: Lifestage max food factor -->
   <LifeStageMaxFood>Gyvenimo etapo maksimalus maisto koeficientas</LifeStageMaxFood>
 
   <!-- EN: Expand all -->
-  <ExpandAllCategories>Išskleisti visas</ExpandAllCategories>
+  <ExpandAllCategories>Išskleisti viską</ExpandAllCategories>
   <!-- EN: Collapse all -->
-  <CollapseAllCategories>Sutraukti visas</CollapseAllCategories>
+  <CollapseAllCategories>Sutraukti viską</CollapseAllCategories>
 
   <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
-  <TooltipDyeExplanation>Dažai gali būti išgauti auginant indigažolę ar nupirkti iš prekeivių.</TooltipDyeExplanation>
+  <TooltipDyeExplanation>Dažai gali būti išgauti iš tinktorijos arba nupirkti iš prekeivių.</TooltipDyeExplanation>
 
   <!-- EN: Zoom range {0} -->
-  <ZoomRange>Priartinimo nuotolis {0}</ZoomRange>
+  <ZoomRange>Priartinimo atstumas {0}</ZoomRange>
 
   <!-- Color picker -->
   <!-- EN: color temperature -->
@@ -1374,50 +1374,50 @@
   <!-- EN: value -->
   <ColorValue>vertė</ColorValue>
   <!-- EN: darklight -->
-  <Darklight>tamsi šviesa</Darklight>
+  <Darklight>tamsioji šviesa</Darklight>
   <!-- EN: not darklight -->
-  <NotDarklight>ne tamsi šviesa</NotDarklight>
+  <NotDarklight>ne tamsioji šviesa</NotDarklight>
   <!-- EN: current color -->
   <CurrentColor>dabartinė spalva</CurrentColor>
   <!-- EN: old color -->
-  <OldColor>sena spalva</OldColor>
+  <OldColor>ankstesnė spalva</OldColor>
   <!-- EN: Copy color -->
   <CommandCopyColorLabel>Kopijuoti spalvą</CommandCopyColorLabel>
   <!-- EN: Copy the current color to the clipboard. -->
-  <CommandCopyColorDesc>Nukopijuoti dabartinę spalvą</CommandCopyColorDesc>
+  <CommandCopyColorDesc>Nukopijuoti dabartinę spalvą į iškarpinę.</CommandCopyColorDesc>
   <!-- EN: Paste color -->
   <CommandPasteColorLabel>Įklijuoti spalvą</CommandPasteColorLabel>
   <!-- EN: Overwrite the color with the color in the clipboard. -->
-  <CommandPasteColorDesc>Perrašyti šią spalvą su nukopijuota spalva.</CommandPasteColorDesc>
+  <CommandPasteColorDesc>Perrašyti spalvą iškarpinės spalva.</CommandPasteColorDesc>
   <!-- EN: The clipboard does not contain a valid color. -->
-  <ClipboardInvalidColor>Nėra nukopijuota tinkama spalva.</ClipboardInvalidColor>
+  <ClipboardInvalidColor>Iškarpinėje nėra tinkamos spalvos.</ClipboardInvalidColor>
   <!-- EN: Color copied to clipboard. -->
-  <ColorCopiedSuccessfully>Spalva nukopijuota.</ColorCopiedSuccessfully>
+  <ColorCopiedSuccessfully>Spalva nukopijuota į iškarpinę.</ColorCopiedSuccessfully>
   <!-- EN: Updated color from the clipboard. -->
-  <ColorPastedSuccessfully>Atnaujinta su nukopijuota spalva.</ColorPastedSuccessfully>
+  <ColorPastedSuccessfully>Spalva atnaujinta iš iškarpinės.</ColorPastedSuccessfully>
   <!-- EN: Change to normal light -->
-  <ToggleDarklightOff>Pakeisti į įprastą šviesą.</ToggleDarklightOff>
+  <ToggleDarklightOff>Pakeisti į įprastą šviesą</ToggleDarklightOff>
   <!-- EN: Change the light color to its normal color. -->
   <ToggleDarklightOffDesc>Pakeisti šviesos spalvą į įprastą.</ToggleDarklightOffDesc>
   <!-- EN: Change to darklight -->
-  <ToggleDarklightOn>Pakeisti į tamsią šviesą.</ToggleDarklightOn>
+  <ToggleDarklightOn>Pakeisti į tamsiąją šviesą</ToggleDarklightOn>
   <!-- EN: Change the light color to darklight. -->
-  <ToggleDarklightOnDesc>Pakeisti šviesos spalvą į tamsią šviesą.</ToggleDarklightOnDesc>
+  <ToggleDarklightOnDesc>Pakeisti šviesos spalvą į tamsiąją.</ToggleDarklightOnDesc>
   <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
-  <ColorTemperatureTooltip>Pakeisti spalvą nustatant spalvos temperatūrą. Pastaba: Tai paveikia tik matomą spalvą, ne kiek šildo.</ColorTemperatureTooltip>
+  <ColorTemperatureTooltip>Pasirink spalvą nustatant jos temperatūrą. Pastaba: tai veikia tik matomą spalvą, ne šilumos skleidimą.</ColorTemperatureTooltip>
 
   <!-- EN: {0_labelShort} is psychically deaf. -->
-  <CannotShootPawnIsPsychicallyDeaf>TODO</CannotShootPawnIsPsychicallyDeaf>
+  <CannotShootPawnIsPsychicallyDeaf>{0_labelShort} nejautrus psichiniams reiškiniams.</CannotShootPawnIsPsychicallyDeaf>
 
   <!-- EN: Search the current map. -->
-  <SearchTheMap>TODO</SearchTheMap>
+  <SearchTheMap>Ieškoti šiame žemėlapyje</SearchTheMap>
   <!-- EN: Search the current map for items, buildings, people, animals, plants, and more. -->
-  <SearchTheMapDesc>TODO</SearchTheMapDesc>
+  <SearchTheMapDesc>Ieškoti šiame žemėlapyje daiktų, pastatų, žmonių, gyvūnų, augalų ir kt.</SearchTheMapDesc>
   <!-- EN: {0} results found -->
-  <MapSearchResults>TODO</MapSearchResults>
+  <MapSearchResults>Rasta rezultatų: {0}</MapSearchResults>
   <!-- EN: 1 result found -->
-  <MapSearchResultSingular>TODO</MapSearchResultSingular>
+  <MapSearchResultSingular>Rastas 1 rezultatas</MapSearchResultSingular>
   <!-- EN: Searching -->
-  <Searching>TODO</Searching>
+  <Searching>Ieškoma</Searching>
 
 </LanguageData>
