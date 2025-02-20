@@ -1163,9 +1163,9 @@
   <!-- EN: Cannot use {0} -->
   <CannotUseAbility>Negali naudoti {0}</CannotUseAbility>
   <!-- EN: Line of sight required -->
-  <AbilityRequiresLOS>Reikia regėjimo linijos</AbilityRequiresLOS>
+  <AbilityRequiresLOS>Reikalinga matymo linija</AbilityRequiresLOS>
   <!-- EN: Neural heat gain -->
-  <AbilityEntropyGain>Neuroninio karščio gavimas</AbilityEntropyGain>
+  <AbilityEntropyGain>Neuroninio streso padidėjimas</AbilityEntropyGain>
   <!-- EN: Psyfocus cost -->
   <AbilityPsyfocusCost>Psifokuso kaina</AbilityPsyfocusCost>
   <!-- EN: Effect duration -->
@@ -1173,41 +1173,41 @@
   <!-- EN: Effect radius -->
   <AbilityEffectRadius>Poveikio spindulys</AbilityEffectRadius>
   <!-- EN: Casting time -->
-  <AbilityCastingTime>Atlikimo laikas</AbilityCastingTime>
+  <AbilityCastingTime>Aktyvavimo laikas</AbilityCastingTime>
   <!-- EN: No line of sight to target. -->
-  <AbilityCannotHitTarget>Nėra regėjimo linijos iki taikinio.</AbilityCannotHitTarget>
+  <AbilityCannotHitTarget>Nėra matymo linijos iki taikinio.</AbilityCannotHitTarget>
   <!-- EN: Target is out of range. -->
-  <AbilityOutOfRange>Taikinys per toli</AbilityOutOfRange>
+  <AbilityOutOfRange>Taikinys per toli.</AbilityOutOfRange>
   <!-- EN: Can't reach the target. -->
-  <AbilityCannotReachTarget>Neina pasiekti taikinio.</AbilityCannotReachTarget>
+  <AbilityCannotReachTarget>Negalima pasiekti taikinio.</AbilityCannotReachTarget>
   <!-- EN: Not enough free space. -->
   <AbilityNotEnoughFreeSpace>Neužtenka laisvos vietos.</AbilityNotEnoughFreeSpace>
   <!-- EN: Must target an empty area. -->
-  <AbilityOccupiedCells>Turi taikyti į tuščią vietą.</AbilityOccupiedCells>
+  <AbilityOccupiedCells>Reikia taikyti į tuščią vietą.</AbilityOccupiedCells>
   <!-- EN: Must target a walkable area. -->
-  <AbilityUnwalkable>Turi taikyti į praeinamą vietą.</AbilityUnwalkable>
+  <AbilityUnwalkable>Reikia taikyti į praeinamą vietą.</AbilityUnwalkable>
   <!-- EN: Must target an unroofed area. -->
-  <AbilityRoofed>Turi taikyti į vietą be stogo.</AbilityRoofed>
+  <AbilityRoofed>Reikia taikyti į neuždengtą vietą.</AbilityRoofed>
   <!-- EN: {0_labelShort} is mentally broken. -->
-  <AbilityCantApplyToMentallyBroken>{0_labelShort} nervai yra pakrikę.</AbilityCantApplyToMentallyBroken>
+  <AbilityCantApplyToMentallyBroken>{0_labelShort} yra nervinio priepuolio būsenoje.</AbilityCantApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not mentally broken. -->
-  <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort} nėra pakrikusių nervų.</AbilityCanOnlyApplyToMentallyBroken>
+  <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort} nėra nervinio priepuolio būsenoje.</AbilityCanOnlyApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not maddened. -->
-  <AbilityCanOnlyApplyToManhunter>{0_labelShort} nėra įsiutintas.</AbilityCanOnlyApplyToManhunter>
+  <AbilityCanOnlyApplyToManhunter>{0_labelShort} nėra įsiutęs.</AbilityCanOnlyApplyToManhunter>
   <!-- EN: {0_labelShort} has scaria, which can only be treated medically. -->
-  <AbilityCantApplyToScaria>{0_labelShort} serga pasiutlige, kuri gali būti gydoma tik mediciniškai.</AbilityCantApplyToScaria>
+  <AbilityCantApplyToScaria>{0_labelShort} serga skarija, kurią galima gydyti tik mediciniškai.</AbilityCantApplyToScaria>
   <!-- EN: {0} doesn't work on the '{1}' mental state. -->
-  <AbilityDoesntWorkOnMentalState>{0} neveikia su '{1}' psichine būsena.</AbilityDoesntWorkOnMentalState>
+  <AbilityDoesntWorkOnMentalState>{0} neveikia esant '{1}' psichinei būsenai.</AbilityDoesntWorkOnMentalState>
   <!-- EN: {0_labelShort} has zero resistance. -->
-  <AbilityCantApplyNoResistance>{0_labelShort} neturi atsparumo.</AbilityCantApplyNoResistance>
+  <AbilityCantApplyNoResistance>{0_labelShort} neturi jokio atsparumo.</AbilityCantApplyNoResistance>
   <!-- EN: {0_labelShort} is downed. -->
-  <AbilityCantApplyDowned>{0_labelShort} yra numuštas.</AbilityCantApplyDowned>
+  <AbilityCantApplyDowned>{0_labelShort} yra nejudantis.</AbilityCantApplyDowned>
   <!-- EN: Cannot use: {0} is asexual. -->
-  <AbilityCantApplyOnAsexual>Neina naudoti: {0} yra aseksualus.</AbilityCantApplyOnAsexual>
+  <AbilityCantApplyOnAsexual>Negalima naudoti: {0} yra aseksualus.</AbilityCantApplyOnAsexual>
   <!-- EN: {PAWN_labelShort} has no healable injuries. -->
-  <AbilityCannotCastNoHealableInjury>TODO</AbilityCannotCastNoHealableInjury>
+  <AbilityCannotCastNoHealableInjury>{PAWN_labelShort} neturi išgydomų sužeidimų.</AbilityCannotCastNoHealableInjury>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
-  <AbilityCantApplyWrongAttractionGender>{1_labelShort} yra neteisingos lyties {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
+  <AbilityCantApplyWrongAttractionGender>{1_labelShort} yra netinkamos lyties {0_labelShort} atžvilgiu.</AbilityCantApplyWrongAttractionGender>
   <!-- EN: {0_labelShort} is too young. -->
   <AbilityCantApplyTooYoung>{0_labelShort} yra per jaunas.</AbilityCantApplyTooYoung>
   <!-- EN: Cannot target a baby. -->

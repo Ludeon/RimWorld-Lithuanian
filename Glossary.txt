@@ -140,6 +140,7 @@ caribou                     - šiaurės elnias
 carnivore                   - mėsėdis/mėsiškas (patiekalas)
 carry                       - nešiotis/(pa)nešti
 cassowary                   - kazuaras
+casting                     - aktyvavimas (?) <<
 catatonic                   - katatoninis
 cell                        - langelis
 chance                      - tikimybė
@@ -540,7 +541,7 @@ machine persona             - kompiuterinė persona (?)
 machinery                   - technika
 machining                   - mechaninis apdirbimas (?? šaltkalvystė)
 mad                         - įsiutęs
-maddened                    - įsiutintas
+maddened                    - įsiutęs <<
 maintain                    - išmaitinti
 maintenance                 - išlaikymas
 major                       - sunkus/didelis/vėlyva/pagrindinis
@@ -580,6 +581,7 @@ melee                       - artima kova/artimoje kovoje/arti (?)
 mental break                - nervinis priepuolis <<
 mental breakdown            - nervinis pakrikimas (?? psichikos sutrikimas)
 mental state                - psichinė būsena
+mentally broken             - nervinio priepuolio būsenoje
 merge                       - dėti į vieną krūvą (??) (? sujungti)
 mess                        - netvarka
 mind-shattering             - protą veriantis (?)
@@ -615,6 +617,7 @@ net                         - laidas
 neuroquake                  - neurodrebėjimas (??)
 next                        - kitas/sekantis
 nexus                       - centras (?)
+neural heat                 - neuroninis stresas (?) <<
 neurotrainer                - neurotreniruoklis (?)
 neutroamine                 - neutroaminas
 none                        - nėra
@@ -715,7 +718,7 @@ psychic pulse               - psichinis impulsas
 psychite                    - psichitinas
 psychoid plant              - psichoido augalas (?)
 psychotic wandering         - klaidžioja psichozėje (?)
-psyfocus                    - psifokusas (??) <P
+psyfocus                    - psifokusas (?) <<
 psylink                     - psiryšys (??) <P
 pulse-charged               - impulsinis (?)
 pumped                      - būti užsipumpavęs
@@ -805,7 +808,7 @@ satisfying                  - malonu
 save                        - išsaugotas žaidimas <<
 scan                        - skenuoti/ieškoti skenuojant
 scaled                      - padauginta
-scaria                      - pasiutligė
+scaria                      - skarija (?) <<
 scavenged meat              - maita
 schedule                    - tvarkaraštis
 score                       - balas
