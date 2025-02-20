@@ -307,7 +307,7 @@ exposure                    - poveikis
 extra                       - perteklinis
 extract                     - iškasti/išgauti/_
 extremely                   - nepaprastai/itin/pats (žemiausias)
-extreme                     - aukščiausio laipsnio/milžiniškas << /ekstremalus (oro sąlygos/iššūkis) (?? nepakeliamas) <P
+extreme                     - aukščiausio laipsnio (N) << / milžiniškas << / ekstremalus (oro sąlygos/iššūkis) (?? nepakeliamas) <<
 eyedropper                  - pipetė
 
 
@@ -847,7 +847,7 @@ signature                   - signalas
 simulation                  - simuliacija
 sister                      - sesuo
 skill                       - įgūdžiai (lavinti)
-skip                        - perkelti (?)
+skip                        - per(si)kelti <<
 slate                       - skalūnas
 slaughter                   - (pa)pjauti
 slaver                      - vergų prekeivis (?)
