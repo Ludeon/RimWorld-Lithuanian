@@ -4,6 +4,10 @@
 (? žodis)   - galimas kitoks vertimas
 <P          - reikia sugalvoti geresnį vertima ir tada peržiūrėti
 
+    _OTHER_
+
+{1_objective}               - savimi <<
+
     _A_
 
 ability                     - gebėjimas (true/false)/sugebėjimas (gradual)/galia (special ability)
@@ -18,7 +22,7 @@ addiction recovery          - priklausomybės atsikratymas <<
 adjust                      - pakeisti
 adjusted by                 - priklauso nuo
 adult                       - suaugęs
-advance                      - žengti į priekį
+advance                     - žengti į priekį
 adulthood                   - būti suaugusiu (?)
 advanced                    - daugiau (pasirinkimų)/pažangus/aukšto lygio
 advanced component          - pažangus komponentas
@@ -426,7 +430,7 @@ high on                     - apkvaišęs nuo << (??)
 highborn                    - kilmingasis
 hit                         - pataikymas
 hit points                  - gyvybės taškai
-hitching spot               - sukinkymo vieta
+hitching spot               - sukinkymo vieta (REMOVED?) <<
 hold fire                   - sulaikyti ugnį
 home area                   - namų sritis
 hopper                      - piltuvas
@@ -513,7 +517,7 @@ link                        - susieti
 linked                      - susijusi
 load                        - įkelti (failą)/pakrauti (daiktus)/užtaisyti
 local                       - paplitę
-location                    - vietovė <<
+location                    - vietovė << / vieta (?) <<
 log                         - (klaidų) žurnalas <<
 long-duration               - ilgo veikimo
 long range                  - ilgojo nuotolio
@@ -552,6 +556,7 @@ manual                      - fizinis
 map                         - žemėlapis
 marginal                    - kraštutinis (?)
 marine                      - pėstininkas
+marker                      - žymeklis
 market value                - rinkos vertė
 massive                     - labai stipri (tolerancija) (?)
 mastered                    - turintis šeimininką

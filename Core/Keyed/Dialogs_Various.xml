@@ -1115,15 +1115,15 @@
 
   <!-- Abandon home -->
   <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
-  <ConfirmAbandonHomeWithColonyPawns>Kai kurie iš tavo kolonistų arba gyvūnų yra šioje vietovėje. Ar esi įsitikinęs kad nori ją apleisti?\n\nSekantys žmonės ir gyvūnai bus palikti:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <ConfirmAbandonHomeWithColonyPawns>Kai kurie tavo kolonistai arba gyvūnai yra šioje vietovėje. Ar tikrai nori ją apleisti?\n\nŠie žmonės ir gyvūnai bus palikti:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
   <!-- EN: Abandoning {0} will cause the following people to get the following thoughts: -->
-  <ConfirmAbandonHomeNegativeThoughts>{0} palikimas bus sekančių žmonių šių minčių priežastis:</ConfirmAbandonHomeNegativeThoughts>
+  <ConfirmAbandonHomeNegativeThoughts>Apleidus {0}, šie žmonės turės šias mintis:</ConfirmAbandonHomeNegativeThoughts>
   <!-- EN: Everyone: -->
   <ConfirmAbandonHomeNegativeThoughts_Everyone>Visi:</ConfirmAbandonHomeNegativeThoughts_Everyone>
   
   <!-- Move caravan and leave prisoners and animals behind -->
   <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
-  <ConfirmMoveAutoJoinableCaravan>Keli gyvūnai ar kaliniai bando prisijungti prie šio karavano. Jei pajudėsi, jie to padaryti nebegalės.\n\nGyvūnai, kaliniai ir numušti kolonistai palikti žemėlapyje be nenumušto kolonisto yra laikomi paliktais ir gali būti priešų paimti į nelaisvę.\n\nAr esi įsitikinęs kad nori judėti su savo karavanu?</ConfirmMoveAutoJoinableCaravan>
+  <ConfirmMoveAutoJoinableCaravan>Kai kurie gyvūnai ar kaliniai bando prisijungti prie šio karavano. Jei išvyksi, jie nebegalės to padaryti.\n\nGyvūnai, kaliniai ir nejudantys kolonistai, palikti žemėlapyje be judančių kolonistų, bus laikomi apleistais ir gali būti pagrobti priešų.\n\nAr tikrai nori išvykti su karavanu?</ConfirmMoveAutoJoinableCaravan>
   
   <!-- Abandon pawn -->
   <!-- EN: Do you really want to banish {1_label}? -->
@@ -1131,11 +1131,11 @@
   <!-- EN: {1_labelShort} will most likely die. -->
   <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort} tikriausiai mirs.</ConfirmBanishPawnDialog_LeftToDie>
   <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
-  <ConfirmBanishPawnDialog_Items>{1_labelShort} pasiims sekančius daiktus su {1_objective}:</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_Items>{1_labelShort} pasiims šiuos daiktus su savimi:</ConfirmBanishPawnDialog_Items>
   <!-- EN: All colonists will get the following thoughts: -->
-  <ConfirmBanishPawnDialog_AllColonistsThoughts>Visi kolonistai turės sekančias mintis:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>Visi kolonistai turės šias mintis:</ConfirmBanishPawnDialog_AllColonistsThoughts>
   <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
-  <ConfirmBanishPawnDialog_IndividualThoughts>{1_labelShort} ištrėmimas šiems žmonėms sukels šias mintis:</ConfirmBanishPawnDialog_IndividualThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>Ištrėmus {1_labelShort}, šie žmonės turės šias mintis:</ConfirmBanishPawnDialog_IndividualThoughts>
 
   <!-- Send transport pods which are not completely loaded -->
   <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
@@ -1143,21 +1143,21 @@
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days. -->
-  <ConfirmSettleNearFactionBase>Kadangi ši vietovė yra per {0} langelius nuo kitos frakcijos bazės, jie jausis kad tu kėsiniesi į jų žemes ir santykiai su ta frakcija blogės kas {1} dienų.</ConfirmSettleNearFactionBase>
+  <ConfirmSettleNearFactionBase>Kadangi ši vieta yra per {0} langelius nuo kitos frakcijos bazės, jie manys, kad kėsiniesi į jų žemes, ir santykiai su jais blogės kas {1} dienas.</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
-  <ConfirmCleanupTranslationFiles>Ar esi įsitikinęs kad nori išvalyti visas vertimo bylas {0} kalbai?\n\nTai:\n  - Įdės rezervavimo simbolius trūkstamiems raktiniams vertimams, def-įterptiems vertimams ir trumpoms biografijoms\n  - Įdės arba atnaujins komentarus su originaliu, neišverstu tekstu\n  - Iškels visus raktinius ir def-įterptus vertimus į atitinkamas XML bylas\n  - Pritaikys automatinį formatavimą visoms XML byloms\n  - Atnaujins atgaline data suderinamus def pavadinimus\n  - Pašalins visus egzistuojančius XML komentarus (išskyrus pilnų sąrašų įterpimuose)\n\nNe XML bylos nebus pašalintos ar pakeistos.\n\nPakeitęs kalbos bylas, prieš paleisdamas šį įrankį nepamiršk perkrauti žaidimo, kad perkrautum visus duomenis.\n\nĮsitikink kad turi vertimo failų atsarginę kopiją prieš naudodamas šį įrankį.</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles>Ar tikrai nori išvalyti visus {0} kalbos vertimo failus?\n\nTai atliks šiuos veiksmus:\n  - Įdės trūkstamų raktinių vertimų, def-įterptų vertimų ir gyvenimo istorijų rezervinius įrašus\n  - Pridės arba atnaujins komentarus su originaliu, neišverstu tekstu\n  - Perkels visus raktinius ir def-įterptus vertimus į atitinkamas XML failus\n  - Automatiškai suformatuos visus XML failus\n  - Atnaujins suderinamus def pavadinimus\n  - Pašalins visus esamus XML komentarus (išskyrus pilnų sąrašų įterpimuose)\n\nNe XML failai nebus pašalinti ar pakeisti.\n\nPo vertimo failų pakeitimų, prieš paleisdamas šį įrankį, perkrauk žaidimą, kad duomenys būtų atnaujinti.\n\nĮsitikink, kad turi atsarginę vertimo failų kopiją prieš naudodamas šį įrankį.</ConfirmCleanupTranslationFiles>
   <!-- EN: Yes, I have a backup -->
-  <ConfirmCleanupTranslationFiles_Confirm>Taip, aš turiu atsarginę kopiją</ConfirmCleanupTranslationFiles_Confirm>
+  <ConfirmCleanupTranslationFiles_Confirm>Taip, turiu atsarginę kopiją</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
   <!-- EN: The caravan will be immobile if you launch to an empty tile. Continue anyway? -->
-  <TransportersCaravanWillBeImmobile>Karavanas bus nejudantis jei paleisi į tuščia langelį. Vis tiek tęsti?</TransportersCaravanWillBeImmobile>
+  <TransportersCaravanWillBeImmobile>Jei paleisi į tuščią langelį, karavanas negalės judėti. Vis tiek tęsti?</TransportersCaravanWillBeImmobile>
 
   <!-- Confirm cancel monument marker -->
   <!-- EN: Do you really want to remove this monument marker? -->
-  <ConfirmCancelMonumentMarker>Ar tikrai nori pašalinti šį paminklo ženklinimą?</ConfirmCancelMonumentMarker>
+  <ConfirmCancelMonumentMarker>Ar tikrai nori pašalinti šį paminklo žymeklį?</ConfirmCancelMonumentMarker>
 
   <!-- Abilities -->
   <!-- EN: Cannot use {0} -->
