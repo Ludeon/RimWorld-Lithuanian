@@ -384,6 +384,7 @@ glowing                     - švytintis
 glowstool                   - šviečiantis kelmutis
 go-juice                    - raketa (?) 
 going to                    - ketina
+goodwill                    - palankumas (?) <<
 governs                     - nulemia
 grand stele                 - milžiniška stela
 greatbow                    - ilgasis lankas
@@ -430,7 +431,7 @@ hold fire                   - sulaikyti ugnį
 home area                   - namų sritis
 hopper                      - piltuvas
 horseshoes pin              - pasagų kuoliukas
-hostile                     - agresyvus (?)/priešiškas (atžvilgiu) <<
+hostile                     - priešiškas (atžvilgiu) <<
 humanlike                   - žmogiška būtybė
 humanoid                    - humanoidas
 hydroponics                 - hidroponika

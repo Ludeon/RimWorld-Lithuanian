@@ -1064,54 +1064,54 @@
   <!-- EN: Default medicine settings -->
   <DefaultMedicineSettings>Numatytieji vaistų nustatymai</DefaultMedicineSettings>
   <!-- EN: These medical settings are assigned to creatures when they first join a given group. You can manually assign a setting to an individual in their health tab.\n\nNote: If the creature joins a new group, they will always take the settings of that group, even if you previously assigned them a setting. -->
-  <DefaultMedicineSettingsDesc>TODO</DefaultMedicineSettingsDesc>
+  <DefaultMedicineSettingsDesc>Šie medicininiai nustatymai priskiriami būtybėms, kai jos pirmą kartą prisijungia prie grupės. Nustatymus gali rankiniu būdu priskirti sveikatos lange.\n\nPastaba: Jei būtybė prisijungs prie naujos grupės, ji perims tos grupės nustatymus, net jei anksčiau buvai priskyręs kitus.</DefaultMedicineSettingsDesc><DefaultMedicineSettingsDesc>Šie medicininiai nustatymai priskiriami būtybėms, kai jos prisijungia prie grupės. Nustatymus gali pakeisti sveikatos lange.\n\nPastaba: Jei būtybė prisijungs prie kitos grupės, ji perims tos grupės nustatymus, net jei anksčiau buvai priskyręs kitus.</DefaultMedicineSettingsDesc>
   
   <!-- EN: Defaults -->
   <MedGroupDefaults>Numatytieji</MedGroupDefaults>
   
   <!-- EN: Colonists -->
-  <MedGroupColonists>TODO</MedGroupColonists>
+  <MedGroupColonists>Kolonistai</MedGroupColonists>
   <!-- EN: Free members of your colony -->
-  <MedGroupColonistsDesc>TODO</MedGroupColonistsDesc>
+  <MedGroupColonistsDesc>Laisvi tavo kolonijos nariai.</MedGroupColonistsDesc>
   
   <!-- EN: Prisoners -->
-  <MedGroupPrisoners>TODO</MedGroupPrisoners>
+  <MedGroupPrisoners>Kaliniai</MedGroupPrisoners>
   <!-- EN: Prisoners in your colony, regardless of faction. -->
-  <MedGroupPrisonersDesc>TODO</MedGroupPrisonersDesc>
+  <MedGroupPrisonersDesc>Kaliniai tavo kolonijoje, nepriklausomai nuo frakcijos.</MedGroupPrisonersDesc>
 
   <!-- EN: Tamed animals -->
-  <MedGroupTamedAnimals>TODO</MedGroupTamedAnimals>
+  <MedGroupTamedAnimals>Prijaukinti gyvūnai</MedGroupTamedAnimals>
   <!-- EN: Animals which have been tamed by your colony. -->
-  <MedGroupTamedAnimalsDesc>TODO</MedGroupTamedAnimalsDesc>
+  <MedGroupTamedAnimalsDesc>Gyvūnai, kuriuos tavo kolonija prijaukino.</MedGroupTamedAnimalsDesc>
 
   <!-- EN: Friendly faction members -->
-  <MedGroupFriendlyFaction>TODO</MedGroupFriendlyFaction>
+  <MedGroupFriendlyFaction>Draugiški frakcijos nariai</MedGroupFriendlyFaction>
   <!-- EN: Humans or animals who are part of a faction which is friendly with your faction (goodwill above 75). -->
-  <MedGroupFriendlyFactionDesc>TODO</MedGroupFriendlyFactionDesc>
+  <MedGroupFriendlyFactionDesc>Žmonės ar gyvūnai, priklausantys frakcijai, kuri yra draugiška tavo frakcijai (palankumas virš 75).</MedGroupFriendlyFactionDesc>
   
   <!-- EN: Neutral faction members -->
-  <MedGroupNeutralFaction>Neutrali frakcija</MedGroupNeutralFaction>
+  <MedGroupNeutralFaction>Neutralios frakcijos nariai</MedGroupNeutralFaction>
   <!-- EN: Humans or animals who are part of a faction which is neutral with your faction (between -75 and 75 goodwill). -->
-  <MedGroupNeutralFactionDesc>TODO</MedGroupNeutralFactionDesc>
+  <MedGroupNeutralFactionDesc>Žmonės ar gyvūnai, priklausantys frakcijai, kuri yra neutrali tavo frakcijai (palankumas tarp -75 ir 75).</MedGroupNeutralFactionDesc>
 
   <!-- EN: Hostile faction members -->
-  <MedGroupHostileFaction>Agresyvi frakcija</MedGroupHostileFaction>
+  <MedGroupHostileFaction>Priešiškos frakcijos nariai</MedGroupHostileFaction>
   <!-- EN: Humans or animals who are part of a faction which is hostile with your faction (goodwill below -75). -->
-  <MedGroupHostileFactionDesc>TODO</MedGroupHostileFactionDesc>
+  <MedGroupHostileFactionDesc>Žmonės ar gyvūnai, priklausantys frakcijai, kuri yra priešiška tavo frakcijai (palankumas žemiau -75).</MedGroupHostileFactionDesc>
 
   <!-- EN: Other humans -->
-  <MedGroupNoFaction>TODO</MedGroupNoFaction>
+  <MedGroupNoFaction>Kiti žmonės</MedGroupNoFaction>
   <!-- EN: Humans who are not members of any faction. -->
-  <MedGroupNoFactionDesc>TODO</MedGroupNoFactionDesc>
+  <MedGroupNoFactionDesc>Žmonės, nepriklausantys jokiai frakcijai.</MedGroupNoFactionDesc>
   
   <!-- EN: Wildlife -->
-  <MedGroupWildlife>TODO</MedGroupWildlife>
+  <MedGroupWildlife>Laukinė gamta</MedGroupWildlife>
   <!-- EN: Animals and other creatures which are not members of any faction. -->
-  <MedGroupWildlifeDesc>TODO</MedGroupWildlifeDesc>
+  <MedGroupWildlifeDesc>Gyvūnai ir kitos būtybės, nepriklausančios jokiai frakcijai.</MedGroupWildlifeDesc>
 
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
-  <NoGrowerCanPlant>{0} sėjimui reikia {1} Auginimo įgūdžių.\n\nNei vienas iš nenumuštų kolonistų turi tiek įgūdžių, todėl šis augalas nebus pasėtas.</NoGrowerCanPlant>
+  <NoGrowerCanPlant>{0} sėjimui reikia {1} Auginimo įgūdžių.\n\nNei vienas iš judančių kolonistų neturi tiek įgūdžių, todėl šis augalas nebus pasėtas.</NoGrowerCanPlant>
 
   <!-- Abandon home -->
   <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
