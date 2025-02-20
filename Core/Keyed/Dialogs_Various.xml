@@ -1266,7 +1266,7 @@
   <!-- EN: Animal -->
   <AutoSlaugtherHeaderColLabel>Gyvūnas</AutoSlaugtherHeaderColLabel>
   <!-- EN: Current -->
-  <AutoSlaugtherHeaderColCurrent>Dabar</AutoSlaugtherHeaderColCurrent>
+  <AutoSlaugtherHeaderColCurrent>Dabartinis</AutoSlaugtherHeaderColCurrent>
   <!-- EN: Max -->
   <AutoSlaugtherHeaderColMax>Maks.</AutoSlaugtherHeaderColMax>
   <!-- EN: Total -->
@@ -1274,7 +1274,7 @@
   <!-- EN: Other -->
   <AutoSlaugtherHeaderColOther>Kiti</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
   <!-- EN: Colonists first slaughter non-pregnant animals in order from oldest to youngest, then pregnant animals from most recent to least recent pregnancy. -->
-  <AutoSlaugtherTip>Kolonistai papjauna nesilaukiančius gyvūnus nuo seniausio iki jauniausio, tada besilaukiančius gyvūnus nuo ankstyviausio iki vėlyviausio nėštumo.</AutoSlaugtherTip>
+  <AutoSlaugtherTip>Kolonistai pirmiausia papjauna nesilaukiančius gyvūnus nuo seniausio iki jauniausio, tada besilaukiančius nuo vėliausiai iki anksčiausiai pastojusių.</AutoSlaugtherTip>
   <!-- EN: Male adult -->
   <AnimalMaleAdult>Suaugęs patinas</AnimalMaleAdult>
   <!-- EN: Male young -->
@@ -1284,42 +1284,42 @@
   <!-- EN: Female young -->
   <AnimalFemaleYoung>Jauniklė patelė</AnimalFemaleYoung>
   <!-- EN: Pregnant -->
-  <AnimalPregnant>Nėščia</AnimalPregnant>
+  <AnimalPregnant>Besilaukianti</AnimalPregnant>
   <!-- EN: Bonded -->
-  <AnimalBonded>Turi emocinį ryšį</AnimalBonded>
+  <AnimalBonded>Prisisrišęs</AnimalBonded>
   <!-- EN: Slaughter -->
   <AllowSlaughter>Papjauti</AllowSlaughter>
 
   <!-- EN: The animal to be automatically slaughtered. -->
-  <AutoSlaugtherHeaderTooltipLabel>Gyvūnas bus automatiškai papjautas.</AutoSlaugtherHeaderTooltipLabel>
+  <AutoSlaugtherHeaderTooltipLabel>Gyvūnas, kuris bus automatiškai paskerstas.</AutoSlaugtherHeaderTooltipLabel>
   <!-- EN: The current number of animals in the colony, both male and female. -->
-  <AutoSlaugtherHeaderTooltipCurrentTotal>Dabartinis gyvūnų skaičius kolonijoje, ir patinai ir patelės.</AutoSlaugtherHeaderTooltipCurrentTotal>
+  <AutoSlaugtherHeaderTooltipCurrentTotal>Dabartinis gyvūnų skaičius kolonijoje (patinų ir patelių).</AutoSlaugtherHeaderTooltipCurrentTotal>
   <!-- EN: The maximum number of animals in the colony, both male and female.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaugtherHeaderTooltipMaxTotal>Maksimalus gyvūnų skaičius kolonijoje, ir patinų ir patelių.\n\nPrižiūrėtojai automatiškai papjaus perteklinius.</AutoSlaugtherHeaderTooltipMaxTotal>
+  <AutoSlaugtherHeaderTooltipMaxTotal>Maksimalus gyvūnų skaičius kolonijoje (patinų ir patelių).\n\nPrižiūrėtojai automatiškai paskers perteklių.</AutoSlaugtherHeaderTooltipMaxTotal>
   <!-- EN: The current number of males of breeding age in the colony. -->
-  <AutoSlaugtherHeaderTooltipCurrentMales>Dabartinis vaisingo amžiaus patinų skaičius kolonijoje.</AutoSlaugtherHeaderTooltipCurrentMales>
+  <AutoSlaugtherHeaderTooltipCurrentMales>Dabartinis subrendusių patinų skaičius kolonijoje.</AutoSlaugtherHeaderTooltipCurrentMales>
   <!-- EN: The current number of baby and juvenile males in the colony. -->
   <AutoSlaughterHeaderTooltipCurrentMalesYoung>Dabartinis jauniklių ir jaunų patinų skaičius kolonijoje.</AutoSlaughterHeaderTooltipCurrentMalesYoung>
   <!-- EN: The maximum number of males of breeding age in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaugtherHeaderTooltipMaxMales>Maksimalus vaisingo amžiaus patinų skaičius kolonijoje.\n\nPrižiūrėtojai automatiškai papjaus perteklinius.</AutoSlaugtherHeaderTooltipMaxMales>
+  <AutoSlaugtherHeaderTooltipMaxMales>Maksimalus subrendusių patinų skaičius kolonijoje.\n\nPrižiūrėtojai automatiškai paskers perteklių.</AutoSlaugtherHeaderTooltipMaxMales>
   <!-- EN: The maximum number of baby and juvenile males in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaughterHeaderTooltipMaxMalesYoung>Maksimalus jauniklių ir jaunų patinų skaičius kolonijoje.\n\nPrižiūrėtojai automatiškai papjaus perteklinius.</AutoSlaughterHeaderTooltipMaxMalesYoung>
+  <AutoSlaughterHeaderTooltipMaxMalesYoung>Maksimalus jauniklių ir jaunų patinų skaičius kolonijoje.\n\nPrižiūrėtojai automatiškai paskers perteklių.</AutoSlaughterHeaderTooltipMaxMalesYoung>
   <!-- EN: The current number of females of breeding age in the colony. -->
-  <AutoSlaugtherHeaderTooltipCurrentFemales>Dabartinis vaisingo amžiaus patelių skaičius kolonijoje.</AutoSlaugtherHeaderTooltipCurrentFemales>
+  <AutoSlaugtherHeaderTooltipCurrentFemales>Dabartinis subrendusių patelių skaičius kolonijoje.</AutoSlaugtherHeaderTooltipCurrentFemales>
   <!-- EN: The current number of baby and juvenile females in the colony. -->
-  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>Dabartinis jauniklių jaunų patelių skaičius kolonijoje.</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
+  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>Dabartinis jauniklių ir jaunų patelių skaičius kolonijoje.</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
   <!-- EN: The maximum number of females in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaugtherHeaderTooltipMaxFemales>Maksimalus vaisingo amžiaus patelių skaičius kolonijoje.\n\nPrižiūrėtojai automatiškai papjaus perteklines.</AutoSlaugtherHeaderTooltipMaxFemales>
+  <AutoSlaugtherHeaderTooltipMaxFemales>Maksimalus subrendusių patelių skaičius kolonijoje.\n\nPrižiūrėtojai automatiškai paskers perteklių.</AutoSlaugtherHeaderTooltipMaxFemales>
   <!-- EN: The maximum number of baby and juvenile females in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaughterHeaderTooltipMaxFemalesYoung>Maksimalus jauniklių ir jaunų patelių skaičius kolonijoje.\n\nPrižiūrėtojai automatiškai papjaus perteklines.</AutoSlaughterHeaderTooltipMaxFemalesYoung>
+  <AutoSlaughterHeaderTooltipMaxFemalesYoung>Maksimalus jauniklių ir jaunų patelių skaičius kolonijoje.\n\nPrižiūrėtojai automatiškai paskers perteklių.</AutoSlaughterHeaderTooltipMaxFemalesYoung>
   <!-- EN: The current number of pregnant animals in the colony. -->
-  <AutoSlaughterHeaderTooltipCurrentPregnant>Dabartinis besilaukiančių patelių skaičius kolonijoje.</AutoSlaughterHeaderTooltipCurrentPregnant>
+  <AutoSlaughterHeaderTooltipCurrentPregnant>Dabartinis besilaukiančių gyvūnų skaičius kolonijoje.</AutoSlaughterHeaderTooltipCurrentPregnant>
   <!-- EN: Allow pregnant animals to be slaughtered along with other females of the same species. -->
-  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>Leisti papjauti besilaukiančias pateles kartu su kitomis tos pačios rūšies patelėmis.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>Leisti skersti besilaukiančias pateles kartu su kitomis tos pačios rūšies patelėmis.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
   <!-- EN: The current number of bonded animals in the colony. -->
-  <AutoSlaughterHeaderTooltipCurrentBonded>Dabartinis augintinių skaičius kolonijoje.</AutoSlaughterHeaderTooltipCurrentBonded>
+  <AutoSlaughterHeaderTooltipCurrentBonded>Dabartinis prisirišusių gyvūnų skaičius kolonijoje.</AutoSlaughterHeaderTooltipCurrentBonded>
   <!-- EN: Allow bonded animals to be slaughtered. -->
-  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>Leisti papjauti augintinius.</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
+  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>Leisti skersti prisirišusius gyvūnus.</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
 
   <!-- EN: Click to set an animal count limit. -->
   <AutoSlaughterTooltipSetLimit>Paspausk nustatyti gyvūnų kiekio ribą.</AutoSlaughterTooltipSetLimit>

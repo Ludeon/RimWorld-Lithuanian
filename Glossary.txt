@@ -102,7 +102,8 @@ bluefur                     - mėlynasis kailis
 blunt                       - bukas/ nuo buko (šarvai)
 body modder                 - kūno modifikuotojas
 body purist                 - tyro kūno šalininkas
-bond                        - emocinis ryšys/augintinis
+bond                        - ryšys << / augintinis (N) <<
+bonded                      - prisirišęs <<
 bonus                       - priedas/papildomas/premija <<
 boomalope                   - sprogstanti antilopė
 boomrat                     - sprogstanti žiurkė
@@ -111,7 +112,8 @@ botched                     - nepavykęs/nepavyko
 bowler hat                  - katiliukas
 brandish                    - mosuoti
 brawler                     - mušeika
-break down                  - palūžti
+break down                  - palūžti (??) <P
+breeding age                - subrendęs <<
 brings                      - prišauks (reidus)
 brutal                      - kankinančiai daug
 bryolux                     - švytinčioji veltenė
@@ -407,7 +409,7 @@ gut                         - (pojūtis) viduje
     _H_
 
 hand tailor                 - siuvimas rankomis
-handler                     - gyvūnų prižiūrėtojas
+handler                     - (gyvūnų) prižiūrėtojas <<
 handling                    - darbas su gyvūnais/gyvūnai
 hang around                 - pabuvoti
 hardy                       - patvarus
@@ -849,7 +851,7 @@ sister                      - sesuo
 skill                       - įgūdžiai (lavinti)
 skip                        - per(si)kelti <<
 slate                       - skalūnas
-slaughter                   - (pa)pjauti
+slaughter                   - (pa)skersti <<
 slaver                      - vergų prekeivis (?)
 sleep need                  - išsimiegojimas (?)
 sleeping sickness           - miegligė
